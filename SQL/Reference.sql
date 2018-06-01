@@ -9,3 +9,5 @@ and o.offer_id= od.offer_id
 and o.published = 1
 AND (c.partnumber IN ())
 and sysdate between o.startdate and nvl(o.enddate,sysdate);   
+
+
