@@ -1,4 +1,4 @@
---Price--
+--Price sql--
 select o.catentry_id, l.listprice, o.offer_id,od.description, o.identifier, c.partnumber, op.price, o.tradeposcn_id,tp.name, o.startdate,o.enddate,o.published 
 from WCS.offer o,WCS.listprice l, WCS.offerprice op, WCS.tradeposcn tp,WCS.offerdesc od, wcs.catentry c
 where o.catentry_id = c.catentry_id
