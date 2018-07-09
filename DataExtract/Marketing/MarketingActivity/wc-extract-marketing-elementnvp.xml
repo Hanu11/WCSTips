@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2014 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+-->
+<_config:DataloadBusinessObjectConfiguration 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd" 
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+  <_config:DataLoader className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+    <_config:DataReader className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader" >
+    	    <_config:Query>
+    	      <_config:SQL>
+	    	    <![CDATA[
+    				SELECT DMELEMENTNVP.DMELEMENT_ID, DMELEMENTNVP.NAME, DMELEMENTNVP.VALUE
+    				FROM DMELEMENTNVP JOIN DMELEMENT ON (DMELEMENT.DMELEMENT_ID = DMELEMENTNVP.DMELEMENT_ID)
+    				 JOIN DMACTIVITY ON (DMACTIVITY.DMACTIVITY_ID = DMELEMENT.DMACTIVITY_ID)
+    				 JOIN DMACTTYPE ON (DMACTIVITY.DMACTTYPE_ID = DMACTTYPE.DMACTTYPE_ID) 
+    				WHERE DMACTIVITY.STOREENT_ID = ? AND DMACTTYPE.TYPE IN ('web', 'dialog', 'email', 'search')
+    				ORDER BY DMELEMENT.DMACTIVITY_ID, DMELEMENT.DMELEMENT_ID, DMELEMENTNVP.NAME, DMELEMENTNVP.VALUE
+    		    ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="storeId" valueFrom="BusinessContext" />
+    	    </_config:Query>
+    </_config:DataReader>
+
+    <_config:BusinessObjectBuilder>
+      <_config:BusinessObjectMediator className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator" >
+    	    <_config:Query>
+    	      <_config:SQL>
+    	    	<![CDATA[
+					SELECT DMACTIVITY.NAME AS ACTIVITY_NAME, DMELEMENT.NAME AS ELEMENT_NAME, DMELEMENTNVP.DMELEMENT_ID, 
+					  DMELEMENTNVP.NAME, DMELEMENTNVP.VALUE, DMELEMENTNVP.SEQUENCE, 
+					  DMELEMENTNVP.TRIGGERMATCH, DMELEMENTNVP.PROPERTIES
+					FROM DMELEMENTNVP JOIN DMELEMENT ON (DMELEMENT.DMELEMENT_ID = DMELEMENTNVP.DMELEMENT_ID)
+    				 JOIN DMACTIVITY ON (DMACTIVITY.DMACTIVITY_ID = DMELEMENT.DMACTIVITY_ID)
+					WHERE DMELEMENTNVP.DMELEMENT_ID = ? AND DMELEMENTNVP.NAME = ? AND DMELEMENTNVP.VALUE = ?
+    	   		 ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="DMELEMENT_ID" />
+    	      <_config:Param name="NAME" />
+    	      <_config:Param name="VALUE" />
+
+    	      <_config:ColumnMapping name="ACTIVITY_NAME" value="activityName" />
+    	      <_config:ColumnMapping name="ELEMENT_NAME" value="elementName" />
+    	      <_config:ColumnMapping name="NAME" value="name" />
+    	      <_config:ColumnMapping name="VALUE" value="value" >
+	      		<_config:ValueHandler className="com.ibm.commerce.marketing.dataload.handler.ElementNVPValueHandler" >
+	      			<_config:Parameter name="sqlBasedOnKey" value="name" valueFrom="Fixed" />
+	      			<_config:Parameter name="expectedProductList" value="SELECT PARTNUMBER FROM CATENTRY WHERE CATENTRY.CATENTRY_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="catalogEntryIdList" value="SELECT PARTNUMBER FROM CATENTRY WHERE CATENTRY.CATENTRY_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="catEntryList" value="SELECT PARTNUMBER FROM CATENTRY WHERE CATENTRY.CATENTRY_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="childCatentryId" value="SELECT PARTNUMBER FROM CATENTRY WHERE CATENTRY.CATENTRY_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="categoryIdList" value="SELECT IDENTIFIER FROM CATGROUP WHERE CATGROUP_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="objectGroupId" value="SELECT IDENTIFIER FROM CATGROUP WHERE CATGROUP_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="collateralIdList" value="SELECT NAME FROM COLLATERAL WHERE COLLATERAL_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="emsId" value="SELECT NAME, USAGETYPE FROM EMSPOT WHERE EMSPOT_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="pageLayoutId" value="SELECT NAME FROM PAGELAYOUT WHERE PAGELAYOUT_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="promotionId" value="SELECT ADMINSTVENAME FROM PX_PROMOAUTH WHERE PX_PROMOTION_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="promotionIdList" value="SELECT ADMINSTVENAME FROM PX_PROMOAUTH WHERE PX_PROMOTION_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="segmentIdList" value="SELECT MBRGRPNAME FROM MBRGRP WHERE MBRGRP_ID = ?" valueFrom="Fixed" />
+	      			<_config:Parameter name="emailMessageId" value="SELECT NAME FROM EMLMSG WHERE EMLMSG_ID = ?" valueFrom="Fixed" />
+	      		</_config:ValueHandler>
+	      	  </_config:ColumnMapping>
+    	      <_config:ColumnMapping name="SEQUENCE" value="sequence" />
+    	      <_config:ColumnMapping name="TRIGGERMATCH" value="triggerMatch" />
+    	      <_config:ColumnMapping name="PROPERTIES" value="properties" />
+    	    </_config:Query>
+        
+   		<_config:DataWriter className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+      		<_config:Data>
+	     		  <_config:column number="1" name="activityName" />
+	      		<_config:column number="2" name="elementName" />
+	      		<_config:column number="3" name="name" />
+	      		<_config:column number="4" name="value" />
+	      		<_config:column number="5" name="sequence" />
+	      		<_config:column number="6" name="triggerMatch" />
+					  <_config:column number="7" name="properties" />
+	      		<_config:column number="8" name="delete" value="0" />
+	    	</_config:Data>
+    	</_config:DataWriter>
+      </_config:BusinessObjectMediator>
+    </_config:BusinessObjectBuilder>
+
+  </_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

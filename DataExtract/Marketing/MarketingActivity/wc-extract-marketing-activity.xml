@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2014 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+-->
+<_config:DataloadBusinessObjectConfiguration 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd" 
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+  <_config:DataLoader className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+    <_config:DataReader className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader" >
+    	    <_config:Query>
+    	      <_config:SQL>
+	    	    <![CDATA[
+    				SELECT DMACTIVITY_ID
+    				FROM DMACTIVITY JOIN DMACTTYPE ON (DMACTIVITY.DMACTTYPE_ID = DMACTTYPE.DMACTTYPE_ID)
+    				WHERE STOREENT_ID = ? AND DMACTTYPE.TYPE IN ('web', 'dialog', 'email', 'search')
+    				ORDER BY DMACTIVITY_ID
+    		    ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="storeId" valueFrom="BusinessContext" />
+    	    </_config:Query>
+    </_config:DataReader>
+
+    <_config:BusinessObjectBuilder>
+      <_config:BusinessObjectMediator className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator" >
+    	    <_config:Query>
+    	      <_config:SQL>
+    	    	<![CDATA[
+					SELECT DMACTIVITY.NAME, DMACTIVITY.VERSION, DMACTIVITY.PUBLISHED, DMACTIVITY.STATE, 
+					  DMACTIVITY.STARTDATE, DMACTIVITY.ENDDATE, DMACTIVITY.PRIORITY,
+					  DMACTIVITY.REPEATABLE, DMACTIVITY.DESCRIPTION, DMACTIVITY.BEHAVIOR, 
+					  DMACTIVITY.UIDISPLAYABLE, DMACTIVITY.MANAGINGTOOL,
+					  DMACTTYPE.TYPE AS ACTIVITY_TYPE, DMTEMPLATETYPE.TYPE AS TEMPLATE_TYPE, 
+					  DMEXPTYPE.TYPE AS EXPERIMENT_TYPE, DMCAMPAIGN.NAME AS CAMPAIGN_NAME, 
+					  FAMILY_DMACTIVITY.NAME AS FAMILY_ACTIVITY_NAME, DMEXPFAMILY.SEQUENCE,
+					  DMACTIVITY.FIELD1, DMACTIVITY.FIELD2, DMACTIVITY.FIELD3, DMACTIVITY.FIELD4
+					FROM DMACTIVITY
+					  JOIN DMACTTYPE ON (DMACTIVITY.DMACTTYPE_ID = DMACTTYPE.DMACTTYPE_ID)
+					  LEFT OUTER JOIN DMTEMPLATETYPE ON (DMACTIVITY.DMTEMPLATETYPE_ID = DMTEMPLATETYPE.DMTEMPLATETYPE_ID)
+					  LEFT OUTER JOIN DMEXPTYPE ON (DMACTIVITY.DMEXPTYPE_ID = DMEXPTYPE.DMEXPTYPE_ID)
+					  LEFT OUTER JOIN DMCAMPAIGN ON (DMACTIVITY.DMCAMPAIGN_ID = DMCAMPAIGN.DMCAMPAIGN_ID)
+					  LEFT OUTER JOIN DMEXPFAMILY ON (DMACTIVITY.DMACTIVITY_ID = DMEXPFAMILY.DMACTIVITY_ID)
+					  LEFT OUTER JOIN DMACTIVITY FAMILY_DMACTIVITY ON (DMEXPFAMILY.FAMILY_ID = FAMILY_DMACTIVITY.DMACTIVITY_ID)
+					WHERE DMACTIVITY.DMACTIVITY_ID = ?
+    	   		 ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="DMACTIVITY_ID" />
+
+    	      <_config:ColumnMapping name="NAME" value="activityName" />
+    	      <_config:ColumnMapping name="DESCRIPTION" value="description" />
+    	      <_config:ColumnMapping name="ACTIVITY_TYPE" value="activityType" />
+    	      <_config:ColumnMapping name="STARTDATE" value="startDate" />
+    	      <_config:ColumnMapping name="ENDDATE" value="endDate" />
+    	      <_config:ColumnMapping name="VERSION" value="version" />
+    	      <_config:ColumnMapping name="PUBLISHED" value="published" />
+    	      <_config:ColumnMapping name="STATE" value="state" />
+    	      <_config:ColumnMapping name="PRIORITY" value="priority" />
+    	      <_config:ColumnMapping name="REPEATABLE" value="repeatable" />
+    	      <_config:ColumnMapping name="BEHAVIOR" value="behavior" />
+    	      <_config:ColumnMapping name="UIDISPLAYABLE" value="uiDisplable" />
+    	      <_config:ColumnMapping name="MANAGINGTOOL" value="managingTool" />
+    	      <_config:ColumnMapping name="TEMPLATE_TYPE" value="templateType" />
+    	      <_config:ColumnMapping name="EXPERIMENT_TYPE" value="experimentType" />
+    	      <_config:ColumnMapping name="CAMPAIGN_NAME" value="campaignName" />
+    	      <_config:ColumnMapping name="FAMILY_ACTIVITY_NAME" value="familyActivityName" />
+    	      <_config:ColumnMapping name="SEQUENCE" value="activitySequence" />
+    	      <_config:ColumnMapping name="FIELD1" value="field1" />
+    	      <_config:ColumnMapping name="FIELD2" value="field2" />
+    	      <_config:ColumnMapping name="FIELD3" value="field3" />
+    	      <_config:ColumnMapping name="FIELD4" value="field4" />
+    	    </_config:Query>
+        
+   		<_config:DataWriter className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+      		<_config:Data>
+	     		<_config:column number="1" name="activityName" />
+	      		<_config:column number="2" name="description" />
+	      		<_config:column number="3" name="activityType" />
+	      		<_config:column number="4" name="startDate" />
+	      		<_config:column number="5" name="endDate" />
+	      		<_config:column number="6" name="version" />
+	      		<_config:column number="7" name="published" />
+	      		<_config:column number="8" name="state" />
+	      		<_config:column number="9" name="priority" />
+	      		<_config:column number="10" name="repeatable" />
+	      		<_config:column number="11" name="behavior" />
+	      		<_config:column number="12" name="uiDisplable" />
+	      		<_config:column number="13" name="managingTool" />
+	      		<_config:column number="14" name="templateType" />
+	      		<_config:column number="15" name="experimentType" />
+	      		<_config:column number="16" name="campaignName" />
+	      		<_config:column number="17" name="familyActivityName" />
+	      		<_config:column number="18" name="activitySequence" />
+	      		<_config:column number="19" name="field1" />
+	      		<_config:column number="20" name="field2" />
+	      		<_config:column number="21" name="field3" />
+	      		<_config:column number="22" name="field4" />
+	      		<_config:column number="23" name="delete" value="0" />
+	    	</_config:Data>
+    	</_config:DataWriter>
+      </_config:BusinessObjectMediator>
+    </_config:BusinessObjectBuilder>
+
+  </_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

@@ -1,0 +1,12 @@
+MemberGroupCondition
+memberGroupName,conditions,field1,field2,delete
+FP Promo Segment,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <simpleCondition>     <variable name=""marketingPopulates""/>     <operator name=""=""/>     <value data=""T""/>   </simpleCondition> </profile> ",,,0
+BA Promo Segment,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <simpleCondition>     <variable name=""marketingPopulates""/>     <operator name=""=""/>     <value data=""T""/>   </simpleCondition> </profile> ",,,0
+SM Promo Segment,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <simpleCondition>     <variable name=""marketingPopulates""/>     <operator name=""=""/>     <value data=""T""/>   </simpleCondition> </profile> ",,,0
+HW Promo Segment,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <simpleCondition>     <variable name=""marketingPopulates""/>     <operator name=""=""/>     <value data=""T""/>   </simpleCondition> </profile> ",,,0
+MattelEmployees,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <simpleCondition>     <variable name=""marketingPopulates""/>     <operator name=""=""/>     <value data=""T""/>   </simpleCondition> </profile> ",,,0
+FISHER TEST,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <trueCondition>     <not/>   </trueCondition> </profile> ",,,0
+HWC Limit Test 091517 CHROME,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <trueCondition>     <not/>   </trueCondition> </profile> ",,,0
+Hot Wheels Collector- Chrome,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <trueCondition>     <not/>   </trueCondition> </profile> ",,,0
+Hot Wheels Collector- Stock,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <trueCondition>     <not/>   </trueCondition> </profile> ",,,0
+Hot Wheels Collector- Subscription,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <trueCondition>     <not/>   </trueCondition> </profile> ",,,0

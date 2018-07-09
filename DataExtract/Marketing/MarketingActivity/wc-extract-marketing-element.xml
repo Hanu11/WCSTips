@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2014 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+-->
+<_config:DataloadBusinessObjectConfiguration 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd" 
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+  <_config:DataLoader className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+    <_config:DataReader className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader" >
+    	    <_config:Query>
+    	      <_config:SQL>
+	    	    <![CDATA[
+    				SELECT DMELEMENT.DMELEMENT_ID
+    				FROM DMELEMENT JOIN DMACTIVITY ON (DMACTIVITY.DMACTIVITY_ID = DMELEMENT.DMACTIVITY_ID)
+    				  JOIN DMACTTYPE ON (DMACTIVITY.DMACTTYPE_ID = DMACTTYPE.DMACTTYPE_ID) 
+    				WHERE DMACTIVITY.STOREENT_ID = ? AND DMACTTYPE.TYPE IN ('web', 'dialog', 'email', 'search')
+    				ORDER BY DMELEMENT.DMACTIVITY_ID, DMELEMENT.DMELEMENT_ID
+    		    ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="storeId" valueFrom="BusinessContext" />
+    	    </_config:Query>
+    </_config:DataReader>
+
+    <_config:BusinessObjectBuilder>
+      <_config:BusinessObjectMediator className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator" >
+    	    <_config:Query>
+    	      <_config:SQL>
+    	    	<![CDATA[
+					SELECT DMACTIVITY.NAME AS ACTIVITY_NAME, DMELEMENT.NAME AS ELEMENT_NAME, DMELEMENT.PARENT,
+					  DMELEMENT.SEQUENCE, DMELEMENT.DMELETEMPLATE_ID, DMELEMENT.PRIORITY, 
+					  DMTRIGLSTN.NAME AS TRIGGER_NAME, DMTRIGLSTN.ALLUSERS,
+					  DMELEMENT.FIELD1, DMELEMENT.FIELD2, DMELEMENT.FIELD3, DMELEMENT.FIELD4
+					FROM DMELEMENT JOIN DMACTIVITY ON (DMACTIVITY.DMACTIVITY_ID = DMELEMENT.DMACTIVITY_ID)
+						LEFT OUTER JOIN DMTRIGLSTN ON (DMELEMENT.DMELEMENT_ID = DMTRIGLSTN.DMELEMENT_ID)
+					WHERE DMELEMENT.DMELEMENT_ID = ?
+    	   		 ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="DMELEMENT_ID" />
+
+    	      <_config:ColumnMapping name="ACTIVITY_NAME" value="activityName" />
+    	      <_config:ColumnMapping name="ELEMENT_NAME" value="elementName" />
+    	      <_config:ColumnMapping name="PARENT" value="parentElementName" />
+    	      <_config:ColumnMapping name="SEQUENCE" value="sequence" />
+    	      <_config:ColumnMapping name="DMELETEMPLATE_ID" value="elementTemplateId" />
+    	      <_config:ColumnMapping name="PRIORITY" value="priority" />
+    	      <_config:ColumnMapping name="TRIGGER_NAME" value="triggerName" />
+    	      <_config:ColumnMapping name="ALLUSERS" value="allUsers" />
+    	      <_config:ColumnMapping name="FIELD1" value="field1" />
+    	      <_config:ColumnMapping name="FIELD2" value="field2" />
+    	      <_config:ColumnMapping name="FIELD3" value="field3" />
+    	      <_config:ColumnMapping name="FIELD4" value="field4" />
+    	    </_config:Query>
+        
+   		<_config:DataWriter className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+      		<_config:Data>
+	     		<_config:column number="1" name="activityName" />
+	      		<_config:column number="2" name="elementName" />
+	      		<_config:column number="3" name="parentElementName" />
+	      		<_config:column number="4" name="sequence" />
+	      		<_config:column number="5" name="elementTemplateId" />
+	      		<_config:column number="6" name="priority" />
+	      		<_config:column number="7" name="triggerName" />
+	      		<_config:column number="8" name="allUsers" />
+	      		<_config:column number="9" name="field1" />
+	      		<_config:column number="10" name="field2" />
+	      		<_config:column number="11" name="field3" />
+	      		<_config:column number="12" name="field4" />
+	      		<_config:column number="13" name="delete" value="0" />
+	    	</_config:Data>
+    	</_config:DataWriter>
+      </_config:BusinessObjectMediator>
+    </_config:BusinessObjectBuilder>
+
+  </_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

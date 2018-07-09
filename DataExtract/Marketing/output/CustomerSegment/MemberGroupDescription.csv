@@ -1,0 +1,93 @@
+MemberGroupDescription
+memberGroupName,shortDescription,longDescription,langId,delete
+Registered Customers,Registered Customers,Customers who have registered with the store,-1,0
+Registered Customers,Clients enregistrés,Clients qui sont enregistrés auprès du magasin,-2,0
+Registered Customers,Registrierte Kunden,"Kunden, die sich bereits beim Geschäft registriert haben",-3,0
+Registered Customers,Clienti registrati,Clienti registrati presso il negozio,-4,0
+Registered Customers,Clientes registrados,Clientes que se han registrado en la tienda,-5,0
+Registered Customers,Clientes Registrados,Clientes que se registraram na loja,-6,0
+Registered Customers,注册客户,已向商店注册的客户,-7,0
+Registered Customers,已登錄客戶,已向商店登錄的客戶,-8,0
+Registered Customers,등록 고객,상점에 등록한 고객입니다.,-9,0
+Registered Customers,登録された顧客 ,ストアに登録した顧客,-10,0
+Registered Customers,Зарегистрированные покупатели,Зарегистрированные в магазине клиенты,-20,0
+Registered Customers,Clienţi înregistraţi,Clienţi care s-au înregistrat la magazin,-21,0
+Registered Customers,Zarejestrowani klienci,"Klienci, którzy zarejestrowali się w sklepie",-22,0
+Repeat Customers,Repeat Customers,Customers who have placed at least one order with the store,-1,0
+Repeat Customers,Clients récurrents,Clients qui ont passé au moins une commande auprès du magasin,-2,0
+Repeat Customers,Ständige Kunden,"Kunden, die bereits eine oder mehrere Bestellungen im Geschäft getätigt haben",-3,0
+Repeat Customers,Clienti che hanno già acquistato,Clienti che hanno fatto almeno un ordine presso il negozio,-4,0
+Repeat Customers,Clientes habituales,"Clientes que han efectuado un pedido, como mínimo, en la tienda",-5,0
+Repeat Customers,Clientes de Repetição,Clientes que fizeram pelo menos um pedido na loja,-6,0
+Repeat Customers,重复客户,至少向商店下过一次订单的客户,-7,0
+Repeat Customers,回流客戶,至少已向商店下單一次的客戶,-8,0
+Repeat Customers,재주문 고객,상점에서 한 번 이상 주문한 고객입니다. ,-9,0
+Repeat Customers,リピーター,ストアに最低 1 つのオーダーを出した顧客,-10,0
+Repeat Customers,Постоянные покупатели,"Клиенты, которые хотя бы раз покупали что-то в этом магазине",-20,0
+Repeat Customers,Repetă clienţii,Clienţi care au facut cel puţin o comandă la magazin,-21,0
+Repeat Customers,Powracający klienci,"Klienci, którzy złożyli w sklepie przynajmniej jedno zamówienie",-22,0
+Guest Shoppers,Guest Shoppers,Shoppers who have not registered with the store,-1,0
+Guest Shoppers,Visiteurs,Clients qui ne sont pas enregistrés auprès du magasin,-2,0
+Guest Shoppers,Gastkäufer,"Käufer, die sich noch nicht beim Geschäft registriert haben",-3,0
+Guest Shoppers,Acquirenti ospiti,Acquirenti che non hanno eseguito la registrazione presso il negozio,-4,0
+Guest Shoppers,Compradores invitados,Compradores que no se han registrado en la tienda,-5,0
+Guest Shoppers,Compradores Convidados,Compradores que não se registraram na loja,-6,0
+Guest Shoppers,临时购物者,尚未向商店注册的购物者,-7,0
+Guest Shoppers,購物訪客,尚未向商店登錄的購物者,-8,0
+Guest Shoppers,게스트 구매자,상점에 등록하지 않은 고객입니다. ,-9,0
+Guest Shoppers,ゲスト・ショッパー,ストアに登録していないショッパー,-10,0
+Guest Shoppers,Гостевые покупатели,"Покупатели, которые не зарегистрированы в магазине",-20,0
+Guest Shoppers,Cumpărători oaspeţi,Cumpărători care nu s-au înregistrat la magazin,-21,0
+Guest Shoppers,Goście,"Klienci, którzy nie zarejestrowali się w sklepie",-22,0
+Male Customers,Male Customers,Registered customers who have identified themselves as males,-1,0
+Male Customers,Clients masculins,Clients enregistrés qui se sont identifiés comme étant de sexe masculin,-2,0
+Male Customers,Männliche Kunden,Registrierte männliche Kunden,-3,0
+Male Customers,Clienti uomo,Clienti che hanno eseguito la registrazione che si sono identificati come uomini,-4,0
+Male Customers,Clientes de sexo masculino,Clientes registrados que se han identificado como hombres,-5,0
+Male Customers,Clientes Masculinos,Clientes registrados que se identificaram como homens,-6,0
+Male Customers,男性客户,已将自己标识为男性的注册客户,-7,0
+Male Customers,男性客戶,表明自己是男性的已登錄客戶,-8,0
+Male Customers,남성 고객,남성으로 등록된 고객입니다.,-9,0
+Male Customers,男性の顧客,性別を男性で登録した顧客,-10,0
+Male Customers,Покупатели-мужчины,"Зарегистрированные клиенты, указавшие свой пол как мужской",-20,0
+Male Customers,Clienţi masculini,Clienţi înregistraţi care s-au identificat ca find bărbaţi,-21,0
+Male Customers,Klienci - mężczyźni,"Zarejestrowani klienci, którzy jako płeć podali Mężczyzna",-22,0
+Female Customers,Female Customers,Registered customers who have identified themselves as females,-1,0
+Female Customers,Clientes,Clients enregistrés qui se sont identifiés comme étant de sexe féminin,-2,0
+Female Customers,Weibliche Kunden,Registrierte weibliche Kunden,-3,0
+Female Customers,Clienti donna,Clienti che hanno eseguito la registrazione che si sono identificati come donne,-4,0
+Female Customers,Clientes de sexo femenino,Clientes registrados que se han identificado como mujeres,-5,0
+Female Customers,Clientes Femininos,Clientes registrados que se identificaram como mulheres,-6,0
+Female Customers,女性客户,已将自己标识为女性的注册客户,-7,0
+Female Customers,女性客戶,表明自己是女性的已登錄客戶,-8,0
+Female Customers,여성 고객,여성으로 등록된 고객입니다.,-9,0
+Female Customers,女性の顧客,性別を女性で登録した顧客,-10,0
+Female Customers,Покупатели-женщины,"Зарегистрированные клиенты, указавшие свой пол как женский",-20,0
+Female Customers,Clienţi feminini,Clienţi înregistraţi care s-au identificat ca find femei,-21,0
+Female Customers,Klienci - kobiety,"Zarejestrowani klienci, którzy jako płeć podali Kobieta",-22,0
+Customers who are under 40 years of age,Customers who are under 40 years of age,Customers who are under 40 years of age,-1,0
+Customers who are under 40 years of age,Clients âgés de moins de 40 ans,Clients âgés de moins de 40 ans,-2,0
+Customers who are under 40 years of age,"Kunden, die unter 40 Jahre alt sind","Kunden, die unter 40 Jahre alt sind",-3,0
+Customers who are under 40 years of age,Clienti che hanno meno di 40 anni,Clienti che hanno meno di 40 anni,-4,0
+Customers who are under 40 years of age,Clientes que tienen menos de 40 años,Clientes que tienen menos de 40 años,-5,0
+Customers who are under 40 years of age,Clientes com menos de 40 anos de idade,Clientes com menos de 40 anos de idade,-6,0
+Customers who are under 40 years of age,年龄在 40 岁以下的客户,年龄在 40 岁以下的客户,-7,0
+Customers who are under 40 years of age,年齡在 40 歲以下的客戶,年齡在 40 歲以下的客戶,-8,0
+Customers who are under 40 years of age,40세 미만의 고객입니다. ,40세 미만의 고객입니다. ,-9,0
+Customers who are under 40 years of age,40 歳未満の顧客,40 歳未満の顧客,-10,0
+Customers who are under 40 years of age,Покупатели моложе 40 лет,Покупатели моложе 40 лет,-20,0
+Customers who are under 40 years of age,Clienţi care au vârsta sub 40 de ani,Clienţi care au vârsta sub 40 de ani,-21,0
+Customers who are under 40 years of age,Klienci poniżej 40. roku życia,Klienci poniżej 40. roku życia,-22,0
+Customers who are 40 years of age or older,Customers who are 40 years of age or older,Customers who are 40 years of age or older,-1,0
+Customers who are 40 years of age or older,Clients âgés de 40 ans ou plus,Clients âgés de 40 ans ou plus,-2,0
+Customers who are 40 years of age or older,"Kunden, die das 40. Lebensjahr überschritten haben","Kunden, die das 40. Lebensjahr überschritten haben",-3,0
+Customers who are 40 years of age or older,Clienti di 40 anni di età o più,Clienti di 40 anni di età o più,-4,0
+Customers who are 40 years of age or older,Clientes que tienen 40 años o más,Clientes que tienen 40 años o más,-5,0
+Customers who are 40 years of age or older,Clientes com 40 anos ou mais,Clientes com 40 anos ou mais,-6,0
+Customers who are 40 years of age or older,年龄在 40 岁或 40 岁以上的客户,年龄在 40 岁或 40 岁以上的客户,-7,0
+Customers who are 40 years of age or older,年齡在 40 歲（含）以上的客戶,年齡在 40 歲（含）以上的客戶,-8,0
+Customers who are 40 years of age or older,40세 이상의 고객입니다. ,40세 이상의 고객입니다. ,-9,0
+Customers who are 40 years of age or older,40 歳以上の顧客,40 歳以上の顧客,-10,0
+Customers who are 40 years of age or older,Покупатели 40 лет и старше,Покупатели 40 лет и старше,-20,0
+Customers who are 40 years of age or older,Clienţi care au vârsta de 40 de ani sau mai în vârstă,Clienţi care au vârsta de 40 de ani sau mai în vârstă,-21,0
+Customers who are 40 years of age or older,Klienci w wieku co najmniej 40 lat,Klienci w wieku co najmniej 40 lat,-22,0

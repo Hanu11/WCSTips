@@ -1,0 +1,4 @@
+MemberGroupCondition
+memberGroupName,conditions,field1,field2,delete
+SILVER,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <trueCondition>     <not/>   </trueCondition> </profile> ",,,0
+BERRY,"<?xml version=""1.0"" encoding=""UTF-8""?>  <profile>   <trueCondition>     <not/>   </trueCondition> </profile> ",,,0

@@ -1,0 +1,108 @@
+MarketingContentAttachment
+contentName,attachmentIdentifier,usageName,sequence,relationName,relationShortDescription,relationLongDescription,delete
+HeaderStoreLogo,HeaderStoreLogo,NOUSAGE,0,,,,0
+EmailBanner,EmailBanner,NOUSAGE,0,,,,0
+EmailBottom_Content,EmailBottom_Content,NOUSAGE,0,,,,0
+WomenLandingPage_Atct_brand1,WomenLandingPage_Atct_brand1,NOUSAGE,0,Brand1,Display a brand,,0
+WomenLandingPage_Atct_brand2,WomenLandingPage_Atct_brand2,NOUSAGE,0,brand2,Display a brand,,0
+WomenLandingPage_Atct_brand3,WomenLandingPage_Atct_brand3,NOUSAGE,0,brand3,Display a brand,,0
+WomenLandingPage_Atct_brand4,WomenLandingPage_Atct_brand4,NOUSAGE,0,brand4,Display a brand,,0
+WomenLandingPage_Atct_brand5,WomenLandingPage_Atct_brand5,NOUSAGE,0,brand5,Display a brand,,0
+HeaderESpot15OffPurchaseAd,HeaderESpot15OffPurchaseAd,NOUSAGE,0,15% Off Purchase,Save 15% Off Your Entire Purchase,,0
+HeaderESpotFreeShippingSpecial,HeaderESpotFreeShippingSpecial,NOUSAGE,0,Free Shipping,Free Shipping,,0
+BoysPants_Atct_1,BoysPants_Atct_1,NOUSAGE,0,Cozy Sweaters,Cozy Sweaters,,0
+BoysPants_Atct_2,BoysPants_Atct_2,NOUSAGE,0,Jeans,Jeans,,0
+BoysShoes_Atct_1,BoysShoes_Atct_1,NOUSAGE,0,Tops,Tops,,0
+BoysShoes_Atct_2,BoysShoes_Atct_2,NOUSAGE,0,Shoe Sale,Shoe Sale,,0
+BoysTops_Atct_1,BoysTops_Atct_1,NOUSAGE,0,Cozy Sweaters,Cozy Sweaters,,0
+BoysTops_Atct_2,BoysTops_Atct_2,NOUSAGE,0,Jeans,Jeans,,0
+BoysRow1_Content,BoysRow1_Content,NOUSAGE,0,Boys Sale,Boys Sale,,0
+GirlsDS_Atct_1,GirlsDS_Atct_1,NOUSAGE,0,Dress Sale,Dress Sale,,0
+GirlsDS_Atct_2,GirlsDS_Atct_2,NOUSAGE,0,Shoe Sale,Shoe Sale,,0
+GirlsPants_Atct_1,GirlsPants_Atct_1,NOUSAGE,0,Denim,Denim,,0
+GirlsPants_Atct_2,GirlsPants_Atct_2,NOUSAGE,0,Summer Clearance,Summer Clearance,,0
+GirlsShoes_Atct_1,GirlsShoes_Atct_1,NOUSAGE,0,Shoe Sale 1,Shoe Sale 1,,0
+GirlsShoes_Atct_2,GirlsShoes_Atct_2,NOUSAGE,0,Shoe Sale ,Shoe Sale ,,0
+GirlsTops_Atct_1,GirlsTops_Atct_1,NOUSAGE,0,Tees Tops,Tees Tops,,0
+GirlsTops_Atct_2,GirlsTops_Atct_2,NOUSAGE,0,Toasty Sweaters,Toasty Sweaters,,0
+GirlsRow1_Content,GirlsRow1_Content,NOUSAGE,0,,,,0
+MenAcc_Atct_1,MenAcc_Atct_1,NOUSAGE,0,Silk Tie,Silk Tie,,0
+MenAcc_Atct_2,MenAcc_Atct_2,NOUSAGE,0,Suit Up,Suit Up,,0
+MenJackets_Atct_1,MenJackets_Atct_1,NOUSAGE,0,Cool Leather,Cool Leather,,0
+MenJackets_Atct_2,MenJackets_Atct_2,NOUSAGE,0,Luxurious Cashmere,Luxurious Cashmere,,0
+MenPants_Atct_1,MenPants_Atct_1,NOUSAGE,0,Jeans,Jeans,,0
+MenPants_Atct_2,MenPants_Atct_2,NOUSAGE,0,Shoe Sale,Shoe Sale,,0
+MenShirts_Atct_1,MenShirts_Atct_1,NOUSAGE,0,Basic Tees,Basic Tees,,0
+MenShirts_Atct_2,MenShirts_Atct_2,NOUSAGE,0,Dress Shirt,Dress Shirt,,0
+MenShoes_Atct_1,MenShoes_Atct_1,NOUSAGE,0,Shoe Sale,Shoe Sale,,0
+MenShoes_Atct_2,MenShoes_Atct_2,NOUSAGE,0,Leather Belts,Leather Belts,,0
+MenSuits_Atct_1,MenSuits_Atct_1,NOUSAGE,0,Suit Up,Suit Up,,0
+MenSuits_Atct_2,MenSuits_Atct_2,NOUSAGE,0,Silk Tie,Silk Tie,,0
+MenRow1_Content,MenRow1_Content,NOUSAGE,0,Suit Up,Suit Up,,0
+WAcc_Atct_1,WAcc_Atct_1,NOUSAGE,0,Leather Belts,Leather Belts,,0
+WAcc_Atct_2,WAcc_Atct_2,NOUSAGE,0,Perfect Handbag,Perfect Handbag,,0
+WHB_Atct_1,WHB_Atct_1,NOUSAGE,0,Perfect Handbag,Perfect Handbag,,0
+WHB_Atct_2,WHB_Atct_2,NOUSAGE,0,Sunglasses,Sunglasses,,0
+WPants_Atct_1,WPants_Atct_1,NOUSAGE,0,Jeans,Jeans,,0
+WPants_Atct_2,WPants_Atct_2,NOUSAGE,0,Leather Belts,Leather Belts,,0
+WSB_Atct_1,WSB_Atct_1,NOUSAGE,0,Jeans,Jeans,,0
+WSB_Atct_2,WSB_Atct_2,NOUSAGE,0,Shirts and Blouses,Shirts and Blouses,,0
+WSh_Atct_1,WSh_Atct_1,NOUSAGE,0,Evening Sparkle,Evening Sparkle,,0
+WSh_Atct_2,WSh_Atct_2,NOUSAGE,0,Shoe Sale,Shoe Sale,,0
+WSk_Atct_1,WSk_Atct_1,NOUSAGE,0,Jeans,Jeans,,0
+WSk_Atct_2,WSk_Atct_2,NOUSAGE,0,Summer Clearance,Summer Clearance,,0
+WSw_Atct_1,WSw_Atct_1,NOUSAGE,0,Evening Sparkle,Evening Sparkle 15% off women's evening dresses,,0
+WSw_Atct_2,WSw_Atct_2,NOUSAGE,0,Cozy Sweaters,"Cozy Sweaters Buy 1, get 25% off a 2nd",,0
+Accessories_Atct_1,Accessories_Atct_1,NOUSAGE,0,Crystal Clear,Crystal Clear,,0
+Accessories_Atct_2,Accessories_Atct_2,NOUSAGE,0,Save on Accessories,Save on Accessories,,0
+Appliances_Atct_1,Appliances_Atct_1,NOUSAGE,0,Perfect Every Time,Perfect Every Time,,0
+Appliances_Atct_2,Appliances_Atct_2,NOUSAGE,0,Big Kitchen Savings,Big Kitchen Savings,,0
+BathAcc_Atct_1,BathAcc_Atct_1,NOUSAGE,0,Cotton Towels,Cotton Towels,,0
+BathAcc_Atct_2,BathAcc_Atct_2,NOUSAGE,0,Bathroom Accessories,Bathroom Accessories,,0
+Components_Atct_1,Components_Atct_1,NOUSAGE,0,Custom Desktops,Custom Desktops,,0
+Components_Atct_2,Components_Atct_2,NOUSAGE,0,Custom Laptops,Custom Laptops,,0
+Desktops_Atct_1,Desktops_Atct_1,NOUSAGE,0,Custom Desktop,Custom Desktop,,0
+Desktops_Atct_2,Desktops_Atct_2,NOUSAGE,0,Save on Printers,Save on Printers,,0
+Dairy_Atct_1,Dairy_Atct_1,NOUSAGE,0,Creamy Camembert,Creamy Camembert,,0
+Dairy_Atct_2,Dairy_Atct_2,NOUSAGE,0,Refreshing Milk,Refreshing Milk,,0
+DesktopsAndLaptops,DesktopsAndLaptops,NOUSAGE,0,Desktops and Laptops,Desktops and Laptops,,0
+GetReadyForSchool,GetReadyForSchool,NOUSAGE,0,Get Ready For School,Get Ready For School,,0
+PowerOnTheGo,PowerOnTheGo,NOUSAGE,0,Power On The Go,Power On The Go,,0
+Fruits_Atct_1,Fruits_Atct_1,NOUSAGE,0,Red and Delicious,Red and Delicious,,0
+Fruits_Atct_2,Fruits_Atct_2,NOUSAGE,0,Bountiful Berries,Bountiful Berries,,0
+Furniture_Atct_1,Furniture_Atct_1,NOUSAGE,0,Bedroom Furniture,Bedroom Furniture,,0
+Furniture_Atct_2,Furniture_Atct_2,NOUSAGE,0,Save on Lighting,Save on Lighting,,0
+FreeDelivery,FreeDelivery,NOUSAGE,0,Free Delivery,Free Delivery,,0
+AtlanticLobster,AtlanticLobster,NOUSAGE,0,Atlantic Lobster,Atlantic Lobster,,0
+CrispRomaine,CrispRomaine,NOUSAGE,0,Crisp Romaine,Crisp Romaine,,0
+FreeConsultation,FreeConsultation,NOUSAGE,0,Free Consultation,Free Consultation,,0
+NaturalVitamins,NaturalVitamins,NOUSAGE,0,Natural Vitamins,Natural Vitamins,,0
+AutomaticRefills,AutomaticRefills,NOUSAGE,0,Automatic Refills,Automatic Refills,,0
+LivingRoomSale,LivingRoomSale,NOUSAGE,0,Living Room Sale,Living Room Sale,,0
+PerfectEveryTime,PerfectEveryTime,NOUSAGE,0,Perfect Every Time,Perfect Every Time,,0
+SaveOnLighting,SaveOnLighting,NOUSAGE,0,Save On Lighting,Save On Lighting,,0
+Kitchenware_Atct_1,Kitchenware_Atct_1,NOUSAGE,0,Stainless Cookware,Stainless Cookware,,0
+Kitchenware_Atct_2,Kitchenware_Atct_2,NOUSAGE,0,Big Kitchen Savings,Big Kitchen Savings,,0
+Laptops_Atct_1,Laptops_Atct_1,NOUSAGE,0,Custom Laptops,Custom Laptops,,0
+Laptops_Atct_2,Laptops_Atct_2,NOUSAGE,0,Save on Accessories,Save on Accessories,,0
+Lighting_Atct_1,Lighting_Atct_1,NOUSAGE,0,Save on Lighting,Save on Lighting,,0
+Lighting_Atct_2,Lighting_Atct_2,NOUSAGE,0,Update Living Room,Update Living Room,,0
+Magazines_Atct_1,Magazines_Atct_1,NOUSAGE,0,Photoritz Magazine,Photoritz Magazine,,0
+Magazines_Atct_2,Magazines_Atct_2,NOUSAGE,0,SocietyTime Magazine,SocietyTime Magazine,,0
+Meat_Atct_1,Meat_Atct_1,NOUSAGE,0,Honey Glazed Grilled,Honey Glazed Grilled,,0
+Meat_Atct_2,Meat_Atct_2,NOUSAGE,0,Sashimi Salmon,Sashimi Salmon,,0
+Medicines_Atct_1,Medicines_Atct_1,NOUSAGE,0,Automatic Refills,Automatic Refills,,0
+Medicines_Atct_2,Medicines_Atct_2,NOUSAGE,0,All Natural Vitamins,All Natural Vitamins,,0
+SubscribeAndSave,SubscribeAndSave,NOUSAGE,0,Subscribe and Save,Subscribe and Save,,0
+SubscribeToNewsletters,SubscribeToNewsletters,NOUSAGE,0,Subscribe To NewsLetters,Subscribe To NewsLetters,,0
+SubscribeToMagazines,SubscribeToMagazines,NOUSAGE,0,Econo Sense Magazine,Econo Sense Magazine,,0
+Newsletters_Atct_1,Newsletters_Atct_1,NOUSAGE,0,Subscribe to Newsletters,Subscribe to Newsletters,,0
+Newsletters_Atct_2,Newsletters_Atct_2,NOUSAGE,0,Delish Magazine,Delish Magazine,,0
+Tablets_Atct_1,Tablets_Atct_1,NOUSAGE,0,Power on the Go,Power on the Go,,0
+Tablets_Atct_2,Tablets_Atct_2,NOUSAGE,0,Get Ready for School,Get Ready for School,,0
+Tableware_Atct_1,Tableware_Atct_1,NOUSAGE,0,Mix and Match,Mix and Match,,0
+Tableware_Atct_2,Tableware_Atct_2,NOUSAGE,0,Mix and Match Plates,Mix and Match Plates,,0
+Vegetables_Atct_1,Vegetables_Atct_1,NOUSAGE,0,Field Carrots,Field Carrots,,0
+Vegetables_Atct_2,Vegetables_Atct_2,NOUSAGE,0,Packaged Salad Mix,Packaged Salad Mix,,0
+Vitamins_Atct_1,Vitamins_Atct_1,NOUSAGE,0,All Natural Vitamins,All Natural Vitamins,,0
+Vitamins_Atct_2,Vitamins_Atct_2,NOUSAGE,0,Flu Fighting Gel Caps,Flu Fighting Gel Caps,,0

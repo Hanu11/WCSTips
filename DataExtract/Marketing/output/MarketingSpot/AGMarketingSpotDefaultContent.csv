@@ -1,0 +1,5 @@
+MarketingSpotDefaultContent
+spotName,usageType,contentType,content,sequence,delete
+Widget_TextEditor_701_25453,MARKETING,MarketingContent,Widget_25453_01_31_2017_16_02_09_678_1351,0,0
+ShopCart_Guarantee_Espot,MARKETING,MarketingContent,ShopCart_Guarantee_Espot_Content,1,0
+AGMyOrderEspot,MARKETING,MarketingContent,MyOrderEspot_Content,1,0

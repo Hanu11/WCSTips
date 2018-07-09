@@ -1,0 +1,36 @@
+MarketingElementNVP
+activityName,elementName,name,value,sequence,triggerMatch,properties,delete
+DynamicSalesCategoryActivity_15601,productSearchAction,dynamicSalesCategory,true,,0,,0
+DynamicSalesCategoryActivity_15601,productSearchAction,excludeCurrentCategory,false,,0,,0
+DynamicSalesCategoryActivity_15601,productSearchAction,includeCategories,false,,0,,0
+DynamicSalesCategoryActivity_15601,productSearchAction,includeFacets,false,,0,,0
+DynamicSalesCategoryActivity_15601,productSearchAction,recommendationMethod,createSearchConditions,,0,,0
+DynamicSalesCategoryActivity_15601,productSearchAction,useUserSearchTerm,false,,0,,0
+DynamicSalesCategoryActivity_15601,29453,emsId,IBM_ESPOT_RuleBasedCategory_15601|MARKETING,,1,,0
+DynamicSalesCategoryActivity_15602,productSearchAction,dynamicSalesCategory,true,,0,,0
+DynamicSalesCategoryActivity_15602,productSearchAction,excludeCurrentCategory,false,,0,,0
+DynamicSalesCategoryActivity_15602,productSearchAction,includeCategories,false,,0,,0
+DynamicSalesCategoryActivity_15602,productSearchAction,includeFacets,false,,0,,0
+DynamicSalesCategoryActivity_15602,productSearchAction,recommendationMethod,createSearchConditions,,0,,0
+DynamicSalesCategoryActivity_15602,productSearchAction,useUserSearchTerm,false,,0,,0
+DynamicSalesCategoryActivity_15602,29456,emsId,IBM_ESPOT_RuleBasedCategory_15602|MARKETING,,1,,0
+DynamicSalesCategoryActivity_15603,productSearchAction,dynamicSalesCategory,true,,0,,0
+DynamicSalesCategoryActivity_15603,productSearchAction,excludeCurrentCategory,false,,0,,0
+DynamicSalesCategoryActivity_15603,productSearchAction,includeCategories,false,,0,,0
+DynamicSalesCategoryActivity_15603,productSearchAction,includeFacets,false,,0,,0
+DynamicSalesCategoryActivity_15603,productSearchAction,recommendationMethod,createSearchConditions,,0,,0
+DynamicSalesCategoryActivity_15603,productSearchAction,useUserSearchTerm,false,,0,,0
+DynamicSalesCategoryActivity_15603,29459,emsId,IBM_ESPOT_RuleBasedCategory_15603|MARKETING,,1,,0
+DynamicSalesCategoryActivity_15604,productSearchAction,dynamicSalesCategory,true,,0,,0
+DynamicSalesCategoryActivity_15604,productSearchAction,excludeCurrentCategory,false,,0,,0
+DynamicSalesCategoryActivity_15604,productSearchAction,includeCategories,false,,0,,0
+DynamicSalesCategoryActivity_15604,productSearchAction,includeFacets,false,,0,,0
+DynamicSalesCategoryActivity_15604,productSearchAction,recommendationMethod,createSearchConditions,,0,,0
+DynamicSalesCategoryActivity_15604,productSearchAction,useUserSearchTerm,false,,0,,0
+DynamicSalesCategoryActivity_15604,29462,emsId,IBM_ESPOT_RuleBasedCategory_15604|MARKETING,,1,,0
+AG REWARDS BANNER,37452,anyOrAll,any,,0,,0
+AG REWARDS BANNER,37452,containsOperator,=,,0,,0
+AG REWARDS BANNER,37452,segmentIdList,SILVER,,0,,0
+AG REWARDS BANNER,37453,collateralIdList,AGMyAccountSummaryFeatureEspot_Content,1,0,,0
+AG REWARDS BANNER,37454,emsId,AGMyAccountSummaryFeatureEspot|MARKETING,,1,,0
+AG REWARDS BANNER,37454,widgetEspot,0,,0,,0

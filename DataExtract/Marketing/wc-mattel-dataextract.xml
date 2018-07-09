@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Licensed Materials - Property of IBM WebSphere Commerce (C) Copyright
+		IBM Corp. 2015 All Rights Reserved. US Government Users Restricted
+		Rights - Use, duplication or disclosure restricted by GSA ADP Schedule
+		Contract with IBM Corp.
+		=================================================================
+	-->
+<_config:DataLoadConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../xsd/wc-dataload.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:Variable name="outputDirectory" value="output" />
+
+	<_config:DataLoadEnvironment configFile="wc-mattel-dataextract-env.xml" />
+
+	<_config:LoadOrder commitCount="0" batchSize="0" maxError="100" >
+		<_config:property name="firstTwoLinesAreHeader"
+			value="true" />
+
+		<!-- Customer Segment -->
+		<_config:LoadItem name="MemberGroup"
+			businessObjectConfigFile="CustomerSegment/wc-extract-customer-segment.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CustomerSegment/MattelMemberGroup.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MemberGroupDescription"
+			businessObjectConfigFile="CustomerSegment/wc-extract-customer-segment-description.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CustomerSegment/MattelMemberGroupDescription.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MemberGroupCondition"
+			businessObjectConfigFile="CustomerSegment/wc-extract-customer-segment-condition.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CustomerSegment/MattelMemberGroupCondition.csv" />
+		</_config:LoadItem>
+
+		<!-- Attachment -->
+		<_config:LoadItem name="Attachment"
+			businessObjectConfigFile="Attachment/wc-extract-attachment.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/Attachment/MattelAttachment.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="AttachmentDescription"
+			businessObjectConfigFile="Attachment/wc-extract-attachment-description.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/Attachment/MattelAttachmentDescription.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="AttachmentAsset"
+			businessObjectConfigFile="Attachment/wc-extract-attachment-asset.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/Attachment/MattelAttachmentAsset.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="AttachmentAssetLanguage"
+			businessObjectConfigFile="Attachment/wc-extract-attachment-asset-language.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/Attachment/MattelAttachmentAssetLanguage.csv" />
+		</_config:LoadItem>
+
+		<!-- Marketing Content -->
+		<_config:LoadItem name="MarketingContent"
+			businessObjectConfigFile="MarketingContent/wc-extract-marketing-content.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingContent/MattelMarketingContent.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MarketingContentDescription"
+			businessObjectConfigFile="MarketingContent/wc-extract-marketing-content-description.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingContent/MattelMarketingContentDescription.csv" />
+		</_config:LoadItem>
+
+
+		<_config:LoadItem name="MarketingContentAttachment"
+			businessObjectConfigFile="MarketingContent/wc-extract-marketing-content-attachment.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingContent/MattelMarketingContentAttachment.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MarketingContentAttachmentDescription"
+			businessObjectConfigFile="MarketingContent/wc-extract-marketing-content-attachment-description.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingContent/MattelMarketingContentAttachmentDescription.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MarketingContentImageMap"
+			businessObjectConfigFile="MarketingContent/wc-extract-marketing-content-imagemap.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingContent/MattelMarketingContentImageMap.csv" />
+		</_config:LoadItem>
+
+		<!-- Marketing Spot -->
+
+		<_config:LoadItem name="MarketingSpot"
+			businessObjectConfigFile="MarketingSpot/wc-extract-marketing-spot.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingSpot/MattelMarketingSpot.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MarketingSpotDefaultContent"
+			businessObjectConfigFile="MarketingSpot/wc-extract-marketing-spot-default-content.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingSpot/MattelMarketingSpotDefaultContent.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MarketingSpotDefaultTitle"
+			businessObjectConfigFile="MarketingSpot/wc-extract-marketing-spot-default-title.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingSpot/MattelMarketingSpotDefaultTitle.csv" />
+		</_config:LoadItem>
+
+
+		<!-- Marketing Activity -->
+
+		<_config:LoadItem name="MarketingCampaign"
+			businessObjectConfigFile="MarketingActivity/wc-extract-marketing-campaign.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingActivity/MattelMarketingCampaign.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MarketingActivity"
+			businessObjectConfigFile="MarketingActivity/wc-extract-marketing-activity.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingActivity/MattelMarketingActivity.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MarketingElement"
+			businessObjectConfigFile="MarketingActivity/wc-extract-marketing-element.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingActivity/MattelMarketingElement.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="MarketingElementNVP"
+			businessObjectConfigFile="MarketingActivity/wc-extract-marketing-elementnvp.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/MarketingActivity/MattelMarketingElementNVP.csv" />
+		</_config:LoadItem>
+
+	</_config:LoadOrder>
+
+</_config:DataLoadConfiguration>

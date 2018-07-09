@@ -1,0 +1,26 @@
+MarketingElement
+activityName,elementName,parentElementName,sequence,elementTemplateId,priority,triggerName,allUsers,field1,field2,field3,field4,delete
+FP Product SKU Page - Slot 24_0,0,,0,6,,,,,,,,0
+FP Product SKU Page - Slot 24_0,12487,0,1500,308,,,,,,,,0
+FP Product SKU Page - Slot 24_0,1,0,1000,105,,,,,,,,0
+DynamicSalesCategoryActivity_12101,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_12101,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_12101,13453,rootPath,1000,105,,DisplayEms,1,,,,,0
+FPShippingPromoMessage,18951,,0,6,,,,,,,,0
+FPShippingPromoMessage,18952,18951,2000,301,,,,,,,,0
+FPShippingPromoMessage,18953,18951,1000,105,,DisplayEms,1,,,,,0
+DynamicSalesCategoryActivity_14101,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_14101,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_14101,19453,rootPath,1000,105,,DisplayEms,1,,,,,0
+DynamicSalesCategoryActivity_14102,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_14102,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_14102,19456,rootPath,1000,105,,DisplayEms,1,,,,,0
+DynamicSalesCategoryActivity_17601,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_17601,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_17601,32953,rootPath,1000,105,,DisplayEms,1,,,,,0
+DynamicSalesCategoryActivity_17602,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_17602,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_17602,32956,rootPath,1000,105,,DisplayEms,1,,,,,0
+DynamicSalesCategoryActivity_17603,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_17603,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_17603,32959,rootPath,1000,105,,DisplayEms,1,,,,,0

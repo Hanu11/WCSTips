@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2014 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+-->
+<_config:DataloadBusinessObjectConfiguration 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd" 
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+  <_config:DataLoader className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+    <_config:DataReader className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader" >
+    	    <_config:Query>
+    	      <_config:SQL>
+	    	    <![CDATA[
+    				SELECT DMCAMPAIGN_ID
+    				FROM DMCAMPAIGN  
+    				WHERE STOREENT_ID = ? 
+    				ORDER BY DMCAMPAIGN_ID
+    		    ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="storeId" valueFrom="BusinessContext" />
+    	    </_config:Query>
+    </_config:DataReader>
+
+    <_config:BusinessObjectBuilder>
+      <_config:BusinessObjectMediator className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator" >
+    	    <_config:Query>
+    	      <_config:SQL>
+    	    	<![CDATA[
+					SELECT NAME, DESCRIPTION, STATE, SEASON, OWNER, OBJECTIVE,
+										  FIELD1, FIELD2, FIELD3, FIELD4
+					FROM DMCAMPAIGN
+					WHERE DMCAMPAIGN_ID IN (?)
+    	   		 ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="DMCAMPAIGN_ID" />
+
+    	      <_config:ColumnMapping name="NAME" value="name" />
+    	      <_config:ColumnMapping name="DESCRIPTION" value="description" />
+    	      <_config:ColumnMapping name="STATE" value="state" />
+    	      <_config:ColumnMapping name="SEASON" value="season" />
+    	      <_config:ColumnMapping name="OWNER" value="owner" />
+    	      <_config:ColumnMapping name="OBJECTIVE" value="objective" />
+    	      <_config:ColumnMapping name="FIELD1" value="field1" />
+    	      <_config:ColumnMapping name="FIELD2" value="field2" />
+    	      <_config:ColumnMapping name="FIELD3" value="field3" />
+    	      <_config:ColumnMapping name="FIELD4" value="field4" />
+    	    </_config:Query>
+        
+   		<_config:DataWriter className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+      		<_config:Data>
+	     		<_config:column number="1" name="name" />
+	      		<_config:column number="2" name="description" />
+	      		<_config:column number="3" name="state" />
+	      		<_config:column number="4" name="season" />
+	      		<_config:column number="5" name="owner" />
+	      		<_config:column number="6" name="objective" />
+	      		<_config:column number="7" name="field1" />
+	      		<_config:column number="8" name="field2" />
+	      		<_config:column number="9" name="field3" />
+	      		<_config:column number="10" name="field4" />
+	      		<_config:column number="11" name="delete" value="0" />
+	    	</_config:Data>
+    	</_config:DataWriter>
+      </_config:BusinessObjectMediator>
+    </_config:BusinessObjectBuilder>
+
+  </_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

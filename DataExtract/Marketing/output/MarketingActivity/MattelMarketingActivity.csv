@@ -1,0 +1,10 @@
+MarketingActivity
+activityName,description,activityType,startDate,endDate,version,published,state,priority,repeatable,behavior,uiDisplable,managingTool,templateType,experimentType,campaignName,familyActivityName,activitySequence,field1,field2,field3,field4,delete
+FP Product SKU Page - Slot 24_0,Recommend a catalog entry to a customer that satisfies the chosen target conditions.,web,,,1,0,0,0,1,0,,,,,,,,,,,,0
+DynamicSalesCategoryActivity_12101,Activity used for sales category '12101'.,web,,,2,2,1,0,1,2,0,,,,,,,,,,,0
+FPShippingPromoMessage,Recommend any type of content to a customer that satisfies the chosen target conditions.,web,,,3,3,1,0,1,0,,,,,,,,,,,,0
+DynamicSalesCategoryActivity_14101,Activity used for sales category '14101'.,web,,,1,1,1,0,1,2,0,,,,,,,,,,,0
+DynamicSalesCategoryActivity_14102,Activity used for sales category '14102'.,web,,,1,1,1,0,1,2,0,,,,,,,,,,,0
+DynamicSalesCategoryActivity_17601,Activity used for sales category '17601'.,web,,,2,2,1,0,1,2,0,,,,,,,,,,,0
+DynamicSalesCategoryActivity_17602,Activity used for sales category '17602'.,web,,,1,1,1,0,1,2,0,,,,,,,,,,,0
+DynamicSalesCategoryActivity_17603,Activity used for sales category '17603'.,web,,,1,1,1,0,1,2,0,,,,,,,,,,,0
