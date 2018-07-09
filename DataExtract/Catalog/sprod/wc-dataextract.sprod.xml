@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Licensed Materials - Property of IBM WebSphere Commerce (C) Copyright
+		IBM Corp. 2015 All Rights Reserved. US Government Users Restricted
+		Rights - Use, duplication or disclosure restricted by GSA ADP Schedule
+		Contract with IBM Corp.
+		=================================================================
+	-->
+
+	<!--
+		To execute specific load items, use folling paremeters to dataload or
+		dataextract command -DLoadOrder="loadItemName1, loadItemName2,
+		loadItemName3"
+	-->
+
+
+<_config:DataLoadConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../xsd/wc-dataload.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:Variable name="outputDirectory" value="/opt/IBM/scripts/dataextract" />
+	<_config:Variable name="catalogDirectory" value=".." />
+
+	<_config:DataLoadEnvironment configFile="wc-dataextract-env.sprod.xml" />
+
+	<_config:LoadOrder commitCount="0" batchSize="0">
+		<_config:property name="firstTwoLinesAreHeader"
+			value="true" />
+
+
+		<_config:LoadItem name="AttributeDictionaryAttributeAndAllowedValues"
+			businessObjectConfigFile="${catalogDirectory}/AttributeDictionary/wc-extract-attribute.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/AttributeDictionary/Attribute.csv" />
+		</_config:LoadItem>
+		<_config:LoadItem name="AttributeDictionaryAttributeAllowedValues"
+			businessObjectConfigFile="${catalogDirectory}/AttributeDictionary/wc-extract-attribute-allowedvalues.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/AttributeDictionary/AttributeAllowedValues.csv" />
+		</_config:LoadItem><!--
+
+		<_config:LoadItem name="CatalogEntry"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/wc-extract-allbrands-catalog-entry-item.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntry.csv"/>
+		</_config:LoadItem>
+		
+		--><_config:LoadItem name="CatalogEntryUpdate"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/wc-extract-allbrands-catalog-entry-item.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntryUpdate.csv"/>
+		</_config:LoadItem>		
+
+		<_config:LoadItem name="CatalogEntrySEO"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntrySEO/wc-extract-catalogentry-seo.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntrySEO/CatalogEntrySEO.csv" />
+		</_config:LoadItem>
+
+
+		<_config:LoadItem
+			name="CatalogEntryAttributeDictionaryAttributeRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryAttributeDictionaryAttributeRelationship/wc-extract-allbrands-catentry-attribute.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntryAttributeDictionaryAttributeRelationship/CatentryAttribute.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogEntryParentProductRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryParentProductRelationship/wc-extract-product-sku-relationship.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntryParentProductRelationship/CatalogEntryParentProductRelationship.csv" />
+		</_config:LoadItem>
+
+
+		<_config:LoadItem name="CatalogEntryComponent"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryComponent/wc-extract-allbrands-catentrel.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntryComponent/CatalogEntryRelationship.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogEntryAssociation"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryAssociation/wc-extract-merchandise-associations.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntryAssociation/MerchandisingAssociation.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroup"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/wc-extract-master-catalog-group.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogGroup/MasterCatalogGroups.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroupRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/CatalogGroupRelationship/wc-extract-master-catalog-group-relationship.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogGroup/CatalogGroupRelationship/MasterCatalogGroupRelationship.csv" />
+		</_config:LoadItem>
+
+
+		<_config:LoadItem name="xcatentry"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryExt/wc-extract-xcatentry.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntryExt/XCATENTRY.csv" />
+		</_config:LoadItem>
+
+	</_config:LoadOrder>
+
+</_config:DataLoadConfiguration>

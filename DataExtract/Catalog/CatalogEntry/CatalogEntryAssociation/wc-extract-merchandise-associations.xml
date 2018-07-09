@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Mattel customization to extract catalog group data
+		=================================================================
+	-->
+<_config:DataloadBusinessObjectConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoader
+		className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+		<_config:DataReader
+			className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader">
+			<_config:Query>
+				<_config:SQL>
+	    	   <![CDATA[    				
+    				SELECT massoccece_id
+					FROM massoccece		    				
+    		    ]]>
+				</_config:SQL>
+			</_config:Query>
+		</_config:DataReader>
+
+		<_config:BusinessObjectBuilder>
+			<_config:BusinessObjectMediator
+				className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator">
+				<_config:Query>
+					<_config:SQL>
+    	    	<![CDATA[
+						SELECT b.partnumber,
+						  a.massoctype_id AssociationType ,
+						  c.partnumber TargetPartNumber,
+						  a.rank sequence,
+						  a.quantity
+						FROM massoccece a,
+						  catentry b,
+						  catentry c
+						WHERE a.catentry_id_from =b.catentry_id
+						AND b.catentry_id       IN
+						  (SELECT catgpenrel.catentry_id
+						  FROM CATGPENREL
+						  WHERE CATALOG_ID =
+						    (SELECT catalog_id FROM catalog WHERE identifier='MattelCAS'
+						    )
+						  )
+						AND c.catentry_id  =a.catentry_id_to
+						AND c.catentry_id IN
+						  (SELECT catgpenrel.catentry_id
+						  FROM CATGPENREL
+						  WHERE CATALOG_ID =
+						    (SELECT catalog_id FROM catalog WHERE identifier='MattelCAS'
+						    )
+						  ) 
+						  AND a.massoccece_id= ?	
+    	   		 ]]>
+					</_config:SQL>
+					<_config:Param name="MASSOCCECE_ID" />
+					<_config:ColumnMapping name="PARTNUMBER"
+						value="PartNumber" />
+					<_config:ColumnMapping name="ASSOCIATIONTYPE"
+						value="AssociationType" />
+					<_config:ColumnMapping name="TARGETPARTNUMBER"
+						value="TargetPartNumber" />
+					<_config:ColumnMapping name="SEQUENCE" value="Sequence" />
+					<_config:ColumnMapping name="QUANTITY" value="Quantity" />
+				</_config:Query>
+				<_config:DataWriter
+					className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+					<_config:Data>
+						<_config:column number="1" name="PartNumber" />
+						<_config:column number="2" name="AssociationType" />
+						<_config:column number="3" name="TargetPartNumber" />
+						<_config:column number="4" name="Sequence" />
+						<_config:column number="5" name="Quantity" />
+					</_config:Data>
+				</_config:DataWriter>
+			</_config:BusinessObjectMediator>
+		</_config:BusinessObjectBuilder>
+
+	</_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

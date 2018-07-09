@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Licensed Materials - Property of IBM WebSphere Commerce (C) Copyright
+		IBM Corp. 2015 All Rights Reserved. US Government Users Restricted
+		Rights - Use, duplication or disclosure restricted by GSA ADP Schedule
+		Contract with IBM Corp.
+		=================================================================
+	-->
+
+	<!--
+		To execute specific load items, use folling paremeters to dataload or
+		dataextract command -DLoadOrder="loadItemName1, loadItemName2,
+		loadItemName3"
+	-->
+
+
+<_config:DataLoadConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../xsd/wc-dataload.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:Variable name="outputDirectory" value="/opt/IBM/scripts/dataextract" />
+	<_config:Variable name="catalogDirectory" value=".." />
+
+	<_config:DataLoadEnvironment configFile="wc-dataextract-hwc-env.sprod.xml" />
+
+	<_config:LoadOrder commitCount="0" batchSize="0">
+		<_config:property name="firstTwoLinesAreHeader"
+			value="true" />
+
+		<_config:LoadItem name="CatalogEntryParentCatalogGroupRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryParentCatalogGroupRelationship/wc-extract-hwc-catalog-entry-parent-salescatalog-category-group-relationship.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogEntry/CatalogEntryParentCatalogGroupRelationship/HWCCatalogEntryParentCatalogGroupRelationship.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroup"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/wc-extract-hwc-catalog-group.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogGroup/HWCCatalogGroup.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroupRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/CatalogGroupRelationship/wc-extract-hwc-catalog-group-relationship.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogGroup/CatalogGroupRelationship/HWCCatalogGroupRelationship.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroupSEO"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/CatalogGroupSEO/wc-extract-hwc-catalog-group-seo.xml">
+			<_config:DataOutputLocation
+				location="${outputDirectory}/CatalogGroup/CatalogGroupSEO/HWCCatalogGroupSEO.csv" />
+		</_config:LoadItem>
+
+
+	</_config:LoadOrder>
+
+</_config:DataLoadConfiguration>

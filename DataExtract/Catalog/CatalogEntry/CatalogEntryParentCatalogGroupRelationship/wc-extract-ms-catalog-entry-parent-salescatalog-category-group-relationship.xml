@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Mattel customization to extract catalog group data
+		=================================================================
+	-->
+<_config:DataloadBusinessObjectConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoader
+		className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+		<_config:DataReader
+			className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader">
+			<_config:Query>
+				<_config:SQL>
+	    	   <![CDATA[    				
+						SELECT a.partnumber,
+						  c.sequence,
+						  b.IDENTIFIER ParentGroupIdentifier
+						FROM catentry a,
+						  catgroup b,
+						  catgpenrel c ,
+						  storecat d,
+						  storeent e,
+						  catalog
+						WHERE a.catentry_id     = c.catentry_id
+						AND c.catgroup_id       =b.catgroup_id
+						AND c.catalog_id        =catalog.catalog_id
+						AND c.catalog_id        =d.catalog_id
+						AND d.storeent_id       =e.storeent_id
+						AND a.MARKFORDELETE    <>1
+						AND b.MARKFORDELETE    <>1
+						AND catalog.IDENTIFIER IN ('SMSalesCatalog')
+ 			   ]]>
+				</_config:SQL>
+			</_config:Query>
+		</_config:DataReader>
+
+		<_config:BusinessObjectBuilder>
+			<_config:BusinessObjectMediator
+				className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator">
+				<_config:Query>
+					<_config:SQL>
+		    	    	<![CDATA[
+								SELECT a.partnumber,
+									  c.sequence,
+									  b.IDENTIFIER ParentGroupIdentifier
+									FROM catentry a,
+									  catgroup b,
+									  catgpenrel c ,
+									  storecat d,
+									  storeent e,
+									  catalog
+									WHERE a.catentry_id     = c.catentry_id
+									AND c.catgroup_id       =b.catgroup_id
+									AND c.catalog_id        =catalog.catalog_id
+									AND c.catalog_id        =d.catalog_id
+									AND d.storeent_id       =e.storeent_id
+									AND a.MARKFORDELETE    <>1
+									AND b.MARKFORDELETE    <>1
+									AND catalog.IDENTIFIER IN ('SMSalesCatalog')
+									AND a.PARTNUMBER = ?
+									AND b.IDENTIFIER = ?
+		    	   		 ]]>
+					</_config:SQL>
+					<_config:Param name="PARTNUMBER" />
+					<_config:Param name="PARENTGROUPIDENTIFIER" />
+					<_config:ColumnMapping name="PARTNUMBER"
+						value="PartNumber" />
+					<_config:ColumnMapping name="PARENTGROUPIDENTIFIER"
+						value="ParentGroupIdentifier" />
+					<_config:ColumnMapping name="SEQUENCE" value="Sequence" />
+				</_config:Query>
+				<_config:DataWriter
+					className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+					<_config:Data>
+						<_config:column number="1" name="PartNumber" />
+						<_config:column number="2" name="ParentGroupIdentifier" />
+						<_config:column number="3" name="Sequence" />
+					</_config:Data>
+				</_config:DataWriter>
+			</_config:BusinessObjectMediator>
+		</_config:BusinessObjectBuilder>
+
+	</_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

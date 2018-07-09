@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Mattel customization to extract catalog group data
+		=================================================================
+		https://www.ibm.com/support/knowledgecenter/en/SSZLC2_7.0.0/com.ibm.commerce.data.doc/refs/rmlcolumndef_catentry.htm
+		CatalogEntry
+	-->
+<_config:DataloadBusinessObjectConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoader
+		className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+		<_config:DataReader
+			className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader">
+			<!--
+			 for example products please use below ones
+			 FFD93 is a Toy (ItemBean)  
+			 05BUN07 is a bundle (BundleBean) , FFD93 & FFD96 are bundle components  
+			 DYL72 is a style header (ProductBean), DYL72.BUR.XS/S & DYL72.BUR.M/L are style items  
+			 DFN61DS is a collection (PackageBean), DFN61 & FWC25 are package components  
+			-->
+			<_config:Query>
+				<_config:SQL>
+	    	   <![CDATA[    				
+						SELECT DISTINCT "A1"."CATENTRY_ID" "CATENTRY_ID",
+						  "A1"."PARTNUMBER" "PARTNUMBER",
+						  "A1"."CATENTTYPE_ID" "CATENTTYPE_ID"
+						FROM "CATENTRY" "A1"
+						WHERE EXISTS
+						  (SELECT 0
+						  FROM "CATGPENREL" "A2"
+						  WHERE "A1"."CATENTRY_ID"="A2"."CATENTRY_ID"
+						  AND "A2"."CATALOG_ID"  IN
+						    (SELECT "A3"."CATALOG_ID" "CATALOG_ID"
+						    FROM "CATALOG" "A3"
+						    WHERE "A3"."IDENTIFIER" IN ('AGSalesCatalog', 'FPSalesCatalog','HWSalesCatalog','SMSalesCatalog','BASalesCatalog','HWCSalesCatalog')
+						    )
+						  )
+						AND "A1"."MARKFORDELETE"=0  ORDER BY "A1".PARTNUMBER
+						    				
+    		    ]]>
+				</_config:SQL>
+			</_config:Query>
+		</_config:DataReader>
+
+		<_config:BusinessObjectBuilder>
+			<_config:BusinessObjectMediator
+				className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator">
+				<_config:Query>
+					<_config:SQL>
+    	    	<![CDATA[
+					SELECT a.partnumber,
+					  a.catenttype_id,					  
+					  (SELECT identifier
+					  FROM catgroup
+					  WHERE catgroup_id IN
+					    (SELECT CATGROUP_ID
+					    FROM CATGPENREL
+					    WHERE CATALOG_ID =
+					      (SELECT catalog_id FROM catalog WHERE identifier='MattelCAS'
+					      )
+					    AND CATENTRY_ID = a.catentry_id
+					    AND rownum      = 1
+					    )
+					  ) AS ParentGroupIdentifier,
+					  'USD' CurrencyCode,
+					  (SELECT offerprice.price
+					  FROM offer ,
+					    offerprice
+					  WHERE offer.tradeposcn_id IN
+					    (SELECT tradeposcn_id FROM tradeposcn WHERE name = 'MattelCASList'
+					    )
+					  AND offerprice.offer_id=offer.offer_id
+					  AND offer.catentry_id  =a.catentry_id
+					  AND rownum             =1
+					  ) AS LISTPRICE ,
+					  b.name ,
+   					  b.shortdescription ,
+					  b.longdescription,
+					  b.thumbnail,
+					  b.fullimage ,
+					  a.markfordelete ,
+					  a.buyable,
+					  b.published,
+					  b.Available as Available
+					FROM catentry a,
+					  catentdesc b,
+					  xcatentry c
+					WHERE a.catentry_id=b.catentry_id
+					AND a.catentry_id  =c.catentry_id
+					AND b.language_id  = -1
+					AND a.catentry_id= ?
+						    										
+    	   		 ]]>
+					</_config:SQL>
+					<_config:Param name="CATENTRY_ID" />
+					<_config:ColumnMapping name="PARTNUMBER"
+						value="PartNumber" />
+					<_config:ColumnMapping name="CATENTTYPE_ID"
+						value="Type" />
+					<_config:ColumnMapping name="PARENTGROUPIDENTIFIER"
+						value="ParentGroupIdentifier" />
+					<_config:ColumnMapping name="CURRENCYCODE"
+						value="CurrencyCode" />
+					<_config:ColumnMapping name="LISTPRICE"
+						value="ListPrice" />
+					<_config:ColumnMapping name="NAME" value="Name" />
+					<_config:ColumnMapping name="SHORTDESCRIPTION"
+						value="ShortDescription" />
+					<_config:ColumnMapping name="LONGDESCRIPTION"
+						value="LongDescription" />
+					<_config:ColumnMapping name="THUMBNAIL"
+						value="Thumbnail" />
+					<_config:ColumnMapping name="FULLIMAGE"
+						value="FullImage" />
+					<_config:ColumnMapping name="MARKFORDELETE"
+						value="Delete" />
+					<_config:ColumnMapping name="BUYABLE" value="Buyable" />
+					<_config:ColumnMapping name="PUBLISHED"
+						value="Published" />
+					<_config:ColumnMapping name="AVAILABLE" value="Available" />						
+				</_config:Query>
+				<_config:DataWriter
+					className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+					<_config:Data>
+						<_config:column number="1" name="PartNumber" />
+						<_config:column number="2" name="Type" />
+						<_config:column number="3" name="ParentGroupIdentifier" />
+						<_config:column number="4" name="CurrencyCode" />
+						<_config:column number="5" name="ListPrice" />
+						<_config:column number="6" name="Name" />
+						<_config:column number="7" name="ShortDescription" />
+						<_config:column number="8" name="LongDescription" />
+						<_config:column number="9" name="Thumbnail" />
+						<_config:column number="10" name="FullImage" />
+						<_config:column number="11" name="Buyable" />
+						<_config:column number="12" name="Published" />
+						<_config:column number="13" name="Available" />
+						<_config:column number="14" name="Delete" />
+					</_config:Data>
+				</_config:DataWriter>
+			</_config:BusinessObjectMediator>
+		</_config:BusinessObjectBuilder>
+
+	</_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

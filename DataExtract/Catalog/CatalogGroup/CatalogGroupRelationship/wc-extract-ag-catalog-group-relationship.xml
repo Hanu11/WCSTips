@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Mattel customization to extract catalog group data
+		=================================================================
+	-->
+<_config:DataloadBusinessObjectConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoader
+		className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+		<_config:DataReader
+			className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader">
+			<_config:Query>
+				<_config:SQL>
+	    	   <![CDATA[    
+    				SELECT childgroup.IDENTIFIER GroupIdentifier,
+						CATGRPREL.CATGROUP_ID_CHILD, 
+						parentgroup.IDENTIFIER ParentGroupIdentifier,
+						CATGRPREL.CATGROUP_ID_PARENT   ,
+						CATGRPREL.SEQUENCE,
+						PARENTGROUPDESC.NAME parentgroupname,
+						CHILDGROUPDESC.NAME childgroupname
+						FROM CATGRPREL,
+						  CATGROUP childgroup,
+						  CATGROUP parentgroup,
+						  CATGRPDESC childgroupdesc,
+						  CATGRPDESC parentgroupdesc,
+						  CATALOG
+						WHERE CATGRPREL.CATGROUP_ID_CHILD =childgroup.CATGROUP_ID
+						AND parentgroup.CATGROUP_ID = CATGRPREL.CATGROUP_ID_PARENT 
+						AND CATALOG.CATALOG_ID = CATGRPREL.CATALOG_ID
+						AND childgroupdesc.CATGROUP_ID = childgroup.catgroup_id
+						AND parentgroupdesc.CATGROUP_ID =parentgroup.CATGROUP_ID
+						AND CHILDGROUPDESC.LANGUAGE_ID = -1
+						AND PARENTGROUPDESC.LANGUAGE_ID = -1
+						AND CATALOG.IDENTIFIER = 'AGSalesCatalog'
+						order by parentgroup.IDENTIFIER  				
+    		    ]]>
+				</_config:SQL>
+			</_config:Query>
+		</_config:DataReader>
+
+		<_config:BusinessObjectBuilder>
+			<_config:BusinessObjectMediator
+				className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator">
+				<_config:Query>
+					<_config:SQL>
+    	    	<![CDATA[
+						SELECT childgroup.IDENTIFIER GroupIdentifier,
+						CATGRPREL.CATGROUP_ID_CHILD GroupUniqueId,
+						parentgroup.IDENTIFIER ParentGroupIdentifier,
+						CATGRPREL.CATGROUP_ID_PARENT   ParentGroupUniqueId,
+						CATGRPREL.SEQUENCE,
+						PARENTGROUPDESC.NAME parentgroupname,
+						CHILDGROUPDESC.NAME childgroupname
+						FROM CATGRPREL,
+						  CATGROUP childgroup,
+						  CATGROUP parentgroup,
+						  CATGRPDESC childgroupdesc,
+						  CATGRPDESC parentgroupdesc,
+						  CATALOG						  
+						WHERE CATGRPREL.CATGROUP_ID_CHILD =childgroup.CATGROUP_ID
+						AND parentgroup.CATGROUP_ID = CATGRPREL.CATGROUP_ID_PARENT 
+						AND CATALOG.CATALOG_ID = CATGRPREL.CATALOG_ID
+						AND childgroupdesc.CATGROUP_ID = childgroup.catgroup_id
+						AND parentgroupdesc.CATGROUP_ID =parentgroup.CATGROUP_ID
+						AND CHILDGROUPDESC.LANGUAGE_ID = -1
+						AND PARENTGROUPDESC.LANGUAGE_ID = -1
+						AND CATGRPREL.CATGROUP_ID_CHILD =?
+						AND CATGRPREL.CATGROUP_ID_PARENT =?
+						
+    	   		 ]]>
+					</_config:SQL>
+					<_config:Param name="CATGROUP_ID_CHILD" />
+					<_config:Param name="CATGROUP_ID_PARENT" />
+					<_config:ColumnMapping name="GROUPIDENTIFIER"
+						value="GroupIdentifier" />
+					<_config:ColumnMapping name="PARENTGROUPIDENTIFIER"
+						value="ParentGroupIdentifier" />
+					<_config:ColumnMapping name="SEQUENCE" value="Sequence" />
+				</_config:Query>
+				<_config:DataWriter
+					className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+					<_config:Data>
+						<_config:column number="1" name="GroupIdentifier" />
+						<_config:column number="2" name="ParentGroupIdentifier" />
+						<_config:column number="3" name="Sequence" />
+					</_config:Data>
+				</_config:DataWriter>
+			</_config:BusinessObjectMediator>
+		</_config:BusinessObjectBuilder>
+
+	</_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+ Mattel customization to extract catalog group data
+ =================================================================
+-->
+<_config:DataloadBusinessObjectConfiguration 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd" 
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+	
+  <_config:DataLoader className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+    <_config:DataReader className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader" >
+    	    <_config:Query>
+    	      <_config:SQL>
+	    	   <![CDATA[    				
+    				SELECT XCATENTRY.CATENTRY_ID
+						FROM XCATENTRY ,
+						  CATENTRY
+						WHERE XCATENTRY.CATENTRY_ID = CATENTRY.CATENTRY_ID    				
+    		    ]]>
+    	      </_config:SQL>
+    	     </_config:Query>
+    </_config:DataReader>
+
+    <_config:BusinessObjectBuilder>
+      <_config:BusinessObjectMediator className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator" >
+    	    <_config:Query>
+    	      <_config:SQL>
+    	    	<![CDATA[
+							SELECT a.catentry_id,
+							  days_to_display_after_oos,
+							  enable_ntfctn_ind,
+							  enable_survey_flag ,
+							  erp_prod_type ,
+							  inc_in_srch_rslts ,
+							  max_order_line_qty ,
+							  pre_order_flag ,
+							  allow_prod_review ,
+							  prod_rating_bv ,
+							  view_prod_detail_req ,
+							  reservable ,
+							  returnable,
+							  tax_code ,
+							  canonical_cat ,
+							  ship_alone_flag ,
+							  display_if_not_avail ,
+							  cust_seg_exclusive ,
+							  financial_brand,
+							  ltd_qty_msg_override ,
+							  new_override_flag ,
+							  popularity_rating ,
+							  product_status_code ,
+							  sale_override_flag ,
+							  find_a_retailer_flag ,
+							  alt_review_sku ,
+							  cogs ,
+							  suppress_order_line ,
+							  ship_as_complete ,
+							  inc_std_shipping,
+							  a.optcounter ,
+							  releasedate
+							FROM xcatentry a,
+							  catentry b
+							WHERE a.catentry_id = b.catentry_id
+							AND a.catentry_id     = ?
+    	   		 ]]>
+    	      </_config:SQL>
+    	     <_config:Param name="CATENTRY_ID" />
+     	      	<_config:ColumnMapping name="CATENTRY_ID" value="catentry_id" />
+				<_config:ColumnMapping name="DAYS_TO_DISPLAY_AFTER_OOS" value="days_to_display_after_oos" />
+				<_config:ColumnMapping name="ENABLE_NTFCTN_IND" value="enable_ntfctn_ind" />
+				<_config:ColumnMapping name="ENABLE_SURVEY_FLAG" value="enable_survey_flag" />
+				<_config:ColumnMapping name="ERP_PROD_TYPE" value="erp_prod_type" />
+				<_config:ColumnMapping name="INC_IN_SRCH_RSLTS" value="inc_in_srch_rslts" />
+				<_config:ColumnMapping name="MAX_ORDER_LINE_QTY" value="max_order_line_qty" />
+				<_config:ColumnMapping name="PRE_ORDER_FLAG" value="pre_order_flag" />
+				<_config:ColumnMapping name="ALLOW_PROD_REVIEW" value="allow_prod_review" />
+				<_config:ColumnMapping name="PROD_RATING_BV" value="prod_rating_bv" />
+				<_config:ColumnMapping name="VIEW_PROD_DETAIL_REQ" value="view_prod_detail_req" />
+				<_config:ColumnMapping name="RESERVABLE" value="reservable" />
+				<_config:ColumnMapping name="RETURNABLE" value="returnable" />
+				<_config:ColumnMapping name="TAX_CODE" value="tax_code" />
+				<_config:ColumnMapping name="CANONICAL_CAT" value="canonical_cat" />
+				<_config:ColumnMapping name="SHIP_ALONE_FLAG" value="ship_alone_flag" />
+				<_config:ColumnMapping name="DISPLAY_IF_NOT_AVAIL" value="display_if_not_avail" />
+				<_config:ColumnMapping name="CUST_SEG_EXCLUSIVE" value="cust_seg_exclusive" />
+				<_config:ColumnMapping name="FINANCIAL_BRAND" value="financial_brand" />
+				<_config:ColumnMapping name="LTD_QTY_MSG_OVERRIDE" value="ltd_qty_msg_override" />
+				<_config:ColumnMapping name="NEW_OVERRIDE_FLAG" value="new_override_flag" />
+				<_config:ColumnMapping name="POPULARITY_RATING" value="popularity_rating" />
+				<_config:ColumnMapping name="PRODUCT_STATUS_CODE" value="product_status_code" />
+				<_config:ColumnMapping name="SALE_OVERRIDE_FLAG" value="sale_override_flag" />
+				<_config:ColumnMapping name="FIND_A_RETAILER_FLAG" value="find_a_retailer_flag" />
+				<_config:ColumnMapping name="ALT_REVIEW_SKU" value="alt_review_sku" />
+				<_config:ColumnMapping name="COGS" value="cogs" />
+				<_config:ColumnMapping name="SUPPRESS_ORDER_LINE" value="suppress_order_line" />
+				<_config:ColumnMapping name="SHIP_AS_COMPLETE" value="ship_as_complete" />
+				<_config:ColumnMapping name="INC_STD_SHIPPING" value="inc_std_shipping" />
+				<_config:ColumnMapping name="OPTCOUNTER" value="optcounter" />
+				<_config:ColumnMapping name="RELEASEDATE" value="releasedate" />
+		</_config:Query>
+   		<_config:DataWriter className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+      		<_config:Data>
+	     		<_config:column number="1" name="catentry_id" />
+				<_config:column number="2" name="days_to_display_after_oos" />
+				<_config:column number="3" name="enable_ntfctn_ind" />
+				<_config:column number="4" name="enable_survey_flag" />
+				<_config:column number="5" name="erp_prod_type" />
+				<_config:column number="6" name="inc_in_srch_rslts" />
+				<_config:column number="7" name="max_order_line_qty" />
+				<_config:column number="8" name="pre_order_flag" />
+				<_config:column number="9" name="allow_prod_review" />
+				<_config:column number="10" name="prod_rating_bv" />
+				<_config:column number="11" name="view_prod_detail_req" />
+				<_config:column number="12" name="reservable" />
+				<_config:column number="13" name="returnable" />
+				<_config:column number="14" name="tax_code" />
+				<_config:column number="15" name="canonical_cat" />
+				<_config:column number="16" name="ship_alone_flag" />
+				<_config:column number="17" name="display_if_not_avail" />
+				<_config:column number="18" name="cust_seg_exclusive" />
+				<_config:column number="19" name="financial_brand" />
+				<_config:column number="20" name="ltd_qty_msg_override" />
+				<_config:column number="21" name="new_override_flag" />
+				<_config:column number="22" name="popularity_rating" />
+				<_config:column number="23" name="product_status_code" />
+				<_config:column number="24" name="sale_override_flag" />
+				<_config:column number="25" name="find_a_retailer_flag" />
+				<_config:column number="26" name="alt_review_sku" />
+				<_config:column number="27" name="cogs" />
+				<_config:column number="28" name="suppress_order_line" />
+				<_config:column number="29" name="ship_as_complete" />
+				<_config:column number="30" name="inc_std_shipping" />
+				<_config:column number="31" name="optcounter" />
+				<_config:column number="32" name="releasedate" />				
+	    	</_config:Data>
+    	</_config:DataWriter>
+      </_config:BusinessObjectMediator>
+    </_config:BusinessObjectBuilder>
+
+  </_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Mattel customization to extract catalog group data
+		================================================================= This
+		is for AttributeDictionaryAttributeAllowedValues
+	-->
+<_config:DataloadBusinessObjectConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoader
+		className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+		<_config:DataReader
+			className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader">
+			<_config:Query>
+				<_config:SQL>
+	    	   <![CDATA[    				
+						SELECT
+						  a.ATTR_ID, 
+						  a.identifier,
+						  a.ATTRTYPE_ID Type,
+						  b.IDENTIFIER AS ValueIdentifier,
+						  c.value,
+						  c.LANGUAGE_ID,
+						  b.ATTRVAL_ID
+						FROM attr a,
+						  attrval b ,
+						  attrvaldesc c,
+						  attrdesc d
+						WHERE a.attr_id  =b.attr_id
+						AND a.attr_id    = d.attr_id
+						AND b.attrval_id =c.attrval_id
+						AND c.LANGUAGE_ID=-1
+						AND d.language_id =-1
+						AND a.ATTRUSAGE = 1
+						AND a.STOREENT_ID = 10051
+					
+    		    ]]>
+				</_config:SQL>
+			</_config:Query>
+		</_config:DataReader>
+
+		<_config:BusinessObjectBuilder>
+			<_config:BusinessObjectMediator
+				className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator">
+				<_config:Query>
+					<_config:SQL>
+    	    	<![CDATA[
+						SELECT a.identifier,
+						  b.IDENTIFIER AS ValueIdentifier,
+						  b.VALUSAGE,  
+						  a.ATTRTYPE_ID Type,
+						  c.value,
+						  c.LANGUAGE_ID,
+						  b.ATTRVAL_ID,
+						  c.QTYUNIT_ID,
+						  c.IMAGE1,
+						  c.IMAGE2
+						FROM attr a,
+						  attrval b ,
+						  attrvaldesc c,
+						  attrdesc d
+						WHERE a.attr_id  =b.attr_id
+						AND a.attr_id    = d.attr_id
+						AND b.attrval_id =c.attrval_id
+						AND c.LANGUAGE_ID=-1
+						AND d.language_id =-1
+						AND a.attr_id   =  (?)
+						AND b.ATTRVAL_ID = (?)
+    	   		 ]]>
+					</_config:SQL>
+					<_config:Param name="ATTR_ID" />
+					<_config:Param name="ATTRVAL_ID" />
+					<_config:ColumnMapping name="IDENTIFIER"
+						value="Identifier" />
+					<_config:ColumnMapping name="TYPE" value="Type" />
+					<_config:ColumnMapping name="VALUEIDENTIFIER"
+						value="ValueIdentifier" />
+					<_config:ColumnMapping name="VALUSAGE" value="ValueUsage" />
+					<_config:ColumnMapping name="VALUE" value="Value" />
+					<_config:ColumnMapping name="LANGUAGE_ID"
+						value="LanguageId" />
+					<_config:ColumnMapping name="QTYUNIT_ID"
+						value="UnitOfMeasure" />
+					<_config:ColumnMapping name="IMAGE1" value="Image1" />
+					<_config:ColumnMapping name="IMAGE2" value="Image2" />
+				</_config:Query>
+				<_config:DataWriter
+					className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+					<_config:Data>
+						<_config:column number="1" name="Identifier" />
+						<_config:column number="2" name="ValueIdentifier" />
+						<_config:column number="3" name="ValueUsage" />
+						<_config:column number="4" name="Value" />
+						<_config:column number="5" name="UnitOfMeasure" />
+						<_config:column number="6" name="Image1" />
+						<_config:column number="7" name="Image2" />
+						<_config:column number="8" name="LanguageId" />
+					</_config:Data>
+				</_config:DataWriter>
+			</_config:BusinessObjectMediator>
+		</_config:BusinessObjectBuilder>
+
+	</_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

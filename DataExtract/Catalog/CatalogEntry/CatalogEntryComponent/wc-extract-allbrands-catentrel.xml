@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+ Mattel customization to extract catalog group data
+ =================================================================
+-->
+<_config:DataloadBusinessObjectConfiguration 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd" 
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+  <_config:DataLoader className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+    <_config:DataReader className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader" >
+    	    <_config:Query>
+    	      <_config:SQL>
+	    	   <![CDATA[    				
+						SELECT b.partnumber ParentPartnumber,
+						  a.sequence,
+						  c.partnumber ChildPartnumber,
+						  a.CATRELTYPE_ID type,
+						  NVL(a.QUANTITY,1) quantity,
+						  A.CATENTRY_ID_PARENT,
+						  A.CATENTRY_ID_CHILD
+						FROM catentrel a,
+						  catentry b,
+						  catentry c
+						WHERE a.CATENTRY_ID_PARENT=b.CATENTRY_ID
+						AND a.CATENTRY_ID_CHILD   =c.CATENTRY_ID
+						AND b.MARKFORDELETE      <>1
+						AND c.MARKFORDELETE      <>1
+						AND (a.CATRELTYPE_ID = 'BUNDLE_COMPONENT' or a.CATRELTYPE_ID = 'PACKAGE_COMPONENT')
+						AND EXISTS
+						  (SELECT 0
+						  FROM CATGPENREL ,
+						    CATALOG
+						  WHERE c.catentry_id       = CATGPENREL.catentry_id
+						  AND CATGPENREL.CATALOG_ID = CATALOG.CATALOG_ID
+						  AND (CATALOG.IDENTIFIER   = 'FPSalesCatalog'
+						  OR CATALOG.IDENTIFIER     = 'HWSalesCatalog'
+						  OR CATALOG.IDENTIFIER     ='SMSalesCatalog'
+						  OR CATALOG.IDENTIFIER     = 'BASalesCatalog'
+						  OR CATALOG.IDENTIFIER     = 'AGSalesCatalog'
+						  OR CATALOG.IDENTIFIER     ='HWCSalesCatalog' )
+						  )  
+					   ORDER BY b.partnumber
+								    				
+     		    ]]>
+    	      </_config:SQL>
+    	     </_config:Query>
+    </_config:DataReader>
+
+    <_config:BusinessObjectBuilder>
+      <_config:BusinessObjectMediator className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator" >
+    	    <_config:Query>
+    	      <_config:SQL>
+    	    	<![CDATA[
+							SELECT b.partnumber ParentPartnumber,
+							  a.sequence,
+							  c.partnumber ChildPartnumber,
+							  a.CATRELTYPE_ID type,
+							  NVL(a.QUANTITY,1) quantity,
+							  A.CATENTRY_ID_PARENT,
+							  A.CATENTRY_ID_CHILD
+							FROM catentrel a,
+							  catentry b,
+							  catentry c
+							WHERE a.CATENTRY_ID_PARENT=b.CATENTRY_ID
+							AND a.CATENTRY_ID_CHILD   =c.CATENTRY_ID
+							AND b.MARKFORDELETE      <>1
+							AND c.MARKFORDELETE      <>1
+							AND a.CATENTRY_ID_PARENT = ?
+							AND a.CATENTRY_ID_CHILD = ?
+							
+				 ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="CATENTRY_ID_PARENT" />
+    	      <_config:Param name="CATENTRY_ID_CHILD" />
+     	      <_config:ColumnMapping name="PARENTPARTNUMBER" value="PartNumber" />
+    	      <_config:ColumnMapping name="SEQUENCE" value="Sequence" />
+    	      <_config:ColumnMapping name="CHILDPARTNUMBER" value="ChildPartNumber" />
+    	      <_config:ColumnMapping name="TYPE" value="Type" />
+    	      <_config:ColumnMapping name="QUANTITY" value="Quantity" />
+    	    </_config:Query>
+   		<_config:DataWriter className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+      		<_config:Data>
+	     		<_config:column number="1" name="PartNumber" />
+	     		<_config:column number="2" name="ChildPartNumber" />
+	      		<_config:column number="3" name="Sequence" />	      		
+	      		<_config:column number="4" name="Type" />
+	      		<_config:column number="5" name="Quantity" />
+	    	</_config:Data>
+    	</_config:DataWriter>
+      </_config:BusinessObjectMediator>
+    </_config:BusinessObjectBuilder>
+
+  </_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

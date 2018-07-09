@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+ Mattel customization to extract catalog group data
+ =================================================================
+-->
+<_config:DataloadBusinessObjectConfiguration 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd" 
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+  <_config:DataLoader className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+    <_config:DataReader className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader" >
+    	    <_config:Query>
+    	      <_config:SQL>
+	    	   <![CDATA[    
+
+    					SELECT catgrpdesc.name ,
+							  catgrpdesc.catgroup_id AS CATGROUP_ID,
+							  1 AS SEQENCE
+							FROM catgrpdesc
+							WHERE catgroup_id IN
+							  (SELECT catgroup_id
+							  FROM CATTOGRP
+							  WHERE catalog_id IN
+							    (SELECT catalog_id FROM catalog WHERE identifier='FPSalesCatalog'
+							    )
+							  )
+							AND language_id          =-1							
+							UNION ALL
+							SELECT catgrpdesc.name,
+							  catgrpdesc.catgroup_id AS CATGROUP_ID,
+							  2 AS SEQENCE
+							FROM catgrpdesc
+							WHERE catgroup_id IN
+							  (SELECT catgroup_id_child
+							  FROM catgrprel
+							  WHERE catgroup_id_parent IN
+							    (SELECT catgroup_id
+							    FROM CATTOGRP
+							    WHERE catalog_id IN
+							      (SELECT catalog_id FROM catalog WHERE identifier='FPSalesCatalog'
+							      )
+							    )
+							  )
+							AND language_id          =-1							
+							UNION ALL
+							SELECT catgrpdesc.name,
+							  catgrpdesc.catgroup_id AS CATGROUP_ID,
+							  3 AS SEQENCE
+							FROM catgrpdesc
+							WHERE catgroup_id IN
+							  (SELECT catgroup_id_child
+							  FROM catgrprel
+							  WHERE catgroup_id_parent IN
+							    (SELECT catgroup_id_child
+							    FROM catgrprel
+							    WHERE catgroup_id_parent IN
+							      (SELECT catgroup_id
+							      FROM CATTOGRP
+							      WHERE catalog_id IN
+							        (SELECT catalog_id FROM catalog WHERE identifier='FPSalesCatalog'
+							        )
+							      )
+							    )
+							  )
+							AND language_id          =-1							
+							ORDER BY SEQENCE ASC   
+    				
+    		    ]]>
+    	      </_config:SQL>
+    	     </_config:Query>
+    </_config:DataReader>
+
+    <_config:BusinessObjectBuilder>
+      <_config:BusinessObjectMediator className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator" >
+    	    <_config:Query>
+    	      <_config:SQL>
+    	    	<![CDATA[
+						SELECT a.catgroup_id,
+						  a.identifier AS GroupIdentifier,
+						  DECODE(
+						  (SELECT catgroup_id_parent FROM catgrprel WHERE catgroup_id_child = a.catgroup_id
+						  AND ROWNUM                                                        = 1
+						  ),NULL,'true','false') AS topGROUP ,
+						  NVL(
+						  (SELECT identifier
+						  FROM catgroup
+						  WHERE catgroup_id IN
+						    (SELECT catgroup_id_parent
+						    FROM catgrprel
+						    WHERE catgroup_id_child = a.catgroup_id
+						    AND ROWNUM              = 1
+						    )
+						  ),'') AS ParentGroupIdentifier,
+						  (SELECT sequence
+						  FROM catgrprel
+						  WHERE catgroup_id_child = a.catgroup_id
+						  AND ROWNUM              = 1
+						  ) AS sequence,
+						  b.name,
+						  SUBSTR(b.shortdescription,0,254) shortdescription,
+						  b.longdescription,
+						  b.thumbnail,
+						  b.fullimage,
+						  (SELECT urlkeyword
+						  FROM seourl x,
+						    seourlkeyword y
+						  WHERE x.tokenname='CategoryToken'
+						  AND x.tokenvalue =a.catgroup_id
+						  AND x.seourl_id  = y.seourl_id
+						  AND ROWNUM       =1
+						  ) AS keyword,
+						  a.markfordelete,
+						  a.field1,
+						  b.published
+						FROM catgroup a,
+						  catgrpdesc b
+						WHERE a.catgroup_id=b.catgroup_id
+						AND a.catgroup_id  = ?
+						AND B.LANGUAGE_ID  = -1
+						ORDER BY a.identifier 
+    	   		 ]]>
+    	      </_config:SQL>
+    	      <_config:Param name="CATGROUP_ID" />
+     	      <_config:ColumnMapping name="GROUPIDENTIFIER" value="GroupIdentifier" />  
+    	      <_config:ColumnMapping name="TOPGROUP" value="TopGroup" />
+    	      <_config:ColumnMapping name="PARENTGROUPIDENTIFIER" value="ParentGroupIdentifier" />
+    	      <_config:ColumnMapping name="SEQUENCE" value="Sequence" />
+    	      <_config:ColumnMapping name="NAME" value="Name" />
+    	      <_config:ColumnMapping name="SHORTDESCRIPTION" value="ShortDescription" />
+    	      <_config:ColumnMapping name="LONGDESCRIPTION" value="LongDescription" />
+    	      <_config:ColumnMapping name="THUMBNAIL" value="Thumbnail" />
+    	      <_config:ColumnMapping name="FULLIMAGE" value="FullImage" />
+    	      <_config:ColumnMapping name="KEYWORD" value="Keyword" />
+    	      <_config:ColumnMapping name="MARKFORDELETE" value="Delete" />
+    	      <_config:ColumnMapping name="FIELD1" value="Field 1" />
+    	      <_config:ColumnMapping name="PUBLISHED" value="Published" />
+    	    </_config:Query>
+   		<_config:DataWriter className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+      		<_config:Data>
+	     		<_config:column number="1" name="GroupIdentifier" />	
+	      		<_config:column number="2" name="TopGroup" />
+	      		<_config:column number="3" name="ParentGroupIdentifier" />	      		
+	      		<_config:column number="4" name="Sequence" />
+				<_config:column number="5" name="Name" />
+				<_config:column number="6" name="ShortDescription" />
+				<_config:column number="7" name="LongDescription" />
+				<_config:column number="8" name="Thumbnail" />
+				<_config:column number="9" name="FullImage" />
+				<_config:column number="10" name="Keyword" />
+				<_config:column number="11" name="Delete" />
+				<_config:column number="12" name="Field 1" />
+				<_config:column number="13" name="Published" />
+	    	</_config:Data>
+    	</_config:DataWriter>
+      </_config:BusinessObjectMediator>
+    </_config:BusinessObjectBuilder>
+
+  </_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

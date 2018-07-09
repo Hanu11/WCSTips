@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Mattel customization to extract catalog group data
+		=================================================================
+	-->
+<_config:DataloadBusinessObjectConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoader
+		className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+		<_config:DataReader
+			className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader">
+			<_config:Query>
+				<_config:SQL>
+	    	   <![CDATA[    
+    				SELECT DISTINCT CATGROUP_ID FROM CATGPENREL WHERE CATALOG_ID = (SELECT CATALOG_ID FROM CATALOG WHERE CATALOG.IDENTIFIER = 'AGSalesCatalog')	    				
+    		    ]]>
+				</_config:SQL>
+			</_config:Query>
+		</_config:DataReader>
+
+		<_config:BusinessObjectBuilder>
+			<_config:BusinessObjectMediator
+				className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator">
+				<_config:Query>
+					<_config:SQL>
+    	    	<![CDATA[
+						SELECT catgroup.identifier as GroupIdentifier,
+						  '-1' as LanguageId ,
+						  su.urlkeyword as URLKeyword,
+						  sd.title as PageTitle,
+						  sd.META_DESC as MetaDescription,
+						  sd.IMAGE_ALT_DESC as ImageAltText
+						FROM seopagedef s,
+						  seopagedefdesc sd,
+						  catgroup ,
+						  seourlkeyword su,
+						  seourl so
+						WHERE s.pagename = 'CATEGORY_PAGE_'||catgroup.catgroup_id
+						AND so.tokenname  = 'CategoryToken'
+						AND so.tokenvalue = catgroup.catgroup_id
+						AND su.seourl_id     = so.seourl_id
+						AND sd.seopagedef_id = s.seopagedef_id
+						AND su.status  =1
+						and catgroup.catgroup_id = ?
+    	   		 ]]>
+					</_config:SQL>
+					<_config:Param name="CATGROUP_ID" />
+					<_config:ColumnMapping name="GROUPIDENTIFIER"
+						value="GroupIdentifier" />
+					<_config:ColumnMapping name="LANGUAGEID"
+						value="LanguageId" />
+					<_config:ColumnMapping name="URLKEYWORD"
+						value="URLKeyword" />
+					<_config:ColumnMapping name="PAGETITLE"
+						value="PageTitle" />
+					<_config:ColumnMapping name="METADESCRIPTION"
+						value="MetaDescription" />
+					<_config:ColumnMapping name="IMAGEALTTEXT"
+						value="ImageAltText" />
+				</_config:Query>
+				<_config:DataWriter
+					className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+					<_config:Data>
+						<_config:column number="1" name="GroupIdentifier" />
+						<_config:column number="2" name="LanguageId" />
+						<_config:column number="3" name="URLKeyword" />
+						<_config:column number="4" name="PageTitle" />
+						<_config:column number="5" name="MetaDescription" />
+						<_config:column number="6" name="ImageAltText" />
+					</_config:Data>
+				</_config:DataWriter>
+			</_config:BusinessObjectMediator>
+		</_config:BusinessObjectBuilder>
+
+	</_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>

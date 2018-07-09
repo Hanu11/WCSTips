@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Mattel customization to extract catalog group data
+		=================================================================
+	-->
+<_config:DataloadBusinessObjectConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../../WC/xml/config/xsd/wc-dataload-businessobject.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoader
+		className="com.ibm.commerce.foundation.dataload.BusinessObjectLoader">
+		<_config:DataReader
+			className="com.ibm.commerce.foundation.dataload.datareader.UniqueIdReader">
+			<_config:Query>
+				<_config:SQL>
+	    	   <![CDATA[    				
+						SELECT A.CATENTRY_ID,
+						  a.partnumber,
+						  d.identifier AttributeIdentifier,
+						  c.identifier ValueIdentifier,
+						  NVL(e.stringvalue,e.value) value ,
+						  DECODE (b.usage,'1','Defining','Descriptive') Usage,
+						  b.sequence,
+						  e.image1,
+						  b.ATTRVAL_ID
+						FROM catentry a,
+						  CATENTRYATTR b ,
+						  attrval c ,
+						  attr d,
+						  attrvaldesc e
+						WHERE a.catentry_id  =b.catentry_id
+						AND c.attrval_id     =b.attrval_id
+						AND c.attr_id        =d.attr_id
+						AND c.attrval_id     =e.attrval_id
+						AND a.MARKFORDELETE <>1
+						AND e.LANGUAGE_ID    =-1
+						AND EXISTS
+						  (SELECT 0
+						  FROM CATGPENREL ,
+						    CATALOG
+						  WHERE a.catentry_id       = CATGPENREL.catentry_id
+						  AND CATGPENREL.CATALOG_ID = CATALOG.CATALOG_ID
+						  AND (CATALOG.IDENTIFIER   = 'FPSalesCatalog'
+						  OR CATALOG.IDENTIFIER     = 'HWSalesCatalog'
+						  OR CATALOG.IDENTIFIER     ='SMSalesCatalog'
+						  OR CATALOG.IDENTIFIER     = 'BASalesCatalog'
+						  OR CATALOG.IDENTIFIER     = 'AGSalesCatalog'
+						  OR CATALOG.IDENTIFIER     ='HWCSalesCatalog' )
+						  )					
+						ORDER BY a.partnumber
+ 			   ]]>
+				</_config:SQL>
+			</_config:Query>
+		</_config:DataReader>
+
+		<_config:BusinessObjectBuilder>
+			<_config:BusinessObjectMediator
+				className="com.ibm.commerce.foundation.dataload.businessobjectmediator.AssociatedObjectMediator">
+				<_config:Query>
+					<_config:SQL>
+    	    	<![CDATA[
+						SELECT 
+						  A.CATENTRY_ID,
+						  a.partnumber,
+						  d.identifier AttributeIdentifier,
+						  c.identifier ValueIdentifier,
+						  NVL(e.stringvalue,e.value) value ,
+						  DECODE (b.usage,'1','Defining','Descriptive') Usage,
+						  b.sequence,
+						  e.image1,
+						  -1 LANGUAGE_ID
+						FROM catentry a,
+						  CATENTRYATTR b ,
+						  attrval c ,
+						  attr d,
+						  attrvaldesc e						
+						WHERE  
+						a.catentry_id   =b.catentry_id
+						AND c.attrval_id    =b.attrval_id
+						AND c.attr_id       =d.attr_id
+						AND c.attrval_id    =e.attrval_id
+						AND a.MARKFORDELETE<>1
+						AND e.LANGUAGE_ID   =-1 
+						AND a.catentry_id = ?
+						AND c.attrval_id = ?
+    	   		 ]]>
+					</_config:SQL>
+					<_config:Param name="CATENTRY_ID" />
+					<_config:Param name="ATTRVAL_ID" />
+					<_config:ColumnMapping name="PARTNUMBER"
+						value="PartNumber" />
+					<_config:ColumnMapping name="ATTRIBUTEIDENTIFIER"
+						value="AttributeIdentifier" />
+					<_config:ColumnMapping name="VALUEIDENTIFIER"
+						value="ValueIdentifier" />
+					<_config:ColumnMapping name="VALUE" value="value" />
+					<_config:ColumnMapping name="USAGE" value="Usage" />
+					<_config:ColumnMapping name="SEQUENCE" value="sequence" />
+					<_config:ColumnMapping name="IMAGE" value="image1" />
+				</_config:Query>
+				<_config:DataWriter
+					className="com.ibm.commerce.foundation.dataload.datawriter.CSVWriter">
+					<_config:Data>
+						<_config:column number="1" name="PartNumber" />
+						<_config:column number="2" name="AttributeIdentifier" />						
+						<_config:column number="3" name="value" />
+						<_config:column number="4" name="Usage" />
+						<_config:column number="5" name="sequence" />
+						<_config:column number="6" name="image1" />
+					</_config:Data>
+				</_config:DataWriter>
+			</_config:BusinessObjectMediator>
+		</_config:BusinessObjectBuilder>
+
+	</_config:DataLoader>
+
+</_config:DataloadBusinessObjectConfiguration>
