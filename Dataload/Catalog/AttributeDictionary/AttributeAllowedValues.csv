@@ -1,0 +1,2870 @@
+AttributeDictionaryAttributeAllowedValues
+Identifier,ValueIdentifier,ValueUsage,Value,UnitOfMeasure,Image1,Image2,LanguageId
+hardware_fasteners_screwsBarrel length,"1/2""",1,"1/2""",C62,,,-1
+hardware_fasteners_screwsShoulder diameter,"3/8""",1,"3/8""",C62,,,-1
+hardware_fasteners_screwsShoulder diameter,"1/2""",1,"1/2""",C62,,,-1
+hardware_fasteners_screwsLength,"1 1/4""",1,"1 1/4""",C62,,,-1
+hardware_fasteners_screwsLength,"1 1/2""",1,"1 1/2""",C62,,,-1
+hardware_fasteners_screwsLength,"1""",1,"1""",C62,,,-1
+hardware_fasteners_screwsLength,"2 1/4""",1,"2 1/4""",C62,,,-1
+hardware_fasteners_screwsLength,"2 3/8""",1,"2 3/8""",C62,,,-1
+hardware_fasteners_screwsLength,"3""",1,"3""",C62,,,-1
+hardware_fasteners_screwsLength,"2""",1,"2""",C62,,,-1
+hardware_fasteners_screwsThread length,"7/16""",1,"7/16""",C62,,,-1
+hardware_fasteners_screwsThread length,"9/16""",1,"9/16""",C62,,,-1
+hardware_fasteners_screwsShoulder length,"1 7/16""",1,"1 7/16""",C62,,,-1
+hardware_fasteners_screwsShoulder length,"1 7/8""",1,"1 7/8""",C62,,,-1
+hardware_fasteners_screwsMaterial,Stainless steel,1,Stainless steel,C62,,,-1
+hardware_fasteners_screwsMaterial,Alloy steel,1,Alloy steel,C62,,,-1
+hardware_fasteners_screwsMaterial,Brass,1,Brass,C62,,,-1
+hardware_fasteners_screwsHead diameter,"9/16""",1,"9/16""",C62,,,-1
+hardware_fasteners_screwsHead diameter,"3/4""",1,"3/4""",C62,,,-1
+hardware_fasteners_screwsFinish,Uncoated,1,Uncoated,C62,,,-1
+hardware_fasteners_screwsFinish,Zinc,1,Zinc,C62,,,-1
+hardware_fasteners_screwsFinish,Black oxide,1,Black oxide,C62,,,-1
+hardware_fasteners_screwsFinish,Nickel,1,Nickel,C62,,,-1
+hardware_fasteners_screwsFinish,Passivated,1,Passivated,C62,,,-1
+hardware_fasteners_screwsSocket depth,"1/8""",1,"1/8""",C62,,,-1
+hardware_fasteners_screwsSocket depth,"3/16""",1,"3/16""",C62,,,-1
+hardware_fasteners_screwsThread size,"1/4""-20",1,"1/4""-20",C62,,,-1
+hardware_fasteners_screwsThread size,"1/4""-28",1,"1/4""-28",C62,,,-1
+hardware_fasteners_screwsThread size,"5/16""-18",1,"5/16""-18",C62,,,-1
+hardware_fasteners_screwsThread size,"3/8""-16",1,"3/8""-16",C62,,,-1
+hardware_fasteners_screwsThread size,"7/16""-14",1,"7/16""-14",C62,,,-1
+hardware_fasteners_screwsThread size,"5/16""-24",1,"5/16""-24",C62,,,-1
+hardware_fasteners_screwsKnurled,Yes,1,Yes,C62,,,-1
+hardware_fasteners_screwsKnurled,No,1,No,C62,,,-1
+hardware_fasteners_screwsBarrel length,"7/8""",1,"7/8""",C62,,,-1
+hardware_lightingLength,2',1,2',C62,,,-1
+hardware_lightingLength,4',1,4',C62,,,-1
+hardware_lightingLength,8',1,8',C62,,,-1
+hardware_lightingLength,"1 1/2""",1,"1 1/2""",C62,,,-1
+hardware_lightingVolts,12,1,12,C62,,,-1
+hardware_lightingVolts,24,1,24,C62,,,-1
+hardware_lightingVolts,120,1,120,C62,,,-1
+hardware_lightingVolts,130,1,130,C62,,,-1
+hardware_lightingVolts,240,1,240,C62,,,-1
+hardware_lightingWatts,14,1,14,C62,,,-1
+hardware_lightingWatts,18,1,18,C62,,,-1
+hardware_lightingWatts,20,1,20,C62,,,-1
+hardware_lightingWatts,40,1,40,C62,,,-1
+hardware_lightingWatts,15,1,15,C62,,,-1
+hardware_lightingWatts,25,1,25,C62,,,-1
+hardware_lightingWatts,60,1,60,C62,,,-1
+hardware_lightingWatts,100,1,100,C62,,,-1
+hardware_lightingWatts,8,1,8,C62,,,-1
+hardware_lightingWatts,9,1,9,C62,,,-1
+hardware_lightingWatts,50,1,50,C62,,,-1
+hardware_lightingWatts,0.1,1,0.1,C62,,,-1
+hardware_lightingWatts,0.25,1,0.25,C62,,,-1
+hardware_lightingFinish,Frosted,1,Frosted,C62,,,-1
+hardware_lightingFinish,Yellow,1,Yellow,C62,,,-1
+hardware_lightingFinish,Clear,1,Clear,C62,,,-1
+hardware_fasteners_boltsThread size,"1/4""-20",1,"1/4""-20",C62,,,-1
+hardware_fasteners_boltsThread size,"1/4""-28",1,"1/4""-28",C62,,,-1
+hardware_fasteners_boltsThread size,"3/4""-10",1,"3/4""-10",C62,,,-1
+hardware_fasteners_boltsThread size,"1""-8",1,"1""-8",C62,,,-1
+hardware_fasteners_boltsThread size,"3/8""-16",1,"3/8""-16",C62,,,-1
+hardware_fasteners_boltsThread size,"5/16""-18",1,"5/16""-18",C62,,,-1
+hardware_fasteners_boltsThread size,"7/16""-14",1,"7/16""-14",C62,,,-1
+hardware_fasteners_boltsFinish,Unfinished,1,Unfinished,C62,,,-1
+hardware_fasteners_boltsFinish,Black oxide,1,Black oxide,C62,,,-1
+hardware_fasteners_boltsFinish,Zinc,1,Zinc,C62,,,-1
+hardware_fasteners_boltsFinish,Hot dipped galvanized,1,Hot dipped galvanized,C62,,,-1
+hardware_fasteners_boltsShank length,"1 3/4""",1,"1 3/4""",C62,,,-1
+hardware_fasteners_boltsLength,"3 1/4""",1,"3 1/4""",C62,,,-1
+hardware_fasteners_boltsLength,"4 3/8""",1,"4 3/8""",C62,,,-1
+hardware_fasteners_boltsLength,"8""",1,"8""",C62,,,-1
+hardware_fasteners_boltsLength,"10""",1,"10""",C62,,,-1
+hardware_fasteners_boltsLength,"12""",1,"12""",C62,,,-1
+hardware_fasteners_boltsLength,"1 1/4""",1,"1 1/4""",C62,,,-1
+hardware_fasteners_boltsLength,"1 1/2""",1,"1 1/2""",C62,,,-1
+hardware_fasteners_boltsLength,"2""",1,"2""",C62,,,-1
+hardware_fasteners_boltsLength,"2 1/4""",1,"2 1/4""",C62,,,-1
+hardware_fasteners_boltsLength,"3""",1,"3""",C62,,,-1
+hardware_fasteners_boltsLength,"2 1/2""",1,"2 1/2""",C62,,,-1
+hardware_fasteners_boltsLength,"1""",1,"1""",C62,,,-1
+hardware_fasteners_boltsMaterial,Stainless steel,1,Stainless steel,C62,,,-1
+hardware_fasteners_boltsMaterial,Alloy steel,1,Alloy steel,C62,,,-1
+hardware_fasteners_boltsMaterial,Brass,1,Brass,C62,,,-1
+hardware_fasteners_nutsMaterial,Stainless steel,1,Stainless steel,C62,,,-1
+hardware_fasteners_nutsMaterial,Alloy steel,1,Alloy steel,C62,,,-1
+hardware_fasteners_nutsMaterial,Brass,1,Brass,C62,,,-1
+hardware_fasteners_nutsWidth,"1/2""",1,"1/2""",C62,,,-1
+hardware_fasteners_nutsWidth,"3/4""",1,"3/4""",C62,,,-1
+hardware_fasteners_nutsWidth,"9/16""",1,"9/16""",C62,,,-1
+hardware_fasteners_nutsWidth,"3/8""",1,"3/8""",C62,,,-1
+hardware_fasteners_nutsWidth,"15/16""",1,"15/16""",C62,,,-1
+hardware_fasteners_nutsWidth,"1 1/4""",1,"1 1/4""",C62,,,-1
+hardware_fasteners_nutsWidth,"1 1/2""",1,"1 1/2""",C62,,,-1
+hardware_fasteners_nutsWidth,"5/16""",1,"5/16""",C62,,,-1
+hardware_fasteners_nutsFinish,Zinc,1,Zinc,C62,,,-1
+hardware_fasteners_nutsFinish,Hot dipped galvanized,1,Hot dipped galvanized,C62,,,-1
+hardware_fasteners_nutsHeight,"23/64""",1,"23/64""",C62,,,-1
+hardware_fasteners_nutsHeight,"15/16""",1,"15/16""",C62,,,-1
+hardware_fasteners_nutsHeight,"3/8""",1,"3/8""",C62,,,-1
+hardware_fasteners_nutsHeight,"41/64""",1,"41/64""",C62,,,-1
+hardware_fasteners_nutsHeight,"15/32""",1,"15/32""",C62,,,-1
+hardware_fasteners_nutsHeight,"5/8""",1,"5/8""",C62,,,-1
+hardware_fasteners_nutsHeight,"1/8""",1,"1/8""",C62,,,-1
+hardware_fasteners_nutsHeight,"3/16""",1,"3/16""",C62,,,-1
+hardware_fasteners_nutsHeight,"1 1/4""",1,"1 1/4""",C62,,,-1
+hardware_fasteners_nutsHeight,"1 1/2""",1,"1 1/2""",C62,,,-1
+hardware_fasteners_nutsHeight,"1""",1,"1""",C62,,,-1
+hardware_fasteners_nutsHeight,"2""",1,"2""",C62,,,-1
+hardware_fasteners_nutsHeight,"9/16""",1,"9/16""",C62,,,-1
+hardware_fasteners_nutsThread size,"1/4""-20",1,"1/4""-20",C62,,,-1
+hardware_fasteners_nutsThread size,"1/4""-28",1,"1/4""-28",C62,,,-1
+hardware_fasteners_nutsThread size,"5/16""-18",1,"5/16""-18",C62,,,-1
+hardware_fasteners_nutsThread size,"5/16""-24",1,"5/16""-24",C62,,,-1
+hardware_fasteners_nutsThread size,"3/8""-16",1,"3/8""-16",C62,,,-1
+hardware_fasteners_nutsThread size,"7/16""-14",1,"7/16""-14",C62,,,-1
+hardware_fasteners_nutsThread size,"1/2""-10",1,"1/2""-10",C62,,,-1
+SearchAge,2 years,1,2 years,,http://s7d2.scene7.com/is/image/Mattel/{0}2Years?$cat%5Fthumbs$,,-1
+SearchAge,5 years,1,5 years,,http://s7d2.scene7.com/is/image/Mattel/{0}5Years?$cat%5Fthumbs$,,-1
+SearchAge,Baby-on-the-way,1,Baby-on-the-way,,http://s7d2.scene7.com/is/image/Mattel/{0}BabyOnTheWay?$cat%5Fthumbs$,,-1
+SearchAge,4 years,1,4 years,,http://s7d2.scene7.com/is/image/Mattel/{0}4Years?$cat%5Fthumbs$,,-1
+SearchAge,3 years,1,3 years,,http://s7d2.scene7.com/is/image/Mattel/{0}3Years?$cat%5Fthumbs$,,-1
+SearchAge,5 years10051,1,5 years,,http://s7d2.scene7.com/is/image/Mattel/{0}5Years?$cat%5Fthumbs$,,-1
+SearchAge,6-7 years,1,6-7 years,,,,-1
+SearchAge,11-12 years,1,11-12 years,,,,-1
+SearchAge,1 year,2,1 year,,http://s7d2.scene7.com/is/image/Mattel/{0}1Year?$cat%5Fthumbs$,,-1
+SearchAge,Adult,1,Adult,,,,-1
+SearchAge,4 years10051,1,4 years,,http://s7d2.scene7.com/is/image/Mattel/{0}4Years?$cat%5Fthumbs$,,-1
+SearchAge,8-10 years,1,8-10 years,,,,-1
+SearchAge,Birth - 5 months,1,Birth - 5 months,,http://s7d2.scene7.com/is/image/Mattel/{0}Birth5Months?$cat%5Fthumbs$,,-1
+SearchAge,6-11 months,1,18-24 months,,http://s7d2.scene7.com/is/image/Mattel/{0}6to11Months?$cat%5Fthumbs$,,-1
+SearchAge,3 years10051,1,3 years,,http://s7d2.scene7.com/is/image/Mattel/{0}3Years?$cat%5Fthumbs$,,-1
+SearchAge,13+ years,1,13+ years,,,,-1
+MarketingAge,8 &amp; Up,1,8 &amp; Up,,,,-1
+MarketingAge,4-5 years,1,4-5 years,,,,-1
+MarketingAge,6,1,6,,,,-1
+MarketingAge,4 &amp; Up,1,4 &amp; Up,,,,-1
+MarketingAge,8 &amp; up,1,8 &amp; up,,,,-1
+MarketingAge,12 &amp; up,1,12 &amp; up,,,,-1
+MarketingAge,12 &amp; Up,1,12 &amp; Up,,,,-1
+MarketingAge,6 &amp; up,1,6 &amp; up,,,,-1
+MarketingAge,13 &amp; up,1,13 &amp; up,,,,-1
+MarketingAge,3 &amp; Up,1,3 &amp; Up,,,,-1
+MarketingAge,Adult,1,Adult,,,,-1
+CountryOrigin,MX,1,MX,,,,-1
+CountryOrigin,MY,1,MY,,,,-1
+CountryOrigin,CA,1,CA,,,,-1
+CountryOrigin,CH,1,CH,,,,-1
+CountryOrigin,Imported,1,Imported,,,,-1
+CountryOrigin,ID,1,ID,,,,-1
+CountryOrigin,TH,1,TH,,,,-1
+CountryOrigin,Indonesia,1,Indonesia,,,,-1
+MarketingAge,3 and older,1,3 and older,,,,-1
+MarketingAge,6 &amp; Up,1,6 &amp; Up,,,,-1
+MarketingAge,7 &amp; up,1,7 &amp; up,,,,-1
+MarketingAge,7 &amp; Up,1,7 &amp; Up,,,,-1
+MarketingAge,"8 &amp; up,Adult",1,"8 &amp; up,Adult",,,,-1
+MarketingAge,5 &amp; Up,1,5 &amp; Up,,,,-1
+MarketingAge,5 &amp; up,1,5 &amp; up,,,,-1
+MarketingAge,3 &amp; up,1,3 &amp; up,,,,-1
+MarketingAge,13 &amp; Up,1,13 &amp; Up,,,,-1
+MarketingAge,"8 &amp; Up,Adult",1,"8 &amp; Up,Adult",,,,-1
+MarketingAge,4 &amp; up,1,4 &amp; up,,,,-1
+LegalAge,8 &amp; Up,1,8 &amp; Up,,,,-1
+LegalAge,7 &amp; Up,1,7 &amp; Up,,,,-1
+LegalAge,12 &amp; up,1,12 &amp; up,,,,-1
+LegalAge,6 &amp; Up,1,6 &amp; Up,,,,-1
+LegalAge,6 &amp; up,1,6 &amp; up,,,,-1
+LegalAge,12 &amp; Up,1,12 - 36M,,,,-1
+LegalAge,6,1,6,,,,-1
+LegalAge,8 &amp; up,1,8 &amp; up,,,,-1
+LegalAge,5 &amp; Up,1,5 &amp; Up,,,,-1
+LegalAge,7 &amp; up,1,7 &amp; up,,,,-1
+LegalAge,4-5 years,1,4-5 years,,,,-1
+LegalAge,"8 &amp; up,Adult",1,"8 &amp; up,Adult",,,,-1
+LegalAge,13 &amp; Up,1,13 &amp; Up,,,,-1
+LegalAge,Adult,1,Adult,,,,-1
+LegalAge,3 &amp; Up,1,3 &amp; Up,,,,-1
+LegalAge,4 &amp; up,1,4 &amp; up,,,,-1
+LegalAge,13 &amp; up,1,13 &amp; up,,,,-1
+LegalAge,4 &amp; Up,1,4 &amp; Up,,,,-1
+LegalAge,3 &amp; up,1,3 &amp; up,,,,-1
+LegalAge,5 &amp; up,1,5 &amp; up,,,,-1
+LegalAge,"8 &amp; Up,Adult",1,"8 &amp; Up,Adult",,,,-1
+LegalAge,3 and older,1,3 and older,,,,-1
+RibbonAd_AwardWinner,RibbonAd_AwardWinner,2,RibbonAd_AwardWinner,,,,-1
+RibbonAd_Exclusive,RibbonAd_Exclusive,2,RibbonAd_Exclusive,,,,-1
+RibbonAd_New,RibbonAd_New,2,RibbonAd_New,,,,-1
+RibbonAd_Sale,RibbonAd_Sale,2,RibbonAd_Sale,,,,-1
+RibbonAd_TopSeller,RibbonAd_TopSeller,2,RibbonAd_TopSeller,,,,-1
+BoysTopsSize,XS,1,XS,C62,,,-1
+BoysTopsSize,S,1,S,C62,,,-1
+BoysTopsSize,M,1,M,C62,,,-1
+BoysTopsSize,L,1,L,C62,,,-1
+BoysTopsSize,XL,1,XL,C62,,,-1
+BoysTopsSize,2T,1,2T,C62,,,-1
+BoysTopsSize,3T,1,3T,C62,,,-1
+BoysTopsSize,4T,1,4T,C62,,,-1
+BoysTopsSize,5T,1,5T,C62,,,-1
+BoysTopsSize,6,1,6,C62,,,-1
+BoysTopsSize,8,1,8,C62,,,-1
+BoysTopsSize,10,1,10,C62,,,-1
+BoysTopsColor,Orange,1,Orange,C62,,,-1
+BoysTopsColor,Green,1,Green,C62,,,-1
+BoysTopsColor,Multi-color,1,Multi-color,C62,,,-1
+BoysTopsColor,Blue,1,Blue,C62,,,-1
+BoysTopsColor,Brown,1,Brown,C62,,,-1
+BoysTopsColor,White,1,White,C62,,,-1
+VitaminsCategory,Vitamins and minerals,1,Vitamins and minerals,C62,,,-1
+VitaminsCategory,Health booster,1,Health booster,C62,,,-1
+VitaminsCategory,Naturopathic,1,Naturopathic,C62,,,-1
+VitaminsType,Bar,1,Bar,C62,,,-1
+VitaminsType,Capsule,1,Capsule,C62,,,-1
+VitaminsType,Pill,1,Pill,C62,,,-1
+BathAccessoriesColor,Silver,1,Silver,C62,,,-1
+BathAccessoriesColor,Blue,1,Blue,C62,,,-1
+BathAccessoriesColor,Yellow,1,Yellow,C62,,,-1
+BathAccessoriesColor,White,1,White,C62,,,-1
+BathAccessoriesColor,Clear,1,Clear,C62,,,-1
+BathAccessoriesColor,Orange,1,Orange,C62,,,-1
+BathAccessoriesColor,Green,1,Green,C62,,,-1
+BathAccessoriesSize,"24""",1,"24""",C62,,,-1
+BathAccessoriesSize,"24"" x 10""",1,"24"" x 10""",C62,,,-1
+BathAccessoriesSize,"32"" x 54""",1,"32"" x 54""",C62,,,-1
+BathAccessoriesSize,"3"" x 4""",1,"3"" x 4""",C62,,,-1
+BathAccessoriesSize,"3"" W x 17"" H x 4"" D",1,"3"" W x 17"" H x 4"" D",C62,,,-1
+BathAccessoriesSize,"4"" x 3""",1,"4"" x 3""",C62,,,-1
+BathAccessoriesSize,"3"" x 6""",1,"3"" x 6""",C62,,,-1
+BathAccessoriesSize,4 pc. set,1,4 pc. set,C62,,,-1
+BathAccessoriesSize,4 pc. Set,1,4 pc. Set,C62,,,-1
+BathAccessoriesSize,"4"" x 4""",1,"4"" x 4""",C62,,,-1
+BathAccessoriesSize,"4"" x 8""",1,"4"" x 8""",C62,,,-1
+BathAccessoriesSize,"4"" x 6""",1,"4"" x 6""",C62,,,-1
+MenSuitsColor,Dark gray,1,Dark gray,C62,,,-1
+MenSuitsColor,Black,1,Black,C62,,,-1
+MenSuitsColor,Gray,1,Gray,C62,,,-1
+MenSuitsColor,Navy,1,Navy,C62,,,-1
+MenSuitsSize,38R,1,38R,C62,,,-1
+MenSuitsSize,40R,1,40R,C62,,,-1
+MenSuitsSize,42R,1,42R,C62,,,-1
+MenSuitsSize,42L,1,42L,C62,,,-1
+MenSuitsSize,44R,1,44R,C62,,,-1
+MenSuitsSize,44L,1,44L,C62,,,-1
+MenSuitsSize,38L,1,38L,C62,,,-1
+MenSuitsSize,46R,1,46R,C62,,,-1
+MenSuitsSize,46L,1,46L,C62,,,-1
+MenSuitsSize,50R,1,50R,C62,,,-1
+MenSuitsSize,50L,1,50L,C62,,,-1
+MenSuitsSize,52R,1,52R,C62,,,-1
+MenSuitsSize,52L,1,52L,C62,,,-1
+MenSuitsSize,48L,1,48L,C62,,,-1
+MenSuitsSize,40L,1,40L,C62,,,-1
+TablewareColor,Clear,1,Clear,C62,,,-1
+TablewareColor,Silver,1,Silver,C62,,,-1
+TablewareColor,White,1,White,C62,,,-1
+TablewareColor,Red,1,Red,C62,,,-1
+TablewareColor,Blue,1,Blue,C62,,,-1
+fulfillmentFrequency,1,1,1,MON,,,-1
+paymentFrequency,0,1,0,DAY,,,-1
+timePeriod,1,1,1,ANN,,,-1
+timePeriod,2,1,2,ANN,,,-1
+AppliancesColor,White,1,White,C62,,,-1
+AppliancesColor,Silver,1,Silver,C62,,,-1
+AppliancesColor,Black,1,Black,C62,,,-1
+AppliancesColor,Gray,1,Gray,C62,,,-1
+AppliancesColor,Red,1,Red,C62,,,-1
+AppliancesColor,Green,1,Green,C62,,,-1
+AppliancesColor,Blue,1,Blue,C62,,,-1
+AppliancesColor,Gold,1,Gold,C62,,,-1
+swatchSize,S,1,S,,images/catalog/apparel/women/Swatches/swatch_size/size_s_enabled.png,,-1
+swatchSize,M,1,M,,images/catalog/apparel/women/Swatches/swatch_size/size_m_enabled.png,,-1
+swatchSize,L,1,L,,images/catalog/apparel/women/Swatches/swatch_size/size_l_enabled.png,,-1
+swatchSize,XS,1,XS,,images/catalog/apparel/women/Swatches/swatch_size/size_xs_enabled.png,,-1
+swatchSize,XL,1,XL,,images/catalog/apparel/women/Swatches/swatch_size/size_xl_enabled.png,,-1
+swatchSize,2XL,1,2XL,,images/catalog/apparel/women/Swatches/swatch_size/size_xxl_enabled.png,,-1
+swatchcolor,Red,1,Red,,images/catalog/apparel/women/Swatches/swatch_red.png,,-1
+swatchcolor,Teal,1,Teal,,images/catalog/apparel/women/Swatches/swatch_teal.png,,-1
+swatchcolor,Yellow,1,Yellow,,images/catalog/apparel/women/Swatches/swatch_yellow.png,,-1
+swatchcolor,Gray,1,Gray,,images/catalog/apparel/women/Swatches/swatch_gray.png,,-1
+swatchcolor,Orange,1,Orange,,images/catalog/apparel/women/Swatches/swatch_orange.png,,-1
+swatchcolor,Blue,1,Blue,,images/catalog/apparel/women/Swatches/swatch_blue.png,,-1
+swatchcolor,Purple,1,Purple,,images/catalog/apparel/women/Swatches/swatch_purple.png,,-1
+swatchcolor,White,1,White,,images/catalog/apparel/women/Swatches/swatch_white.png,,-1
+swatchcolor,Silver,1,Silver,,images/catalog/apparel/women/Swatches/swatch_silver.png,,-1
+swatchcolor,Brown,1,Brown,,images/catalog/apparel/women/Swatches/swatch_brown.png,,-1
+swatchcolor,Pink,1,Pink,,images/catalog/apparel/women/Swatches/swatch_pink.png,,-1
+swatchcolor,Light Blue,1,Light Blue,,images/catalog/apparel/women/Swatches/swatch_lightblue.png,,-1
+swatchcolor,Violet,1,Violet,,images/catalog/apparel/women/Swatches/swatch_purple.png,,-1
+swatchcolor,Black,1,Black,,images/catalog/apparel/women/Swatches/swatch_black.png,,-1
+swatchcolor,Beige,1,Beige,,images/catalog/apparel/women/Swatches/swatch_beige.png,,-1
+swatchcolor,Dark Blue,1,Dark Blue,,images/catalog/apparel/women/Swatches/swatch_navy.png,,-1
+swatchcolor,Gold,1,Gold,,images/catalog/apparel/women/Swatches/swatch_gold.png,,-1
+swatchcolor,Green,1,Green,,images/catalog/apparel/women/Swatches/swatch_green.png,,-1
+construction,Knit,1,Knit,,,,-1
+construction,Woven,1,Woven,,,,-1
+length,Short,1,Short,,,,-1
+length,Mid Length,1,Mid Length,,,,-1
+length,Long,1,Long,,,,-1
+material,Synthetic,1,Synthetic,,,,-1
+material,Georgette,1,Georgette,,,,-1
+material,Cotton blend,1,Cotton blend,,,,-1
+material,100% cotton,1,100% cotton,,,,-1
+material,Silk,1,Silk,,,,-1
+material,Denim,1,Denim,,,,-1
+GirlsPantsColor,Blue,1,Blue,C62,,,-1
+GirlsPantsColor,Gray,1,Gray,C62,,,-1
+GirlsPantsSize,2T,1,2T,C62,,,-1
+GirlsPantsSize,3T,1,3T,C62,,,-1
+GirlsPantsSize,4T,1,4T,C62,,,-1
+GirlsPantsSize,5T,1,5T,C62,,,-1
+GirlsPantsSize,6,1,6,C62,,,-1
+GirlsPantsSize,8,1,8,C62,,,-1
+GirlsPantsSize,10,1,10,C62,,,-1
+GirlsPantsSize,12,1,12,C62,,,-1
+GirlsPantsSize,14,1,14,C62,,,-1
+GirlsPantsSize,12 mos,1,12 mos,C62,,,-1
+GirlsPantsSize,18 mos,1,18 mos,C62,,,-1
+GirlsPantsSize,24 mos,1,24 mos,C62,,,-1
+GirlsShoesColor,Black,1,Black,C62,,,-1
+GirlsShoesColor,Pink,1,Pink,C62,,,-1
+GirlsShoesColor,Silver,1,Silver,C62,,,-1
+GirlsShoesColor,Red,1,Red,C62,,,-1
+GirlsShoesColor,Multi-Color,1,Multi-Color,C62,,,-1
+GirlsShoesSize,6,1,6,C62,,,-1
+GirlsShoesSize,7,1,7,C62,,,-1
+GirlsShoesSize,8,1,8,C62,,,-1
+GirlsShoesSize,9,1,9,C62,,,-1
+GirlsShoesSize,10,1,10,C62,,,-1
+GirlsShoesSize,11,1,11,C62,,,-1
+GirlsShoesSize,12,1,12,C62,,,-1
+GirlsShoesSize,13,1,13,C62,,,-1
+GirlsShoesSize,2T,1,2T,C62,,,-1
+GirlsShoesSize,3T,1,3T,C62,,,-1
+GirlsShoesSize,4T,1,4T,C62,,,-1
+GirlsShoesSize,5T,1,5T,C62,,,-1
+GirlsShoesSize,12 mos,1,12 mos,C62,,,-1
+GirlsShoesSize,18 mos,1,18 mos,C62,,,-1
+GirlsShoesSize,24 mos,1,24 mos,C62,,,-1
+material,Wool,1,Wool,,,,-1
+occasion,Cocktail & Evening,1,Cocktail & Evening,,,,-1
+occasion,Casual,1,Casual,,,,-1
+occasion,Career,1,Career,,,,-1
+occasion,"Career, Casual",1,"Career, Casual",,,,-1
+occasion,"Cocktail & Evening, Casual",1,"Cocktail & Evening, Casual",,,,-1
+WomenHandbagsColor,Black,1,Black,,,,-1
+WomenHandbagsColor,White,1,White,,,,-1
+WomenHandbagsColor,Multi-color,1,Multi-color,,,,-1
+WomenHandbagsColor,Red,1,Red,,,,-1
+WomenHandbagsColor,Beige,1,Beige,,,,-1
+WomenHandbagsColor,Blue,1,Blue,,,,-1
+WomenHandbagsColor,Brown,1,Brown,,,,-1
+WomenHandbagsColor,Silver,1,Silver,,,,-1
+WomenAccessoriesColor,Blue,1,Blue,,,,-1
+WomenAccessoriesColor,Brown,1,Brown,,,,-1
+WomenAccessoriesColor,Gray,1,Gray,,,,-1
+WomenAccessoriesColor,Purple,1,Purple,,,,-1
+WomenAccessoriesColor,Yellow,1,Yellow,,,,-1
+WomenAccessoriesColor,Black,1,Black,,,,-1
+WomenAccessoriesColor,Pink,1,Pink,,,,-1
+WomenAccessoriesColor,Multi-color,1,Multi-color,,,,-1
+WomenAccessoriesSize,6 3/4,1,6 3/4,,,,-1
+WomenAccessoriesSize,7,1,7,,,,-1
+WomenAccessoriesSize,7 1/4,1,7 1/4,,,,-1
+WomenAccessoriesSize,7 1/2,1,7 1/2,,,,-1
+WomenAccessoriesSize,7 3/4,1,7 3/4,,,,-1
+WomenAccessoriesSize,32,1,32,,,,-1
+WomenAccessoriesSize,34,1,34,,,,-1
+WomenAccessoriesSize,36,1,36,,,,-1
+WomenAccessoriesSize,40,1,40,,,,-1
+WomenAccessoriesSize,42,1,42,,,,-1
+WomenAccessoriesSize,44,1,44,,,,-1
+GirlsTopsColor,Multi-color,1,Multi-color,C62,,,-1
+GirlsTopsColor,Blue,1,Blue,C62,,,-1
+GirlsTopsColor,Pink,1,Pink,C62,,,-1
+GirlsTopsColor,Green,1,Green,C62,,,-1
+GirlsTopsColor,White,1,White,C62,,,-1
+GirlsTopsColor,Red,1,Red,C62,,,-1
+GirlsTopsColor,Brown,1,Brown,C62,,,-1
+GirlsTopsColor,Orange,1,Orange,C62,,,-1
+GirlsTopsColor,Purple,1,Purple,C62,,,-1
+GirlsTopsSize,12 Mos,1,12 Mos,C62,,,-1
+GirlsTopsSize,18 Mos,1,18 Mos,C62,,,-1
+GirlsTopsSize,24 Mos,1,24 Mos,C62,,,-1
+GirlsTopsSize,2T,1,2T,C62,,,-1
+GirlsTopsSize,3T,1,3T,C62,,,-1
+GirlsTopsSize,4T,1,4T,C62,,,-1
+GirlsTopsSize,5T,1,5T,C62,,,-1
+GirlsTopsSize,6,1,6,C62,,,-1
+GirlsTopsSize,8,1,8,C62,,,-1
+GirlsTopsSize,10,1,10,C62,,,-1
+GirlsTopsSize,12,1,12,C62,,,-1
+GirlsTopsSize,14,1,14,C62,,,-1
+GirlsTopsSize,XS,1,XS,C62,,,-1
+GirlsTopsSize,S,1,S,C62,,,-1
+GirlsTopsSize,M,1,M,C62,,,-1
+GirlsTopsSize,L,1,L,C62,,,-1
+GirlsTopsSize,XL,1,XL,C62,,,-1
+MenJacketsColor,Taupe,1,Taupe,C62,,,-1
+MenJacketsColor,Tan,1,Tan,C62,,,-1
+MenJacketsColor,Black,1,Black,C62,,,-1
+MenJacketsColor,Cream,1,Cream,C62,,,-1
+MenJacketsColor,Gray,1,Gray,C62,,,-1
+MenJacketsColor,Brown,1,Brown,C62,,,-1
+MenJacketsColor,Light brown,1,Light brown,C62,,,-1
+MenJacketsSize,XS,1,XS,C62,,,-1
+MenJacketsSize,S,1,S,C62,,,-1
+MenJacketsSize,M,1,M,C62,,,-1
+MenJacketsSize,L,1,L,C62,,,-1
+MenJacketsSize,XL,1,XL,C62,,,-1
+MenJacketsSize,XXL,1,XXL,C62,,,-1
+MenAccessoriesSize,XS,1,XS,C62,,,-1
+MenAccessoriesSize,S,1,S,C62,,,-1
+MenAccessoriesSize,M,1,M,C62,,,-1
+MenAccessoriesSize,L,1,L,C62,,,-1
+MenAccessoriesSize,XL,1,XL,C62,,,-1
+MenAccessoriesSize,XXL,1,XXL,C62,,,-1
+MenAccessoriesSize,Extra long,1,Extra long,C62,,,-1
+MenAccessoriesSize,Regular length,1,Regular length,C62,,,-1
+MenAccessoriesColor,Tan,1,Tan,C62,,,-1
+MenAccessoriesColor,Caramel,1,Caramel,C62,,,-1
+MenAccessoriesColor,Black,1,Black,C62,,,-1
+MenAccessoriesColor,Cream,1,Cream,C62,,,-1
+MenAccessoriesColor,Orange,1,Orange,C62,,,-1
+MenAccessoriesColor,Navy/yellow stripe,1,Navy/yellow stripe,C62,,,-1
+MenAccessoriesColor,Blue/gray stripe,1,Blue/gray stripe,C62,,,-1
+MenAccessoriesColor,Red,1,Red,C62,,,-1
+MenAccessoriesColor,Blue,1,Blue,C62,,,-1
+GirlsDressesSkirtsSize,6,1,6,C62,,,-1
+GirlsDressesSkirtsSize,8,1,8,C62,,,-1
+GirlsDressesSkirtsSize,10,1,10,C62,,,-1
+GirlsDressesSkirtsSize,12,1,12,C62,,,-1
+GirlsDressesSkirtsSize,2T,1,2T,C62,,,-1
+GirlsDressesSkirtsSize,3T,1,3T,C62,,,-1
+GirlsDressesSkirtsSize,4T,1,4T,C62,,,-1
+GirlsDressesSkirtsSize,5T,1,5T,C62,,,-1
+GirlsDressesSkirtsSize,12 mos,1,12 mos,C62,,,-1
+GirlsDressesSkirtsSize,18 mos,1,18 mos,C62,,,-1
+GirlsDressesSkirtsSize,24 mos,1,24 mos,C62,,,-1
+GirlsDressesSkirtsSize,14,1,14,C62,,,-1
+GirlsDressesSkirtsColor,Multi-color,1,Multi-color,C62,,,-1
+GirlsDressesSkirtsColor,White,1,White,C62,,,-1
+GirlsDressesSkirtsColor,Blue,1,Blue,C62,,,-1
+GirlsDressesSkirtsColor,Peach,1,Peach,C62,,,-1
+GirlsDressesSkirtsColor,Charcoal,1,Charcoal,C62,,,-1
+GirlsDressesSkirtsColor,Black,1,Black,C62,,,-1
+MenShirtsColor,Multi-color,1,Multi-color,C62,,,-1
+MenShirtsColor,Blue,1,Blue,C62,,,-1
+MenShirtsColor,Ivory,1,Ivory,C62,,,-1
+MenShirtsColor,Light blue,1,Light blue,C62,,,-1
+MenShirtsColor,Gray,1,Gray,C62,,,-1
+MenShirtsColor,White,1,White,C62,,,-1
+MenShirtsColor,Purple,1,Purple,C62,,,-1
+MenShirtsColor,Black,1,Black,C62,,,-1
+MenShirtsColor,Denim,1,Denim,C62,,,-1
+MenShirtsColor,Taupe,1,Taupe,C62,,,-1
+MenShirtsSize,XS,1,XS,C62,,,-1
+MenShirtsSize,S,1,S,C62,,,-1
+MenShirtsSize,M,1,M,C62,,,-1
+MenShirtsSize,L,1,L,C62,,,-1
+MenShirtsSize,XL,1,XL,C62,,,-1
+MenShirtsSize,XXL,1,XXL,C62,,,-1
+FurnitureType,Sofa,1,Sofa,C62,,,-1
+FurnitureType,Table,1,Table,C62,,,-1
+FurnitureType,Chair,1,Chair,C62,,,-1
+FurnitureType,Wardrobe,1,Wardrobe,C62,,,-1
+FurnitureType,Bed,1,Bed,C62,,,-1
+FurnitureType,Chest of drawer,1,Chest of drawer,C62,,,-1
+FurnitureType,Dining chair,1,Dining chair,C62,,,-1
+FurnitureType,Study table,1,Study table,C62,,,-1
+FurnitureColor,Black,1,Black,C62,,,-1
+FurnitureColor,Red,1,Red,C62,,,-1
+FurnitureColor,Brown,1,Brown,C62,,,-1
+FurnitureColor,White,1,White,C62,,,-1
+FurnitureColor,Blue,1,Blue,C62,,,-1
+FurnitureColor,Dark brown,1,Dark brown,C62,,,-1
+FurnitureColor,Light brown,1,Light brown,C62,,,-1
+MenShoesShoe Size,8,1,8,,,,-1
+MenShoesShoe Size,9,1,9,,,,-1
+MenShoesShoe Size,10,1,10,,,,-1
+MenShoesShoe Size,10.5,1,10.5,C62,,,-1
+MenShoesShoe Size,11,1,11,C62,,,-1
+MenShoesShoe Size,11.5,1,11.5,C62,,,-1
+MenShoesShoe Size,12,1,12,C62,,,-1
+MenShoesShoe Size,13,1,13,C62,,,-1
+MenShoesColor,Black,1,Black,C62,,,-1
+MenShoesColor,Cognac,1,Cognac,C62,,,-1
+MenShoesColor,Brown,1,Brown,C62,,,-1
+MenShoesColor,Tan,1,Tan,C62,,,-1
+MenShoesColor,Gray,1,Gray,C62,,,-1
+MenShoesColor,Navy,1,Navy,C62,,,-1
+MenShoesColor,Multi-color,1,Multi-color,C62,,,-1
+MenShoesColor,Dark brown,1,Dark brown,C62,,,-1
+MenShoesColor,Black/red,1,Black/red,C62,,,-1
+MenShoesColor,Blue,1,Blue,C62,,,-1
+MenPantsInseam Length,30,1,30,C62,,,-1
+MenPantsInseam Length,32,1,32,C62,,,-1
+MenPantsInseam Length,34,1,34,C62,,,-1
+MenPantsInseam Length,36,1,36,C62,,,-1
+MenPantsWaist Size,34,1,34,C62,,,-1
+MenPantsWaist Size,36,1,36,C62,,,-1
+MenPantsWaist Size,38,1,38,C62,,,-1
+MenPantsWaist Size,32,1,32,C62,,,-1
+MenPantsWaist Size,40,1,40,C62,,,-1
+MenPantsColor,Blue,1,Blue,C62,,,-1
+MenPantsColor,Light Blue,1,Light Blue,C62,,,-1
+MenPantsColor,Taupe,1,Taupe,C62,,,-1
+MenPantsColor,Navy,1,Navy,C62,,,-1
+MenPantsColor,Gray,1,Gray,C62,,,-1
+MenPantsColor,Charcoal,1,Charcoal,C62,,,-1
+KitchenwareMaterial,Stainless steel,1,Stainless steel,C62,,,-1
+KitchenwareMaterial,Wood (birch),1,Wood (birch),C62,,,-1
+KitchenwareMaterial,Wood (bamboo),1,Wood (bamboo),C62,,,-1
+KitchenwareMaterial,Wood (cherry),1,Wood (cherry),C62,,,-1
+KitchenwareMaterial,Wood (oak),1,Wood (oak),C62,,,-1
+KitchenwareMaterial,Glass,1,Glass,C62,,,-1
+KitchenwarePot material,Stainless steel,1,Stainless steel,C62,,,-1
+KitchenwarePot material,Enamel-coated ceramic,1,Enamel-coated ceramic,C62,,,-1
+KitchenwareLid material,Stainless steel,1,Stainless steel,C62,,,-1
+KitchenwareContainer,Stainless steel,1,Stainless steel,C62,,,-1
+KitchenwareContainer,Wood (oak),1,Wood (oak),C62,,,-1
+KitchenwareHandle material,Stainless steel,1,Stainless steel,C62,,,-1
+KitchenwareHandle material,Molded plastic,1,Molded plastic,C62,,,-1
+KitchenwareHandle material,Enamel-coated ceramic,1,Enamel-coated ceramic,C62,,,-1
+KitchenwareStyle,Oven mitten,1,Oven mitten,C62,,,-1
+KitchenwareStyle,Square pot holder,1,Square pot holder,C62,,,-1
+KitchenwareStyle,Conventional,1,Conventional,C62,,,-1
+KitchenwareStyle,full length oven mitten,1,full length oven mitten,C62,,,-1
+KitchenwareBlade material,Stainless steel,1,Stainless steel,C62,,,-1
+KitchenwareColor,Blue,1,Blue,C62,,,-1
+KitchenwareColor,Multi-color,1,Multi-color,C62,,,-1
+WomenSkirtsColor,Blue,1,Blue,C62,,,-1
+WomenSkirtsColor,Green,1,Green,C62,,,-1
+WomenSkirtsColor,Black,1,Black,C62,,,-1
+WomenSkirtsColor,Gray,1,Gray,C62,,,-1
+WomenSkirtsColor,Multi-color,1,Multi-color,C62,,,-1
+WomenSkirtsColor,Orange,1,Orange,C62,,,-1
+WomenSkirtsSize,XS,1,XS,C62,,,-1
+WomenSkirtsSize,S,1,S,C62,,,-1
+WomenSkirtsSize,M,1,M,C62,,,-1
+WomenSkirtsSize,L,1,L,C62,,,-1
+WomenSkirtsSize,XL,1,XL,C62,,,-1
+WomenSkirtsSize,XXL,1,XXL,C62,,,-1
+WomenSkirtsSize,XXXL,1,XXXL,C62,,,-1
+LightingColor,Red,1,Red,C62,,,-1
+LightingColor,White,1,White,C62,,,-1
+LightingColor,Silver,1,Silver,C62,,,-1
+LightingColor,Clear,1,Clear,C62,,,-1
+LightingColor,Black,1,Black,C62,,,-1
+LightingColor,Chocolate,1,Chocolate,C62,,,-1
+LightingColor,Ivory,1,Ivory,C62,,,-1
+LightingColor,Gray,1,Gray,C62,,,-1
+LightingColor,Orange,1,Orange,C62,,,-1
+WomenSweatersSize,XS,1,XS,,,,-1
+WomenSweatersSize,S,1,S,,,,-1
+WomenSweatersSize,M,1,M,,,,-1
+WomenSweatersSize,L,1,L,,,,-1
+WomenSweatersSize,XL,1,XL,,,,-1
+WomenSweatersColor,Black,1,Black,,,,-1
+WomenSweatersColor,Pink,1,Pink,,,,-1
+WomenSweatersColor,Purple,1,Purple,,,,-1
+WomenSweatersColor,Gray,1,Gray,,,,-1
+WomenSweatersColor,White,1,White,,,,-1
+WomenSweatersColor,Multi-color,1,Multi-color,,,,-1
+WomenAccessoriesSize,46,1,46,,,,-1
+DairyType,Butter,1,Butter,C62,,,-1
+DairyType,Milk,1,Milk,C62,,,-1
+DairyType,Cheese,1,Cheese,C62,,,-1
+DairyType,Yogourt,1,Yogourt,C62,,,-1
+DairyType,Eggs,1,Eggs,C62,,,-1
+DairyBrand,Madisons Choice,1,Madisons Choice,C62,,,-1
+DairyBrand,Oxford Organics,1,Oxford Organics,C62,,,-1
+DairyBrand,Delissima,1,Delissima,C62,,,-1
+DairyBrand,Pierre's Fromage,1,Pierre's Fromage,C62,,,-1
+FruitType,Citrus,1,Citrus,C62,,,-1
+FruitType,Berries,1,Berries,C62,,,-1
+FruitType,Tropical,1,Tropical,C62,,,-1
+FruitType,Pears,1,Pears,C62,,,-1
+FruitType,Grapes,1,Grapes,C62,,,-1
+FruitType,Peaches,1,Peaches,C62,,,-1
+FruitType,Apples,1,Apples,C62,,,-1
+FruitBrand,Sunshine,1,Sunshine,C62,,,-1
+FruitBrand,Oxford Orchards,1,Oxford Orchards,C62,,,-1
+FruitBrand,California Sun,1,California Sun,C62,,,-1
+FruitBrand,Winston Organics,1,Winston Organics,C62,,,-1
+WomenShoesShoe Size,XS,1,XS,,,,-1
+WomenShoesShoe Size,S,1,S,,,,-1
+WomenShoesShoe Size,M,1,M,,,,-1
+WomenShoesShoe Size,L,1,L,,,,-1
+WomenShoesShoe Size,XL,1,XL,,,,-1
+WomenShoesShoe Size,XXL,1,XXL,,,,-1
+WomenShoesShoe Size,XXXL,1,XXXL,,,,-1
+WomenShoesColor,Black,1,Black,,,,-1
+WomenShoesColor,Multi-color,1,Multi-color,,,,-1
+WomenShoesColor,Red,1,Red,,,,-1
+WomenShoesColor,Silver,1,Silver,,,,-1
+WomenShoesColor,Brown,1,Brown,,,,-1
+WomenShoesColor,Gray,1,Gray,,,,-1
+WomenShirtsBlousesSize,XS,1,XS,C62,,,-1
+WomenShirtsBlousesSize,S,1,S,C62,,,-1
+WomenShirtsBlousesSize,M,1,M,C62,,,-1
+WomenShirtsBlousesSize,L,1,L,C62,,,-1
+WomenShirtsBlousesSize,XL,1,XL,C62,,,-1
+WomenShirtsBlousesSize,XXL,1,XXL,C62,,,-1
+WomenShirtsBlousesSize,XXXL,1,XXXL,C62,,,-1
+WomenShirtsBlousesColor,White,1,White,C62,,,-1
+WomenShirtsBlousesColor,Brown,1,Brown,C62,,,-1
+WomenShirtsBlousesColor,Multi-color,1,Multi-color,C62,,,-1
+WomenShirtsBlousesColor,Blue,1,Blue,C62,,,-1
+WomenShirtsBlousesColor,Pink,1,Pink,C62,,,-1
+WomenShirtsBlousesColor,Gray,1,Gray,C62,,,-1
+WomenShirtsBlousesColor,Beige,1,Beige,C62,,,-1
+WomenShirtsBlousesColor,Black,1,Black,C62,,,-1
+WomenShirtsBlousesColor,Red,1,Red,C62,,,-1
+MeatType,Fish,1,Fish,C62,,,-1
+MeatType,Beef,1,Beef,C62,,,-1
+MeatType,Salmon,1,Salmon,C62,,,-1
+MeatType,Chicken,1,Chicken,C62,,,-1
+MeatType,Red Snapper,1,Red Snapper,C62,,,-1
+MeatType,Lamb,1,Lamb,C62,,,-1
+MeatType,Pork,1,Pork,C62,,,-1
+MeatType,Lobster,1,Lobster,C62,,,-1
+MeatBrand,Delissima,1,Delissima,C62,,,-1
+MeatBrand,Winston Organics,1,Winston Organics,C62,,,-1
+MeatBrand,Captain Stewarts,1,Captain Stewarts,C62,,,-1
+MeatBrand,Hampton Poultry,1,Hampton Poultry,C62,,,-1
+MeatBrand,Madisons Choice,1,Madisons Choice,C62,,,-1
+MeatBrand,Australia Lamb Co.,1,Australia Lamb Co.,C62,,,-1
+VegetablesBrand,Oxford Orchards,1,Oxford Orchards,C62,,,-1
+VegetablesBrand,Winston Organics,1,Winston Organics,C62,,,-1
+VegetablesBrand,Bluthe Potato Co.,1,Bluthe Potato Co.,C62,,,-1
+VegetablesBrand,California Sun,1,California Sun,C62,,,-1
+VegetablesType,Peas,1,Peas,C62,,,-1
+VegetablesType,Lettuce,1,Lettuce,C62,,,-1
+VegetablesType,Bell Peppers,1,Bell Peppers,C62,,,-1
+WomenPantsColor,Blue,1,Blue,,,,-1
+WomenPantsColor,Black,1,Black,,,,-1
+WomenPantsColor,Gray,1,Gray,,,,-1
+WomenPantsColor,Brown,1,Brown,,,,-1
+WomenPantsColor,Beige,1,Beige,,,,-1
+WomenPantsSize,XS,1,XS,,,,-1
+WomenPantsSize,S,1,S,,,,-1
+WomenPantsSize,M,1,M,,,,-1
+WomenPantsSize,L,1,L,,,,-1
+WomenPantsSize,XL,1,XL,,,,-1
+BoysPantsColor,Blue,1,Blue,C62,,,-1
+BoysPantsColor,Black,1,Black,C62,,,-1
+BoysPantsColor,Gray,1,Gray,C62,,,-1
+BoysPantsSize,S,1,S,C62,,,-1
+BoysPantsSize,M,1,M,C62,,,-1
+BoysPantsSize,L,1,L,C62,,,-1
+BoysPantsSize,XL,1,XL,C62,,,-1
+BoysShoesColor,Black,1,Black,C62,,,-1
+BoysShoesColor,Brown,1,Brown,C62,,,-1
+BoysShoesColor,Blue,1,Blue,C62,,,-1
+BoysShoesColor,Orange,1,Orange,C62,,,-1
+BoysShoesColor,Maroon,1,Maroon,C62,,,-1
+BoysShoesSize,1,1,1,C62,,,-1
+BoysShoesSize,2,1,2,C62,,,-1
+BoysShoesSize,3,1,3,C62,,,-1
+BoysShoesSize,4,1,4,C62,,,-1
+BoysShoesSize,5,1,5,C62,,,-1
+BoysShoesSize,5.5,1,5.5,C62,,,-1
+BoysShoesSize,6,1,6,C62,,,-1
+BoysShoesSize,6.5,1,6.5,C62,,,-1
+BoysShoesSize,7,1,7,C62,,,-1
+BoysShoesSize,7.5,1,7.5,C62,,,-1
+BoysShoesSize,8,1,8,C62,,,-1
+BoysShoesSize,8.5,1,8.5,C62,,,-1
+BoysShoesSize,9,1,9,C62,,,-1
+BoysShoesSize,9.5,1,9.5,C62,,,-1
+BoysShoesSize,10,1,10,C62,,,-1
+VegetablesType,Cucumbers,1,Cucumbers,C62,,,-1
+VegetablesType,Onions,1,Onions,C62,,,-1
+VegetablesType,Red potatoes,1,Red potatoes,C62,,,-1
+VegetablesType,Tomatoes,1,Tomatoes,C62,,,-1
+VegetablesType,Broccoli,1,Broccoli,C62,,,-1
+VegetablesType,Carrots,1,Carrots,C62,,,-1
+VegetablesType,Eggplant,1,Eggplant,C62,,,-1
+VegetablesType,Cabbages,1,Cabbages,C62,,,-1
+MedicinceCategory,Cold Relief,1,Cold Relief,C62,,,-1
+MedicinceCategory,Immune Booster,1,Immune Booster,C62,,,-1
+MedicinceCategory,Naturopathic,1,Naturopathic,C62,,,-1
+MedicinceCategory,Pain relief,1,Pain relief,C62,,,-1
+MedicinceCategory,Cold and sinus relief,1,Cold and sinus relief,C62,,,-1
+MedicinceCategory,Cold and flu relief,1,Cold and flu relief,C62,,,-1
+MedicinceType,Lozenge,1,Lozenge,C62,,,-1
+MedicinceType,Tablet,1,Tablet,C62,,,-1
+MedicinceType,Pill,1,Pill,C62,,,-1
+MedicinceType,Capsule,1,Capsule,C62,,,-1
+MedicinceType,Liquid,1,Liquid,C62,,,-1
+ComputersTabletsSize,"7""",1,"7""",C62,,,-1
+ComputersTabletsSize,"4""",1,"4""",C62,,,-1
+ComputersTabletsSize,"5""",1,"5""",C62,,,-1
+ComputersTabletsSize,"10""",1,"10""",C62,,,-1
+ComputersTabletsSize,"8""",1,"8""",C62,,,-1
+ComputersTabletsBattery Life,12 hours,1,12 hours,C62,,,-1
+ComputersTabletsBattery Life,8 hours,1,8 hours,C62,,,-1
+ComputersTabletsBattery Life,24 hours,1,24 hours,C62,,,-1
+ComputersTabletsBattery Life,4 hours,1,4 hours,C62,,,-1
+ComputersTabletsBrand,DVR Technics,1,DVR Technics,C62,,,-1
+ComputersTabletsBrand,Adelee Plus,1,Adelee Plus,C62,,,-1
+ComputersTabletsBrand,Eye Dee Team,1,Eye Dee Team,C62,,,-1
+ComputersTabletsStorage,16 GB,1,16 GB,C62,,,-1
+ComputersTabletsStorage,8 GB,1,8 GB,C62,,,-1
+ComputersTabletsStorage,32 GB,1,32 GB,C62,,,-1
+ComputersTabletsStorage,64 GB,1,64 GB,C62,,,-1
+ComputersAccessoriesBrand,Eye Dee Team,1,Eye Dee Team,C62,,,-1
+ComputersAccessoriesBrand,Adelee Plus,1,Adelee Plus,C62,,,-1
+ComputersAccessoriesBrand,DVR Technics,1,DVR Technics,C62,,,-1
+ComputersAccessoriesSize,"24""",1,"24""",C62,,,-1
+ComputersAccessoriesSpeed,15 ppm,1,15 ppm,C62,,,-1
+ComputersAccessoriesSpeed,150 Mbps,1,150 Mbps,C62,,,-1
+ComputersComponentsOperating System Class,Server,1,Server,C62,,,-1
+ComputersComponentsOperating System Class,Workstation,1,Workstation,C62,,,-1
+ComputersComponentsRecording Speed,8x,1,8x,C62,,,-1
+ComputersComponentsRecording Speed,16x,1,16x,C62,,,-1
+ComputersComponentsVRAM,1 GB,1,1 GB,C62,,,-1
+ComputersComponentsVRAM,3 GB,1,3 GB,C62,,,-1
+ComputersComponentsRAM Size,2 GB,1,2 GB,C62,,,-1
+ComputersComponentsRAM Size,4 GB,1,4 GB,C62,,,-1
+ComputersComponentsRAM Size,8 GB,1,8 GB,C62,,,-1
+ComputersComponentsSize,4.7 GB,1,4.7 GB,C62,,,-1
+ComputersComponentsSize,8.5 GB,1,8.5 GB,C62,,,-1
+ComputersComponentsSize,500 GB,1,500 GB,C62,,,-1
+ComputersComponentsSize,1000 GB,1,1000 GB,C62,,,-1
+ComputersComponentsSize,2000 GB,1,2000 GB,C62,,,-1
+ComputersComponentsCores,4-core,1,4-core,C62,,,-1
+ComputersComponentsCores,6-core,1,6-core,C62,,,-1
+ComputersComponentsCores,8-core,1,8-core,C62,,,-1
+ComputersDesktopsBrand,DVR Technics,1,DVR Technics,C62,,,-1
+ComputersDesktopsBrand,Adelee Plus,1,Adelee Plus,C62,,,-1
+ComputersDesktopsMemory,2 GB,1,2 GB,C62,,,-1
+ComputersDesktopsMemory,4 GB,1,4 GB,C62,,,-1
+ComputersDesktopsMemory,8 GB,1,8 GB,C62,,,-1
+ComputersDesktopsHard Drive,500 GB,1,500 GB,C62,,,-1
+ComputersDesktopsHard Drive,1000 GB,1,1000 GB,C62,,,-1
+ComputersDesktopsHard Drive,2000 GB,1,2000 GB,C62,,,-1
+ComputersLaptopsBrand,Eye Dee Team,1,Eye Dee Team,C62,,,-1
+ComputersLaptopsBrand,Adelee Plus,1,Adelee Plus,C62,,,-1
+ComputersLaptopsBrand,DVR Technics,1,DVR Technics,C62,,,-1
+ComputersLaptopsBattery Life,2 hours,1,2 hours,C62,,,-1
+ComputersLaptopsBattery Life,3 hours,1,3 hours,C62,,,-1
+ComputersLaptopsBattery Life,6 hours,1,6 hours,C62,,,-1
+ComputersLaptopsBattery Life,8 hours,1,8 hours,C62,,,-1
+ComputersLaptopsMemory,2 GB,1,2 GB,C62,,,-1
+ComputersLaptopsMemory,4 GB,1,4 GB,C62,,,-1
+ComputersLaptopsMemory,8 GB,1,8 GB,C62,,,-1
+ComputersLaptopsWeight,1 lb,1,1 lb,C62,,,-1
+ComputersLaptopsWeight,2 lb,1,2 lb,C62,,,-1
+ComputersLaptopsWeight,3 lb,1,3 lb,C62,,,-1
+CareInstructions,"<strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry",1,"<strong>Fabric care:</strong> &nbsp;Machine wash cold, delicate cycle. Tumble dry low.",,,,-1
+CareInstructions,"Brushing curly hair is not advised. Finger-style your doll's hair for best results.<li><strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry</li>",1,"Brushing curly hair is not advised. Finger-style your doll&#8217;s hair for best results.<li><strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry</li>",,,,-1
+CareInstructions,"A doll hair brush works best for styling these dolls' hair.<li><strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry</li>",1,"A doll hair brush works best for styling these dolls' hair.<li><strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry</li>",,,,-1
+CareInstructions,A doll hair brush works best for styling this doll's hair.,1,A doll hair brush works best for styling this doll's hair.,,,,-1
+CareInstructions,"A doll hair pick works best for styling these dolls' hair.<li><strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry</li>",1,"A doll hair pick works best for styling these dolls' hair.<li><strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry</li>",,,,-1
+CareInstructions,A doll hair pick works best for styling this doll's hair.,1,A doll hair pick works best for styling this doll's hair.,,,,-1
+CareInstructions,"Brushing curly hair is not advised. Finger-style your doll's hair for best results.<li><strong>Fabric care:</strong>&nbsp; Hand wash in cold water, line dry</li>",1,"Brushing curly hair is not advised. Finger-style your doll's hair for best results.<li><strong>Fabric care:</strong>&nbsp; Hand wash in cold water, line dry</li>",,,,-1
+CareInstructions,"A doll hair pick works best for styling this doll's hair.<Strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry. </li>",1,"A doll hair pick works best for styling this doll's hair.<Strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry. </li>",,,,-1
+CareInstructions,"A doll brush works best for styling this doll's hair.<Strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry. </li>",1,"A doll brush works best for styling this doll's hair.<Strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry. </li>",,,,-1
+CareInstructions,"A doll brush works best for styling this doll's hair.<Strong>Fabric care:</strong>&nbsp; Hand wash in cold water, line dry. </li>",1,"A doll brush works best for styling this doll's hair.<Strong>Fabric care:</strong>&nbsp; Hand wash in cold water, line dry. </li>",,,,-1
+CareInstructions,<strong>Fabric care:</strong>&nbsp; Wipe clean wih a damp cloth.,1,<strong>Fabric care:</strong>&nbsp; Wipe clean wih a damp cloth.,,,,-1
+CareInstructions,"A doll hair pick works best for styling this doll's hair.<Strong>Fabric care:</strong> Hand wash in cold water, line dry. </li>",1,"A doll hair pick works best for styling this doll's hair.<Strong>Fabric care:</strong> Hand wash in cold water, line dry. </li>",,,,-1
+CareInstructions,"A doll hair brush works best for styling this doll's hair.<li><strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry</li>",1,"A doll hair brush works best for styling this doll's hair.<li><strong>Fabric care:</strong> &nbsp;Hand wash in cold water, line dry</li>",,,,-1
+Character,Lindsey,1,Lindsey,,,,-1
+CarSeriesName,HWC&#8482; Series Two Flying Customs&#8482;,1,HWC&#8482; Series Two Flying Customs&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Two Neo-Classics&#8482;,1,HWC&#8482; Series Two Neo-Classics&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Two Super Chromes&#8482;,1,HWC&#8482; Series Two Super Chromes&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Special Editions,1,HWC&#8482; Special Editions,,,,-1
+CarSeriesName,International Raceway,1,International Raceway,,,,-1
+CarSeriesName,Italy Toy Fair,1,Italy Toy Fair,,,,-1
+CarSeriesName,Japan Hot Wheels Convention,1,Japan Hot Wheels Convention,,,,-1
+CarSeriesName,Jones Soda Promo,1,Jones Soda Promo,,,,-1
+CarSeriesName,Larry Wood World Tour,1,Larry Wood World Tour,,,,-1
+CarSeriesName,Lost Cars of China&#8482;,1,Lost Cars of China&#8482;,,,,-1
+CarSeriesName,Mattel Employee Christmas Car,1,Mattel Employee Christmas Car,,,,-1
+CarSeriesName,Mattel Toy Fair 2003,1,Mattel Toy Fair 2003,,,,-1
+CarSeriesName,Mattel Toy Fair 2004,1,Mattel Toy Fair 2004,,,,-1
+CarSeriesName,Mattel Toy Store,1,Mattel Toy Store,,,,-1
+CarSeriesName,Mobil Oil 4-Car Series,1,Mobil Oil 4-Car Series,,,,-1
+CarSeriesName,Mystery Car mail-in 2005,1,Mystery Car mail-in 2005,,,,-1
+CarSeriesName,Official Hot Wheels&#174; Custom Car Show - Japan,1,Official Hot Wheels&#174; Custom Car Show - Japan,,,,-1
+CarSeriesName,Red Line Club&#8482; Exclusives,1,Red Line Club&#8482; Exclusives,,,,-1
+CarSeriesName,Red Line Club&#8482; Rewards Priority Cars 2006,1,Red Line Club&#8482; Rewards Priority Cars 2006,,,,-1
+CarSeriesName,Red Line Club&#8482; Rewards Priority Cars 2007,1,Red Line Club&#8482; Rewards Priority Cars 2007,,,,-1
+CarSeriesName,Red Line Club&#8482; Rewards Priority Cars 2008,1,Red Line Club&#8482; Rewards Priority Cars 2008,,,,-1
+CarSeriesName,Red Line Club&#8482; Rewards Priority Cars 2009,1,Red Line Club&#8482; Rewards Priority Cars 2009,,,,-1
+CarSeriesName,Red Line Club&#8482; Rewards Priority Cars 2010,1,Red Line Club&#8482; Rewards Priority Cars 2010,,,,-1
+CarSeriesName,Red Line Club&#8482; Rewards Priority Cars 2011,1,Red Line Club&#8482; Rewards Priority Cars 2011,,,,-1
+CarSeriesName,Red Line Club&#8482; Rewards Priority Cars 2012,1,Red Line Club&#8482; Rewards Priority Cars 2012,,,,-1
+CarSeriesName,Red Line Club&#8482; sELECTIONs&#8482; 2004,1,Red Line Club&#8482; sELECTIONs&#8482; 2004,,,,-1
+CarSeriesName,Red Line Club&#8482; sELECTIONs&#8482; 2005,1,Red Line Club&#8482; sELECTIONs&#8482; 2005,,,,-1
+CarSeriesName,Red Line Club&#8482; sELECTIONs&#8482; 2006,1,Red Line Club&#8482; sELECTIONs&#8482; 2006,,,,-1
+CarSeriesName,Red Line Club&#8482; sELECTIONs&#8482; 2007,1,Red Line Club&#8482; sELECTIONs&#8482; 2007,,,,-1
+CarSeriesName,Red Line Club&#8482; sELECTIONs&#8482; 2008,1,Red Line Club&#8482; sELECTIONs&#8482; 2008,,,,-1
+CarSeriesName,San Diego Comic-Con,1,San Diego Comic-Con,,,,-1
+CarSeriesName,Snake & Mongoose 35th Anniversary,1,Snake & Mongoose 35th Anniversary,,,,-1
+CarSeriesName,Woodward Dream Cruise,1,Woodward Dream Cruise,,,,-1
+CarWheelType,2PC5SP (2-piece 5-spoke),1,2PC5SP (2-piece 5-spoke),,,,-1
+CarWheelType,2PC6SP (2-piece 6-spoke),1,2PC6SP (2-piece 6-spoke),,,,-1
+CarWheelType,3SP (3-spoke),1,3SP (3-spoke),,,,-1
+CarWheelType,5Sp (Five-spoke wheels),1,5Sp (Five-spoke wheels),,,,-1
+CarWheelType,5SP/DW,1,5SP/DW,,,,-1
+CarWheelType,5Sp/Gdyr (Five-spoke wheels w/Goodyear tampo),1,5Sp/Gdyr (Five-spoke wheels w/Goodyear tampo),,,,-1
+CarWheelType,5Sp/rs,1,5Sp/rs,,,,-1
+CarWheelType,5Sp/ws (Five-spoke wheels w/white stripes),1,5Sp/ws (Five-spoke wheels w/white stripes),,,,-1
+CarWheelType,7SP (7-spoke),1,7SP (7-spoke),,,,-1
+CarWheelType,7Sp/ws,1,7Sp/ws,,,,-1
+CarWheelType,8SCT,1,8SCT,,,,-1
+CarWheelType,Bk 7SP/gyr (Black 7-spoke wheels with &#34;Goodyear&#34; tampo),1,Bk 7SP/gyr (Black 7-spoke wheels with &#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,Bl PR5 (Blue PR5),1,Bl PR5 (Blue PR5),,,,-1
+CarWheelType,BW,1,BW,,,,-1
+CarWheelType,BW/5SP,1,BW/5SP,,,,-1
+CarWheelType,BW/Fs&ws (Blackwall style wheels w/Firestone & white stripe tampo),1,BW/Fs&ws (Blackwall style wheels w/Firestone & white stripe tampo),,,,-1
+CarWheelType,CM,1,CM,,,,-1
+CarWheelType,Gd 2PC5SP (Gold two-piece 5-spoke wheels),1,Gd 2PC5SP (Gold two-piece 5-spoke wheels),,,,-1
+Character,"Marie-Grace, Cecile",1,"Marie-Grace, Cecile",,,,-1
+MarketingAge,3-36 Months,1,3-36 Months,,,,-1
+Character,Timothy,1,Timothy,,,,-1
+Character,Marion,1,Marion,,,,-1
+Character,Scrap Monster,1,Scrap Monster,,,,-1
+Character,Gator,1,Gator,,,,-1
+PlayPattern,Tale of the Brave,1,Tale of the Brave,,,,-1
+MarketingAge,Birth-6 Months,1,Birth-6 Months,,,,-1
+Location,Left,1,Left,,,,-1
+Location,Both,1,Both,,,,-1
+Location,Right,1,Right,,,,-1
+MarketingAge,8-12,1,8-12,,,,-1
+Character,Oliver,1,Oliver,,,,-1
+Girl1HairSkinTone,"Medium Skin, Brown Hair",1,"Medium Skin, Brown Hair, Brown Eyes (5G)",,bt_girl_mdbrown_75x75?$btswatch$,,-1
+Girl1HairSkinTone,"Dark Skin, Black Hair",1,"Dark Skin, Black Hair, Brown Eyes (1G)",,bt_girl_dsblack_75x75?$btswatch$,,-1
+Girl1HairSkinTone,"Light Skin, Brown Hair",1,"Light Skin, Brown Hair, Brown Eyes (2G)",,bt_girl_lsbrown_75x75?$btswatch$,,-1
+Girl1HairSkinTone,"Light Skin, Blond Hair",1,"Light Skin, Blond Hair, Blue Eyes (3G)",,bt_girl_lsblonde_75x75?$btswatch$,,-1
+Girl1HairSkinTone,"Light Skin, Black Hair",1,"Light Skin, Black Hair, Brown Eyes (4G)",,bt_girl_lsblack_75x75?$btswatch$,,-1
+Girl2HairSkinTone,"Dark Skin, Black Hair",1,"Dark Skin, Black Hair, Brown Eyes (1G)",,bt_girl_dsblack_75x75?$btswatch$,,-1
+Girl2HairSkinTone,"Medium Skin, Brown Hair",1,"Medium Skin, Brown Hair, Brown Eyes (5G)",,bt_girl_mdbrown_75x75?$btswatch$,,-1
+Girl2HairSkinTone,"Light Skin, Blond Hair",1,"Light Skin, Blond Hair, Blue Eyes (3G)",,bt_girl_lsblonde_75x75?$btswatch$,,-1
+Girl2HairSkinTone,"Light Skin, Black Hair",1,"Light Skin, Black Hair, Brown Eyes (4G)",,bt_girl_lsblack_75x75?$btswatch$,,-1
+Girl2HairSkinTone,"Light Skin, Brown Hair",1,"Light Skin, Brown Hair, Brown Eyes (2G)",,bt_girl_lsbrown_75x75?$btswatch$,,-1
+RelatedSizingChart,SizingChart-bgc,1,SizingChart-bgc,,,,-1
+RelatedSizingChart,SizingChart-lgc,1,SizingChart-lgc,,,,-1
+RelatedSizingChart,SizingChart-bgs,1,SizingChart-bgs,,,,-1
+RelatedSizingChart,SizingChart-lgs,1,SizingChart-lgs,,,,-1
+LegalAge,5+,1,5+,,,,-1
+MarketingAge,5+,1,5+,,,,-1
+LegalAge,Details,1,Details,,,,-1
+LegalAge,8&#43;,1,8&#43;,,,,-1
+LegalAge,3&#43;,1,2&#43;,,,,-1
+ClothingColor,Peach,1,Peach,,PCH,,-1
+ClothingColor,PCH,1,Peach,,AG-PEACH,,-1
+CareInstructions,A doll hair pick works best with this doll's hair.,1,A doll hair pick works best with this doll's hair.,,,,-1
+Character,Maryellen,1,Maryellen,,,,-1
+Boy1HairSkinTone,"Light Skin, Brown Hair",1,"Light Skin, Brown Hair, Brown Eyes (2B)",,bt_boy_lsbrown_75x75?$btswatch$,,-1
+Boy1HairSkinTone,"Light Skin, Black Hair",1,"Light Skin, Black Hair, Brown Eyes (4B)",,bt_boy_lsblack_75x75?$btswatch$,,-1
+Boy2HairSkinTone,"Light Skin, Black Hair",1,"Light Skin, Black Hair, Brown Eyes (4B)",,bt_boy_lsblack_75x75?$btswatch$,,-1
+Boy2HairSkinTone,"Dark Skin, Black Hair",1,"Dark Skin, Black Hair, Brown Eyes (1B)",,bt_boy_dsblack_75x75?$btswatch$,,-1
+Boy2HairSkinTone,"Medium Skin, Brown Hair",1,"Medium Skin, Brown Hair, Brown Eyes (5B)",,bt_boy_mdbrown_75x75?$btswatch$,,-1
+Boy1HairSkinTone,"Dark Skin, Black Hair",1,"Dark Skin, Black Hair, Brown Eyes (1B)",,bt_boy_dsblack_75x75?$btswatch$,,-1
+Boy1HairSkinTone,"Light Skin, Blond Hair",1,"Light Skin, Blond Hair, Blue Eyes (3B)",,bt_boy_lsblonde_75x75?$btswatch$,,-1
+Boy1HairSkinTone,"Medium Skin, Brown Hair",1,"Medium Skin, Brown Hair, Brown Eyes (5B)",,bt_boy_mdbrown_75x75?$btswatch$,,-1
+ClothingColor,Red,1,Red,,TWR RED,,-1
+ClothingColor,DBR,1,Dark Brown,,AG-DARK-BROWN,,-1
+ClothingColor,BL0,1,Blonde,,AG-BLONDE,,-1
+Boy2HairSkinTone,"Light Skin, Brown Hair",1,"Light Skin, Brown Hair, Brown Eyes (2B)",,bt_boy_lsbrown_75x75?$btswatch$,,-1
+Boy2HairSkinTone,"Light Skin, Blond Hair",1,"Light Skin, Blond Hair, Blue Eyes (3B)",,bt_boy_lsblonde_75x75?$btswatch$,,-1
+CareInstructions,Brushing textured hair is not advised. Finger-style your doll's hair for best results.,1,Brushing textured hair is not advised. Finger-style your doll's hair for best results.,,,,-1
+CarWheelType,NCRLw (Neo-Classics Redline wide 5-spoke wheels),1,NCRLw (Neo-Classics Redline wide 5-spoke wheels),,,,-1
+CarWheelType,NCWW (Neo-Classics White Wall wheels),1,NCWW (Neo-Classics White Wall wheels),,,,-1
+CarWheelType,None,1,None,,,,-1
+CarWheelType,ORL5sp (Original Redlines&#174; style 5-spoke wheels),1,ORL5sp (Original Redlines&#174; style 5-spoke wheels),,,,-1
+CarWheelType,PR5 (A modern five-spoke rim. Introduced in 2001.),1,PR5 (A modern five-spoke rim. Introduced in 2001.),,,,-1
+CarWheelType,RL1,1,RL1,,,,-1
+CarWheelType,RL2,1,RL2,,,,-1
+CarWheelType,RL3,1,RL3,,,,-1
+CarWheelType,RR (Real Riders&#174;),1,RR (Real Riders&#174;),,,,-1
+CarWheelType,"RR, gd (Real Riders&#174; wheels, gold hubs)",1,"RR, gd (Real Riders&#174; wheels, gold hubs)",,,,-1
+CarWheelType,"RR,rd/Ten&Mat (Real Riders&#174; wheels, red hubs w/TEN YEARS and MATTEL tampo)",1,"RR,rd/Ten&Mat (Real Riders&#174; wheels, red hubs w/TEN YEARS and MATTEL tampo)",,,,-1
+CarWheelType,RR/Gdyr (Real Riders&#174; wheels w/&#34;Goodyear&#34; tampo),1,RR/Gdyr (Real Riders&#174; wheels w/&#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,RR/rs (Real Riders&#174; wheels w/red stripe tampo),1,RR/rs (Real Riders&#174; wheels w/red stripe tampo),,,,-1
+CarWheelType,RR/ws (Real Riders&#174; w/white stripe tampo),1,RR/ws (Real Riders&#174; w/white stripe tampo),,,,-1
+CarWheelType,RR/ww (Real Riders&#174; wheels w/whitewall tampo),1,RR/ww (Real Riders&#174; wheels w/whitewall tampo),,,,-1
+CarWheelType,RR/YL,1,RR/YL,,,,-1
+CarWheelType,RR5D,1,RR5D,,,,-1
+CarWheelType,RR5HO,1,RR5HO,,,,-1
+CarWheelType,RR5sldusp (Real Riders&#174; 5-slanted-dual-spoke wheels),1,RR5sldusp (Real Riders&#174; 5-slanted-dual-spoke wheels),,,,-1
+CarWheelType,RR5sp (Real Riders&#174; 5-spoke wheels (no tampo)),1,RR5sp (Real Riders&#174; 5-spoke wheels (no tampo)),,,,-1
+CarWheelType,RR5sp/10YArs (Real Riders&#174; 5-spoke wheels w/10 Year Anniversary and red stripe tampo),1,RR5sp/10YArs (Real Riders&#174; 5-spoke wheels w/10 Year Anniversary and red stripe tampo),,,,-1
+CarWheelType,RR5sp/BFG (Real Riders&#174; 5-spoke wheels w/BF Goodrich tampo),1,RR5sp/BFG (Real Riders&#174; 5-spoke wheels w/BF Goodrich tampo),,,,-1
+CarWheelType,RR5sp/Fs (Real Riders&#174; five-spoke wheels w/Firestone tampo),1,RR5sp/Fs (Real Riders&#174; five-spoke wheels w/Firestone tampo),,,,-1
+CarWheelType,RR5sp/Fs&ws (Real Riders&#174; five-spoke wheels w/Firestone and white stripe tampo),1,RR5sp/Fs&ws (Real Riders&#174; five-spoke wheels w/Firestone and white stripe tampo),,,,-1
+CarWheelType,RR5sp/Gdyr (Real Riders&#174; 5-spoke wheels w/&#34;Goodyear&#34; tampo),1,RR5sp/Gdyr (Real Riders&#174; 5-spoke wheels w/&#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,RR5sp/rs (Real Riders&#174; 5-spoke wheels w/red stripe tampo),1,RR5sp/rs (Real Riders&#174; 5-spoke wheels w/red stripe tampo),,,,-1
+CarWheelType,RR5sp/ws (Real Riders&#174; five-spoke wheels w/white stripes),1,RR5sp/ws (Real Riders&#174; five-spoke wheels w/white stripes),,,,-1
+CarWheelType,RR5sp/ww (Real Riders&#174; five-spoke wheels w/whitewall tampo),1,RR5sp/ww (Real Riders&#174; five-spoke wheels w/whitewall tampo),,,,-1
+CarWheelType,RR5spO (Real Riders five-spoke open wheels),1,RR5spO (Real Riders five-spoke open wheels),,,,-1
+CarWheelType,RR6,1,RR6,,,,-1
+CarWheelType,RR6sp/Gdyr (Real Riders&#174; six-spoke wheels w/&#34;Goodyear&#34; tampo),1,RR6sp/Gdyr (Real Riders&#174; six-spoke wheels w/&#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,RR6sp/ww (Real Riders&#174; six-spoke wheels w/whitewall tampo),1,RR6sp/ww (Real Riders&#174; six-spoke wheels w/whitewall tampo),,,,-1
+CarWheelType,RRd,1,RRd,,,,-1
+CarWheelType,RRd/PkL,1,RRd/PkL,,,,-1
+CareInstructions,A dll brush works best for styling this doll's hair.,1,A doll brush works best for styling this doll's hair.,,,,-1
+MarketingAge,3+,1,3+,,,,-1
+CareInstructions,"Hand wash, cold water, line dry",1,"Hand wash, cold water, line dry",,,,-1
+ClothingStyle,Outerwear,1,Outerwear,,,,-1
+RelatedSizingChart,/popup/little-girl-size-chart,1,popup/ag-little-girl-sizing-chart,,,,-1
+CareInstructions,Machine washable,1,Machine washable,,,,-1
+CareInstructions,Spot clean only,1,Spot clean only,,,,-1
+ClothingColor,White-AG,1,White-AG,,AG-WHITE,,-1
+Character,Sam,1,Sam,,,,-1
+excludeStandardShipping,Y,2,Y,,,,-1
+addOn_assoc_type,Hearing Aid- Right,1,Right Hearing Aid,,,,-1
+CarWheelType,Gd 2PC6SP (Gold two-piece 6-spoke wheels),1,Gd 2PC6SP (Gold two-piece 6-spoke wheels),,,,-1
+CarWheelType,Gd 3SP (Gold 3-spoke wheel),1,Gd 3SP (Gold 3-spoke wheel),,,,-1
+CarWheelType,Gd LW (Gold ),1,Gd LW (Gold),,,,-1
+CarWheelType,GyCM,1,GyCM,,,,-1
+CarWheelType,GyCM/GdL,1,GyCM/GdL,,,,-1
+CarWheelType,GyCM/GnL,1,GyCM/GnL,,,,-1
+CarWheelType,GyCM/RdL,1,GyCM/RdL,,,,-1
+CarWheelType,MC3,1,MC3,,,,-1
+CarWheelType,N/A,1,N/A,,,,-1
+CarWheelType,NCRL (Neo-Classics&#8482; Redline&#174; 5-spoke wheels),1,NCRL (Neo-Classics&#8482; Redline&#174; 5-spoke wheels),,,,-1
+CarWheelType,NCRL (Neo-Classics&#8482; Redline&#174; five-spoke wheels),1,NCRL (Neo-Classics&#8482; Redline&#174; five-spoke wheels),,,,-1
+CarSeriesName,2nd Annual Hot Wheels&#174; Collectors Nationals 2002,1,2nd Annual Hot Wheels&#174; Collectors Nationals 2002,,,,-1
+CarSeriesName,3rd Annual Hot Wheels&#174; Collectors Nationals 2003,1,3rd Annual Hot Wheels&#174; Collectors Nationals 2003,,,,-1
+CarSeriesName,4th Annual Hot Wheels&#174; Collectors Nationals 2004,1,4th Annual Hot Wheels&#174; Collectors Nationals 2004,,,,-1
+CarSeriesName,5th Annual Hot Wheels&#174; Collectors Nationals 2005,1,5th Annual Hot Wheels&#174; Collectors Nationals 2005,,,,-1
+CarSeriesName,6th Annual Hot Wheels&#174; Collectors Nationals 2006,1,6th Annual Hot Wheels&#174; Collectors Nationals 2006,,,,-1
+CarSeriesName,7th Annual Hot Wheels&#174; Collectors Nationals 2007,1,7th Annual Hot Wheels&#174; Collectors Nationals 2007,,,,-1
+CarSeriesName,8th Annual Hot Wheels&#174; Collectors Nationals 2008,1,8th Annual Hot Wheels&#174; Collectors Nationals 2008,,,,-1
+CarSeriesName,9th Annual Hot Wheels&#174; Collectors Nationals 2009,1,9th Annual Hot Wheels&#174; Collectors Nationals 2009,,,,-1
+CarSeriesName,Bull Run,1,Bull Run,,,,-1
+CarSeriesName,Detroit Autorama,1,Detroit Autorama,,,,-1
+CarSeriesName,Ed Watts Race Team,1,Ed Watts Race Team,,,,-1
+CarSeriesName,Factory Challenge Set,1,Factory Challenge Set,,,,-1
+CarSeriesName,Hall of Fame Event,1,Hall of Fame Event,,,,-1
+CarSeriesName,Hall of Fame Snake and Mongoose Set,1,Hall of Fame Snake and Mongoose Set,,,,-1
+CarSeriesName,Harley-Davidson 4-car set,1,Harley-Davidson 4-car set,,,,-1
+CarSeriesName,Highway 35 World Race,1,Highway 35 World Race,,,,-1
+CarSeriesName,Hot Wheels American Classics&#8482;,1,Hot Wheels American Classics&#8482;,,,,-1
+CarSeriesName,Hot Wheels Convention - Mexico,1,Hot Wheels Convention - Mexico,,,,-1
+CarSeriesName,Hot Wheels&#174; 40th Anniversary,1,Hot Wheels&#174; 40th Anniversary,,,,-1
+CarSeriesName,Hot Wheels&#174; 40th Anniversary Road Trip,1,Hot Wheels&#174; 40th Anniversary Road Trip,,,,-1
+CarSeriesName,Hot Wheels&#174; Real Riders&#174;,1,Hot Wheels&#174; Real Riders&#174;,,,,-1
+CarSeriesName,HWC Original 16,1,HWC Original 16,,,,-1
+CarSeriesName,HWC&#8482; 1st Anniversary,1,HWC&#8482; 1st Anniversary,,,,-1
+CarSeriesName,HWC&#8482; Holiday Editions,1,HWC&#8482; Holiday Editions,,,,-1
+CarSeriesName,HWC&#8482; Series Eight Larry Wood 40 Years of Design,1,HWC&#8482; Series Eight Larry Wood 40 Years of Design,,,,-1
+CarSeriesName,HWC&#8482; Series Eight Neo-Classics&#8482;,1,HWC&#8482; Series Eight Neo-Classics&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Eight Real Riders&#174;,1,HWC&#8482; Series Eight Real Riders&#174;,,,,-1
+CarSeriesName,HWC&#8482; Series Five,1,HWC&#8482; Series Five,,,,-1
+CarSeriesName,HWC&#8482; Series Five Neo-Classics&#8482;,1,HWC&#8482; Series Five Neo-Classics&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Five Real Riders&#174;,1,HWC&#8482; Series Five Real Riders&#174;,,,,-1
+CarSeriesName,HWC&#8482; Series Four,1,HWC&#8482; Series Four,,,,-1
+CarSeriesName,HWC&#8482; Series Four Neo-Classics&#8482;,1,HWC&#8482; Series Four Neo-Classics&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Four Real Riders&#174;,1,HWC&#8482; Series Four Real Riders&#174;,,,,-1
+CarSeriesName,HWC&#8482; Series Nine Neo-Classics&#8482;,1,HWC&#8482; Series Nine Neo-Classics&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Nine Real Riders&#174;,1,HWC&#8482; Series Nine Real Riders&#174;,,,,-1
+CarSeriesName,HWC&#8482; Series One,1,HWC&#8482; Series One,,,,-1
+CarSeriesName,HWC&#8482; Series Seven,1,HWC&#8482; Series Seven,,,,-1
+CarSeriesName,HWC&#8482; Series Seven Neo-Classics&#8482;,1,HWC&#8482; Series Seven Neo-Classics&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Seven Real Riders&#174;,1,HWC&#8482; Series Seven Real Riders&#174;,,,,-1
+CarSeriesName,HWC&#8482; Series Six,1,HWC&#8482; Series Six,,,,-1
+CarSeriesName,HWC&#8482; Series Six Neo-Classics&#8482;,1,HWC&#8482; Series Six Neo-Classics&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Six Real Riders&#174;,1,HWC&#8482; Series Six Real Riders&#174;,,,,-1
+CarSeriesName,HWC&#8482; Series Three,1,HWC&#8482; Series Three,,,,-1
+CarSeriesName,HWC&#8482; Series Three Neo-Classics&#8482;,1,HWC&#8482; Series Three Neo-Classics&#8482;,,,,-1
+CarSeriesName,HWC&#8482; Series Three Real Riders&#174;,1,HWC&#8482; Series Three Real Riders&#174;,,,,-1
+CarSeriesName,HWC&#8482; Series Two,1,HWC&#8482; Series Two,,,,-1
+Character,Kevin,1,Kevin,,,,-1
+Character,Jack,1,Jack,,,,-1
+Character,Rheneas,1,Rheneas,,,,-1
+Character,Scruff,1,Scruff,,,,-1
+Character,Rosie,1,Rosie,,,,-1
+Character,AQUARIUM CAR,1,AQUARIUM CAR,,,,-1
+Character,Paxton,1,Paxton,,,,-1
+PlayPattern,Search and Rescue/ Water,1,Search and Rescue/ Water,,,,-1
+Character,Caitlyn,1,Caitlyn,,,,-1
+Character,IRON BERT AND IRON,1,IRON BERT AND IRON,,,,-1
+PlayPattern,70th Celebration,1,70th Celebration,,,,-1
+Character,Patrick,1,Patrick,,,,-1
+MarketingAge,1&#189; - 5 years,1,1&#189; - 5 years,,,,-1
+GroupName,Creative Junction,1,Creative Junction,,,,-1
+AnimalProduct,Animal products are simulated unless otherwise noted.,1,Animal products are simulated unless otherwise noted.,,,,-1
+MarketingAge,3 years & up ,1,3 years & up ,,,,-1
+MarketingAge,2 years & up ,1,2 years & up ,,,,-1
+CareInstructions,"<strong>Fabric care:</strong> Hand wash in cold water, line dry",1,"<strong>Fabric care:</strong> Hand wash in cold water, line dry",,,,-1
+CareInstructions,"<strong>Fabric care:</strong>&nbsp; Hand wash in cold water, line dry",1,"<strong>Fabric care:</strong>&nbsp; Hand wash in cold water, line dry",,,,-1
+CareInstructions,<strong>Fabric care:</strong>&nbsp; Wipe clean with a damp cloth,1,<strong>Fabric care:</strong>&nbsp; Wipe clean with a damp cloth,,,,-1
+DollFacialSculpt (old),New Hispanic,1,New Hispanic,,,,-1
+DollFacialSculpt (old),New Katniss Sculpt,1,New Katniss Sculpt,,,,-1
+DollFacialSculpt (old),New Open Mouth,1,New Open Mouth,,,,-1
+DollFacialSculpt (old),New Peeta sculpt,1,New Peeta sculpt,,,,-1
+DollFacialSculpt (old),Nichelle,1,Nichelle,,,,-1
+DollFacialSculpt (old),Nostalgic Barbie,1,Nostalgic Barbie,,,,-1
+DollFacialSculpt (old),Open Mouth Mackie,1,Open Mouth Mackie,,,,-1
+DollFacialSculpt (old),Pazette,1,Pazette,,,,-1
+DollFacialSculpt (old),Silkstone&#174; Ken,1,Silkstone&#174; Ken,,,,-1
+DollFacialSculpt (old),Steffie,1,Steffie,,,,-1
+DollFacialSculpt (old),Superstar,1,Superstar,,,,-1
+DollFacialSculpt (old),Tango Ken,1,Tango Ken,,,,-1
+DollFacialSculpt (old),Teen Skipper,1,Teen Skipper,,,,-1
+DollFacialSculpt (old),Teresa,1,Teresa,,,,-1
+DollFacialSculpt (old),Tori,1,Tori,,,,-1
+DollFacialSculpt (old),Vintage Barbie with Flat Neck (Straight Rooting Line),1,Vintage Barbie with Flat Neck (Straight Rooting Line),,,,-1
+DollFacialSculpt (old),Vintage Ken with molded crew cut,1,Vintage Ken with molded crew cut,,,,-1
+DollSkinTone,Afra,1,<strong>Skin Tone: </strong>Afra,,,,-1
+DollSkinTone,Classic Beige,1,<strong>Skin Tone: </strong>Classic Beige,,,,-1
+DollSkinTone,Classic Beige Silkstone&#174;,1,<strong>Skin Tone: </strong>Classic Beige Silkstone&#174;,,,,-1
+DollSkinTone,Dark,1,<strong>Skin Tone: </strong>Dark,,,,-1
+DollSkinTone,Dark Black,1,<strong>Skin Tone: </strong>Dark Black,,,,-1
+DollSkinTone,LA Tan,1,<strong>Skin Tone: </strong>LA Tan,,,,-1
+DollSkinTone,Light,1,<strong>Skin Tone: </strong>Light,,,,-1
+DollSkinTone,Light Black,1,<strong>Skin Tone: </strong>Light Black,,,,-1
+DollSkinTone,Light Brown,1,<strong>Skin Tone: </strong>Light Brown,,,,-1
+DollSkinTone,Medium,1,<strong>Skin Tone: </strong>Medium,,,,-1
+DollSkinTone,Neutra,1,<strong>Skin Tone: </strong>Neutra,,,,-1
+DollSkinTone,Nostalgic,1,<strong>Skin Tone: </strong>Nostalgic,,,,-1
+DollSkinTone,Peace,1,<strong>Skin Tone: </strong>Peace,,,,-1
+DollSkinTone,Pearl,1,<strong>Skin Tone: </strong>Pearl,,,,-1
+DollSkinTone,Silkstone&#174; Afra,1,<strong>Skin Tone: </strong>Silkstone&#174; Afra,,,,-1
+DollSkinTone,Silkstone&#174; Peace,1,<strong>Skin Tone: </strong>Silkstone&#174; Peace,,,,-1
+DollSkinTone,Tropic Tan,1,<strong>Skin Tone: </strong>Tropic Tan,,,,-1
+DollSkinTone,Wicked Green,1,<strong>Skin Tone: </strong>Wicked Green,,,,-1
+MarketingAge,Birth & up,1,Birth & up,,,,-1
+MarketingAge,Birth-12 months,1,Birth-12 months,,,,-1
+MarketingAge,Birth-18 months,1,Birth-18 months,,,,-1
+MarketingAge,Birth-24 months,1,Birth-24 months,,,,-1
+MarketingAge,Birth-5 months,1,Birth-5 months,,,,-1
+MarketingAge,Birth-5 years,1,Birth-5 years,,,,-1
+MarketingAge,Birth-6 months,1,Birth-6 months,,,,-1
+MarketingAge,3 months & up,1,3 months & up,,,,-1
+MarketingAge,3-18 months,1,3-18 months,,,,-1
+MarketingAge,3-24 months,1,3-24 months,,,,-1
+MarketingAge,3-36 months,1,3-36 months,,,,-1
+MarketingAge,4 months & up,1,4 months & up,,,,-1
+MarketingAge,6 months & up,1,6 months & up,,,,-1
+MarketingAge,6-18 months,1,6-18 months,,,,-1
+MarketingAge,6-24 months,1,6-24 months,,,,-1
+MarketingAge,6-36 months,1,6-36 months,,,,-1
+MarketingAge,9 months & up,1,9 months & up,,,,-1
+MarketingAge,9-36 months,1,9-36 months,,,,-1
+MarketingAge,10-36 Months,1,10-36 Months,,,,-1
+MarketingAge,12 months & up,1,12 months & up,,,,-1
+MarketingAge,12-36 months,1,12-36 months,,,,-1
+MarketingAge,18 months & up,1,18 months & up,,,,-1
+DollFashionOn,"Cape is removable, dress is not removable",1,"<strong>Fashion Sewn On?:</strong> Cape is removable, dress is not removable",,,,-1
+DollFacialSculpt (old),Open Mouth Mackie (Aphrodite),1,Open Mouth Mackie (Aphrodite),,,,-1
+DollFacialSculpt (old),Mackie,1,Mackie,,,,-1
+DollFacialSculpt (old),Bebe,1,Bebe,,,,-1
+ClothingColor,CRA,1,Cranberry,,AG-CRANBERRY,,-1
+ClothingColor,CRE,1,Cream,,AG-CREAM,,-1
+ClothingColor,CRI,1,Crimson,,TUR,,-1
+ClothingColor,CRY,1,Crystal,,ORA,,-1
+ClothingColor,DAF,1,Daffodil,,PLA,,-1
+ClothingColor,DBL,1,Dark Blue,,GHM,,-1
+ClothingColor,DEN,1,Denim,,AG-DENIM,,-1
+ClothingColor,DGR,1,Dark Gray,,GRA,,-1
+ClothingColor,DOT,1,Dots,,AG-Polka-Dot-Multi,,-1
+ClothingColor,DPI,1,Dark Pink,,ASH,,-1
+ClothingColor,FLA,1,Flamingo,,PRI,,-1
+ClothingColor,FLO,1,Floral,,AG-PURPLE-FLOWER,,-1
+ClothingColor,FUS,1,Fuchsia,,TUR,,-1
+ClothingColor,GHM,1,Gingham,,ORA,,-1
+ClothingColor,GIN,1,Ginger,,PLA,,-1
+ClothingColor,GOL,1,Gold,,DPI,,-1
+ClothingColor,GRA,1,Gray,,GRA,,-1
+ClothingColor,GRE,1,Green,,TWR GREEN,,-1
+ClothingColor,HEA,1,Heather,,GRA,,-1
+ClothingColor,HIB,1,Hibiscus,,ASH,,-1
+ClothingColor,HON,1,Honey,,PRI,,-1
+ClothingColor,HPN,1,Hot Pink,,GHM,,-1
+ClothingColor,ICE,1,Ice Blue,,TUR,,-1
+ClothingColor,IND,1,Indigo,,AG-INDIGO,,-1
+ClothingColor,IVO,1,Ivory,,AG-CREAM,,-1
+ClothingColor,JAD,1,Jade,,DPI,,-1
+ClothingColor,KHA,1,Khaki,,PIN,,-1
+ClothingColor,LAV,1,Lavender,,AG-LAVENDAR,,-1
+ClothingColor,LBL,1,Light Blue,,ASH,,-1
+ClothingColor,LEA,1,Leather,,ASH,,-1
+ClothingColor,LEM,1,Lemon,,PRI,,-1
+ClothingColor,LIL,1,Lilac,,AG-LILAC,,-1
+ClothingColor,LIM,1,Lime,,GRE,,-1
+ClothingColor,LOD,1,Loden,,ORA,,-1
+ClothingColor,MAG,1,Magenta,,PLA,,-1
+ClothingColor,MAU,1,Mauve,,DPI,,-1
+ClothingColor,MEL,1,Melon,,PIN,,-1
+ClothingColor,MIN,1,Mint,,GRE,,-1
+ClothingColor,MUL,1,Multi,,AG-MULTI,,-1
+ClothingColor,NAT,1,Natural,,ASH,,-1
+ClothingColor,NAV,1,Navy,,AG-NAVY,,-1
+ClothingColor,NPN,1,Neon Pink,,GHM,,-1
+ClothingColor,OAT,1,Oatmeal,,TUR,,-1
+ClothingColor,OLI,1,Olive,,ORA,,-1
+ClothingColor,ORA,1,Orange,,AG-ORANGE-CRUSH,,-1
+ClothingColor,ORC,1,Orchid,,AG-ORCHID,,-1
+ClothingColor,PAS,1,Pastel,,PIN,,-1
+ClothingColor,PEA,1,Pear,,GRE,,-1
+ClothingColor,PER,1,Periwinkle,,AG-PERIWINKLE,,-1
+ClothingColor,PET,1,Petal,,ASH,,-1
+ClothingColor,PIN,1,Pink,,AG-PINK,,-1
+ClothingColor,PLA,1,Plaid,,AG-PLAID,,-1
+ClothingColor,PLU,1,Plum,,AG-PLUM,,-1
+ClothingColor,PRI,1,Print,,AG-PRINT-FLOWER,,-1
+ClothingColor,PRL,1,Pearl,,PLA,,-1
+ClothingColor,PRT,1,Print,,AG-LAMB-PRINT,,-1
+ClothingColor,PUR,1,Purple,,TWR PURPLE,,-1
+ClothingColor,RAS,1,Raspberry,,AG-RASPBERRY,,-1
+ClothingColor,RBL,1,Royal Blue,,GHM,,-1
+ClothingColor,RED,1,Red,,AG-RED,,-1
+agcategory,Clothing,1,Clothing,,,,-1
+ClothingColor,CHR,1,Chrome,,GRE,,-1
+ClothingColor,CIN,1,Cinnamon,,GRA,,-1
+ClothingColor,COR,1,Coral,,AG-CORAL,,-1
+agcategory,Furniture,1,Furniture,,,,-1
+agcategory,Accessory,1,Accessory,,,,-1
+agcategory,Book,1,Book,,,,-1
+agcategory,Doll,1,Doll,,,,-1
+PLAgoogleage,8+,1,8+,,,,-1
+PLAgoogleage,3+,1,3+,,,,-1
+CarInteriorColor,Silver w/hand-spray-painted details,1,Silver w/hand-spray-painted details,,,,-1
+CarBodyColor,Spectraflame pink w/pink & white roof,1,Spectraflame pink w/pink & white roof,,,,-1
+DollFacialSculpt (old),New,1,New,,,,-1
+DollFacialSculpt (old),Vintage,1,Vintage,,,,-1
+DollFacialSculpt (old),Vintage Barbie w/ Flat Neck (Straight Rooting Line),1,Vintage Barbie w/ Flat Neck (Straight Rooting Line),,,,-1
+DollBodyType,New&#8212;Arms: Bent,1,<strong>Body Type: </strong>New&#8212;Arms: Bent,,,,-1
+CarBaseType,"Full-metal, Mirrorized ZAMAC chassis",1,"Full-metal, Mirrorized ZAMAC chassis",,,,-1
+CarBodyColor,Spectraflame aqua,1,Spectraflame aqua,,,,-1
+CarBodyType,Mirrorized ZAMAC,1,Mirrorized ZAMAC,,,,-1
+CarWheelType,Real Riders racing wheels,1,Real Riders racing wheels,,,,-1
+CarWindowColor,Light smoke-tinted,1,Light smoke-tinted,,,,-1
+RelatedSizingChart,popup/twr-apparel-size-chart-1,1,popup/twr-apparel-size-chart,,,,-1
+RelatedSizingChart,popup/twr-snug-fit-pjs-size-chart-1,1,popup/twr-snug-fit-pjs-size-chart,,,,-1
+RelatedSizingChart,popup/bc-tee-shirt-size-chart-1,1,popup/bc-tee-shirt-size-chart,,,,-1
+CarWheelType,RR5sldusp,1,RR5sldusp,,,,-1
+CarWheelType,RRfl,1,RRfl,,,,-1
+CarWheelType,RR5sp,1,RR5sp,,,,-1
+DollFacialSculpt (old),Nostalgic Silkstone&#174;,1,Nostalgic Silkstone&#174;,,,,-1
+PLAgooglesize,18M,1,18M,,,,-1
+PLAgoogleage,3T,1,3T,,,,-1
+ClothingColor,Black,1,Pink Sleeper,,AG-BB-PINK-SLEEPER,,-1
+ClothingColor,White,1,White,,,,-1
+ClothingColor,Pink,1,Pink,,,,-1
+ClothingColor,Dark Pink,1,Purple Daisy Sleeper,,AG-BB-PURPLE-SLEEPER,,-1
+DollFacialSculpt (old),Nostalgic Silkstone,1,Nostalgic Silkstone,,,,-1
+DollSkinTone,Nostalgic ,1,<strong>Skin Tone: </strong>Nostalgic,,,,-1
+MarketingAge,For ages 6+,1,For ages 6+,,,,-1
+DollSkinTone,Light Brown ,1,<strong>Skin Tone: </strong>Light Brown,,,,-1
+CarBodyColor,Spectraflame dark green finish,1,Spectraflame dark green finish,,,,-1
+DollFacialSculpt (old),Karl ,1,Karl ,,,,-1
+CarWheelType,"Real Riders slotted wheels (front), Real Riders Slick Drag wheels (rear)",1,"Real Riders slotted wheels (front), Real Riders Slick Drag wheels (rear)",,,,-1
+DollBodyType,Poseable,1,<strong>Body Type: </strong>Poseable,,,,-1
+MarketingAge,Ages 8+,1,Ages 8+,,,,-1
+MarketingAge,9+,1,9+,,,,-1
+DollFacialSculpt (old),Aprhrodite,1,Aprhrodite,,,,-1
+DollSkinTone,Ghoulia Grey,1,<strong>Skin Tone: </strong>Ghoulia Grey,,,,-1
+BookCategory,Magazine,1,Magazine,,,,-1
+ClothingStyle,Special Occasion,1,Special Occasion,,,,-1
+ClothingCategory,Matching Doll-Girl Sets,1,Matching Doll-Girl Sets,,,,-1
+ClothingCategory,Girls Sizes 6-20,1,Girls Sizes 6-20,,,,-1
+ClothingCategory,Little Girls Sizes 3-7,1,Little Girls Sizes 3-7,,,,-1
+ClothingStyle,Bedtime,1,Pajamas,,,,-1
+ClothingStyle,Activewear,1,Sports & Hobbies,,,,-1
+DollHairColor,Strawberry-Blond,1,Strawberry-Blond,,,,-1
+DollEyeColor,Aquamarine,1,Aquamarine,,,,-1
+Character,Bitty Baby,1,Bitty Baby,,,,-1
+ClothingStyle,Holiday,1,Holiday,,,,-1
+Character,Bitty Twins,1,Bitty Twins,,,,-1
+Character,Truly Me,1,Truly Me,,,,-1
+DollHairColor,Black-Brown,1,Black-Brown,,,,-1
+CareInstructions,Dishwasher safe. Hand-wash rolling pin.,1,Dishwasher safe. Hand-wash rolling pin.,,,,-1
+CareInstructions,Cookie sheet and cutters are dishwasher safe. Hand-wash spatula.,1,Cookie sheet and cutters are dishwasher safe. Hand-wash spatula.,,,,-1
+CareInstructions,Baking tin and spatula are dishwasher safe.,1,Baking tin and spatula are dishwasher safe.,,,,-1
+CareInstructions,Dishwasher safe.,1,Dishwasher safe.,,,,-1
+CareInstructions,Machine-wash.,1,Machine-wash.,,,,-1
+AGCategory,Movie,1,Movie,,,,-1
+AGCategory,Gift Card,1,Gift Card,,,,-1
+AGCategory,Clothing,1,Clothing,,,,-1
+AGCategory,Book,1,Book,,,,-1
+AGCategory,Furniture/Accessory,1,Furniture/Accessory,,,,-1
+AGCategory,Cooking/Baking,1,Cooking/Baking,,,,-1
+AGCategory,Doll,1,Doll,,,,-1
+AGCategory,Beauty,1,Beauty,,,,-1
+BookCategory,Activities,1,Activities,,,,-1
+BookCategory,Picture Book,1,Picture Book,,,,-1
+DisableWhereToBuy,false,1,false,,,,-1
+DollEyeColor,Gray,1,Gray,,,,-1
+DollEyeColor,Green,1,Green,,,,-1
+DollEyeColor,Hazel,1,Hazel,,,,-1
+DollLashes,Applied,1,<strong>Eyelashes:</strong> Applied,,,,-1
+DollLashes,No,1,<strong>Eyelashes</strong>: No,,,,-1
+CarBodyColor,Spectraflame&#174; Orange,1,Spectraflame&#174; Orange,,,,-1
+CarBodyColor,Spectraflame&#174; Orange/Chrome,1,Spectraflame&#174; Orange/Chrome,,,,-1
+CarBodyColor,Spectraflame&#174; Orange/Gloss Black,1,Spectraflame&#174; Orange/Gloss Black,,,,-1
+CarBodyColor,Spectraflame&#174; Otto Blue,1,Spectraflame&#174; Otto Blue,,,,-1
+CarBodyColor,Spectraflame&#174; Pink,1,Spectraflame&#174; Pink,,,,-1
+CarBodyColor,Spectraflame&#174; Pink/Spectraflame&#174; Purple,1,Spectraflame&#174; Pink/Spectraflame&#174; Purple,,,,-1
+CarBodyColor,Spectraflame&#174; Powder Blue,1,Spectraflame&#174; Powder Blue,,,,-1
+CarBodyColor,Spectraflame&#174; Purple,1,Spectraflame&#174; Purple,,,,-1
+CarBodyColor,Spectraflame&#174; Race Team Blue,1,Spectraflame&#174; Race Team Blue,,,,-1
+CarBodyColor,Spectraflame&#174; Race Team Blue and white,1,Spectraflame&#174; Race Team Blue and white,,,,-1
+CarBodyColor,Spectraflame&#174; Race Team Blue/Chrome,1,Spectraflame&#174; Race Team Blue/Chrome,,,,-1
+CarBodyColor,Spectraflame&#174; Red,1,Spectraflame&#174; Red,,,,-1
+CarBodyColor,Spectraflame&#174; Red/Chrome,1,Spectraflame&#174; Red/Chrome,,,,-1
+CarBodyColor,Spectraflame&#174; Root Beer,1,Spectraflame&#174; Root Beer,,,,-1
+CarBodyColor,Spectraflame&#174; Smoke,1,Spectraflame&#174; Smoke,,,,-1
+CarBodyColor,Spectraflame&#174; Smoke/Spectraflame&#174; Race Team Blue,1,Spectraflame&#174; Smoke/Spectraflame&#174; Race Team Blue,,,,-1
+CarBodyColor,Spectraflame&#174; Steel Blue,1,Spectraflame&#174; Steel Blue,,,,-1
+CarBodyColor,Spectraflame&#174; True Black,1,Spectraflame&#174; True Black,,,,-1
+CarBodyColor,Spectraflame&#174; Yellow,1,Spectraflame&#174; Yellow,,,,-1
+CarBodyColor,Various,1,Various,,,,-1
+CarBodyColor,White,1,White,,,,-1
+CarBodyColor,White/Red,1,White/Red,,,,-1
+CarBodyColor,Yellow,1,Yellow,,,,-1
+CarBodyColor,Yellow and Silver,1,Yellow and Silver,,,,-1
+CarBodyColor,Yellow/Black,1,Yellow/Black,,,,-1
+CarBodyColor,Zamac,1,Zamac,,,,-1
+CarCastingDesigner,Alec Tam,1,Alec Tam,,,,-1
+CarCastingDesigner,Brian Fitzgerald,1,Brian Fitzgerald,,,,-1
+CarCastingDesigner,Bruce Baur,1,Bruce Baur,,,,-1
+CarCastingDesigner,David Weise,1,David Weise,,,,-1
+CarCastingDesigner,Eric Tscherne,1,Eric Tscherne,,,,-1
+CarCastingDesigner,Fraser Campbell,1,Fraser Campbell,,,,-1
+CarCastingDesigner,Gary Saffer,1,Gary Saffer,,,,-1
+CarCastingDesigner,Greg Padginton,1,Greg Padginton,,,,-1
+CarCastingDesigner,Jerry Thienprasiddhi,1,Jerry Thienprasiddhi,,,,-1
+CarCastingDesigner,Larry Wood,1,Larry Wood,,,,-1
+CarCastingDesigner,Mark Barthold,1,Mark Barthold,,,,-1
+CarCastingDesigner,Mark Jones,1,Mark Jones,,,,-1
+CarCastingDesigner,Michael Collins,1,Michael Collins,,,,-1
+CarCastingDesigner,Michael Heralda,1,Michael Heralda,,,,-1
+CarCastingDesigner,Mike McClone,1,Mike McClone,,,,-1
+CarCastingDesigner,Mike Nuttall,1,Mike Nuttall,,,,-1
+CarCastingDesigner,Miq Willmott,1,Miq Willmott,,,,-1
+CarCastingDesigner,Nathan Proch,1,Nathan Proch,,,,-1
+CarCastingDesigner,Peter Carris,1,Peter Carris,,,,-1
+CarCastingDesigner,Phil Riehlman,1,Phil Riehlman,,,,-1
+CarCastingDesigner,Unknown,1,Unknown,,,,-1
+CarCastingDesigner,Wayne Scott,1,Wayne Scott,,,,-1
+CarGraphicDesigner,Alec Tam,1,Alec Tam,,,,-1
+CarGraphicDesigner,Brian Fitzgerald,1,Brian Fitzgerald,,,,-1
+CarGraphicDesigner,Bruce Baur,1,Bruce Baur,,,,-1
+CarGraphicDesigner,David Weise,1,David Weise,,,,-1
+CarGraphicDesigner,Eric Tscherne,1,Eric Tscherne,,,,-1
+CarGraphicDesigner,Fraser Campbell,1,Fraser Campbell,,,,-1
+CarGraphicDesigner,Gary Saffer,1,Gary Saffer,,,,-1
+CarGraphicDesigner,Greg Padginton,1,Greg Padginton,,,,-1
+CarGraphicDesigner,Jerry Thienprasiddhi,1,Jerry Thienprasiddhi,,,,-1
+CarGraphicDesigner,Larry Wood,1,Larry Wood,,,,-1
+CarGraphicDesigner,Mark Barthold,1,Mark Barthold,,,,-1
+CarGraphicDesigner,Mark Jones,1,Mark Jones,,,,-1
+CarGraphicDesigner,Michael Collins,1,Michael Collins,,,,-1
+CarGraphicDesigner,Michael Heralda,1,Michael Heralda,,,,-1
+CarGraphicDesigner,Mike McClone,1,Mike McClone,,,,-1
+CarGraphicDesigner,Mike Nuttall,1,Mike Nuttall,,,,-1
+CarGraphicDesigner,Miq Willmott,1,Miq Willmott,,,,-1
+CarWheelType,<strong>Real Riders GT wheels (Daredevil)/Real Riders 5-spoke wheels (Punisher)</strong>,1,<strong>Real Riders GT wheels (Daredevil)/Real Riders 5-spoke wheels (Punisher)</strong>,,,,-1
+CarWindowColor,<strong> Red (Daredevil)</strong>,1,<strong> Red (Daredevil)</strong>,,,,-1
+CarBaseType,<strong>Black-painted plastic chassis</strong>,1,<strong>Black-painted plastic chassis</strong>,,,,-1
+CarBodyColor,<strong>Satin berger white</strong>,1,<strong>Satin berger white</strong>,,,,-1
+CarInteriorColor,<strong>Grey</strong></p>,1,<strong>Grey</strong></p>,,,,-1
+CarWheelType,"<strong>5-spoke wheels, white</strong>",1,"<strong>5-spoke wheels, white</strong>",,,,-1
+CarWindowColor,<strong>Dark smoke-tinted</strong>,1,<strong>Dark smoke-tinted</strong>,,,,-1
+ClothingColor,BB Stripey Sleeper,1,Stripey Sleeper,,AG-BB-DRL44,,-1
+MarketingAge,3 - 6  years,1,3 - 6  years,,,,-1
+RelatedSizingChart,popup/ag-wellies-footwear-chart,1,popup/ag-wellies-footwear-chart,,,,-1
+EXCLUDE_FANFAV_COMPCOLL,N,1,N,,,,-1
+EXCLUDE_FANFAV_COMPCOLL,Y,1,Y,,,,-1
+MarketingAge,Birth-12 Months,1,Birth-12 Months,,,,-1
+MarketingAge,3;years;&;up,1,3;years;&;up,,,,-1
+MarketingAge,3-6;years,1,3-6;years,,,,-1
+MarketingAge,3years&up,1,3years&up,,,,-1
+MarketingAge,1-5years,1,1-5years,,,,-1
+MarketingAge,9-36months,1,9-36months,,,,-1
+MarketingAge,3-8years,1,3-8years,,,,-1
+MarketingAge,Birth&up,1,Birth&up,,,,-1
+MarketingAge,2-5years,1,2-5years,,,,-1
+CarGraphicDesigner,Nathan Proch,1,Nathan Proch,,,,-1
+CarGraphicDesigner,Peter Carris,1,Peter Carris,,,,-1
+CarGraphicDesigner,Phil Riehlman,1,Phil Riehlman,,,,-1
+CarGraphicDesigner,Unknown,1,Unknown,,,,-1
+CarGraphicDesigner,Wayne Scott,1,Wayne Scott,,,,-1
+CarInteriorColor,Interior Color,1,Interior Color,,,,-1
+CarInteriorColor,Aqua,1,Aqua,,,,-1
+CarInteriorColor,Assorted Colors,1,Assorted Colors,,,,-1
+CarInteriorColor,Beige,1,Beige,,,,-1
+CarInteriorColor,Black,1,Black,,,,-1
+CarInteriorColor,Black/Silver,1,Black/Silver,,,,-1
+CarInteriorColor,Blue,1,Blue,,,,-1
+CarInteriorColor,Brown,1,Brown,,,,-1
+CarInteriorColor,Burgundy,1,Burgundy,,,,-1
+CarInteriorColor,Chrome,1,Chrome,,,,-1
+CarInteriorColor,Chrome/Black,1,Chrome/Black,,,,-1
+CarInteriorColor,Clear,1,Clear,,,,-1
+CarInteriorColor,Cream,1,Cream,,,,-1
+CarInteriorColor,Gold,1,Gold,,,,-1
+CarInteriorColor,Gold Chrome,1,Gold Chrome,,,,-1
+CarInteriorColor,Gray,1,Gray,,,,-1
+DollHasBangs,Yes,1,Yes,,,,-1
+DollHasBangs,No,1,No,,,,-1
+DollHasBraces,Yes,1,Yes,,,,-1
+DollHasBraces,No,1,No,,,,-1
+DollHasEarrings,Yes,1,Yes,,,,-1
+DollHasEarrings,No,1,No,,,,-1
+DollHasFreckles,Yes,1,Yes,,,,-1
+DollHasFreckles,No,1,No,,,,-1
+DollHeight,15&#34;,1,15&#34;,,,,-1
+DollHeight,18&#34;,1,18&#34;,,,,-1
+DollSkinColor,Light,1,Fair,,,,-1
+DollSkinColor,Medium,1,Medium,,,,-1
+DollSkinColor,Dark,1,Dark,,,,-1
+DollVintage,Bill Greening,1,"<strong>Vintage Reproduction by: </strong><a href=""/shop/en-us/ba/bill-greening"" title=""Bill Greening"">Bill Greening</a>",,,,-1
+DressSkirtStyle,Above the Knee,1,Above the Knee,,,,-1
+DressSkirtStyle,A-Line,1,A-Line,,,,-1
+DressSkirtStyle,Halter,1,Halter,,,,-1
+DressSkirtStyle,Knee Length,1,Knee Length,,,,-1
+DressSkirtStyle,Maxi,1,Maxi,,,,-1
+DressSkirtStyle,Mini,1,Mini,,,,-1
+Furniture,Bathroom,1,Bathroom,,,,-1
+Furniture,Bedroom,1,Bedroom,,,,-1
+Furniture,Kitchen/Dining,1,Kitchen/Dining,,,,-1
+Furniture,Living Room,1,Living Room,,,,-1
+Furniture,Nursery,1,Nursery,,,,-1
+Furniture,School,1,School,,,,-1
+Furniture,Spa,1,Spa,,,,-1
+Furniture,Storage,1,Storage,,,,-1
+GiftCardType,N,1,N,,,,-1
+GiftCardType,E,1,E,,,,-1
+LegalAge,3+,1,3+,,,,-1
+LegalAge,7+,1,7+,,,,-1
+LegalAge,8+,1,8+,,,,-1
+LegalAge,9+,1,9+,,,,-1
+LegalAge,10+,1,10+,,,,-1
+LegalAge,Adult Only,1,Adult Only,,,,-1
+LegalAge,Adult Collector,1,Adult Collector,,,,-1
+LegalAge,18 mo+,1,18 mo+,,,,-1
+Materials,Plastic,1,Plastic,,,,-1
+Materials,Metal,1,Metal,,,,-1
+Materials,Paint,1,Paint,,,,-1
+Materials,Wood,1,Wood,,,,-1
+Materials,Faux Fur,1,Faux Fur,,,,-1
+Materials,Faux leather,1,Faux leather,,,,-1
+Materials,Glass,1,Glass,,,,-1
+Materials,Plush,1,Plush,,,,-1
+MediaType,DVD,1,DVD,,,,-1
+MediaType,BLU-RAY,1,BLU-RAY,,,,-1
+MediaType,CD,1,CD,,,,-1
+PantStyle,Capri,1,Capri,,,,-1
+PantStyle,Cargo,1,Cargo,,,,-1
+PantStyle,Cropped,1,Cropped,,,,-1
+PantStyle,Jeans,1,Jeans,,,,-1
+PantStyle,Leggings,1,Leggings,,,,-1
+PantStyle,Regular,1,Regular,,,,-1
+PantStyle,Shorts,1,Shorts,,,,-1
+PantStyle,Sweatpants,1,Sweatpants,,,,-1
+RelatedSizingChart,Clothing sizes 7-16,1,popup/size-chart,,,,-1
+RelatedSizingChart,Shoes 3-6X,1,popup/ag-girl-size-chart,,,,-1
+RelatedSizingChart,Shoes 7-16,1,popup/ag-little-girl-footwear-chart,,,,-1
+SleeveStyle,3/4 Length,1,3/4 Length,,,,-1
+SleeveStyle,Cap,1,Cap,,,,-1
+SleeveStyle,Long,1,Long,,,,-1
+SleeveStyle,Short,1,Short,,,,-1
+SleeveStyle,Sleeveless,1,Sleeveless,,,,-1
+SleeveStyle,Tank Top,1,Tank Top,,,,-1
+PlayPattern,bedroom,1,bedroom,,,,-1
+Character,"Thomas, Percy, James, Henry, Gordon, Edward, Toby, Emily",1,"Thomas, Percy, James, Henry, Gordon, Edward, Toby, Emily",,,,-1
+ClothingStyle,"PJs, pajamas, nightwear",1,"PJs, pajamas, nightwear",,,,-1
+RelatedSizingChart,Need URL,1,Need URL,,,,-1
+PlayPattern,my custom engine,1,my custom engine,,,,-1
+Character,Porter,1,Porter,,,,-1
+DollGender,M,1,M,,,,-1
+Character,Duck,1,Duck,,,,-1
+Character,Whiff,1,Whiff,,,,-1
+CarBaseType,Railcar,1,Railcar,,,,-1
+CarBodyType,Die cast,1,Die cast,,,,-1
+CarPrimaryColor,Brown,1,Brown,,,,-1
+Character,Toby,1,Toby,,,,-1
+Character,Spencer,1,Spencer,,,,-1
+PlayPattern,Spill & Thrills,1,Spill & Thrills,,,,-1
+CarBodyColor,"Orange, Blue",1,"Orange, Blue",,,,-1
+CarPrimaryColor,"Orange, Blue",1,"Orange, Blue",,,,-1
+Character,Bill and Ben,1,Bill and Ben,,,,-1
+PlayPattern,accessory,1,accessory,,,,-1
+CarBaseType,Vehicle,1,Vehicle,,,,-1
+Character,Bertie,1,Bertie,,,,-1
+DollGender,F,1,F,,,,-1
+LegalAge,2+,1,2+,,,,-1
+MarketingAge,2+,1,2+,,,,-1
+CarBodyColor,Grey,1,Grey,,,,-1
+CarPrimaryColor,Grey,1,Grey,,,,-1
+Character,GIGGLING TROUBLESOM TRUCKS,1,GIGGLING TROUBLESOM TRUCKS,,,,-1
+CarBodyColor,"Blue, White",1,"Blue, White",,,,-1
+CarPrimaryColor,"Blue, White",1,"Blue, White",,,,-1
+Character,STEPHEN,1,STEPHEN,,,,-1
+Character,ANNIE & CLARABEL,1,ANNIE & CLARABEL,,,,-1
+Character,Stephen,1,Stephen,,,,-1
+Character,Millie,1,Millie,,,,-1
+ClothingStyle,Pajamas,1,**Pajamas,,,,-1
+PLAgooglesize,2,1,2T,,,,-1
+PLAgooglesize,5,1,5,,,,-1
+PLAgooglesize,3,1,3T,,,,-1
+PLAgooglesize,6,1,6,,,,-1
+PLAgooglesize,18 months,1,18M,,,,-1
+PLAgooglecolor,Blue,1,Blue,,,,-1
+PLAgooglecolor,White,1,White,,,,-1
+PLAgooglecolor,Red,1,Red,,,,-1
+PLAgooglegender,female,1,female,,,,-1
+PLAgooglegender,male,1,male,,,,-1
+PLAgooglegender,unisex,1,unisex,,,,-1
+PLAgoogleage,adult,1,adult,,,,-1
+PLAgoogleage,toddler,1,toddler,,,,-1
+PLAgoogleage,kids,1,kids,,,,-1
+PLAgoogleage,infant,1,infant,,,,-1
+PLAgoogleage,newborn,1,newborn,,,,-1
+PLAgooglesize,4,1,4,,,,-1
+Character,"Kevin, Butch",1,"Kevin, Butch",,,,-1
+Character,"Thomas, James, Percy, Gordon, Henry, Emily, Edward",1,"Thomas, James, Percy, Gordon, Henry, Emily, Edward",,,,-1
+Character,Rusty,1,Rusty,,,,-1
+CarBodyColor,"Green, Red, Yellow",1,"Green, Red, Yellow",,,,-1
+CarPrimaryColor,"Green, Red, Yellow",1,"Green, Red, Yellow",,,,-1
+Character,Skarloey,1,Skarloey,,,,-1
+CarBodyColor,blue,1,blue,,,,-1
+CarPrimaryColor,blue,1,blue,,,,-1
+Character,Fearless Freddie,1,Fearless Freddie,,,,-1
+Character,Charlie,1,Charlie,,,,-1
+PlayPattern,Adventure Theme,1,Adventure Theme,,,,-1
+CarBodyColor,"Yellow, Blue",1,"Yellow, Blue",,,,-1
+Character,Butch,1,Butch,,,,-1
+CarBodyColor,"Yellow, Red",1,"Yellow, Red",,,,-1
+addOn_assoc_type,Hearing Aid- Both,1,Both Hearing Aids,,,,-1
+addOn_assoc_type,Hearing Aid- Left,1,Left Hearing Aid,,,,-1
+addOn_assoc_type,Ear Piercing,1,Ear Piercing,,,,-1
+syncPricesManually,N,1,N,,,,-1
+syncPricesManually,Y,1,Y,,,,-1
+CarBodyColor,<strong>Spectraflame smoke</strong>,1,<strong>Spectraflame smoke</strong>,,,,-1
+CarBodyType,<strong>Hand-polished ZAMAC</strong>,1,<strong>Hand-polished ZAMAC</strong>,,,,-1
+CarWheelType,<strong>Real Riders 5-spoke mag wheels with Red Line Club 2016 and red stripe tampo</strong>,1,<strong>Real Riders 5-spoke mag wheels with Red Line Club 2016 and red stripe tampo</strong>,,,,-1
+CarBaseType,"<strong>Full-metal, hand-polished ZAMAC chassis</strong>",1,"<strong>Full-metal, hand-polished ZAMAC chassis</strong>",,,,-1
+CarInteriorColor,<strong>Red hand-spray-painted interior and details</strong>,1,<strong>Red hand-spray-painted interior and details</strong>,,,,-1
+MarketingAge,8+,1,8+,,,,-1
+Character,Grace,1,Grace,,,,-1
+DollHairColor,Dark Brown,1,Dark Brown,,,,-1
+GroupName, ,1,Placeholder,,,,-1
+RelatedSizingChart,popup/CAlittle-girl-size-chart,1,popup/CAlittle-girl-size-chart,,,,-1
+ClothingSize,7000000000000245054,1,L,,,,-1
+ClothingSize,7000000000000245053,1,M,,,,-1
+ClothingSize,7000000000000245050,1,S,,,,-1
+ClothingSize,7000000000000245049,1,XS,,,,-1
+CareInstructions,Brushing curly hair is not advised. Finger-style your doll&#8217;s hair for best results.,1,Brushing curly hair is not advised. Finger-style your doll&#8217;s hair for best results.,,,,-1
+ClothingColor,Gray,1,White Floral Sleeper,,AG-BB-WHITE-SLEEPER,,-1
+ClothingColor,Magenta,1,Magenta,,,,-1
+ClothingColor,Indigo,1,Indigo,,,,-1
+ClothingColor,Lilac2,1,Lilac2,,AG-LILAC2,,-1
+RelatedSizingChart,popup/ag-girl-size-chart,1,popup/ag-girl-size-chart,,,,-1
+ClothingColor,Purple,1,Purple,,,,-1
+RelatedSizingChart,popup/agca-girl-size-chart,1,popup/agca-girl-size-chart,,,,-1
+RelatedSizingChart,popup/ag-girl-footwear-chart,1,popup/ag-girl-footwear-chart,,,,-1
+ClothingColor,Platinum,1,Platinum,,TWR PLATINUM,,-1
+ClothingColor,Print,1,Print,,AG-PRINT-FLAMINGO,,-1
+MarketingAge,1 1/2 - 5 years,1,1 1/2 - 5 years,,,,-1
+FACategory,Purses,1,**Purses,,,,-1
+PLAgooglecolor,blue,1,Blue,,,,-1
+excludeStandardShipping,CDJF00excludeStandardShipping,1,Y,,,,-1
+PlayPattern,Legend of the Lost Treasure,1,Legend of the Lost Treasure,,,,-1
+Character,Ryan,1,Ryan,,,,-1
+Character,Skiff,1,Skiff,,,,-1
+Character,Mike,1,Mike,,,,-1
+Character,Oliver & Oliver,1,Oliver & Oliver,,,,-1
+MEMBERSHIP_PRODUCT,Y,1,Y,,,,-1
+MEMBERSHIP_PRODUCT,N,1,N,,,,-1
+PlayPattern,Puzzles,1,Puzzles,,,,-1
+CareInstructions,CCKR55CareInstructions,1,"Hand wash, cold water, line dry.",,,,-1
+excludeStandardShipping,CDJF01excludeStandardShipping,1,Y,,,,-1
+excludeStandardShipping,CDMT80excludeStandardShipping,1,Y,,,,-1
+GroupName,Apparel,1,Apparel,,,,-1
+CareInstructions,CCKB85CareInstructions,1,"Hand wash, cold water, line dry",,,,-1
+CareInstructions,CCKB86CareInstructions,1,"Hand wash, cold water, line dry",,,,-1
+CareInstructions,CCLF81CareInstructions,1,"Hand wash, cold water, line dry.",,,,-1
+CareInstructions,CCLF82CareInstructions,1,"Hand wash, cold water, line dry.",,,,-1
+CareInstructions,CCLF83CareInstructions,1,"Hand wash, cold water, line dry.",,,,-1
+CareInstructions,CCKB91CareInstructions,1,"Hand wash, cold water, line dry",,,,-1
+CareInstructions,CCLF84CareInstructions,1,"Hand wash, cold water, line dry.",,,,-1
+CarBodyColor,"Silver, Grey",1,"Silver, Grey",,,,-1
+CarPrimaryColor,"Silver, Grey",1,"Silver, Grey",,,,-1
+Character,Rocky,1,Rocky,,,,-1
+CarBodyColor,Teal,1,Teal,,,,-1
+CarPrimaryColor,Teal,1,Teal,,,,-1
+Character,Ferdinand,1,Ferdinand,,,,-1
+Character,Belle,1,Belle,,,,-1
+CarPrimaryColor,Orange,1,Orange,,,,-1
+Character,Winston,1,Winston,,,,-1
+Character,Stafford,1,Stafford,,,,-1
+Character,Luke,1,Luke,,,,-1
+Character,Samson,1,Samson,,,,-1
+PlayPattern,Dinos & Discoveries,1,Dinos & Discoveries,,,,-1
+CarBodyColor,"Blue, Orange, Red, Yellow",1,"Blue, Orange, Red, Yellow",,,,-1
+CarPrimaryColor,"Blue, Orange, Red, Yellow",1,"Blue, Orange, Red, Yellow",,,,-1
+Character,Den and Dart,1,Den and Dart,,,,-1
+PlayPattern,Diesels,1,Diesels,,,,-1
+CarBodyColor,"Blue, Green",1,"Blue, Green",,,,-1
+CarPrimaryColor,"Blue, Green",1,"Blue, Green",,,,-1
+Character,Hiro,1,Hiro,,,,-1
+CarInteriorColor,Green,1,Green,,,,-1
+CarInteriorColor,Light Brown,1,Light Brown,,,,-1
+CarInteriorColor,Light Gray,1,Light Gray,,,,-1
+CarInteriorColor,Light Green,1,Light Green,,,,-1
+CarInteriorColor,Metal,1,Metal,,,,-1
+CarInteriorColor,Metallic gold,1,Metallic gold,,,,-1
+CarInteriorColor,Metallic gray,1,Metallic gray,,,,-1
+CarInteriorColor,n/a,1,n/a,,,,-1
+CarInteriorColor,Not Visible,1,Not Visible,,,,-1
+CarInteriorColor,Off White,1,Off White,,,,-1
+CarInteriorColor,Olive,1,Olive,,,,-1
+CarInteriorColor,Orange,1,Orange,,,,-1
+CarInteriorColor,Pearl White,1,Pearl White,,,,-1
+CarInteriorColor,Purple,1,Purple,,,,-1
+CarInteriorColor,Red,1,Red,,,,-1
+CarInteriorColor,Red/White,1,Red/White,,,,-1
+CarInteriorColor,Silver,1,Silver,,,,-1
+CarInteriorColor,Silver-Painted,1,Silver-Painted,,,,-1
+CarInteriorColor,Tan,1,Tan,,,,-1
+CarInteriorColor,Unfinished Metal,1,Unfinished Metal,,,,-1
+CarInteriorColor,Various,1,Various,,,,-1
+CarInteriorColor,White,1,White,,,,-1
+CarInteriorColor,Yellow,1,Yellow,,,,-1
+CarInteriorColor,Yellow-Tinted,1,Yellow-Tinted,,,,-1
+CarMake,Cadillac,1,Cadillac,,,,-1
+CarMake,Chevy,1,Chevy,,,,-1
+CarMake,Chrysler,1,Chrysler,,,,-1
+CarMake,DeLorean,1,DeLorean,,,,-1
+CarMake,Dodge,1,Dodge,,,,-1
+CarMake,Ferrari,1,Ferrari,,,,-1
+CarMake,Ford,1,Ford,,,,-1
+CarMake,GMC,1,GMC,,,,-1
+CarMake,Kia,1,Kia,,,,-1
+CarMake,Nissan,1,Nissan,,,,-1
+CarMake,Plymouth,1,Plymouth,,,,-1
+CarMake,Pontiac,1,Pontiac,,,,-1
+CarMake,Toyota,1,Toyota,,,,-1
+CarMake,Volkswagen,1,Volkswagen,,,,-1
+CarSeriesName,16th Annual Hot Wheels&#174; Collectors Convention 2002,1,16th Annual Hot Wheels&#174; Collectors Convention 2002,,,,-1
+CarSeriesName,17th Annual Hot Wheels&#174; Collectors Convention 2003,1,17th Annual Hot Wheels&#174; Collectors Convention 2003,,,,-1
+CarSeriesName,18th Annual Hot Wheels&#174; Collectors Convention 2004,1,18th Annual Hot Wheels&#174; Collectors Convention 2004,,,,-1
+CarSeriesName,19th Annual Hot Wheels&#174; Collectors Convention 2005,1,19th Annual Hot Wheels&#174; Collectors Convention 2005,,,,-1
+CarSeriesName,2003 Treasure Hunt&#8482; Series,1,2003 Treasure Hunt&#8482; Series,,,,-1
+CarSeriesName,2004 Treasure Hunt&#8482; Series,1,2004 Treasure Hunt&#8482; Series,,,,-1
+CarSeriesName,2005 Treasure Hunt&#8482; Series,1,2005 Treasure Hunt&#8482; Series,,,,-1
+CarSeriesName,20th Annual Hot Wheels&#174; Collectors Convention 2006,1,20th Annual Hot Wheels&#174; Collectors Convention 2006,,,,-1
+CarSeriesName,21st Annual Hot Wheels&#174; Collectors Convention 2007,1,21st Annual Hot Wheels&#174; Collectors Convention 2007,,,,-1
+CarSeriesName,22nd Annual Hot Wheels&#174; Collectors Convention 2008,1,22nd Annual Hot Wheels&#174; Collectors Convention 2008,,,,-1
+CarSeriesName,23rd Annual Hot Wheels&#174; Collectors Convention 2009,1,23rd Annual Hot Wheels&#174; Collectors Convention 2009,,,,-1
+Character,Victor,1,Victor,,,,-1
+PlayPattern,Narrow gauge,1,Narrow gauge,,,,-1
+Character,Flynn,1,Flynn,,,,-1
+Character,Edward,1,Edward,,,,-1
+Character,Henry,1,Henry,,,,-1
+CareInstructions,WWF10CareInstructions,1,WWF10CareInstructions,,,,-1
+CarPrimaryColor,Silver,1,Silver,,,,-1
+Character,Diesel,1,Diesel,,,,-1
+CarPrimaryColor,White,1,White,,,,-1
+MarketingAge,18 mo+,1,18 mo+,,,,-1
+PlayPattern,create a set,1,create a set,,,,-1
+PlayPattern,storytelling,1,storytelling,,,,-1
+CareInstructions,Playmat surface may be cleaned with a damp cloth.,1,Playmat surface may be cleaned with a damp cloth.,,,,-1
+PlayPattern,storage,1,storage,,,,-1
+Character,Harold,1,Harold,,,,-1
+MarketingAge,3 years & up,1,3 years & up,,,,-1
+CarWheelType,RRd/WL,1,RRd/WL,,,,-1
+CarWheelType,RRdd (Real Riders&#174; deep-dish wheels),1,RRdd (Real Riders&#174; deep-dish wheels),,,,-1
+CarWheelType,"RRdd,or/os (Real Riders&#174; deep-dish wheels, orange hubs w/orange stripe tampo)",1,"RRdd,or/os (Real Riders&#174; deep-dish wheels, orange hubs w/orange stripe tampo)",,,,-1
+CarWheelType,"RRdd,wh/Myst&ws (Real Riders&#174; deep-dish wheels, white hubs w/&#34;Mystery Car&#34; & white stripes)",1,"RRdd,wh/Myst&ws (Real Riders&#174; deep-dish wheels, white hubs w/&#34;Mystery Car&#34; & white stripes)",,,,-1
+CarWheelType,RRdd/Gdyr (Real Riders&#174; deep-dish wheels w/&#34;Goodyear&#34; tampo),1,RRdd/Gdyr (Real Riders&#174; deep-dish wheels w/&#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,RRdd/os (Real Riders&#174; deep-dish wheels w/orange stripe tampo),1,RRdd/os (Real Riders&#174; deep-dish wheels w/orange stripe tampo),,,,-1
+CarWheelType,RRdd/rs (Real Riders&#174; deep-dish wheels w/red stripe tampo),1,RRdd/rs (Real Riders&#174; deep-dish wheels w/red stripe tampo),,,,-1
+CarWheelType,RRdd/ws (Real Riders&#174; deep-dish wheels w/white stripe tampo),1,RRdd/ws (Real Riders&#174; deep-dish wheels w/white stripe tampo),,,,-1
+CarWheelType,RRdd/ww (Real Riders&#174; deep-dish wheels w/whitewall tampo),1,RRdd/ww (Real Riders&#174; deep-dish wheels w/whitewall tampo),,,,-1
+CarWheelType,RRddoff (Real Riders&#174; deep-dish wheels & off-road tires),1,RRddoff (Real Riders&#174; deep-dish wheels & off-road tires),,,,-1
+CarWheelType,RRddoff/Gdyr (Real Riders deep-dish wheels & off-road tires w/&#34;Goodyear&#34; tampo),1,RRddoff/Gdyr (Real Riders deep-dish wheels & off-road tires w/&#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,RRddoff/Myst&ws (Real Riders deep-dish wheels & offroad tires w/&#34;Mystery Car&#34; & white stripe),1,RRddoff/Myst&ws (Real Riders deep-dish wheels & offroad tires w/&#34;Mystery Car&#34; & white stripe),,,,-1
+CarWheelType,RRfl (Real Riders&#174; flat hub wheels),1,RRfl (Real Riders&#174; flat hub wheels),,,,-1
+CarWheelType,RRfl/ww (Real Riders&#174; flat hub wheels w/whitewall tampo),1,RRfl/ww (Real Riders&#174; flat hub wheels w/whitewall tampo),,,,-1
+CarWheelType,RRpf/rs (Real Riders&#174; preferred wheels w/red stripe tampo),1,RRpf/rs (Real Riders&#174; preferred wheels w/red stripe tampo),,,,-1
+CarWheelType,RRsl (Real Riders&#174; slotted wheels),1,RRsl (Real Riders&#174; slotted wheels),,,,-1
+CarWheelType,RRsl/Gdyr (Real Riders&#174; slotted wheels w/&#34;Goodyear&#34; tampo),1,RRsl/Gdyr (Real Riders&#174; slotted wheels w/&#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,RRsl/rs (Real Riders&#174; slotted wheels w/red stripe tampo),1,RRsl/rs (Real Riders&#174; slotted wheels w/red stripe tampo),,,,-1
+MarketingAge,1 year & up,1,1 year & up,,,,-1
+MarketingAge,1&#189; years & up,1,1&#189; years & up,,,,-1
+MarketingAge,1&#189;-3 years,1,1&#189;-3 years,,,,-1
+MarketingAge,1&#189;-4 years,1,1&#189;-4 years,,,,-1
+MarketingAge,1&#189;-5 years,1,1&#189;-5 years,,,,-1
+MarketingAge,1-3 years,1,1-3 years,,,,-1
+MarketingAge,1-4 years,1,1-4 years,,,,-1
+MarketingAge,1-5 years,1,1-5 years,,,,-1
+MarketingAge,2 years & up,1,2 years & up,,,,-1
+MarketingAge,2&#189; years & up,1,2&#189; years & up,,,,-1
+MarketingAge,2&#189;-6 years,1,2&#189;-6 years,,,,-1
+MarketingAge,2-5 years,1,2-5 years,,,,-1
+MarketingAge,2-6 years,1,2-6 years,,,,-1
+MarketingAge,2-7 years,1,2-7 years,,,,-1
+MarketingAge,2-8 years,1,2-8 years,,,,-1
+MarketingAge,3-10 years,1,3-10 years,,,,-1
+MarketingAge,3-5 years,1,3-5 years,,,,-1
+MarketingAge,3-6 years,1,3-6 years,,,,-1
+MarketingAge,3-7 years,1,3-7 years,,,,-1
+MarketingAge,3-8 years,1,3-8 years,,,,-1
+MarketingAge,4 years & up,1,4 years & up,,,,-1
+MarketingAge,4-10 years,1,4-10 years,,,,-1
+MarketingAge,4-6 years,1,4-6 years,,,,-1
+MarketingAge,4-7 years,1,4-7 years,,,,-1
+MarketingAge,4-8 years,1,4-8 years,,,,-1
+MarketingAge,4-9 years,1,4-9 years,,,,-1
+MarketingAge,5 years & up,1,5 years & up,,,,-1
+MarketingAge,5-8 years,1,5-8 years,,,,-1
+MarketingAge,5-9 years,1,5-9 years,,,,-1
+MarketingAge,6 years & up,1,6 years & up,,,,-1
+MarketingAge,6+,1,6+,,,,-1
+MarketingAge,8 years & up,1,8 years & up,,,,-1
+MarketingAge,10+,1,10+,,,,-1
+MarketingAge,FOR ADULT USE ONLY,1,FOR ADULT USE ONLY,,,,-1
+MarketingAge,For the Adult Collector,1,For the Adult Collector,,,,-1
+MarketingAge,No Age Available,1,No Age Available,,,,-1
+MarketingAge,Not Rated,1,Not Rated,,,,-1
+MarketingAge,TV Y,1,TV Y,,,,-1
+MarketingAge,TV Y&amp;,1,TV Y&amp;,,,,-1
+PlayPattern,Bedtime,1,Bedtime,,,,-1
+PlayPattern,Dress Like Your Doll,1,Dress Like Your Doll,,,,-1
+PlayPattern,Costume,1,Costume,,,,-1
+PlayPattern,Nurturing,1,Nurturing,,,,-1
+PlayPattern,Food ,1,Food ,,,,-1
+PlayPattern,Hair play,1,Hair play,,,,-1
+PlayPattern,Holiday,1,Holiday,,,,-1
+PlayPattern,School,1,School,,,,-1
+PlayPattern,Pets,1,Pets,,,,-1
+PlayPattern,Sports,1,Sports,,,,-1
+PlayPattern,Performance,1,Performance,,,,-1
+PlayPattern,My Custom Engine,1,My Custom Engine,,,,-1
+PlayPattern,Storytelling,1,Storytelling,,,,-1
+PlayPattern,Create a Set,1,Create a Set,,,,-1
+PlayPattern,Storage,1,Storage,,,,-1
+PlayPattern,Bedroom,1,Bedroom,,,,-1
+PlayPattern,DVD,1,DVD,,,,-1
+PlayPattern,Search and Rescue,1,Search and Rescue,,,,-1
+PlayPattern,Steam Team,1,Steam Team,,,,-1
+PlayPattern,Express,1,Express,,,,-1
+PlayPattern,Diesel,1,Diesel,,,,-1
+PlayPattern,Narrow Gauge,1,Narrow Gauge,,,,-1
+PlayPattern,Classic,1,Classic,,,,-1
+PlayPattern,Adventure,1,Adventure,,,,-1
+PlayPattern,Construction,1,Construction,,,,-1
+PlayPattern,Spills & Thrills,1,Spills & Thrills,,,,-1
+PlayPattern,Accessory,1,Accessory,,,,-1
+PlayPattern,King of the Railway,1,King of the Railway,,,,-1
+PlayPattern,Steam,1,Steam,,,,-1
+PlayPattern,Go Go Thomas,1,Go Go Thomas,,,,-1
+PlayPattern,Circus,1,Circus,,,,-1
+PlayPattern,Search and Rescue/Water,1,Search and Rescue/Water,,,,-1
+DollLashes,Painted,1,<strong>Eyelashes:</strong> Painted,,,,-1
+DollLashes,Rooted,1,<strong>Eyelashes:</strong> Rooted,,,,-1
+DollEyeShape,Round,1,Round,,,,-1
+DollEyeShape,Almond,1,Almond,,,,-1
+DollFashionOn,Yes,1,<strong>Fashion Sewn On?:</strong> Yes,,,,-1
+DollGender,Male,1,Male,,,,-1
+DollGender,Female,1,Female,,,,-1
+DollGender,Boy,1,Boy,,,,-1
+DollGender,Girl,1,Girl,,,,-1
+DollHairColor,Auburn,1,Auburn,,,,-1
+DollHairColor,Black,1,Black,,,,-1
+DollHairColor,Black-brown,1,Black-brown,,,,-1
+DollHairColor,Blond,1,Blond,,,,-1
+DollHairColor,Brown,1,Brown,,,,-1
+DollHairColor,Caramel,1,Caramel,,,,-1
+DollHairColor,Grey,1,Gray,,,,-1
+DollHairColor,Red,1,Red,,,,-1
+DollHairLength,Short,1,Short,,,,-1
+DollHairLength,Medium,1,Medium,,,,-1
+DollHairLength,Long,1,Long,,,,-1
+DollHairStyle,Bob,1,Bob,,,,-1
+DollHairStyle,Braids,1,Braids,,,,-1
+DollHairStyle,Curly,1,Curly,,,,-1
+DollHairStyle,Highlights,1,Highlights,,,,-1
+DollHairStyle,Layered,1,Layered,,,,-1
+DollHairStyle,Straight,1,Straight,,,,-1
+DollHairStyle,Wavy,1,Wavy,,,,-1
+DollHairTexture,Yes,1,Yes,,,,-1
+DollHairTexture,No,1,No,,,,-1
+CarBaseColor,Black,1,Black,,,,-1
+CarBaseColor,Black w/Silver VUM Engine,1,Black w/Silver VUM Engine,,,,-1
+CarBaseColor,Black/Chrome-Colored,1,Black/Chrome-Colored,,,,-1
+CarBaseColor,Black-Painted,1,Black-Painted,,,,-1
+CarBaseColor,Blue,1,Blue,,,,-1
+CarBaseColor,Chrome,1,Chrome,,,,-1
+CarBaseColor,Chromed,1,Chromed,,,,-1
+CarBaseColor,Chrome-Plated,1,Chrome-Plated,,,,-1
+CarBaseColor,Dark Blue,1,Dark Blue,,,,-1
+CarBaseColor,Flat Black,1,Flat Black,,,,-1
+CarBaseColor,Gloss Black,1,Gloss Black,,,,-1
+CarBaseColor,Gold,1,Gold,,,,-1
+CarBaseColor,Gold Chrome,1,Gold Chrome,,,,-1
+CarBaseColor,Gray,1,Gray,,,,-1
+CarBaseColor,Metal,1,Metal,,,,-1
+CarBaseColor,Polished Metal,1,Polished Metal,,,,-1
+CarBaseColor,Red,1,Red,,,,-1
+CarBaseColor,Silver,1,Silver,,,,-1
+CarBaseColor,Silver-Painted,1,Silver-Painted,,,,-1
+CarBaseColor,Spectraflame&#174; Red,1,Spectraflame&#174; Red,,,,-1
+CarBaseColor,Unfinished,1,Unfinished,,,,-1
+CarBaseColor,Various,1,Various,,,,-1
+CarBaseColor,White,1,White,,,,-1
+CarBodyColor,Antique Yellow,1,Antique Yellow,,,,-1
+CarBodyColor,Aqua,1,Aqua,,,,-1
+CarBodyColor,Beige,1,Beige,,,,-1
+CarBodyColor,Black,1,Black,,,,-1
+CarBodyColor,Black/Orange,1,Black/Orange,,,,-1
+CarBodyColor,Black/Silver,1,Black/Silver,,,,-1
+CarBodyColor,Blue,1,Blue,,,,-1
+CarBodyColor,Blue-gray,1,Blue-gray,,,,-1
+CarBodyColor,Brown,1,Brown,,,,-1
+CarBodyColor,Burgundy,1,Burgundy,,,,-1
+CarBodyColor,Burnt Orange,1,Burnt Orange,,,,-1
+CarBodyColor,Chrome,1,Chrome,,,,-1
+CarBodyColor,Dark Blue,1,Dark Blue,,,,-1
+CarBodyColor,Dark Chrome,1,Dark Chrome,,,,-1
+CarBodyColor,Dark Green,1,Dark Green,,,,-1
+CarBodyColor,Dark Purple,1,Dark Purple,,,,-1
+CarBodyColor,Dark Red,1,Dark Red,,,,-1
+CarBodyColor,Dark Yellow,1,Dark Yellow,,,,-1
+CarBodyColor,Flat Black,1,Flat Black,,,,-1
+CarBodyColor,Flat Purple,1,Flat Purple,,,,-1
+CarBodyColor,Fluorescent Lime Green,1,Fluorescent Lime Green,,,,-1
+CarBodyColor,Fluorescent Orange,1,Fluorescent Orange,,,,-1
+CarBodyColor,Fluorescent Pink,1,Fluorescent Pink,,,,-1
+CarBodyColor,Gloss Black,1,Gloss Black,,,,-1
+CarBodyColor,Gloss Black and Metalflake Yellow,1,Gloss Black and Metalflake Yellow,,,,-1
+CarWheelType,Real Riders off-road wheels w/ convention tampo,1,Real Riders off-road wheels w/ convention tampo,,,,-1
+CarBodyColor,Spectraflame blue ,1,Spectraflame blue ,,,,-1
+CarWheelType,RRtu (Real Riders&#174; turbine wheels (no tampo)),1,RRtu (Real Riders&#174; turbine wheels (no tampo)),,,,-1
+CarWheelType,"RRtu,blk/Gdyr&rs (Real Riders&#174; turbine wheels, black hubs w/&#34;Goodyear&#34; and red stripe tampo)",1,"RRtu,blk/Gdyr&rs (Real Riders&#174; turbine wheels, black hubs w/&#34;Goodyear&#34; and red stripe tampo)",,,,-1
+CarWheelType,RRtu/Gdyr (Real Riders&#174; turbine w/&#34;Goodyear&#34; tampo),1,RRtu/Gdyr (Real Riders&#174; turbine w/&#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,RRtu/HRCCS (Real Riders&#174; turbine wheels w/Howard Rees Custom Car Show tampo),1,RRtu/HRCCS (Real Riders&#174; turbine wheels w/Howard Rees Custom Car Show tampo),,,,-1
+CarWheelType,RRtu/rs (Real Riders&#174; turbine wheels w/red stripe tampo),1,RRtu/rs (Real Riders&#174; turbine wheels w/red stripe tampo),,,,-1
+CarWheelType,RRtuoff/Gdyr (Real Riders&#174; turbine wheels and offroad tires w/&#34;Goodyear&#34; tampo),1,RRtuoff/Gdyr (Real Riders&#174; turbine wheels and offroad tires w/&#34;Goodyear&#34; tampo),,,,-1
+CarWheelType,Various,1,Various,,,,-1
+CarWheelType,Wh CM/BL,1,Wh CM/BL,,,,-1
+CarWheelType,WW (White Wall wheels),1,WW (White Wall wheels),,,,-1
+CarWindowColor,Amber-Tinted,1,Amber-Tinted,,,,-1
+CarWindowColor,Black,1,Black,,,,-1
+CarWindowColor,Black Opaque,1,Black Opaque,,,,-1
+CarWindowColor,Black-Tinted,1,Black-Tinted,,,,-1
+CarWindowColor,Blue-Tinted,1,Blue-Tinted,,,,-1
+CarWindowColor,Charcoal-Tinted,1,Charcoal-Tinted,,,,-1
+CarWindowColor,Chrome,1,Chrome,,,,-1
+CarWindowColor,Clear,1,Clear,,,,-1
+CarWindowColor,Gray-Tinted,1,Gray-Tinted,,,,-1
+CarWindowColor,Green-Tinted,1,Green-Tinted,,,,-1
+CarWindowColor,Light Blue-Tinted,1,Light Blue-Tinted,,,,-1
+CarWindowColor,Light Purple-Tinted,1,Light Purple-Tinted,,,,-1
+CarWindowColor,Light Smoke-Tinted,1,Light Smoke-Tinted,,,,-1
+CareInstructions,CCGD24CareInstructions,1,"Hand wash, cold water, line dry",,,,-1
+CareInstructions,Baking plaque and sifter are dishwasher safe.,1,Baking plaque and sifter are dishwasher safe.,,,,-1
+MarketingAge,CCLG46MarketingAge,1,8-12,,,,-1
+CareInstructions,CCLG46CareInstructions,1,"Hand wash, cold water, line dry",,,,-1
+CareInstructions,CCKB94CareInstructions,1,"Hand wash, cold water, line dry",,,,-1
+CareInstructions,CCKB97CareInstructions,1,"Hand wash, cold water, line dry",,,,-1
+CareInstructions,CCKC00CareInstructions,1,"Hand wash, cold water, line dry",,,,-1
+CareInstructions,CCLT12CareInstructions,1,CCLT12CareInstructions,,,,-1
+CareInstructions,CCLT14CareInstructions,1,CCLT14CareInstructions,,,,-1
+CareInstructions,CCLT15CareInstructions,1,CCLT15CareInstructions,,,,-1
+CareInstructions,CCLT18CareInstructions,1,CCLT18CareInstructions,,,,-1
+CareInstructions,"Hand wash, cold water, line dry.",1,"Hand wash, cold water, line dry.",,,,-1
+CarBaseColor,Mirrorized ZAMAC,1,Mirrorized ZAMAC,,,,-1
+CarSeriesName,HWC&#8482; Series Twelve Neo-Classics&#8482;,1,HWC&#8482; Series Twelve Neo-Classics&#8482;,,,,-1
+CarWheelType,Real Riders&#174; GT wheels w/&#8220;Goodyear&#8221; tampo,1,Real Riders&#174; GT wheels w/&#8220;Goodyear&#8221; tampo,,,,-1
+DollBodyType,Articulated Harley Ken,1,<strong>Body Type: </strong>Articulated Harley Ken,,,,-1
+DollFacialSculpt (old),New Tango Ken,1,New Tango Ken,,,,-1
+DollSkinTone,Dark Brown,1,<strong>Skin Tone: </strong>Dark Brown,,,,-1
+CarWheelType,BW/Fs&ws,1,BW/Fs&ws,,,,-1
+DollBodyType,Poseable Ken,1,<strong>Body Type: </strong>Poseable Ken,,,,-1
+DollDesigner,Monica LaValle,1,"<strong>Designer: </strong><a href=""/shop/en-us/ba/monica-lavalle"" title=""Monica LaValle"">Monica LaValle</a>",,,,-1
+DollFacialSculpt (old),Rhett/Clark Gable,1,Rhett/Clark Gable,,,,-1
+DollBodyType,Poseable Ken Torso,1,<strong>Body Type: </strong>Poseable Ken Torso,,,,-1
+DollDesigner,Lauri Sipos,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/lauri-sipos"" title=""Lauri Sipos"">Lauri Sipos</a>",,,,-1
+DollFacialSculpt (old),Sculpt to Likeness,1,Sculpt to Likeness,,,,-1
+DollSkinTone,Metallic Silver,1,<strong>Skin Tone: </strong>Metallic Silver,,,,-1
+CarBodyColor,Spectraflame&#174; Bright Orange,1,Spectraflame&#174; Bright Orange,,,,-1
+ClothingSize,1,1,1,,,,-1
+ClothingSize,10,1,10,,,,-1
+ClothingSize,11,1,11,,,,-1
+ClothingSize,12,1,12,,,,-1
+ClothingSize,12M,1,12M,,,,-1
+ClothingSize,13,1,13,,,,-1
+ClothingSize,14,1,14,,,,-1
+ClothingSize,15,1,15,,,,-1
+ClothingSize,12/13,1,12/13,,,,-1
+ClothingSize,9-11,1,9-11,,,,-1
+ClothingSize,5/6,1,5/6,,,,-1
+ClothingSize,7/8,1,7/8,,,,-1
+ClothingSize,1/2,1,1/2,,,,-1
+ClothingSize,10/11,1,10/11,,,,-1
+CarWheelType,NCRLw,1,NCRLw,,,,-1
+DollBodyType,Straight ModelMuse torso with poseable arms and legs,1,<strong>Body Type: </strong>Straight ModelMuse&#8482; Torso with Poseable Arms and Legs,,,,-1
+DollFacialSculpt (old),Claudette,1,Claudette,,,,-1
+CarBodyColor,Spectraflame dark gold,1,Spectraflame dark gold,,,,-1
+CarWheelType,Neo-Classics Redlines wheels,1,Neo-Classics Redlines wheels,,,,-1
+CarWindowColor,Light blue-tinted,1,Light blue-tinted,,,,-1
+CarWheelType,RR5sp/ww,1,RR5sp/ww,,,,-1
+CarWheelType,"RRdd,wh/Myst&ws",1,"RRdd,wh/Myst&ws",,,,-1
+CarWheelType,RRddoff/Myst&ws,1,RRddoff/Myst&ws,,,,-1
+CarWheelType,Real Riders&#174; 5-spoke wheels (no tampo),1,Real Riders&#174; 5-spoke wheels (no tampo),,,,-1
+CarWheelType,RR/Gdyr,1,RR/Gdyr,,,,-1
+CarWheelType,RR,1,RR,,,,-1
+CarWheelType,RRtu,1,RRtu,,,,-1
+CarWheelType,RRfl/ww,1,RRfl/ww,,,,-1
+CarBodyType,Metal/Plst,1,Metal/Plst,,,,-1
+CarWheelType,"RRtu,blk/Gdyr&rs",1,"RRtu,blk/Gdyr&rs",,,,-1
+CarWheelType,RR5sp/BFG,1,RR5sp/BFG,,,,-1
+PlayPattern,Docks Theme,1,Lift and Load Docks,,,,-1
+CarWheelType,RR5sp/10YArs,1,RR5sp/10YArs,,,,-1
+CarWheelType,RRtu/HRCCS,1,RRtu/HRCCS,,,,-1
+CarWheelType,RRtu/rs,1,RRtu/rs,,,,-1
+CarWheelType,5Sp/ws,1,5Sp/ws,,,,-1
+CarWheelType,RRdd/Gdyr,1,RRdd/Gdyr,,,,-1
+CarSeriesName,TBD,1,TBD,,,,-1
+CarWheelType,RR5sp/Gdyr,1,RR5sp/Gdyr,,,,-1
+CarWheelType,WW,1,WW,,,,-1
+CarWheelType,RR/ws,1,RR/ws,,,,-1
+CarWheelType,RRAr,1,RRAr,,,,-1
+CarWindowColor,Dark Smoke-tinted,1,Dark Smoke-tinted,,,,-1
+CarBodyColor,Matte Black,1,Matte Black,,,,-1
+CarWheelType,RR10sp,1,RR10sp,,,,-1
+CarWheelType,RRtuoff/Gdyr,1,RRtuoff/Gdyr,,,,-1
+CarWheelType,RRtu/Gdyr,1,RRtu/Gdyr,,,,-1
+CarWheelType,5sp,1,5sp,,,,-1
+CarWheelType,"Real Riders&#174; deep-dish wheels, orange hubs w/orange stripe tampo",1,"Real Riders&#174; deep-dish wheels, orange hubs w/orange stripe tampo",,,,-1
+CarWheelType,Real Riders&#174; deep-dish wheels w/orange stripe tampo,1,Real Riders&#174; deep-dish wheels w/orange stripe tampo,,,,-1
+CarWheelType,RRdd/ww,1,RRdd/ww,,,,-1
+CarBodyColor,Metalflake Light Blue,1,Metalflake Light Blue,,,,-1
+CarWheelType,RRddoff,1,RRddoff,,,,-1
+CarWheelType,Real Riders&#174; deep-dish wheels w/white stripe tampo,1,Real Riders&#174; deep-dish wheels w/white stripe tampo,,,,-1
+CarWheelType,Real Riders&#174; deep-dish wheels w/red stripe tampo,1,Real Riders&#174; deep-dish wheels w/red stripe tampo,,,,-1
+CarWheelType,Five-spoke wheels,1,Five-spoke wheels,,,,-1
+CarBodyColor,Metalflake Pink,1,Metalflake Pink,,,,-1
+CarBodyColor,Flame Red,1,Flame Red,,,,-1
+CarBodyColor,Metallic Gold,1,Metallic Gold,,,,-1
+CarWheelType,RRex,1,RRex,,,,-1
+CarWheelType,RRsl/rs,1,RRsl/rs,,,,-1
+CarSeriesName,Red Line Club Party Cars,1,Red Line Club Party Cars,,,,-1
+CarWheelType,RRgt,1,RRgt,,,,-1
+CarWheelType,RRr,1,RRr,,,,-1
+CarWheelType,5Sp,1,5Sp,,,,-1
+CarWheelType,RRdd,1,RRdd,,,,-1
+CarWheelType,RR/rs,1,RR/rs,,,,-1
+CarWheelType,RRcl,1,RRcl,,,,-1
+ClothingColor,ROS,1,Rose,,PRI,,-1
+ClothingColor,RUB,1,Ruby,,GHM,,-1
+ClothingColor,SAG,1,Sage,,TUR,,-1
+ClothingColor,SAN,1,Sand,,ORA,,-1
+ClothingColor,SEA,1,Seafoam,,PLA,,-1
+ClothingColor,SIL,1,Silver,,DPI,,-1
+ClothingColor,SKY,1,Sky,,ASH,,-1
+ClothingColor,SPR,1,Spruce,,GRE,,-1
+ClothingColor,STO,1,Stone,,GRA,,-1
+ClothingColor,STR,1,Stripe,,AG-STRIPES,,-1
+ClothingColor,TAN,1,Tan,,AG-TAN,,-1
+ClothingColor,TEA,1,Teal,,AG-TEAL,,-1
+ClothingColor,TIE,1,Tie-Dye,,TUR,,-1
+ClothingColor,TOR,1,Tortoise,,ORA,,-1
+ClothingColor,TUR,1,Turquoise,,AG-TURQUOISE,,-1
+ClothingColor,VIO,1,Violet,,DPI,,-1
+ClothingColor,WHI,1,White,,070714TWRwhite,,-1
+ClothingColor,YEL,1,Yellow,,PRI,,-1
+ClothingColor,0,1,0,,,,-1
+DollSkinTone,Gil Blue,1,<strong>Skin Tone: </strong>Gil Blue,,,,-1
+DollFacialSculpt (old),Karl Lagerfeld Barbie,1,Karl Lagerfeld Barbie,,,,-1
+DollBodyType,Pivotal ,1,<strong>Body Type: </strong>Pivotal,,,,-1
+CarBodyColor,"Spectraflame true black and chrome, Spectraflame red, and Spectraflame blue",1,"Spectraflame true black and chrome, Spectraflame red, and Spectraflame blue",,,,-1
+PLAgooglecolor,Dots,1,Dots,,,,-1
+DollBodyType,Poseable Silkstone,1,<strong>Body Type: </strong>Poseable Silkstone&#174;,,,,-1
+DollBodyType,New Ballet Body ,1,<strong>Body Type: </strong>New Ballet Body,,,,-1
+DollBodyType,Shani ,1,Shani<strong>Body Type: </strong>Shani,,,,-1
+DollFacialSculpt (old),New Misty sculpt,1,New Misty sculpt,,,,-1
+DollFashionOn,No ,1,<strong>Fashion Sewn On?:</strong> No,,,,-1
+DollFacialSculpt (old),Vintage Silkstone,1,Vintage Silkstone,,,,-1
+DollFacialSculpt (old),Lara ,1,Lara ,,,,-1
+CarBodyColor,<strong>Spectraflame Gulf powder blue</strong>,1,<strong>Spectraflame Gulf powder blue</strong>,,,,-1
+CarWheelType,<strong>Real Riders racing wheels w/ Firestone tampo</strong>,1,<strong>Real Riders racing wheels w/ Firestone tampo</strong>,,,,-1
+CarBaseType,"<strong>Full-metal, matte black ZAMAC chassis</strong>",1,"<strong>Full-metal, matte black ZAMAC chassis</strong>",,,,-1
+CarWindowColor,<strong>Clear</strong>,1,<strong>Clear</strong>,,,,-1
+CarInteriorColor,<strong>Black</strong>,1,<strong>Black</strong>,,,,-1
+DollFacialSculpt (old),Vintage straight rooting line ,1,Vintage straight rooting line ,,,,-1
+DollFacialSculpt (old),Vintage Silkstone ,1,Vintage Silkstone ,,,,-1
+DollBodyType,New Poseable Silkstone,1,<strong>Body Type: </strong>New Poseable Silkstone&#174;,,,,-1
+DollFacialSculpt (old),NEW Ben Affleck,1,NEW Ben Affleck,,,,-1
+DollSkinTone,Neutra ,1,<strong>Skin Tone: </strong>Neutra,,,,-1
+DollBodyType,Poseable Hero Male,1,<strong>Body Type: </strong>Poseable Hero Male,,,,-1
+DollFacialSculpt (old),NEW Gal Gadot,1,NEW Gal Gadot,,,,-1
+DollBodyType,Poseable Hero Female,1,<strong>Body Type: </strong>Poseable Hero Female,,,,-1
+DollFacialSculpt (old),NEW Henry Cavill,1,NEW Henry Cavill,,,,-1
+CarCastingDesigner,Jun Imai,1,Jun Imai,,,,-1
+CarSeriesName,HWC Series Thirteen Real Riders,1,HWC Series Thirteen Real Riders,,,,-1
+CarWheelType,RRsl-off,1,RRsl-off,,,,-1
+CarBodyColor,Spectraflame blue w/white roof,1,Spectraflame blue w/white roof,,,,-1
+CarSeriesName,HWC Series Thirteen ,1,HWC Series Thirteen ,,,,-1
+CarBodyColor,Spectraflame light blue,1,Spectraflame light blue,,,,-1
+CarCastingDesigner,Ryu Asada,1,Ryu Asada,,,,-1
+CarBodyColor,Spectraflame black,1,Spectraflame black,,,,-1
+CarSeriesName,sELECTIONs 2014,1,sELECTIONs 2014,,,,-1
+CarWheelType,Dragstrip Demons wheels: Front: five-spoke Rear: slotted w/Goodyear tampo,1,Dragstrip Demons wheels: Front: five-spoke Rear: slotted w/Goodyear tampo,,,,-1
+CarSeriesName,HWC Series Thirteen,1,HWC Series Thirteen,,,,-1
+CarBodyColor,Spectraflame blue,1,Spectraflame blue,,,,-1
+CarBodyColor,Spectraflame light pink,1,Spectraflame light pink,,,,-1
+CarWindowColor,Light-blue tinted,1,Light-blue tinted,,,,-1
+RelatedSizingChart,popup/snug-fit-pjs-size-chart,1,popup/fp-snug-fit-pjs-size-chart,,,,-1
+RelatedSizingChart,popup/apparel-size-chart,1,popup/fp-thomas-apparel-size-chart,,,,-1
+CarBodyColor,<strong>Micro Apple Red &amp; matte black</strong>,1,<strong>Micro Apple Red &amp; matte black</strong>,,,,-1
+CarBodyType,<strong>ZAMAC</strong>,1,<strong>ZAMAC</strong>,,,,-1
+CarWheelType,<strong>Neo-Classics Redline wheels</strong>,1,<strong>Neo-Classics Redline wheels</strong>,,,,-1
+CarBaseType,"<strong>Full-metal, zinc-plated ZAMAC chassis</strong>",1,"<strong>Full-metal, zinc-plated ZAMAC chassis</strong>",,,,-1
+CarWindowColor,<strong>Light smoke-tinted</strong>,1,<strong>Light smoke-tinted</strong>,,,,-1
+CarInteriorColor,<strong>Red w/</strong> <strong>hand-spray-painted details</strong>,1,<strong>Red w/</strong> <strong>hand-spray-painted details</strong>,,,,-1
+CarSeriesName,HWC&#8482; Series Eleven Neo-Classics&#8482;,1,HWC&#8482; Series Eleven Neo-Classics&#8482;,,,,-1
+CarWheelType,RRddoff/Gdyr,1,RRddoff/Gdyr,,,,-1
+DollBodyType,Skipper,1,<strong>Body Type: </strong>Skipper,,,,-1
+DollFacialSculpt (old),New Repro Skipper,1,New Repro Skipper,,,,-1
+CarWheelType,RRdd/ws,1,RRdd/ws,,,,-1
+DollFacialSculpt (old),Aphrodite,1,Aphrodite,,,,-1
+DollFacialSculpt (old),Sculpted to Likeness,1,Sculpted to Likeness,,,,-1
+DollFacialSculpt (old),Louboutin,1,Louboutin,,,,-1
+CarSeriesName,HWC&#8482; Series Ten Neo-Classics&#8482;,1,HWC&#8482; Series Ten Neo-Classics&#8482;,,,,-1
+CarWheelType,Neo-Classics&#8482; Redline&#174; five-spoke wheels,1,Neo-Classics&#8482; Redline&#174; five-spoke wheels,,,,-1
+DollFacialSculpt (old),Scarlett,1,Scarlett,,,,-1
+DollFacialSculpt (old),Lea,1,Lea,,,,-1
+DollFacialSculpt (old),N,1,N,,,,-1
+DollBodyType,Repro Skipper,1,<strong>Body Type: </strong>Repro Skipper,,,,-1
+DollFacialSculpt (old),New Skipper,1,New Skipper,,,,-1
+CarWheelType,RR5spO,1,RR5spO,,,,-1
+DollBodyType,Vintage Repro (All),1,<strong>Body Type: </strong>Vintage Repro (All),,,,-1
+CarWheelType,Original Redlines&#174; style 5-spoke wheels,1,Original Redlines&#174; style 5-spoke wheels,,,,-1
+CarWheelType,2PC6SP,1,2PC6SP,,,,-1
+CarWheelType,RR/ww,1,RR/ww,,,,-1
+CarBaseType,Black,1,Black,,,,-1
+PLAgooglecolor,Green,1,Green,,,,-1
+PLAgooglecolor,Pink,1,Pink,,,,-1
+PLAgooglecolor,Purple,1,Purple,,,,-1
+PLAgooglecolor,Periwinkle,1,Periwinkle,,,,-1
+PLAgooglecolor,Navy,1,Navy,,,,-1
+Exclusive,Exclusive,1,Exclusive,,,,-1
+Clearance,Clearance,1,Clearance,,,,-1
+GroupName,Black Label&#174;,1,"<a href=""/shop/en-us/ba/black-label"" title=""Black Label"" style=""color:#E8318D"">Black Label&#174;</a>",,,,-1
+GroupName,Collector Edition,1,"<a href=""/shop/en-us/ba/collector-edition"" title=""Collector Edition"" style=""color:#E8318D"">Collector Edition</a>",,,,-1
+GroupName,Gold Label&#174;,1,"<a href=""/shop/en-us/ba/gold-label"" title=""Gold Label"" style=""color:#E8318D"">Gold Label&#174;</a>",,,,-1
+GroupName,Limited Edition,1,"<a href=""/shop/en-us/ba/limited-edition"" title=""Limited Edition"" style=""color:#E8318D"">Limited Edition</a>",,,,-1
+GroupName,Pink Label&#174;,1,"<a href=""/shop/en-us/ba/pink-label"" title=""Pink Label"" style=""color:#E8318D"">Pink Label&#174;</a>",,,,-1
+GroupName,Platinum Label&#174;,1,"<a href=""/shop/en-us/ba/platinum-label"" title=""Platinum Label"" style=""color:#E8318D"">Platinum Label&#174;</a>",,,,-1
+GroupName,Silver Label&#174;,1,"<a href=""/shop/en-us/ba/silver-label"" title=""Silver Label"" style=""color:#E8318D"">Silver Label&#174;</a>",,,,-1
+GroupName,Special Edition,1,"<a href=""/shop/en-us/ba/special-edition"" title=""Special Edition"" style=""color:#E8318D"">Special Edition</a>",,,,-1
+GroupName,Timeless Treasures&#8482;,1,"<a href=""/shop/en-us/ba/timeless-treasures"" title=""Timeless Treasures"" style=""color:#E8318D"">Timeless Treasures&#8482;</a>",,,,-1
+GroupName,Accessories,1,Accessories,,,,-1
+GroupName,Basic Vehicles,1,Basic Vehicles,,,,-1
+GroupName,Destinations,1,Destinations,,,,-1
+GroupName,Basic Engines,1,Basic Engines,,,,-1
+GroupName,Battery-Operated Engines,1,Battery-Operated Engines,,,,-1
+GroupName,New Engine Category,1,New Engine Category,,,,-1
+GroupName,Multi-Packs,1,Multi-Packs,,,,-1
+GroupName,Play Sets,1,Play Sets,,,,-1
+GroupName,Individual Track,1,Individual Track,,,,-1
+GroupName,My Custom Engine,1,My Custom Engine,,,,-1
+GroupName,Create a Set,1,Create a Set,,,,-1
+GroupName,Stories from Sodor,1,Stories from Sodor,,,,-1
+GroupName,Storage,1,Storage,,,,-1
+GroupName,Bedroom,1,Bedroom,,,,-1
+GroupName,Books and Videos,1,Books and Videos,,,,-1
+GroupName,Basic Railcars,1,Basic Railcars,,,,-1
+GroupName,Talking Engines,1,Talking Engines,,,,-1
+GroupName,Play Tables,1,Play Tables,,,,-1
+CarBaseType,Gold,1,Gold,,,,-1
+CarBaseType,Metal,1,Metal,,,,-1
+CarBaseType,Plastic,1,Plastic,,,,-1
+CarBaseType,Various,1,Various,,,,-1
+CarBaseType,Engine,1,Engine,,,,-1
+CarBodyType,Metal,1,Metal,,,,-1
+CarBodyType,Metal/Plastic,1,Metal/Plastic,,,,-1
+CarBodyType,Plastic,1,Plastic,,,,-1
+CarBodyType,Various,1,Various,,,,-1
+CarBodyType,Wood,1,Wood,,,,-1
+BookCategory,Historical Fiction,1,Historical Fiction,,,,-1
+BookCategory,Cookbook,1,Cookbook,,,,-1
+BookCategory,Contemporary Fiction,1,Contemporary Fiction,,,,-1
+BookCategory,Advice,1,Advice,,,,-1
+BookCategory,Mystery,1,Mystery,,,,-1
+BookCategory,Coloring Book,1,Coloring Book,,,,-1
+FACategory,Doll Care & Storage,1,Doll Care & Storage,,,,-1
+FACategory,Nursery,1,Nursery,,,,-1
+FACategory,Food & Dining,1,Food & Dining,,,,-1
+FACategory,Girl Slippers,1,Girl Slippers,,,,-1
+FACategory,Shoes & Socks,1,Shoes & Socks,,,,-1
+FACategory,Jewelry,1,Jewelry,,,,-1
+FACategory,Hair Play,1,Hair Play,,,,-1
+FACategory,Bed & Home,1,Bed & Home,,,,-1
+FACategory,Beauty,1,Beauty,,,,-1
+FACategory,Purse,1,Purses,,,,-1
+FACategory,Glasses,1,Glasses,,,,-1
+FACategory,Animals,1,Animals,,,,-1
+FACategory,Girl Luggage,1,Girl Luggage,,,,-1
+FACategory,Music,1,Music,,,,-1
+FACategory,Tables & Chairs,1,Tables & Chairs,,,,-1
+FACategory,Fashion Accessory,1,Fashion Accessories,,,,-1
+FACategory,Hat,1,Hats,,,,-1
+FACategory,Sports,1,Sports,,,,-1
+FACategory,Hobbies,1,Hobbies,,,,-1
+FACategory,School,1,School,,,,-1
+DisplayRetailInv,N,1,N,,,,-1
+CarInteriorColor,Black w/hand-spray-painted details,1,Black w/hand-spray-painted details,,,,-1
+CarBaseType,"Full-metal, Gold Afflair White-painted chassis",1,"Full-metal, Gold Afflair White-painted chassis",,,,-1
+CarBodyColor,Gold Afflair White w/Red hood,1,Gold Afflair White w/Red hood,,,,-1
+DollFacialSculpt (old),Mackie Closed Mouth,1,Mackie Closed Mouth,,,,-1
+DollFacialSculpt (old),Goddess with Elf Ears ,1,Goddess with Elf Ears ,,,,-1
+DollFacialSculpt (old),Gale,1,Gale,,,,-1
+DollFacialSculpt (old),Peeta,1,Peeta,,,,-1
+DollBodyType,B2k Poseable,1,<strong>Body Type: </strong>B2k Poseable,,,,-1
+DollFacialSculpt (old),Katniss,1,Katniss,,,,-1
+CarBodyColor,Spectraflame red finish,1,Spectraflame red finish,,,,-1
+CarBodyType,Full metal,1,Full metal,,,,-1
+CarInteriorColor,Pearl white,1,Pearl white,,,,-1
+DollBodyType,B,1,<strong>Body Type: </strong>B,,,,-1
+DollFacialSculpt (old),Barbie CM,1,Barbie CM,,,,-1
+DollFacialSculpt (old),Model of the Moment,1,Model of the Moment,,,,-1
+DollFacialSculpt (old),C,1,C,,,,-1
+CarBodyColor,Spectraflame red,1,Spectraflame red,,,,-1
+CarWindowColor,n/a,1,n/a,,,,-1
+CarWindowColor,None,1,None,,,,-1
+CarWindowColor,Orange Opaque,1,Orange Opaque,,,,-1
+CarWindowColor,Orange-Tinted,1,Orange-Tinted,,,,-1
+CarWindowColor,Purple-Tinted,1,Purple-Tinted,,,,-1
+CarWindowColor,Red-Tinted,1,Red-Tinted,,,,-1
+CarWindowColor,Smoke-Tinted,1,Smoke-Tinted,,,,-1
+CarWindowColor,Tinted,1,Tinted,,,,-1
+CarWindowColor,Various,1,Various,,,,-1
+CarWindowColor,Yellow-Tinted,1,Yellow-Tinted,,,,-1
+Character,Addy,1,Addy,,,,-1
+Character,Caroline,1,Caroline,,,,-1
+Character,Cecile,1,Cecile,,,,-1
+Character,Chrissa,1,Chrissa,,,,-1
+Character,Elizabeth,1,Elizabeth,,,,-1
+Character,Emily,1,Emily,,,,-1
+Character,Felicity,1,Felicity,,,,-1
+Character,Isabelle,1,Isabelle,,,,-1
+Character,Ivy,1,Ivy,,,,-1
+Character,Josefina,1,Josefina,,,,-1
+Character,Julie,1,Julie,,,,-1
+Character,Kanani,1,Kanani,,,,-1
+Character,Kaya,1,Kaya,,,,-1
+Character,Kirsten,1,Kirsten,,,,-1
+Character,Kit,1,Kit,,,,-1
+Character,Lanie,1,Lanie,,,,-1
+Character,Marie-Grace,1,Marie-Grace & Cecile,,,,-1
+Character,McKenna,1,McKenna,,,,-1
+Character,Mia,1,Mia,,,,-1
+Character,Molly,1,Molly,,,,-1
+ClothingSize,16,1,16,,,,-1
+ClothingSize,18,1,18M,,,,-1
+ClothingSize,18M,1,18M,,,,-1
+ClothingSize,2,1,2,,,,-1
+ClothingSize,20,1,20,,,,-1
+ClothingSize,24M,1,24M,,,,-1
+ClothingSize,2T,1,2T,,,,-1
+ClothingSize,2X,1,2X,,,,-1
+ClothingSize,2XL,1,2XL,,,,-1
+ClothingSize,3,1,3,,,,-1
+ClothingSize,32/33,1,32/33,,,,-1
+ClothingSize,34/35,1,34/35,,,,-1
+ClothingSize,36,1,36,,,,-1
+ClothingSize,38,1,38,,,,-1
+ClothingSize,3M,1,3M,,,,-1
+ClothingSize,3T,1,3T,,,,-1
+ClothingSize,3X,1,3X,,,,-1
+ClothingSize,3XL,1,3XL,,,,-1
+ClothingSize,4,1,4,,,,-1
+ClothingSize,4/4T,1,4/4T,,,,-1
+ClothingSize,5-Apr,1,5-Apr,,,,-1
+ClothingSize,40,1,40,,,,-1
+ClothingSize,42,1,42,,,,-1
+ClothingSize,44,1,44,,,,-1
+ClothingSize,46,1,46,,,,-1
+ClothingSize,48,1,48,,,,-1
+ClothingSize,4T,1,4T,,,,-1
+ClothingSize,4T/4,1,4T/4,,,,-1
+ClothingSize,4X,1,4X,,,,-1
+ClothingSize,5,1,5,,,,-1
+ClothingSize,5T,1,5T,,,,-1
+ClothingSize,6,1,6,,,,-1
+ClothingSize,6/6X,1,6/6X,,,,-1
+ClothingSize,6M,1,6M,,,,-1
+ClothingSize,6M-12M,1,6M-12M,,,,-1
+ClothingSize,6T,1,6T,,,,-1
+ClothingSize,6X,1,6X,,,,-1
+ClothingSize,6X/7,1,6X/7,,,,-1
+ClothingSize,7,1,7,,,,-1
+ClothingSize,8-Jul,1,8-Jul,,,,-1
+ClothingSize,8,1,8,,,,-1
+ClothingSize,9,1,9,,,,-1
+ClothingSize,A,1,A,,,,-1
+ClothingSize,B,1,B,,,,-1
+ClothingSize,C,1,C,,,,-1
+ClothingSize,D,1,D,,,,-1
+ClothingSize,E,1,E,,,,-1
+ClothingSize,F,1,F,,,,-1
+ClothingSize,G,1,G,,,,-1
+ClothingSize,H,1,H,,,,-1
+ClothingSize,I,1,I,,,,-1
+ClothingSize,J,1,J,,,,-1
+ClothingSize,K,1,K,,,,-1
+ClothingSize,L,1,L,,,,-1
+ClothingSize,L/XL,1,L/XL,,,,-1
+ClothingSize,M,1,M,,,,-1
+ClothingSize,M/L,1,M/L,,,,-1
+ClothingSize,M/S,1,M/S,,,,-1
+ClothingSize,MIXA,1,MIXA,,,,-1
+ClothingSize,MIXD,1,MIXD,,,,-1
+ClothingSize,MIXE,1,MIXE,,,,-1
+ClothingSize,MIXF,1,MIXF,,,,-1
+ClothingSize,MIXG,1,MIXG,,,,-1
+ClothingSize,MIXH,1,MIXH,,,,-1
+ClothingSize,MIXI,1,MIXI,,,,-1
+ClothingSize,MIXJ,1,MIXJ,,,,-1
+ClothingSize,MIXK,1,MIXK,,,,-1
+ClothingSize,ML,1,ML,,,,-1
+ClothingSize,MS,1,MS,,,,-1
+ClothingSize,N,1,N,,,,-1
+ClothingSize,NB-3M,1,NB-3M,,,,-1
+ClothingSize,NONE,1,NONE,,,,-1
+ClothingSize,O,1,O,,,,-1
+ClothingSize,P,1,P,,,,-1
+ClothingSize,P/L,1,P/L,,,,-1
+ClothingSize,P/M,1,P/M,,,,-1
+ClothingSize,P/S,1,P/S,,,,-1
+CarBodyColor,Gloss Black and Silver,1,Gloss Black and Silver,,,,-1
+CarBodyColor,Gloss White,1,Gloss White,,,,-1
+CarBodyColor,Gold,1,Gold,,,,-1
+CarBodyColor,Gray,1,Gray,,,,-1
+CarBodyColor,Green,1,Green,,,,-1
+CarBodyColor,Lemon Yellow,1,Lemon Yellow,,,,-1
+CarBodyColor,Light Blue,1,Light Blue,,,,-1
+CarBodyColor,Light Gold,1,Light Gold,,,,-1
+CarBodyColor,Light Green,1,Light Green,,,,-1
+CarBodyColor,Lime Yellow,1,Lime Yellow,,,,-1
+CarBodyColor,Metalflake Aqua,1,Metalflake Aqua,,,,-1
+CarBodyColor,Metalflake Black,1,Metalflake Black,,,,-1
+CarBodyColor,Metalflake Blue,1,Metalflake Blue,,,,-1
+CarBodyColor,Metalflake Copper & Black,1,Metalflake Copper & Black,,,,-1
+CarBodyColor,Metalflake Dark Blue,1,Metalflake Dark Blue,,,,-1
+CarBodyColor,Metalflake Dark Red,1,Metalflake Dark Red,,,,-1
+CarBodyColor,Metalflake Gold,1,Metalflake Gold,,,,-1
+CarBodyColor,Metalflake Light Green,1,Metalflake Light Green,,,,-1
+CarBodyColor,Metalflake Orange,1,Metalflake Orange,,,,-1
+CarBodyColor,Metalflake Purple,1,Metalflake Purple,,,,-1
+CarBodyColor,Metalflake Red,1,Metalflake Red,,,,-1
+CarBodyColor,Metalflake Silver,1,Metalflake Silver,,,,-1
+CarBodyColor,Metalflake Yellow,1,Metalflake Yellow,,,,-1
+CarBodyColor,Metallic Burnt Orange,1,Metallic Burnt Orange,,,,-1
+Character,Logan,1,Logan,,,,-1
+Character,Thomas,1,Thomas,,,,-1
+Character,Percy,1,Percy,,,,-1
+Character,Salty,1,Salty,,,,-1
+Character,Gordon,1,Gordon,,,,-1
+Character,James,1,James,,,,-1
+Character,Conner,1,Conner,,,,-1
+Character,Rusty Stephen,1,Rusty Stephen,,,,-1
+Character,Dash,1,Dash,,,,-1
+Character,Bash,1,Bash,,,,-1
+CountryOrigin,China,1,China,,,,-1
+CountryOrigin,France,1,France,,,,-1
+CountryOrigin,Hong Kong,1,Hong Kong,,,,-1
+CountryOrigin,India,1,India,,,,-1
+CountryOrigin,Malaysia,1,Malaysia,,,,-1
+CountryOrigin,Malaysia/China,1,Malaysia/China,,,,-1
+CountryOrigin,Mexico,1,Mexico,,,,-1
+CountryOrigin,Thailand,1,Thailand,,,,-1
+CountryOrigin,Unknown,1,Unknown,,,,-1
+CountryOrigin,USA,1,USA,,,,-1
+CountryOrigin,Various,1,Various,,,,-1
+DollBodyType,B2K,1,<strong>Body Type: </strong>B2K,,,,-1
+DollBodyType,Edward,1,<strong>Body Type: </strong>Edward,,,,-1
+DollBodyType,New,1,<strong>Body Type: </strong>New,,,,-1
+DollBodyType,Poseable Harley Ken,1,<strong>Body Type: </strong>Poseable Harley Ken,,,,-1
+Character,Nellie,1,Nellie,,,,-1
+Character,Nicki,1,Nicki,,,,-1
+Character,Rebecca,1,Rebecca,,,,-1
+Character,Ruthie,1,Ruthie,,,,-1
+Character,Saige,1,Saige,,,,-1
+Character,Samantha,1,Samantha,,,,-1
+DollBodyType,Vintage Barbie with Bendable Legs,1,<strong>Body Type: </strong>Vintage Barbie with Bendable Legs,,,,-1
+DollBodyType,Vintage Ken,1,<strong>Body Type: </strong>Vintage Ken,,,,-1
+DollBodyType,Vintage Repro,1,<strong>Body Type: </strong>Vintage Repro,,,,-1
+DollBodyType,Vintage Repro with Bendable Legs,1,<strong>Body Type: </strong>Vintage Repro with Bendable Legs,,,,-1
+DollFacialSculpt (old),Adria,1,Adria,,,,-1
+DollFacialSculpt (old),Aphrodite Barbie,1,Aphrodite Barbie,,,,-1
+DollFacialSculpt (old),Asha,1,Asha,,,,-1
+DollFacialSculpt (old),Barbie &endash; Nostalgic Barbie / Midge &endash; Nostalgic Midge,1,Barbie &endash; Nostalgic Barbie / Midge &endash; Nostalgic Midge,,,,-1
+DollFacialSculpt (old),Barbie Closed Mouth,1,Barbie Closed Mouth,,,,-1
+DollFacialSculpt (old),Basics AA Ken (Denim),1,Basics AA Ken (Denim),,,,-1
+DollFacialSculpt (old),BeBe,1,BeBe,,,,-1
+DollFacialSculpt (old),Billie Burke (Celebrity sculpt),1,Billie Burke (Celebrity sculpt),,,,-1
+DollFacialSculpt (old),Barbie&mdash;Nostalgic; Midge&mdash;35th Anniversary Vintage Midge; Ken&mdash;Vintage Ken; Allan&mdash;Vintage Allan,1,Barbie&mdash;Nostalgic; Midge&mdash;35th Anniversary Vintage Midge; Ken&mdash;Vintage Ken; Allan&mdash;Vintage Allan,,,,-1
+DollSkinTone,Neutra (All),1,<strong>Skin Tone: </strong>Neutra (All),,,,-1
+MarketingAge,Ages 3+,1,Ages 3+,,,,-1
+DollSkinTone,New Malibu Tan,1,<strong>Skin Tone: </strong>New Malibu Tan,,,,-1
+CarWheelType,ORL5sp,1,ORL5sp,,,,-1
+CarWheelType,Real Riders&#174;,1,Real Riders&#174;,,,,-1
+CarWheelType,NCRL,1,NCRL,,,,-1
+CarWindowColor,Dark Blue-tinted,1,Dark Blue-tinted,,,,-1
+MarketingAge,Ages 5+,1,Ages 5+,,,,-1
+CarWheelType,RRdd/rs,1,RRdd/rs,,,,-1
+CarInteriorColor,Pale Violet,1,Pale Violet,,,,-1
+CarSeriesName,HWC&#8482; Series Eleven Real Riders&#174;,1,HWC&#8482; Series Eleven Real Riders&#174;,,,,-1
+CarWheelType,Real Riders&#174; 5-spoke wheels w/red stripe tampo,1,Real Riders&#174; 5-spoke wheels w/red stripe tampo,,,,-1
+CarSeriesName,Various,1,Various,,,,-1
+CarWheelType,RR5sp/ws,1,RR5sp/ws,,,,-1
+CarBaseColor,Matte Black,1,Matte Black,,,,-1
+ClothingSize,Q,1,Q,,,,-1
+ClothingSize,R,1,R,,,,-1
+ClothingSize,S,1,S,,,,-1
+ClothingSize,S/M,1,S/M,,,,-1
+ClothingSize,T,1,T,,,,-1
+ClothingSize,U,1,U,,,,-1
+ClothingSize,V,1,V,,,,-1
+ClothingSize,W,1,W,,,,-1
+ClothingSize,X,1,X,,,,-1
+ClothingSize,XL,1,XL,,,,-1
+ClothingSize,XL`,1,XL`,,,,-1
+ClothingSize,XS,1,XS,,,,-1
+ClothingSize,XS/S,1,XS/S,,,,-1
+ClothingSize,XXL,1,XXL,,,,-1
+ClothingSize,XXS,1,XXS,,,,-1
+ClothingSize,XXXS,1,XXXS,,,,-1
+ClothingSize,Y,1,Y,,,,-1
+ClothingSize,Z,1,Z,,,,-1
+ClothingSize,0,1,0,,,,-1
+ClothingColor,AQU,1,Aqua,,AG-AQUA,,-1
+ClothingColor,ARG,1,Argyle,,GRE,,-1
+ClothingColor,ASH,1,Ash,,GRA,,-1
+PLAgooglecolor,Fuchsia,1,Fuchsia,,,,-1
+PLAgooglecolor,Berry,1,Berry,,,,-1
+PLAgooglecolor,Lilac,1,Lilac,,,,-1
+PLAgooglecolor,Print,1,Print,,,,-1
+PLAgooglecolor,Orange,1,Orange,,,,-1
+PLAgooglecolor,Yellow,1,Yellow,,,,-1
+PLAgooglecolor,Ivory,1,Ivory,,,,-1
+PLAgooglecolor,Indigo,1,Indigo,,,,-1
+PLAgooglecolor,Stripe,1,Stripe,,,,-1
+PLAgooglecolor,Teal,1,Teal,,,,-1
+PLAgooglecolor,Charcoal,1,Charcoal,,,,-1
+ClothingSize,PS,1,PS,,,,-1
+PLAgooglecolor,Tan,1,Tan,,,,-1
+PLAgooglecolor,Turquoise,1,Turquoise,,,,-1
+PLAgooglecolor,Denim,1,Denim,,,,-1
+PLAgooglecolor,Aqua,1,Aqua,,,,-1
+PLAgooglecolor,Gray,1,Gray,,,,-1
+PLAgooglecolor,Multi,1,Multi,,,,-1
+PLAgooglecolor,Gold,1,Gold,,,,-1
+PLAgooglecolor,Plaid,1,Plaid,,,,-1
+PLAgooglecolor,Peach,1,Peach,,,,-1
+PLAgooglecolor,Cream,1,Cream,,,,-1
+PLAgooglecolor,Black,1,Black,,,,-1
+PLAgooglecolor,Magenta,1,Magenta,,,,-1
+PLAgooglecolor,Coral,1,Coral,,,,-1
+PLAgooglesize,16,1,16,,,,-1
+PLAgooglesize,XS,1,XS,,,,-1
+PLAgooglesize,7,1,7,,,,-1
+PLAgooglesize,S,1,S,,,,-1
+PLAgooglesize,XL,1,XL,,,,-1
+PLAgooglesize,M,1,M,,,,-1
+PLAgooglesize,L/XL,1,L/XL,,,,-1
+PLAgooglesize,M/L,1,M/L,,,,-1
+PLAgooglesize,10,1,10,,,,-1
+PLAgooglesize,S/M,1,S/M,,,,-1
+PLAgooglesize,14,1,14,,,,-1
+PLAgooglesize,L,1,L,,,,-1
+PLAgooglesize,XS/S,1,XS/S,,,,-1
+PLAgooglesize,6X,1,6X,,,,-1
+PLAgooglesize,12,1,12,,,,-1
+PLAgooglesize,8,1,8,,,,-1
+PLAgooglesize,1,1,3,,,,-1
+CarWheelType,RR5spoff/rs,1,RR5spoff/rs,,,,-1
+CarWheelType,NC/Hoosier,1,NC/Hoosier,,,,-1
+CarWheelType,NCBW,1,NCBW,,,,-1
+CarWheelType,NCWW,1,NCWW,,,,-1
+CarBodyColor,Enamel White,1,Enamel White,,,,-1
+CarWheelType,RR6sp/ww,1,RR6sp/ww,,,,-1
+CarWheelType,RRdd/os,1,RRdd/os,,,,-1
+CarBodyColor,Metalflake White,1,Metalflake White,,,,-1
+CarBodyColor,Spectraflame&#174; Pink/Gloss White,1,Spectraflame&#174; Pink/Gloss White,,,,-1
+CarWheelType,RR5sp/MT,1,RR5sp/MT,,,,-1
+CarBodyColor,Dark Red/Pearl White,1,Dark Red/Pearl White,,,,-1
+CarWheelType,RRor/RROR,1,RRor/RROR,,,,-1
+CarBodyColor,Spectraflame&#174; Race Team Blue and light blue,1,Spectraflame&#174; Race Team Blue and light blue,,,,-1
+CarInteriorColor,Light Blue,1,Light Blue,,,,-1
+CarWheelType,RRst,1,RRst,,,,-1
+CarInteriorColor,Pale Green,1,Pale Green,,,,-1
+CarWheelType,RRex/Fs,1,RRex/Fs,,,,-1
+CarInteriorColor,Pearl Red,1,Pearl Red,,,,-1
+CarWheelType,RR5spc/rs,1,RR5spc/rs,,,,-1
+CarWheelType,RR5sp-w/rs,1,RR5sp-w/rs,,,,-1
+CarWheelType,RRgt/rs,1,RRgt/rs,,,,-1
+CarWheelType,NC/os,1,NC/os,,,,-1
+CarBodyColor,Spectraflame&#174; Pale Violet,1,Spectraflame&#174; Pale Violet,,,,-1
+CarInteriorColor,Matte Black,1,Matte Black,,,,-1
+CareInstructions,Fabric care: Wipe clean with a damp cloth,1,Fabric care: Wipe clean with a damp cloth,,,,-1
+CareInstructions,"Fabric care: Hand wash in cold water, line dry",1,"Fabric care: Hand wash in cold water, line dry",,,,-1
+CareInstructions,Painted surfaces may be cleaned with a damp cloth.,1,Painted surfaces may be cleaned with a damp cloth.,,,,-1
+CarPaint,Metallic,1,Metallic,,,,-1
+CarBodyColor,Metallic Green,1,Metallic Green,,,,-1
+CarBodyColor,Metallic Light Blue,1,Metallic Light Blue,,,,-1
+CarBodyColor,Metallic Purple,1,Metallic Purple,,,,-1
+CarBodyColor,Metallic Red,1,Metallic Red,,,,-1
+CarBodyColor,Olive,1,Olive,,,,-1
+CarBodyColor,Orange,1,Orange,,,,-1
+CarBodyColor,"Orange, Grey",1,"Orange, Grey",,,,-1
+CarBodyColor,Pearl White,1,Pearl White,,,,-1
+CarBodyColor,Pink,1,Pink,,,,-1
+CarBodyColor,Plum,1,Plum,,,,-1
+CarBodyColor,Polished Zamac-Plated,1,Polished Zamac-Plated,,,,-1
+CarBodyColor,Purple,1,Purple,,,,-1
+CarBodyColor,Red,1,Red,,,,-1
+CarBodyColor,Red and Yellow,1,Red and Yellow,,,,-1
+CarBodyColor,Red Enamel,1,Red Enamel,,,,-1
+CarBodyColor,Silver,1,Silver,,,,-1
+CarBodyColor,Spectraflame&#174; Antifreeze,1,Spectraflame&#174; Antifreeze,,,,-1
+CarBodyColor,Spectraflame&#174; Aqua,1,Spectraflame&#174; Aqua,,,,-1
+CarBodyColor,Spectraflame&#174; Black,1,Spectraflame&#174; Black,,,,-1
+CarBodyColor,Spectraflame&#174; Blue,1,Spectraflame&#174; Blue,,,,-1
+CarBodyColor,Spectraflame&#174; Blue/Gloss White,1,Spectraflame&#174; Blue/Gloss White,,,,-1
+CarBodyColor,Spectraflame&#174; Brown,1,Spectraflame&#174; Brown,,,,-1
+CarBodyColor,Spectraflame&#174; Classic Yellow,1,Spectraflame&#174; Classic Yellow,,,,-1
+CarBodyColor,Spectraflame&#174; Dark Blue,1,Spectraflame&#174; Dark Blue,,,,-1
+CarBodyColor,Spectraflame&#174; Dark Green,1,Spectraflame&#174; Dark Green,,,,-1
+CarBodyColor,Spectraflame&#174; Dark Green/Spectraflame&#174; Yellow,1,Spectraflame&#174; Dark Green/Spectraflame&#174; Yellow,,,,-1
+CarBodyColor,Spectraflame&#174; Dark Orange,1,Spectraflame&#174; Dark Orange,,,,-1
+CarBodyColor,Spectraflame&#174; Dark Purple,1,Spectraflame&#174; Dark Purple,,,,-1
+CarBodyColor,Spectraflame&#174; Dark Red,1,Spectraflame&#174; Dark Red,,,,-1
+CarBodyColor,Spectraflame&#174; Dark Red/Chrome,1,Spectraflame&#174; Dark Red/Chrome,,,,-1
+CarBodyColor,Spectraflame&#174; Gold,1,Spectraflame&#174; Gold,,,,-1
+CarBodyColor,Spectraflame&#174; Green,1,Spectraflame&#174; Green,,,,-1
+CarBodyColor,Spectraflame&#174; Ice Blue,1,Spectraflame&#174; Ice Blue,,,,-1
+CarBodyColor,Spectraflame&#174; Light Blue,1,Spectraflame&#174; Light Blue,,,,-1
+CarBodyColor,Spectraflame&#174; Light Brown,1,Spectraflame&#174; Light Brown,,,,-1
+CarBodyColor,Spectraflame&#174; Light Green,1,Spectraflame&#174; Light Green,,,,-1
+CarBodyColor,Spectraflame&#174; Light Green/Chrome,1,Spectraflame&#174; Light Green/Chrome,,,,-1
+CarBodyColor,Spectraflame&#174; Magenta,1,Spectraflame&#174; Magenta,,,,-1
+CarBodyColor,Spectraflame&#174; Olive,1,Spectraflame&#174; Olive,,,,-1
+CarBodyColor,<strong>Metalflake blue & white</strong>,1,<strong>Metalflake blue & white</strong>,,,,-1
+CarWheelType,<strong>Real Riders GT wheels w/ red stripe tampo</strong>,1,<strong>Real Riders GT wheels w/ red stripe tampo</strong>,,,,-1
+CarBaseType,<strong>Matte black ABS chassis</strong>,1,<strong>Matte black ABS chassis</strong>,,,,-1
+CarInteriorColor,<strong>Flame red</strong>,1,<strong>Flame red</strong>,,,,-1
+MarketingAge,Birth to 12 Months,1,Birth to 12 Months,,,,-1
+MarketingAge,6 - 36 Months,1,6 - 36 Months,,,,-1
+MarketingAge,3 Years+,1,3 Years+,,,,-1
+MarketingAge,1 – 5 Years,1,1 – 5 Years,,,,-1
+MarketingAge,18M - 5Years,1,18M - 5Years,,,,-1
+MarketingAge,1 - 5 Years,1,1 - 5 Years,,,,-1
+MarketingAge,3 - 6 Years,1,3 - 6 Years,,,,-1
+MarketingAge,3Years+,1,3Years+,,,,-1
+MarketingAge,3 - 8Years,1,3 - 8 Years,,,,-1
+CarWheelType,<strong>Real Riders 5-spoke mag wheels with &#8220;Red Line Club 2016&#8221; and red stripe tampo</strong>,1,<strong>Real Riders 5-spoke mag wheels with &#8220;Red Line Club 2016&#8221; and red stripe tampo</strong>,,,,-1
+CarBodyColor,<strong>Gulf powder blue</strong>,1,<strong>Gulf powder blue</strong>,,,,-1
+MarketingAge,1 - 5Years,1,1 - 5Years,,,,-1
+CarWheelType,Real Riders&#174; turbine wheels (no tampo),1,Real Riders&#174; turbine wheels (no tampo),,,,-1
+CarWheelType,Neo-Classics&#8482; Redline&#174; 5-spoke wheels,1,Neo-Classics&#8482; Redline&#174; 5-spoke wheels,,,,-1
+DollBodyType,Vintage,1,<strong>Body Type: </strong>Vintage,,,,-1
+DollFacialSculpt (old),Nostalgic,1,Nostalgic,,,,-1
+CarWheelType,RR5sp/rs,1,RR5sp/rs,,,,-1
+CarBodyColor,Spectraflame blue finish,1,Spectraflame blue finish,,,,-1
+CarInteriorColor,Silver VUM,1,Silver VUM,,,,-1
+CarWheelType,Neo-Classics Redline wheels,1,Neo-Classics Redline wheels,,,,-1
+CarBodyColor,Spectraflame olive finish,1,Spectraflame olive finish,,,,-1
+CarInteriorColor,Metallic black,1,Metallic black,,,,-1
+CarWheelType,Real Riders&#174; preferred wheels w/red stripe tampo,1,Real Riders&#174; preferred wheels w/red stripe tampo,,,,-1
+CarBodyColor,Spectraflame Gulf powder blue finish,1,Spectraflame Gulf powder blue finish,,,,-1
+CarWheelType,Real Riders five-spoke wheels w/Firestone tampo,1,Real Riders five-spoke wheels w/Firestone tampo,,,,-1
+CarBodyColor,Spectraflame brown finish,1,Spectraflame brown finish,,,,-1
+CarInteriorColor,Pearl white ,1,Pearl white ,,,,-1
+CarWheelType,Real Riders five-spoke wheels w/red stripe tampo,1,Real Riders five-spoke wheels w/red stripe tampo,,,,-1
+MarketingAge,For ages 6 and over.,1,For ages 6 and over.,,,,-1
+DollBodyType,Belly Button Poseable,1,<strong>Body Type: </strong>Belly Button Poseable,,,,-1
+DollFacialSculpt (old),Lea/Kayla,1,Lea/Kayla,,,,-1
+MarketingAge,For the adult collector.,1,For the adult collector.,,,,-1
+CarInteriorColor,Tan/Dark Green,1,Tan/Dark Green,,,,-1
+CarWheelType,Real Riders&#174; deep-dish wheels w/whitewall tampo,1,Real Riders&#174; deep-dish wheels w/whitewall tampo,,,,-1
+CarWindowColor,Clear w/green frame,1,Clear w/green frame,,,,-1
+CarSeriesName,HWC Special Editions,1,HWC Special Editions,,,,-1
+DollBodyType,Vintage with Holes in Feet,1,<strong>Body Type: </strong>Vintage with Holes in Feet,,,,-1
+DollFacialSculpt (old),Nostalgic with straight rooting line,1,Nostalgic with straight rooting line,,,,-1
+DollDesigner,Carlyle Nuera,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/carlyle-nuera"" title=""Carlyle Nuera"">Carlyle Nuera</a>",,,,-1
+DollFacialSculpt (old),Kira,1,Kira,,,,-1
+DollBodyType,Vintage Bendable Leg Body (Both dolls),1,<strong>Body Type: </strong>Vintage Bendable Leg Body (Both dolls),,,,-1
+DollLashes,Both Painted,1,<strong>Eyelashes:</strong> Both Painted,,,,-1
+DollFacialSculpt (old),Barbie&#8212;Nostalgic Barbie / Midge&#8212;Nostalgic Midge,1,Barbie&#8212;Nostalgic Barbie / Midge&#8212;Nostalgic Midge,,,,-1
+DollLashes,yes,1,<strong>Eyelashes:</strong> Yes,,,,-1
+CarBodyColor,Metalflake Red/Pearl White,1,Metalflake Red/Pearl White,,,,-1
+CarBodyColor,Black/White,1,Black/White,,,,-1
+CarInteriorColor,Metallic silver,1,Metallic silver,,,,-1
+CarBodyColor,Spectraflame&#174; Navy Blue,1,Spectraflame&#174; Navy Blue,,,,-1
+CarSeriesName,HWC&#8482; Original 16,1,HWC&#8482; Original 16,,,,-1
+CarBodyColor,Spectraflame&#174; Gulf Powder Blue,1,Spectraflame&#174; Gulf Powder Blue,,,,-1
+CarBodyColor,Metalflake Magenta,1,Metalflake Magenta,,,,-1
+CarWheelType,RRsl/Gdyr,1,RRsl/Gdyr,,,,-1
+CarWheelType,RR5sp/Fs,1,RR5sp/Fs,,,,-1
+CarWheelType,"RR,rd/Ten&Mat",1,"RR,rd/Ten&Mat",,,,-1
+CarWheelType,RR5sp/Fs&ws,1,RR5sp/Fs&ws,,,,-1
+CarWheelType,RR6sp/Gdyr,1,RR6sp/Gdyr,,,,-1
+DollBodyType,Vintage Ken with Bendable Legs,1,<strong>Body Type: </strong>Vintage Ken with Bendable Legs,,,,-1
+CarPaint,Matte,1,Matte,,,,-1
+CarPrimaryColor,Black,1,Black,,,,-1
+CarPrimaryColor,Green,1,Green,,,,-1
+CarPrimaryColor,Pink,1,Pink,,,,-1
+CarPrimaryColor,Purple,1,Purple,,,,-1
+CarPrimaryColor,Red,1,Red,,,,-1
+CarPrimaryColor,Yellow,1,Yellow,,,,-1
+CarPrimaryColor,Blue,1,Blue,,,,-1
+ClothingStyle,Casual,1,Casual,,,,-1
+ClothingStyle,Dance,1,Dance,,,,-1
+ClothingStyle,Dressy,1,Dressy,,,,-1
+ClothingStyle,Fantasy,1,Fantasy/costume,,,,-1
+ClothingStyle,Nightwear,1,Nightwear,,,,-1
+ClothingStyle,Sport,1,Sport,,,,-1
+ClothingStyle,Swim,1,Swim,,,,-1
+Doll1HairSkinTone,"Dark Skin, Black Hair",1,"Dark Skin, Black Hair",,bt_girl_dsblack_75x75?$btswatch$,,-1
+Doll1HairSkinTone,"Light Skin, Brown Hair",1,"Light Skin, Brown Hair",,bt_girl_lsbrown_75x75?$btswatch$,,-1
+Doll1HairSkinTone,"Light Skin, Blond Hair",1,"Light Skin, Blond Hair",,bt_girl_lsblonde_75x75?$btswatch$,,-1
+Doll1HairSkinTone,"Light Skin, Black Hair",1,"Light Skin, Black Hair",,bt_girl_lsblack_75x75?$btswatch$,,-1
+Doll1HairSkinTone,"Medium Skin, Brown Hair",1,"Medium Skin, Brown Hair",,bt_girl_mdbrown_75x75?$btswatch$,,-1
+Doll2HairSkinTone,"Dark Skin, Black Hair",1,"Dark Skin, Black Hair",,bt_boy_dsblack_75x75?$btswatch$,,-1
+Doll2HairSkinTone,"Light Skin, Brown Hair",1,"Light Skin, Brown Hair",,bt_boy_lsbrown_75x75?$btswatch$,,-1
+Doll2HairSkinTone,"Light Skin, Blond Hair",1,"Light Skin, Blond Hair",,bt_boy_lsblonde_75x75?$btswatch$,,-1
+Doll2HairSkinTone,"Light Skin, Black Hair",1,"Light Skin, Black Hair",,bt_boy_lsblack_75x75?$btswatch$,,-1
+Doll2HairSkinTone,"Medium Skin, Brown Hair",1,"Medium Skin, Brown Hair",,bt_boy_mdbrown_75x75?$btswatch$,,-1
+DollBoxStyle,Gold,1,Gold,,,,-1
+DollBoxStyle,Silver,1,Silver,,,,-1
+DollClothingSize,Small,1,Small,,,,-1
+DollClothingSize,Medium,1,Medium,,,,-1
+DollClothingSize,Large,1,Large,,,,-1
+DollDesigner,Ann Driskill,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/ann-driskill"" title=""Ann Driskill"">Ann Driskill</a>",,,,-1
+DollDesigner,Anna Choi,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/anna-choi"" title=""Anna Choi"">Anna Choi</a>",,,,-1
+DollDesigner,Bill Greening,1,"<strong>Designer</strong>: <a href=""/shop/en-us/ba/bill-greening"" title=""Bill Greening"">Bill Greening</a>",,,,-1
+DollDesigner,Carole Spencer,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/carole-spencer"" title=""Carole Spencer"">Carole Spencer</a>",,,,-1
+DollDesigner,Judy Choi,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/judy-choi"" title=""Judy Choi"">Judy Choi</a>",,,,-1
+DollDesigner,Katiana Jimenez,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/katiana-jimenez"" title=""Katiana Jimenez"">Katiana Jimenez</a>",,,,-1
+DollDesigner,Linda Kyaw,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/linda-kyaw"" title=""Linda Kyaw"">Linda Kyaw</a>",,,,-1
+DollDesigner,Robert Best,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/robert-best"" title=""Robert Best"">Robert Best</a>",,,,-1
+DollDesigner,Sharon Zuckerman,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/sharon-zuckerman"" title=""Sharon Zuckerman"">Sharon Zuckerman</a>",,,,-1
+DollDesigner,Trina Turk,1,<strong>Designer:</strong> Trina Turk,,,,-1
+DollEthnicity,African American,1,African American,,,,-1
+DollEthnicity,Asian American,1,Asian American,,,,-1
+DollEthnicity,English,1,English,,,,-1
+DollEthnicity,Hispanic,1,Hispanic,,,,-1
+DollEthnicity,Irish,1,Irish,,,,-1
+DollEthnicity,Japanese,1,Japanese,,,,-1
+DollEthnicity,Jewish,1,Jewish,,,,-1
+DollEthnicity,Mexican,1,Mexican,,,,-1
+DollEthnicity,Nez Perce,1,Nez Perce,,,,-1
+DollEthnicity,Swedish,1,Swedish,,,,-1
+DollEyeColor,Black,1,Black,,,,-1
+DollEyeColor,Blue,1,Blue,,,,-1
+DollEyeColor,Brown,1,Brown,,,,-1
+CarBaseType,"Full-metal, Mirrorized ZAMAC chassis and engine",1,"Full-metal, Mirrorized ZAMAC chassis and engine",,,,-1
+RelatedSizingChart,popup/ag-little-girl-footwear-chart,1,popup/ag-little-girl-footwear-chart,,,,-1
+PLAgooglesize,1-2,1,1-2,,,,-1
+PLAgooglesize,1/2,1,1/2,,,,-1
+DollFacialSculpt (old),Generation Girl Mari,1,Generation Girl Mari,,,,-1
+Character,Wellie Wishers,1,WellieWishers,,,,-1
+ClothingSize,12-13,1,12-13,,,,-1
+ClothingSize,1-2,1,1-2,,,,-1
+ClothingSize,8/9,1,8/9,,,,-1
+CarBodyColor,<strong>Spectraflame red</strong>,1,<strong>Spectraflame red</strong>,,,,-1
+CarBodyType,<strong>Mirrorized ZAMAC</strong>,1,<strong>Mirrorized ZAMAC</strong>,,,,-1
+CarBaseType,"<strong>Full-metal, Mirrorized ZAMAC chassis</strong>",1,"<strong>Full-metal, Mirrorized ZAMAC chassis</strong>",,,,-1
+BookCategory,Early Chapter Book,1,Early Chapter Book,,,,-1
+DollDesigner,Connie Tsai,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/connie-tsai"" title=""Connie Tsai"">Connie Tsai</a>",,,,-1
+RelatedSizingChart,popup/little-girl-size-chart,1,popup/little-girl-size-chart,,,,-1
+Character,WellieWishers,1,WellieWishers,,,,-1
+MarketingAge,Ages 6+,1,Ages 6+,,,,-1
+MarketingAge,Adult Collector,1,Adult Collector,,,,-1
+CarBaseType,"<strong> Full-metal, Blue-painted chassis</strong>",1,"<strong> Full-metal, Blue-painted chassis</strong>",,,,-1
+CarBodyColor,<strong>Red and blue</strong>,1,<strong>Red and blue</strong>,,,,-1
+CarBodyType,<strong>Zinc-plated</strong>,1,<strong>Zinc-plated</strong>,,,,-1
+CarInteriorColor,<strong>Gold VUM</strong>,1,<strong>Gold VUM</strong>,,,,-1
+CarWheelType,<strong>Real Riders GT wheels</strong>,1,<strong>Real Riders GT wheels</strong>,,,,-1
+CarWindowColor,<strong> Smoke-tinted</strong>,1,<strong> Smoke-tinted</strong>,,,,-1
+CarBaseType,"<strong> Full-metal, Zinc-plated chassis</strong>",1,"<strong> Full-metal, Zinc-plated chassis</strong>",,,,-1
+CarInteriorColor,<st<strong>Blue</strong>,1,<st<strong>Blue</strong>,,,,-1
+CarWheelType,<strong>Real Riders turbine wheels</strong>,1,<strong>Real Riders turbine wheels</strong>,,,,-1
+CarWindowColor,<strong>Smoke-tinted</strong>,1,<strong>Smoke-tinted</strong>,,,,-1
+CarBaseType,"<strong>Full-metal, Spectrafrost red-painted chassis (Daredevil)/Black VUM chassis (Punisher)</strong>",1,"<strong>Full-metal, Spectrafrost red-painted chassis (Daredevil)/Black VUM chassis (Punisher)</strong>",,,,-1
+CarBodyColor,<strong>Spectraflame frost red (Daredevil)/Zinc-plated (Punisher) </strong>,1,<strong>Spectraflame frost red (Daredevil)/Zinc-plated (Punisher) </strong>,,,,-1
+CarInteriorColor,<strong>Black (Daredevil)/Red-painted (Punisher)</strong>,1,<strong>Black (Daredevil)/Red-painted (Punisher)</strong>,,,,-1
+DollFacialSculpt (old),Christie,1,Christie,,,,-1
+DollFacialSculpt (old),Basics AA Ken ,1,Basics AA Ken ,,,,-1
+DollFacialSculpt (old),Judy Garland ,1,Judy Garland ,,,,-1
+DollFacialSculpt (old),Billie Burke ,1,Billie Burke ,,,,-1
+DollFacialSculpt (old),Margaret Hamilton ,1,Margaret Hamilton ,,,,-1
+isRetailInventoryCheckEnabled,N,1,N,,,,-1
+DollFacialSculpt (old),Glimmer,1,Glimmer,,,,-1
+DollFacialSculpt (old),Nostalgic Twist &#39;N Turn&#8482;,1,Nostalgic Twist &#39;N Turn&#8482;,,,,-1
+DollFacialSculpt (old),Nostalgic Steffie,1,Nostalgic Steffie,,,,-1
+DollFacialSculpt (old),Trichelle/Janessa,1,Trichelle/Janessa,,,,-1
+DollFacialSculpt (old),Millie (collector size),1,Millie (collector size),,,,-1
+DollFacialSculpt (old),Karl,1,Karl,,,,-1
+DollFacialSculpt (old),Mibili,1,Mibili,,,,-1
+DollBodyType,Ballet Body,1,<strong>Body Type: </strong>Ballet Body,,,,-1
+DollFacialSculpt (old),Teen Slipper ,1,Teen Slipper ,,,,-1
+CareInstructions,CDNJ89CareInstructions,1,CDNJ89CareInstructions,,,,-1
+PLAgooglecolor,pink,1,pink,,,,-1
+PLAgooglesize, ,1,20,,,,-1
+Character,Lea,1,Lea,,,,-1
+Character,Melody,1,Melody,,,,-1
+RelatedSizingChart,popup/bc-tee-shirt-warhol-size-chart,1,popup/bc-tee-shirt-warhol-size-chart,,,,-1
+DollBodyType,Articulated ,1,<strong>Body Type: </strong>Articulated,,,,-1
+CarBodyColor,"Spectraflame true black and chrome (1), Spectraflame red (1), and Spectraflame blue (1)",1,"Spectraflame true black and chrome (1), Spectraflame red (1), and Spectraflame blue (1)",,,,-1
+CarBodyType,Chrome over ZAMAC,1,Chrome over ZAMAC,,,,-1
+CarBaseType,"Full-metal, polished-chrome-plated chassis and engine",1,"Full-metal, polished-chrome-plated chassis and engine",,,,-1
+CarWindowColor,Smoke-tinted,1,Smoke-tinted,,,,-1
+CarBodyColor,Spectraflame Gulf powder blue,1,Spectraflame Gulf powder blue,,,,-1
+CarWheelType,Real Riders slotted wheels w/Goodyear tampo,1,Real Riders slotted wheels w/Goodyear tampo,,,,-1
+CarBaseType,"Full-metal, mirrorized ZAMAC chassis",1,"Full-metal, mirrorized ZAMAC chassis",,,,-1
+CarBodyColor,Spectraflame orange,1,Spectraflame orange,,,,-1
+CarWheelType,Real Riders deep dish wheels w/red stripe tampo,1,Real Riders deep dish wheels w/red stripe tampo,,,,-1
+CarBodyColor,Spectraflame brown,1,Spectraflame brown,,,,-1
+CarWheelType,Real Riders off-road slotted wheels w/Real Riders Off Road tampo,1,Real Riders off-road slotted wheels w/Real Riders Off Road tampo,,,,-1
+BookCategory,Crafts,1,Crafts,,,,-1
+Character,Z. Crew,1,Z Yang,,,,-1
+FACategory,Fashion Accessories,1,**Fashion Accessories,,,,-1
+ClothingCategory,Girls Sizes 6-16,1,Girls Sizes 6-16,,,,-1
+CarCastingDesigner,Brendon Vetuskey,1,Brendon Vetuskey,,,,-1
+CarSeriesName,HWC Series Thirteen Neo-Classics,1,HWC Series Thirteen Neo-Classics,,,,-1
+CarBodyColor,Spectraflame pale violet,1,Spectraflame pale violet,,,,-1
+CarCastingDesigner,Rob Matthes,1,Rob Matthes,,,,-1
+CarBodyType,ZAMAC,1,ZAMAC,,,,-1
+CarInteriorColor,VUM w/black hand-spray-painted details,1,VUM w/black hand-spray-painted details,,,,-1
+CarSeriesName,Hot Wheels Collectors Convention Mexico 2014,1,Hot Wheels Collectors Convention Mexico 2014,,,,-1
+DollFacialSculpt (old),CEO,1,CEO,,,,-1
+DollFacialSculpt (old),Closed Mouth Barbie,1,Closed Mouth Barbie,,,,-1
+DollFacialSculpt (old),Closed Mouth Mackie,1,Closed Mouth Mackie,,,,-1
+DollFacialSculpt (old),Elizabeth Taylor,1,Elizabeth Taylor,,,,-1
+DollFacialSculpt (old),Francie,1,Francie,,,,-1
+DollFacialSculpt (old),Goddess,1,Goddess,,,,-1
+DollFacialSculpt (old),Harley Ken,1,Harley Ken,,,,-1
+DollFacialSculpt (old),Judy Garland (Celebrity Sculpt),1,Judy Garland (Celebrity Sculpt),,,,-1
+DollFacialSculpt (old),Lara,1,Lara,,,,-1
+DollFacialSculpt (old),Lea Kayla,1,Lea Kayla,,,,-1
+DollFacialSculpt (old),Margaret Hamilton (Celebrity Sculpt),1,Margaret Hamilton (Celebrity Sculpt),,,,-1
+DollFacialSculpt (old),Mbili,1,Mbili,,,,-1
+DollFacialSculpt (old),Mermaid,1,Mermaid,,,,-1
+DollFacialSculpt (old),NA,1,NA,,,,-1
+DollFacialSculpt (old),New Audrey Hepburn,1,New Audrey Hepburn,,,,-1
+DollFacialSculpt (old),New Finnick Sculpt,1,New Finnick Sculpt,,,,-1
+ClothingColor,AUB,1,Auburn,,ASH,,-1
+ClothingColor,BER,1,Berry,,AG-BERRY,,-1
+ClothingColor,BLA,1,Black,,BLACK,,-1
+ClothingColor,BLK,1,Black,,BLACK,,-1
+ClothingColor,BLM,1,Bloom,,AG-BLOOM,,-1
+ClothingColor,BLO,1,Blonde,,AG-BLONDE,,-1
+ClothingColor,BLU,1,Blue,,TWR%20BLUE,,-1
+ClothingColor,BPI,1,Bright Pink,,PIN,,-1
+ClothingColor,BRE,1,Bright Red,,RED,,-1
+ClothingColor,BRI,1,Bright,,GRA,,-1
+ClothingColor,BRN,1,Brown,,AG-BROWN,,-1
+ClothingColor,BRO,1,Brown,,PRI,,-1
+ClothingColor,BUR,1,Burgundy,,GHM,,-1
+ClothingColor,CAM,1,Camouflage,,TUR,,-1
+ClothingColor,CAR,1,Caramel,,AG-CARMEL,,-1
+ClothingColor,CBL,1,Colonial Blue,,PLA,,-1
+ClothingColor,CHA,1,Charcoal,,DPI,,-1
+ClothingColor,CHE,1,Cherry,,PIN,,-1
+CSRAttr,false,2,false,,,,-1
+DisableSaleButton,true,2,true,,,,-1
+DisableSaleButton,false,1,false,,,,-1
+MarketingAge,Birth-36 months,1,Birth-36 months,,,,-1
+MarketingAge,2 1/2-6 years,1,2 1/2-6 years,,,,-1
+MarketingAge,4-8 Years,1,4-8 Years,,,,-1
+Brand,Apples To Apples&#174;,1,Apples To Apples&#174;,,,,-1
+Brand,Alvin and the Chipmunks,1,Alvin and the Chipmunks,,,,-1
+Brand,nabi,1,nabi,,,,-1
+Brand,Octonauts&#8482;,1,Octonauts&#8482;,,,,-1
+SearchAge,12-18 months,1,12-18 months,,http://s7d2.scene7.com/is/image/Mattel/{0}6to11Months?$cat%5Fthumbs$,,-1
+SearchAge,6-12 months,1,6-12 months,,http://s7d2.scene7.com/is/image/Mattel/{0}6to11Months?$cat%5Fthumbs$,,-1
+Brand,Doodle Pro&#174;,1,Doodle Pro&#174;,,,,-1
+Brand,Fast and Furious&#8482;,1,Fast & Furious&#8482;,,,,-1
+Brand,Halo&#174;,1,Halo&#174;,,,,-1
+Brand,Magic 8 Ball&#174;,1,Magic 8 Ball&#174;,,,,-1
+Brand,Masters of the Universe&#174;,1,Masters of the Universe&#174;,,,,-1
+Brand,AmiGami&#8482;,1,AmiGami&#8482;,,http://s7d2.scene7.com/is/image/Mattel/amigami?$cat%5Fthumbs$,,-1
+Brand,Barbie&#174;,1,Barbie&#174;,,http://s7d2.scene7.com/is/image/Mattel/barbie?$cat%5Fthumbs$,,-1
+Brand,Blaze and the Monster Machines&#8482; ,1,Blaze and the Monster Machines&#8482; ,,http://s7d2.scene7.com/is/image/Mattel/blaze%2Dmonster%2Dmachine%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Bob the Builder&#8482; ,1,Bob the Builder&#8482; ,,http://s7d2.scene7.com/is/image/Mattel/bob%2Dthe%2Dbuilder%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,BoomCo&#8482;,1,BOOMco.&#8482;,,http://s7d2.scene7.com/is/image/Mattel/boomco?$cat%5Fthumbs$,,-1
+Brand,Bright Beats&#8482;,1,Bright Beats&#8482;,,http://s7d2.scene7.com/is/image/Mattel/bright%2Dbeats?$cat%5Fthumbs$,,-1
+Brand,DC Superhero Girls&#8482;,1,DC Superhero Girls&#8482;,,http://s7d2.scene7.com/is/image/Mattel/dc%2Dsuperhero%2Dgirls%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,DC Universe,1,DC Universe&#8482;,,http://s7d2.scene7.com/is/image/Mattel/dc%2Duniverse?$cat%5Fthumbs$,,-1
+Brand,Dinotrux,1,Dinotrux,,http://s7d2.scene7.com/is/image/Mattel/dinotrux%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Disney,1,Disney,,http://s7d2.scene7.com/is/image/Mattel/disney%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Disney Cars,1,Disney Cars,,http://s7d2.scene7.com/is/image/Mattel/disney%2Dcars%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Disney Planes,1,Disney Planes,,http://s7d2.scene7.com/is/image/Mattel/disney%2Dplanes%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Dora & Friends&#8482; ,1,Dora & Friends&#8482; ,,http://s7d2.scene7.com/is/image/Mattel/dora%2Dfriends%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Ever After High&#8482;,1,Ever After High&#8482;,,http://s7d2.scene7.com/is/image/Mattel/ever%2Dafter%2Dhigh?$cat%5Fthumbs$,,-1
+Brand,Everything Baby,1,Everything Baby,,http://s7d2.scene7.com/is/image/Mattel/everything%2Dbaby?$cat%5Fthumbs$,,-1
+Brand,Ghostbusters,1,Ghostbusters&#174;,,http://s7d2.scene7.com/is/image/Mattel/ghostbusters%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Grow-With-Me,1,Grow-With-Me,,http://s7d2.scene7.com/is/image/Mattel/grow%2Dwith%2Dme?$cat%5Fthumbs$,,-1
+Brand,Imaginext&#174; ,1,Imaginext&#174; ,,http://s7d2.scene7.com/is/image/Mattel/imaginext?$cat%5Fthumbs$,,-1
+Brand,Laugh & Learn&#8482;,1,Laugh & Learn&#8482;,,http://s7d2.scene7.com/is/image/Mattel/laugh%2Dlearn?$cat%5Fthumbs$,,-1
+Brand,Little People&#174; ,1,Little People&#174; ,,http://s7d2.scene7.com/is/image/Mattel/little%2Dpeople?$cat%5Fthumbs$,,-1
+Brand,Loving Family&#8482; ,1,Loving Family&#8482; ,,http://s7d2.scene7.com/is/image/Mattel/loving%2Dfamily?$cat%5Fthumbs$,,-1
+Brand,Marvel,1,Marvel&#174;,,http://s7d2.scene7.com/is/image/Mattel/marvel?$cat%5Fthumbs$,,-1
+Brand,Matchbox&#174;,1,Matchbox&#174;,,http://s7d2.scene7.com/is/image/Mattel/matchbox?$cat%5Fthumbs$,,-1
+Brand,Mattel Games,1,Mattel Games,,http://s7d2.scene7.com/is/image/Mattel/mattel%2Dgames?$cat%5Fthumbs$,,-1
+Brand,Mega Bloks&#174;,1,Mega Bloks&#174;,,http://s7d2.scene7.com/is/image/Mattel/mega%2Dbloks?$cat%5Fthumbs$,,-1
+Brand,Mega Bloks&#174; First Builders&#174; ,1,Mega Bloks&#174; First Builders&#174; ,,http://s7d2.scene7.com/is/image/Mattel/mega%2Dblocks?$cat%5Fthumbs$,,-1
+Brand,Minecraft,1,Minecraft&#174;,,http://s7d2.scene7.com/is/image/Mattel/minecraft?$cat%5Fthumbs$,,-1
+Brand,Monster High&#174;,1,Monster High&#174;,,http://s7d2.scene7.com/is/image/Mattel/monster%2Dhigh?$cat%5Fthumbs$,,-1
+Brand,Monster Jam&#174;,1,Monster Jam&#174;,,http://s7d2.scene7.com/is/image/Mattel/hot%2Dwheels%2Dmonster%2Djam?$cat%5Fthumbs$,,-1
+Brand,My Mini MixieQ&#8217;s&#8482;,1,My Mini MixieQ&#8217;s&#8482;,,http://s7d2.scene7.com/is/image/Mattel/my%2Dmini%2Dmixieqs?$cat%5Fthumbs$,,-1
+Brand,My Password Journal,1,My Password Journal,,http://s7d2.scene7.com/is/image/Mattel/my%2Dpassword%2Djournal?$cat%5Fthumbs$,,-1
+Brand,Power Wheels&#174; ,1,Power Wheels&#174; ,,http://s7d2.scene7.com/is/image/Mattel/power%2Dwheels?$cat%5Fthumbs$,,-1
+Brand,Rose Art&#174;,1,Rose Art&#174;,,http://s7d2.scene7.com/is/image/Mattel/rose%2Dart?$cat%5Fthumbs$,,-1
+Brand,Shakira First Steps collection,1,Shakira First Steps collection,,http://s7d2.scene7.com/is/image/Mattel/shakira%2Dfirst%2Dsteps%2Dcollection?$cat%5Fthumbs$,,-1
+Brand,Shimmer and Shine&#8482;,1,Shimmer and Shine&#8482;,,http://s7d2.scene7.com/is/image/Mattel/shimmer%2Dand%2Dshine%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Smart Toy&#174; ,1,Smart Toy&#174; ,,http://s7d2.scene7.com/is/image/Mattel/smart%2Dtoy?$cat%5Fthumbs$,,-1
+Brand,Spinnyos&#8482; ,1,Spinnyos&#8482; ,,http://s7d2.scene7.com/is/image/Mattel/spinnyos?$cat%5Fthumbs$,,-1
+Brand,Star Wars&#8482;,1,Star Wars&#8482;,,http://s7d2.scene7.com/is/image/Mattel/new%2Dstar%2Dwars%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,ThingMaker,1,ThingMaker,,http://s7d2.scene7.com/is/image/Mattel/thingmaker?$cat%5Fthumbs$,,-1
+Brand,Think & Learn,1,Think & Learn,,http://s7d2.scene7.com/is/image/Mattel/think%2Dlearn?$cat%5Fthumbs$,,-1
+Brand,Thomas & Friends&#8482; ,1,Thomas & Friends&#8482; ,,http://s7d2.scene7.com/is/image/Mattel/thomas%2Dfriends?$cat%5Fthumbs$,,-1
+Brand,Toy Story,1,Toy Story,,http://s7d2.scene7.com/is/image/Mattel/toy%2Dstory%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Tyco RC,1,Tyco RC,,http://s7d2.scene7.com/is/image/Mattel/tyco%2Drc?$cat%5Fthumbs$,,-1
+Brand,View-Master&#8482;,1,View-Master&#8482;,,http://s7d2.scene7.com/is/image/Mattel/view%2Dmaster?$cat%5Fthumbs$,,-1
+Brand,VS Rip Spin Warriors,1,VS Rip Spin Warriors,,http://s7d2.scene7.com/is/image/Mattel/vs%2Drip%2Dspin%2Dwarriors?$cat%5Fthumbs$,,-1
+Brand,WWE&#174;,1,WWE&#174;,,http://s7d2.scene7.com/is/image/Mattel/wwe%2Dtoys?$cat%5Fthumbs$,,-1
+Brand,Hot Wheels&#174;,1,Hot Wheels&#174;,,http://s7d2.scene7.com/is/image/Mattel/hot%2Dwheels?$cat%5Fthumbs$,,-1
+MarketingAge,6-7 years ,1,6-7 years ,,,,-1
+MarketingAge,6+10051,1,6+,,,,-1
+MarketingAge,7+,1,7+,,,,-1
+MarketingAge,4+,1,4+,,,,-1
+LegalAge,6+,1,6+,,,,-1
+LegalAge,4+,1,4+,,,,-1
+MarketingAge,5-7 years,1,5-7 years,,,,-1
+MarketingAge,1 - 5Y,1,1 - 5Y,,,,-1
+LegalAge,2 - 5Y,1,2 - 5Y,,,,-1
+MarketingAge,2 - 5Y,1,2 - 5Y,,,,-1
+LegalAge,1 - 5Y,1,1 - 5Y,,,,-1
+LegalAge,3 - 8Y,1,3 - 8Y,,,,-1
+MarketingAge,3 - 8Y,1,3 - 8Y,,,,-1
+LegalAge,18M+,1,18M+,,,,-1
+MarketingAge,18M+,1,18M+,,,,-1
+MarketingAge,3Y+,1,3Y+,,,,-1
+LegalAge,3 - 7Y,1,3 - 7Y,,,,-1
+MarketingAge,3 - 7Y,1,3 - 7Y,,,,-1
+MarketingAge,6Y+,1,6Y+,,,,-1
+MarketingAge,8Y+,1,8Y+,,,,-1
+MarketingAge,4Y+,1,4Y+,,,,-1
+MarketingAge,6 - 36M,1,6 - 36M,,,,-1
+MarketingAge,9M+ ,1,9M+ ,,,,-1
+MarketingAge,9M+,1,9M+,,,,-1
+LegalAge,3 - 6Y ,1,3 - 6Y ,,,,-1
+MarketingAge,3 - 6Y ,1,3 - 6Y ,,,,-1
+MarketingAge,3 - 6Y,1,3 - 6Y,,,,-1
+LegalAge,3 - 6Y,1,3 - 6Y,,,,-1
+LegalAge,1+,1,1+,,,,-1
+LegalAge,12 &amp; up10051,1,12 &amp; up,,,,-1
+MarketingAge,6-7 years,1,6-7 years,,,,-1
+LegalAge,18 - 36M ,1,18 - 36M ,,,,-1
+LegalAge,3M+,1,3M+,,,,-1
+LegalAge,6 - 36M,1,6 - 36M,,,,-1
+LegalAge,9 - 36M,1,9 - 36M,,,,-1
+LegalAge,9M+,1,9M+,,,,-1
+LegalAge,Birth +,1,Birth +,,,,-1
+MarketingAge,1+,1,1+,,,,-1
+MarketingAge,18 - 36M,1,18 - 36M,,,,-1
+MarketingAge,3M+,1,3M+,,,,-1
+MarketingAge,6M+,1,6M+,,,,-1
+MarketingAge,Birth +,1,Birth +,,,,-1
+CSRAttr,true,1,true,,,,-1
+LegalAge,For the adult collector.,1,For the adult collector.,,,,-1
+PLAgooglecolor,Lavender,1,Lavender,,,,-1
+PLAgooglecolor,Orchid,1,Orchid,,,,-1
+PLAgooglecolor,Raspberry,1,Raspberry,,,,-1
+CarBodyColor,<strong>Spectraflame purple</strong>,1,<strong>Spectraflame purple</strong>,,,,-1
+CarWindowColor,<strong>Light blue-tinted</strong>,1,<strong>Light blue-tinted</strong>,,,,-1
+CarInteriorColor,<strong>Pale violet</strong>,1,<strong>Pale violet</strong>,,,,-1
+CarBodyColor,<strong>Spectraflame bright orange</strong>,1,<strong>Spectraflame bright orange</strong>,,,,-1
+Character,Gabriela,1,Gabriela,,,,-1
+FACategory,Girl Accessories,1,Girl Accessories,,,,-1
+ClothingCategory,Brown,1,Brown,,,,-1
+DollHairColor,Light,1,Light,,,,-1
+DollSkinColor,Doll,1,Doll,,,,-1
+CarWindowColor,<strong>Violet-tinted</strong>,1,<strong>Violet-tinted</strong>,,,,-1
+CarInteriorColor,<strong>Violet</strong>,1,<strong>Violet</strong>,,,,-1
+CarBodyColor,<strong>Placeholder</strong>,1,<strong>Placeholder</strong>,,,,-1
+CarBodyType,<strong>Placeholder</strong>,1,<strong>Placeholder</strong>,,,,-1
+CarWheelType,<strong>Placeholder</strong>,1,<strong>Placeholder</strong>,,,,-1
+CarBaseType,<strong>Placeholder</strong>,1,<strong>Placeholder</strong>,,,,-1
+CarWindowColor,<strong>Placeholder</strong>,1,<strong>Placeholder</strong>,,,,-1
+CarInteriorColor,<strong>Placeholder</strong>,1,<strong>Placeholder</strong>,,,,-1
+CarBodyColor,<strong>placeholder</strong>,1,<strong>placeholder</strong>,,,,-1
+CarBodyType,<strong>placeholder</strong>,1,<strong>placeholder</strong>,,,,-1
+CarWheelType,<strong>placeholder</strong>,1,<strong>placeholder</strong>,,,,-1
+CarBaseType,<strong>placeholder</strong>,1,<strong>placeholder</strong>,,,,-1
+CarWindowColor,<strong>placeholder</strong>,1,<strong>placeholder</strong>,,,,-1
+CarInteriorColor,<strong>placeholder</strong>,1,<strong>placeholder</strong>,,,,-1
+CarInteriorColor,<strong>Red</strong>,1,<strong>Red</strong>,,,,-1
+CarBodyColor,<strong>Pearl white</strong>,1,<strong>Pearl white</strong>,,,,-1
+CarWheelType,<strong>Rubber tires with Goodyear tampo</strong>,1,<strong>Rubber tires with Goodyear tampo</strong>,,,,-1
+CareInstructions,A doll brush works best for styling this doll's hair.,1,A doll brush works best for styling this doll's hair.,,,,-1
+CarBodyColor,<strong>Spectraflame classic yellow</strong>,1,<strong>Spectraflame classic yellow</strong>,,,,-1
+CarWheelType,<strong>Real Riders GT wheels w/red stripe tampo</strong>,1,<strong>Real Riders GT wheels w/red stripe tampo</strong>,,,,-1
+CarBaseType,"<strong>Full-metal, hand-polished chrome-plated chassis</strong>",1,"<strong>Full-metal, hand-polished chrome-plated chassis</strong>",,,,-1
+CarBodyColor,<strong>Spectraflame olive</strong>,1,<strong>Spectraflame olive</strong>,,,,-1
+CarInteriorColor,<strong>Light green</strong>,1,<strong>Light green</strong>,,,,-1
+Character,Tenney,1,Tenney,,,,-1
+CarBodyColor,<strong>Spectraflame aqua</strong>,1,<strong>Spectraflame aqua</strong>,,,,-1
+CarInteriorColor,<strong>Aqua</strong>,1,<strong>Aqua</strong>,,,,-1
+LegalAge,18 - 36M,1,18 - 36M,,,,-1
+PLAgooglecolor,Burgundy,1,Burgundy,,,,-1
+CarBaseType,"<strong>Full-metal, chrome-plated chassis and engine</strong>",1,"<strong>Full-metal, chrome-plated chassis and engine</strong>",,,,-1
+CarWheelType,<strong>Real Riders Rocket Oil wheels w/ whitewall tampo</strong>,1,<strong>Real Riders Rocket Oil wheels w/ whitewall tampo</strong>,,,,-1
+CarInteriorColor,<strong>Pearl white</strong>,1,<strong>Pearl white</strong>,,,,-1
+LegalAge,6M+,1,6M+,,,,-1
+LegalAge,1&#189;-3 years,1,1&#189;-3 years,,,,-1
+MarketingAge,1&#189;-3 years10051,1,1&#189;-3 years,,,,-1
+LegalAge,12+,1,12+,,,,-1
+MarketingAge,12+ ,1,12+,,,,-1
+Brand,Mega Construx&#8482;,1,Mega Construx&#8482;,,,,-1
+LegalAge,1&#189;-5 years,1,1&#189;-5 years,,,,-1
+ClothingSize,8M,1,8M,,,,-1
+Brand,Barbie Collector&#174;,1,Barbie&#174; Signature,,,,-1
+Brand,Batman&#8482;,1,Batman&#8482;,,,,-1
+LegalAge,2 - 6Y,1,2 - 6Y,,,,-1
+MarketingAge,2 - 6Y,1,2 - 6Y,,,,-1
+MarketingAge,Baby on the Way,1,Baby on the Way,,,,-1
+MarketingAge,Age Birth to 6 Months,1,Age Birth and Up,,,,-1
+MarketingAge,Age 18-24 Months,1,Age 18 Months and Up,,,,-1
+MarketingAge,Age 3-4 Years,1,Age 3 Years and Up,,,,-1
+MarketingAge,Age 2-3 Years,1,Age 2 Years and Up,,,,-1
+MarketingAge,Age 12-18 Months,1,Age 12 Months and Up,,,,-1
+MarketingAge,Age 12-36 Months,1,Age 12-36 Months,,,,-1
+MarketingAge,Age 1-4 Years,1,Age 1-4 Years,,,,-1
+MarketingAge,Age 1-5 Years,1,Age 1-5 Years,,,,-1
+MarketingAge,Age 18 Months to 3 Years,1,Age 18 Months to 3 Years,,,,-1
+MarketingAge,Age 18 Months to 4 Years,1,Age 18 Months to 4 Years,,,,-1
+MarketingAge,Age 18 Months to 5 Years,1,Age 18 Months to 5 Years,,,,-1
+MarketingAge,Age 18-36 Months,1,Age 18-36 Months,,,,-1
+MarketingAge,Age 2-5 Years,1,Age 2-5 Years,,,,-1
+MarketingAge,Age 2-6 Years,1,Age 2-6 Years,,,,-1
+MarketingAge,Age 2-7 Years,1,Age 2-7 Years,,,,-1
+MarketingAge,Age 3 months and Up,1,Age 3 Months and Up,,,,-1
+MarketingAge,Age 30 Months to 6 Years,1,Age 30 Months to 6 Years,,,,-1
+MarketingAge,Age 3-18 Months,1,Age 3-18 Months,,,,-1
+MarketingAge,Age 3-36 Months,1,Age 3-36 Months,,,,-1
+MarketingAge,Age 3-6 Years,1,Age 3-6 Years,,,,-1
+MarketingAge,Age 3-7 Years,1,Age 3-7 Years,,,,-1
+MarketingAge,Age 3-8 Years,1,Age 3-8 Years,,,,-1
+MarketingAge,Age 4-8 Years,1,Age 4-8 Years,,,,-1
+MarketingAge,Age 5-8 Years,1,Age 5-8 Years,,,,-1
+MarketingAge,Age 6-36 Months,1,Age 6-36 Months,,,,-1
+MarketingAge,Age 9 Months and Up,1,Age 9 Months and Up,,,,-1
+MarketingAge,Age 9-36 Months,1,Age 9-36 Months,,,,-1
+MarketingAge,Age Birth to 12 Months,1,Age Birth to 12 Months,,,,-1
+MarketingAge,Age Birth to 18 Months,1,Age Birth to 18 Months,,,,-1
+MarketingAge,Age Birth to 36 Months,1,Age Birth to 36 Months,,,,-1
+MarketingAge,Age 4-5 Years,1,Age 4 Years and Up,,,,-1
+MarketingAge,Age 6-12 Months,1,Age 6 Months and Up,,,,-1
+MarketingAge,Age 5 Years and Up,1,Age 5 Years and Up,,,,-1
+MarketingAge,Age 12-18 Months10051,1,Age 12-18 Months,,,,-1
+LegalAge,11+,1,11+,,,,-1
+MarketingAge,11+,1,11+,,,,-1
+MarketingAge,For the adult collector,1,For the adult collector,,,,-1
+MarketingAge,Age 1-3 Years,1,Age 1-3 Years,,,,-1
+MarketingAge,Age Birth to 24 Months,1,Age Birth to 24 Months,,,,-1
+MarketingAge,Age 3-5 years,1,Age 3-5 years,,,,-1
+MarketingAge,Age 5-10 Years,1,Age 5-10 Years,,,,-1
+LegalAge,12M+,1,12M+,,,,-1
+LegalAge,5-10Y,1,5-10Y,,,,-1
+Brand,Disney&#8226;Pixar,1,Disney&#8226;Pixar,,,,-1
+Brand,ThunderCats&#8482;,1,ThunderCats&#8482;,,,,-1
+CareInstructions,"<strong>Fabric care:</strong> &nbsp;Machine wash cold, delicate cycle. Air dry.",1,"<strong>Fabric care:</strong> &nbsp;Machine wash cold, delicate cycle. Air dry.",,,,-1
+CareInstructions,"<strong>Fabric care:</strong> &nbsp;Machine wash cold, delicate cycle. Air dry.10051",1,"<strong>Fabric care:</strong> &nbsp;Machine wash cold, delicate cycle. Air dry.",,,,-1
+LegalAge,12 - 36M,1,12 - 36M,,,,-1
+CSR_SOLDOUT,SoldOut,2,SoldOut,,,,-1
+Brand,Enchantimals,1,Enchantimals&#8482;,,,,-1
+LegalAge,1 1/2Y+,1,1 1/2Y+,,,,-1
+PLAgooglecolor,Brown,1,Brown,,,,-1
+OneStoreProduct,true,1,true,,,,-1
+DisableQuickView,true,1,true,,,,-1
+DisplayComponents,false,1,false,,,,-1
+PLAgooglecolor,Silver,1,Silver,,,,-1
+AGCategory,Mega Construx,1,Mega Construx,,,,-1
+Brand,Go Jetters,1,Go Jetters,,,,-1
+OneStoreProduct,false,2,false,,,,-1
+CareInstructions,Brushing curly hair is not advised. Finger-style your doll's hair for best results.,1,Brushing curly hair is not advised. Finger-style your doll's hair for best results.,,,,-1
+DollHairColor,No Hair,1,No Hair,,,,-1
+DisableQuickView,false,2,false,,,,-1
+DisplayComponents,true,2,true,,,,-1
+Brand,KuuKuu Harajuku,1,Kuu Kuu Harajuku&#8482;,,,,-1
+SearchAge,Birth - 6 months,1,Birth - 6 months,,,,-1
+MEMBERSHIP_CUSTOMER_SEGMENT,The Mattel Vault- Gold,1,The Mattel Vault- Gold,,,,-1
+MEMBERSHIP_CUSTOMER_SEGMENT,Barbie Collector- Gold,1,Barbie Collector- Gold,,,,-1
+MEMBERSHIP_CUSTOMER_SEGMENT,Hot Wheels Collector- Chrome,1,Hot Wheels Collector- Chrome,,,,-1
+MEMBERSHIP_CUSTOMER_SEGMENT,Barbie Collector- Platinum,1,Barbie Collector- Platinum,,,,-1
+MEMBERSHIP_CUSTOMER_SEGMENT,Hot Wheels Collector- Spectraflame,1,Hot Wheels Collector- Spectraflame,,,,-1
+MEMBERSHIP_YEAR,2018,1,2018,,,,-1
+MEMBERSHIP_YEAR,2017,1,2017,,,,-1
+PLAgooglecolor,blue10051,1,blue,,blue,,-1
+PLAgooglesize,1/210051,1,1/2,,,,-1
+PLAgooglesize,M/L10051,1,M/L,,,,-1
+PLAgooglesize,1410051,1,14,,,,-1
+Character,Nanea,1,Nanea,,,,-1
+Character,Girl of the Year,1,Girl of the Year,,,,-1
+ClothingColor,Stripes & Ruffles Sleeper,1,Stripes & Ruffles Sleeper,,FGM97-STRIPES-RUFFLES,,-1
+ClothingColor,Colorful Dots Sleeper,1,Colorful Dots Sleeper,,FGM99-COLORFUL-DOTS,,-1
+ClothingColor,Playful Floral Sleeper,1,Playful Floral Sleeper,,FGM98-PLAYFUL-FLORAL,,-1
+LegalAge,4Y+,1,4Y+,,,,-1
+LegalAge,3Y+,1,3Y+,,,,-1
+LegalAge,6Y+,1,6Y+,,,,-1
+LegalAge,8Y+,1,8Y+,,,,-1
+LegalAge,5Y+,1,5Y+,,,,-1
+CareInstructions,<strong>Fabric care:</strong>&nbsp; Line dry,1,<strong>Fabric care:</strong>&nbsp; Line dry,,,,-1
+DisableWhereToBuy,true,2,true,,,,-1
+member exclusive-Ribbon Badge,Exclusive,2,Exclusive,,,,-1
+Brand,Thomas & Friends,1,Thomas & Friends&#8482;,,,,-1
+DollBodyType,1959 Vintage Vinyl,1,<strong>Body Type: </strong>1959 Vintage (holes in the feet)&#8212;Vinyl,,,,-1
+DollBodyType,Ballet Body with New Ballet Arms,1,"<strong>Body Type: </strong>Ballet Body with ""New"" Ballet Arms",,,,-1
+DollBodyType,ModelMuse Arm Configuration: Bent Right Straight Left,1,ModelMuse Arm Configuration: Bent Right Straight Left,,,,-1
+DollBodyType,ModelMuse Arm Configuration: Left Bent Straight Right,1,ModelMuse Arm Configuration: Left Bent Straight Right,,,,-1
+DollBodyType,ModelMuse Arm Configuration: Poseable arms,1,ModelMuse Arm Configuration: Poseable arms,,,,-1
+DollBodyType,ModelMuse Arm Configuration: Right Bent Mackie Straight Left,1,ModelMuse Arm Configuration: Right Bent Mackie Straight Left,,,,-1
+DollBodyType,ModelMuse Arm Configuration: Right Bent Straight Left,1,ModelMuse Arm Configuration: Right Bent Straight Left,,,,-1
+SearchAge,12 & Above,1,12 & Above,,,,-1
+LegalAge,14+,1,14+,,,,-1
+LegalAge,4 - 8Y,1,4 - 8Y,,,,-1
+LegalAge,13+,1,13+,,,,-1
+MarketingAge,13+,1,13+,,,,-1
+MarketingAge,14+,1,14+,,,,-1
+DollBodyType,ModelMuse Arm,1,<strong>Body Type: </strong>ModelMuse&#8482; Arm,,,,-1
+DollBodyType,ModelMuse,1,ModelMuse,,,,-1
+DollBodyType,ModelMuse Left Bent,1,ModelMuse Left Bent,,,,-1
+DollBodyType,ModelMuse Poseable Ballet,1,ModelMuse Poseable Ballet,,,,-1
+DollBodyType,ModelMuse Bent left straight right arm,1,ModelMuse Bent left straight right arm,,,,-1
+DollBodyType,ModelMuse Bent Right Arm,1,ModelMuse Bent Right Arm,,,,-1
+DollBodyType,ModelMuse Double Bent,1,ModelMuse Double Bent,,,,-1
+DollBodyType,ModelMuse Left Bent Right Straight Arm Configuration,1,ModelMuse Left Bent Right Straight Arm Configuration,,,,-1
+DollBodyType,ModelMuse Posable arms & hands,1,ModelMuse Posable arms & hands,,,,-1
+DollBodyType,ModelMuse Poseable arms,1,ModelMuse Poseable arms,,,,-1
+DollBodyType,ModelMuse Straight Arms,1,ModelMuse Straight Arms,,,,-1
+DollBodyType,ModelMuse Mackie Double Bent Arms,1,ModelMuse Mackie Double Bent Arms,,,,-1
+LegalAge,Birth - 36M,1,Birth - 36M,,,,-1
+FACategory,STEM,1,STEM,,,,-1
+Character,Luciana,1,Luciana,,,,-1
+DollDesigner,Javier Meabe,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/javier-meabe"" title=""Javier Meabe"">Javier Meabe</a>",,,,-1
+DollDesigner,Kelley Lindberg,1,"<strong>Designer:</strong> <a href=""/shop/en-us/ba/kelley-lindberg"" title=""Kelley Lindberg"">Kelley Lindberg</a>",,,,-1
+Brand,Little Mommy,1,Little Mommy&#174;,,,,-1
+Brand,Polly Pocket,1,Polly Pocket&#8482;,,,,-1
+Brand,Jurassic World,1,Jurassic World,,,,-1
+RelatedSizingChart,popup/size-chart-4-20,1,popup/ag-size-chart-4-20,,,,-1
+Brand,Mecard,1,Mecard&#8482;,,,,-1
+Brand,Blonkers,1,Blonkers&#8482;,,,,-1
+Brand,Tizzy Tongues,1,Tizzy Tongues&#8482;,,,,-1
+Brand,Cleo & Cuquin,1,Cleo & Cuquin,,,,-1
+Brand,Sesame Workshop,1,Sesame Workshop,,,,-1
+Brand,Mini Monsters,1,Mini Monsters,,,,-1
+Brand,Twist & Turn,1,Twist & Turn,,,,-1

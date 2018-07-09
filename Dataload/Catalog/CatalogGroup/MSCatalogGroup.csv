@@ -1,0 +1,10 @@
+CatalogGroup
+GroupIdentifier,TopGroup,ParentGroupIdentifier,Sequence,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Keyword,Delete,Field 1,Published
+gifts,true,,,Gifts,,,,,gifts,0,,1
+new-mattel-toys,true,,,New,,,,,new-mattel-toys,0,,1
+shop-brands,true,,,Brand,,,,,shop-brands,0,,1
+shop-by-age,true,,,Age,,,,,shop-by-age,0,,1
+mattel-vault,true,,,Mattel Vault,The Mattel Vault,,,,mattel-vault,0,,1
+shop-categories,true,,,Category,,,,,shop-categories,0,,1
+clearance-toys,true,,,Sale,,,,,clearance-toys,0,,1
+HanuSale,false,clearance-toys,10,HanuSale,,,,,hanu-clearance,0,,1

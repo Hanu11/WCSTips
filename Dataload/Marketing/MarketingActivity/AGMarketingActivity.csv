@@ -1,0 +1,7 @@
+MarketingActivity
+activityName,description,activityType,startDate,endDate,version,published,state,priority,repeatable,behavior,uiDisplable,managingTool,templateType,experimentType,campaignName,familyActivityName,activitySequence,field1,field2,field3,field4,delete
+DynamicSalesCategoryActivity_15601,Activity used for sales category '15601'.,web,,,1,1,1,0,1,2,0,,,,,,,,,,,0
+DynamicSalesCategoryActivity_15602,Activity used for sales category '15602'.,web,,,1,1,1,0,1,2,0,,,,,,,,,,,0
+DynamicSalesCategoryActivity_15603,Activity used for sales category '15603'.,web,,,1,1,1,0,1,2,0,,,,,,,,,,,0
+DynamicSalesCategoryActivity_15604,Activity used for sales category '15604'.,web,,,1,1,1,0,1,2,0,,,,,,,,,,,0
+AG REWARDS BANNER,Recommend content to a customer that satisfies the chosen target conditions.,web,,,2,2,1,0,1,1,,,,,,,,,,,,0

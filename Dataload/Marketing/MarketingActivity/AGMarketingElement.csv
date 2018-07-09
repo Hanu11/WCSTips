@@ -1,0 +1,18 @@
+MarketingElement
+activityName,elementName,parentElementName,sequence,elementTemplateId,priority,triggerName,allUsers,field1,field2,field3,field4,delete
+DynamicSalesCategoryActivity_15601,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_15601,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_15601,29453,rootPath,1000,105,,DisplayEms,1,,,,,0
+DynamicSalesCategoryActivity_15602,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_15602,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_15602,29456,rootPath,1000,105,,DisplayEms,1,,,,,0
+DynamicSalesCategoryActivity_15603,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_15603,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_15603,29459,rootPath,1000,105,,DisplayEms,1,,,,,0
+DynamicSalesCategoryActivity_15604,rootPath,,0,6,,,,,,,,0
+DynamicSalesCategoryActivity_15604,productSearchAction,rootPath,2000,343,,,,,,,,0
+DynamicSalesCategoryActivity_15604,29462,rootPath,1000,105,,DisplayEms,1,,,,,0
+AG REWARDS BANNER,37451,,0,6,,,,,,,,0
+AG REWARDS BANNER,37452,37451,1500,231,,,,,,,,0
+AG REWARDS BANNER,37453,37451,2000,301,,,,,,,,0
+AG REWARDS BANNER,37454,37451,1000,105,,DisplayEms,1,,,,,0

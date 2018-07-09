@@ -1,0 +1,243 @@
+CatalogGroup
+GroupIdentifier,TopGroup,ParentGroupIdentifier,Sequence,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Keyword,Delete,Field 1,Published
+dollscat,true,,,Dolls,,,,,dolls,0,,1
+bookstorecat,true,,,Books,,,,,bookstore,0,,1
+clothingcat,true,,,Clothing,,,,,clothing,0,,1
+furnaccesscat,true,,,Furniture & Accessories,,,,,furniture-accessories,0,,1
+giftguidecat,true,,,Gifts,,,,,gift-guide,0,FALSE,1
+new,true,,,New,,,,,new,0,,1
+sale,true,,,Sale,,,,,sale,0,,1
+dollzsub,false,dollscat,5,Z Yang,,,,,z-yang,0,FALSE,1
+dolltenneysub,false,dollscat,4,Tenney & Logan,,,,,tenney,0,,1
+clothinglogoshop,false,clothingcat,12,AG Logo Shop Clothing,,,,,american-girl-logo-shop-clothing,0,FALSE,1
+reflektiontemplate,false,AG_Promotions_NOTFORDISPLAY,0,Welcome to American Girl,,,,,welcome-to-american-girl,0,FALSE,1
+furnaccesshairspa,false,furnaccesscat,10,Hair & Spa,,,,,hair-spa,0,,1
+bookadviceactivity,false,bookstorecat,3,Advice & Activities,,,,,advice-activities,0,,1
+bookearlyreader,false,bookstorecat,7,Early Readers,,,,,early-readers,0,,1
+dollcustomsub,false,dollscat,2,Create Your Own,,,,,create-your-own--1,0,,1
+clothingcustom,false,clothingcat,1,Create Your Own,,,,,create-your-own-clothing,0,,1
+booksummerreading,false,bookstorecat,9,Summer Reading,,,,,summer-reading,0,,1
+dollgotylucianasub,false,dollscat,1,Girl of the Year: Luciana,,,,,girl-of-the-year:-luciana,0,,1
+csr_nla_canada,false,csr_nla_cat,0,CSR NLA Canada,,,,,csr-nla-canada,0,,1
+magazinecat,false,bookstorecat,4,AG Magazine,,,,,magazine,0,FALSE,1
+logoshop,false,furnaccesscat,9,AG Logo Shop,,,,,american-girl-logo-shop,0,FALSE,1
+dollbfsub,false,dollscat,3,BeForever,,,,,beforever,0,,1
+dollgotysub,false,dollscat,7,Girl of the Year: Gabriela,,,,,girl-of-the-year-gabriela,0,,1
+dollbbsub,false,dollscat,9,Bitty Baby,,,,,bitty-baby,0,,1
+dollcaresub,false,dollscat,10,Doll Care,,,,,doll-care,0,,1
+dollnew,false,new,1,New Dolls,,,,,new-dolls,0,,1
+dolltrulymesub,false,dollscat,6,Truly Me,,,,,truly-me,0,,1
+booknew,false,new,2,New Books & Movies,,,,,new-books,0,,1
+bookcontemp,false,bookstorecat,2,Contemporary Fiction,,,,,contemporary-fiction,0,,1
+bookhistfict,false,bookstorecat,1,Historical Fiction,,,,,historical-fiction,0,,1
+bookmystery,false,bookstorecat,6,Mysteries,,,,,mysteries,0,,1
+clothingbb,false,clothingcat,11,Bitty Baby Doll Clothes,,,,,bitty-baby-clothing,0,,1
+clothingnew,false,new,3,New Clothing,,,,,new-clothing,0,,1
+clothingcasual,false,clothingcat,6,Casual,,,,,casual,0,,1
+clothingactive,false,clothingcat,5,Sports & Hobbies,,,,,activewear,0,,1
+clothingspec,false,clothingcat,4,Special Occasion,,,,,special-occasion,0,,1
+clothingbed,false,clothingcat,7,Pajamas,,,,,pajamas,0,,1
+clothingmatch,false,clothingcat,2,Matching Doll-Girl Clothes,,,,,matching-doll-girl-sets,0,,1
+csrservice,false,csrservicecat,1,Service Requests,,,,,service-requests,0,FALSE,1
+exclusions,false,AG_Promotions_NOTFORDISPLAY,0,Exclusions,,,,,exclusions,0,,1
+allgirlclothing,false,clothingcat,3,Girl Clothing,,,,,girl-clothing,0,,1
+megabloks,false,bookstorecat,8,Mega Construx,,,,,mega-construx,0,,1
+csr_rparts ,false,csr_rp_cat,1,Replacement Parts,,,,,replacement-parts-csr-rparts-,0,FALSE,1
+csr_souvenir,false,csr_retailcat,1,AG Souvenir,,,,,ag-souvenir,0,FALSE,1
+furnaccessnew,false,new,4,New Furniture & Accessories,,,,,new-furniture,0,,1
+furnaccessstorageother,false,furnaccesscat,7,Doll Storage & Care,,,,,doll-care-storage,0,,1
+furnaccessnursery,false,furnaccesscat,11,Baby Doll Furniture,,,,,nursery,0,FALSE,1
+furnaccessanimals,false,furnaccesscat,3,Animals & Extras,,,,,animals-extras,0,,1
+furnaccessfood,false,furnaccesscat,4,Food & Dining,,,,,food-dining,0,,1
+furnaccessschoolmusic,false,furnaccesscat,5,School & Music,,,,,school-music,0,,1
+furnaccesssports,false,furnaccesscat,6,Sports & Hobbies,,,,,sports-hobbies,0,,1
+furnaccessbedhome,false,furnaccesscat,1,Bed & Home,,,,,bed-home,0,,1
+clothing18inch,false,clothingcat,8,18 Inch Doll Clothes,,,,,18-inch-doll-clothes,0,FALSE,1
+giftcardindex,false,giftguidecat,12,Gift Cards,,,,,gift-card,0,FALSE,1
+ggcustfaves,false,giftguidecat,9,Customer Favorites,,,,,customer-favorites,0,,1
+ggaward,false,giftguidecat,10,Award Winners,,,,,award-winners,0,,1
+gg3up,false,giftguidecat,5,Gifts for Ages 3 and Up,,,,,gifts-for-ages-3-and-up,0,,1
+gg8up,false,giftguidecat,3,Gifts for Ages 8 and Up,,,,,gifts-for-ages-8-and-up,0,,1
+ggunder30,false,giftguidecat,6,Gifts for Girls Under $30,,,,,under-30,0,,1
+ggunder100,false,giftguidecat,7,Gifts for Girls Under $100,,,,,under-100,0,,1
+ggover100,false,giftguidecat,8,Gifts for Girls Over $100,,,,,over-100,0,,1
+loyaltyexclusions,false,AG_Promotions_NOTFORDISPLAY,0,Loyalty Exclusions,,,,,loyalty-exclusions,0,FALSE,1
+csrdh18inch,false,csrdhcat,1,"18"" Doll Repair",,,,,18-doll-repair,0,FALSE,1
+csrdh15inch,false,csrdhcat,2,"15"" Doll Repair",,,,,15-doll-repair,0,FALSE,1
+ggbirthday,false,giftguidecat,2,Birthday Gifts for Girls,,,,,birthday-gift-ideas,0,FALSE,1
+csr_nla_,false,csr_nla_cat,1,No Longer Available,,,,,no-longer-available-csr-nla-,0,FALSE,1
+gracestarterbundle,false,AG_Promotions_NOTFORDISPLAY,0,Grace Starter Bundle,,,,,grace-starter-bundle,0,,1
+whilesupplieslast,false,sale,3,Clearance! Up to 50% Off,,,,,while-supplies-last,0,,1
+trulymespecialextrasoffer,false,sale,2,Savings on special extras,,,,,truly-me-special-extras-save,0,FALSE,1
+bookmovie,false,bookstorecat,5,Movies & DVDs,,,,,movies,0,,1
+furnaccessfashion,false,furnaccesscat,2,Fashion Accessories,,,,,fashion-accessories,0,,1
+20%off,false,AG_Promotions_NOTFORDISPLAY,0,20% off exclusions,,,,,20-off-exclusions,0,FALSE,1
+welliewishersfs,false,AG_Promotions_NOTFORDISPLAY,0,Wellies Free Ship,,,,,wellies-free-ship,0,,1
+$98dolls,false,AG_Promotions_NOTFORDISPLAY,0,$98 Doll Promotion,,,,,$98-doll-promotion,0,FALSE,1
+giftwrap,false,AG_Promotions_NOTFORDISPLAY,0,Gift Wrap for Promos,,,,,gift-wrap-for-promos,0,FALSE,1
+furnaccessforgirls,false,furnaccesscat,8,Accessories for Girls,,,,,furniture-accessories-for-girls,0,,1
+csr_Test,false,csr_nla_cat,0,Product Testing,,,,,product-testing,0,FALSE,1
+tmmixmatch,false,clothingcat,9,Mix & Match Outfits,,,,,mix-match-outfits,0,FALSE,1
+clothingww,false,clothingcat,10,WellieWishers,,,,,welliewishers-clothing,0,,1
+dollwelliessub,false,dollscat,8,WellieWishers,,,,,welliewishers,0,,1
+gg5up,false,giftguidecat,4,Gifts for Ages 5 and Up,,,,,gifts-for-ages-5-and-up,0,,1
+offerspage,false,sale,5,View all current offers,,,,,promos,0,,1
+exclusions918,false,AG_Promotions_NOTFORDISPLAY,0,Exclusions for 9.18.15 Promo,,,,,exclusions-for-91815-promo,0,,1
+dollbtsub,false,dollshidden,0,Bitty Twins,,,,,bitty-twins,0,FALSE,1
+doll8up,false,dollshidden,0,Dolls for Ages 8+,,,,,dolls-for-ages-8-and-up,0,,1
+doll3up,false,dollshidden,0,Dolls for Ages 3+,,,,,dolls-for-ages-3-and-up,0,,1
+addydollsub,false,dollbfsub,1,Addy,,,,,addy,0,,1
+josefinadollsub,false,dollbfsub,3,Josefina,,,,,josefina,0,,1
+juliedollsub,false,dollbfsub,4,Julie,,,,,julie,0,,1
+dollcareproduct,false,dollcaresub,5,Doll Care Products,,,,,doll-care-products,0,FALSE,1
+bookbf,false,bookhidden,0,BeForever,,,,,beforever-books,0,,1
+bookgoty,false,bookhidden,0,Girl of the Year: Gabriela,,,,,girl-of-the-year-gabriela-books,0,,1
+bookactivity,false,bookhidden,0,Activities Library,,,,,activities-library,0,,1
+bookadvice,false,bookhidden,0,Advice Library,,,,,advice-library,0,,1
+bookmagazine,false,bookhidden,0,American Girl Magazine,,,,,american-girl-magazine,0,,1
+bookaward,false,bookhidden,0,Award Winning,,,,,award-winning,0,,1
+booksoundtrack,false,bookhidden,0,Movie Soundtracks,,"American Girl movie soundtracks, music for kids, music for girls",,,movie-soundtracks,0,FALSE,1
+clothingforgirls,false,clothinghidden,0,Girl Clothing,,,,,for-girls,0,FALSE,1
+clothingbf,false,clothinghidden,0,BeForever,,,,,beforever-clothing,0,,1
+clothinggoty,false,clothinghidden,0,Girl of the Year: Gabriela,,,,,girl-of-the-year-gabriela-clothing,0,,1
+clothingtm,false,clothinghidden,0,Truly Me,,,,,truly-me-clothing,0,,1
+csrgm,false,csrservice,1,Gift Message,,,,,gift-message,0,FALSE,1
+csrag,false,csrservice,2,AG Magazine Subscription,,,,,ag-magazine-subscription,0,FALSE,1
+csrsearchableproducts,false,csrservice,3,AG Searchable Products,,,,,ag-searchable-products,0,FALSE,1
+ggschool,false,gghidden,0,Back to School Gift Ideas,,,,,school-gift-ideas,0,FALSE,1
+testcat,false,magazinecat,0,6/18/15,,,,,6-18-15,0,FALSE,1
+stockingstuffer,false,gghidden,0,Stocking Stuffers,,,,,stocking-stuffers,0,FALSE,1
+SEO 18 Inch Dolls,false,dollshidden,0,18 Inch Dolls,,,,,18-inch-dolls,0,FALSE,1
+gracebooks,false,dollshidden,0,Grace's Books,,,,,graces-books,0,FALSE,1
+graceworld,false,dollshidden,0,Grace View All,,,,,grace-view-all,0,FALSE,1
+gracedonation,false,dollshidden,0,No Kid Hungry Donation,,,,,no-kid-hungry-donation,0,FALSE,1
+furnaccessbf,false,furnaccesshidden,0,BeForever,,,,,beforever-furniture,0,,1
+furnaccessgoty,false,furnaccesshidden,0,Girl of the Year: Gabriela,,,,,girl-of-the-year-gabriela-furniture,0,,1
+furnaccesstm,false,furnaccesshidden,0,Truly Me,,,,,truly-me-furniture,0,,1
+furnaccessbb,false,furnaccesshidden,0,Bitty Baby,,,,,bitty-baby-furniture,0,,1
+furnaccesstables,false,furnaccesshidden,0,Tables & Chairs,,,,,tables-chairs,0,FALSE,1
+dollmini,false,dollshidden,0,Mini Dolls,,,,,mini-dolls,0,,1
+SEO Doll Stroller,false,furnaccesshidden,0,Doll Stroller,,,,,doll-stroller,0,FALSE,1
+SEO Doll House,false,furnaccesshidden,0,American Girl Doll Houses,,,,,doll-house,0,FALSE,1
+SEO Books for Kids,false,bookhidden,0,Books for Kids,,,,,books-for-kids,0,FALSE,1
+giftcards,false,gghidden,0,Gift Cards,,,,,gift-cards,0,,1
+new8up,false,newhidden,0,Ages 8 and Up,,,,,new-for-ages-8-and-up,0,,1
+new3up,false,newhidden,0,Ages 3 and Up,,,,,new-for-ages-3-and-up,0,,1
+newbf,false,newhidden,0,BeForever,,,,,new-for-beforever,0,,1
+samanthadollsub,false,dollbfsub,11,Samantha,,,,,samantha,0,,1
+newgoty,false,newhidden,0,Girl of the Year,,,,,new-for-girl-of-the-year,0,,1
+newtm,false,newhidden,0,Truly Me,,,,,new-for-truly-me,0,,1
+newbb,false,newhidden,0,Bitty Baby,,,,,new-for-bitty-baby,0,,1
+bbdoll,false,dollshidden,0,Bitty Baby Dolls,,,,,bitty-baby-dolls,0,FALSE,1
+bbforparents,false,dollshidden,0,Bitty Baby For Parents,,,,,bitty-baby-for-parents,0,FALSE,1
+clothinghalloween,false,clothinghidden,0,Halloween Outfits & Accessories,,,,,halloween-outfits-accessories,0,FALSE,1
+clothingholiday,false,clothinghidden,0,Holiday Outfits & Accessories,,,,,holiday-outfits-accessories,0,FALSE,1
+clothingpj,false,clothinghidden,0,Pajamas for Doll & Girl,,,,,pajamas-for-doll-girl,0,FALSE,1
+clothingspring,false,clothinghidden,0,Spring Outfits & Accessories,,,,,spring-outfits-accessories,0,FALSE,1
+clothingswim,false,clothinghidden,0,Swimwear for Doll & Girl,,,,,swimwear-for-doll-girl,0,FALSE,1
+clothingwinterpj,false,clothinghidden,0,Winter Pajamas for Doll & Girl,,,,,winter-pajamas-for-doll-girl,0,FALSE,1
+ggsummer,false,gghidden,0,Summer Gift Ideas,,,,,summer-gift-ideas,0,,1
+isabelleworld,false,dollshidden,0,Isabelle View All,,,,,isabelle-view-all,0,FALSE,1
+SEOdollglasses,false,furnaccesshidden,0,Doll Glasses & Sunglasses,,,,,doll-glasses-sunglasses,0,FALSE,1
+magazinebycategory,false,magazinecat,0,By Category,,,,,by-category-magazinebycategory,0,,1
+csrbfdhsub,false,csrdh18inch,1,BeForever Doll Hospital Visit,,,,,beforever-doll-hospital-visit,0,FALSE,1
+csrgotydhsub,false,csrdh18inch,2,Girl of the Year Doll Hospital Visit,,,,,girl-of-the-year-doll-hospital-visit,0,FALSE,1
+csrmyagdhsub,false,csrdh18inch,3,My American Girl Repair,,,,,my-american-girl-repair,0,FALSE,1
+csrdwohdhsub,false,csrdh18inch,4,Dolls Without Hair Doll Hospital Visit,,,,,dolls-without-hair-doll-hospital-visit,0,FALSE,1
+csrbbdhsub,false,csrdh15inch,1,Bitty Baby Repair,,,,,bitty-baby-repair,0,FALSE,1
+csrbtdhsub,false,csrdh15inch,2,Bitty Twin  Doll Hospital Visit,,,,,bitty-twin--doll-hospital-visit,0,FALSE,1
+tmschool,false,dollshidden,0,Truly Me School Outfits & Accessories,,,FALSE,,school-outfits-accessories,0,FALSE,1
+tmdoll,false,dollshidden,0,Truly Me Dolls,Truly Me Dolls,,,,truly-me-dolls,0,FALSE,1
+tmsleep,false,dollshidden,0,Truly Me Bedtime,,,FALSE,,pajamas-bedroom,0,FALSE,1
+tmspa,false,dollshidden,0,Truly Me Spa,,,FALSE,,doll-spa,0,FALSE,1
+tmsports,false,dollshidden,0,TrulyMe Sports,,,FALSE,,truly-me-sports,0,FALSE,1
+clothingwinter,false,clothinghidden,0,Winter Outfits & Accessories,,,,,winter-outfits-accessories,0,,1
+kayadollsub,false,dollbfsub,5,Kaya,,,,,kaya,0,,1
+kitdollsub,false,dollbfsub,6,Kit,,,,,kit,0,,1
+rebeccadollsub,false,dollbfsub,10,Rebecca,,,,,rebecca,0,,1
+dollfeatures,false,dollcaresub,1,Doll Features,,,,,,0,FALSE,1
+dollhairskincare,false,dollcaresub,2,Doll Hair & Skin Care,,,,,,0,FALSE,1
+dollhospital,false,dollcaresub,3,Doll Hospital,,,,,,0,FALSE,1
+holidayideas,false,gghidden,0,Holiday Ideas,,,,,holiday-ideas,0,FALSE,1
+bookcrafts,false,bookhidden,0,Craft Kits,,,,,craft-kits,0,FALSE,1
+gotydollsub,false,dollshidden,0,Girl of the Year: Lea,,,,,girl-of-the-year-lea,0,FALSE,1
+Valentinegifts,false,gghidden,0,Valentine's Gifts,,,,,valentine-gifts,0,FALSE,1
+cybertesting,false,csr_nla_,0,Testing,,,,,testing,0,FALSE,1
+maryellendollsub,false,dollbfsub,7,Maryellen,,,,,maryellen,0,,1
+bookws,false,bookhidden,0,Williams-Sonoma,,,,,williams-sonoma-books,0,,1
+furnaccessws,false,furnaccesshidden,0,Williams-Sonoma,,,,,williams-sonoma-furniture-accessories,0,,1
+gggifts,false,gghidden,0,Gifts,,,,,gifts,0,FALSE,1
+furnaccessgirl3up,false,furnaccesshidden,0,For Girls Ages 3+,,,,,for-girls-ages-3,0,,1
+furnaccessgirl8up,false,furnaccesshidden,0,For Girls Ages 8+,,,,,for-girls-ages-8,0,,1
+ggspring,false,gghidden,0,Spring Gift Ideas,,,,,spring-gifts,0,FALSE,1
+new5up,false,newhidden,0,Ages 5 and Up,,,,,new-for-ages-5-and-up,0,,1
+newww,false,newhidden,0,WellieWishers,,,,,new-for-welliewishers,0,,1
+eastergifts,false,gghidden,0,Easter Gifts,,,,,easter-gifts,0,FALSE,1
+bfdolls,false,dollshidden,0,BeForever Dolls,,,,,beforever-dolls,0,FALSE,1
+doll5up,false,dollshidden,0,Dolls for Ages 5+,,,,,dolls-for-ages-5-and-up,0,,1
+furnaccessww,false,furnaccesshidden,0,WellieWishers,,,,,welliewishers-furniture,0,,1
+wwdollsaccess,false,dollshidden,0,WellieWishers Dolls & Good Deed Accessories,,,,,welliewishers-dolls-accessories,0,FALSE,1
+furnaccessgirl5up,false,furnaccesshidden,0,For Girls Ages 5+,,,,,for-girls-ages-5,0,,1
+wwclothingdlyd,false,clothinghidden,0,WellieWishers Clothing for Girls,,,,,welliewishers-clothing-for-girls,0,FALSE,1
+featured,false,salehidden,0,Featured Offers,,,,,featured-offers,0,FALSE,1
+tmcamping,false,dollshidden,0,Truly Me Camping,,,,,truly-me-camping,0,FALSE,1
+melodydollsub,false,dollbfsub,8,Melody,,,,,melody,0,,1
+clothingspringdress,false,clothinghidden,0,Spring Dresses for Girls,,,,,spring-dresses,0,FALSE,1
+clothingawardseason,false,clothinghidden,0,Award Season Outfit & Accessories,,,,,award-outfits-accessories,0,FALSE,1
+felicitydollsub,false,dollbfsub,2,Felicity,,,,,felicity,0,,1
+booktenney,false,bookhidden,0,Tenney,,,,,tenney-books,0,,1
+clothingtenney,false,clothinghidden,0,Tenney,,,,,tenney-clothing,0,,1
+furnaccesstenney,false,furnaccesshidden,0,Tenney & Logan,,,,,tenney-furniture,0,,1
+newtenney,false,newhidden,0,Tenney,,,,,new-for-tenney,0,,1
+newz,false,newhidden,0,Z Yang,,,,,new-for-z,0,FALSE,1
+clothingz,false,clothinghidden,0,Z Yang,,,,,z-clothing,0,FALSE,1
+bookz,false,bookhidden,0,Z Yang,,,,,z-books,0,FALSE,1
+furnaccessz,false,furnaccesshidden,0,Z Yang,,,,,z-furniture,0,FALSE,1
+gglearemain,false,gghidden,0,Lea,,,,,lea,0,,1
+giftcard,false,giftcardindex,0,Traditional Gift Cards,,,,,traditional-gift-cards,0,,1
+furnaccessbeds,false,furnaccesshidden,0,Beds,,,,,beds,0,,1
+bookgotyluciana,false,bookhidden,0,Girl of the Year: Luciana,,,,,girl-of-the-year:-luciana--1,0,,1
+clothinggotyluciana,false,clothinghidden,0,Girl of the Year: Luciana,,,,,girl-of-the-year-luciana-clothing,0,,1
+furnaccessgotyluciana,false,furnaccesshidden,0,Girl of the Year: Luciana,,,,,girl-of-the-year-luciana-furniture,0,,1
+furnaccesscamping,false,furnaccesshidden,0,Camping Accessories,,,,,camping-accessories,0,,1
+conversantbbdoll,false,conversanttests,0,Dolls,,,,,dolls-bitty-baby,0,,1
+conversantwwdoll,false,conversanttests,0,Dolls,,,,,dolls-welliewishers,0,,1
+conversantbfclothing,false,conversanttests,0,Clothing,,,,,clothing-beforever,0,,1
+conversantbfbooks,false,conversanttests,0,Books,,,,,books,0,,1
+conversanttmfurniture,false,conversanttests,0,Furniture & Accessories,,,,,furniture-accessories--1,0,,1
+conversantwwfurniture,false,conversanttests,0,Furniture & Accessories,,,,,furniture-welliewishers,0,,1
+SEO Doll Shoes,false,furnaccesshidden,0,American Girl Doll Shoes,,,,,american-girl-doll-shoes,0,,1
+earlyaccess,false,salehidden,0,AG Rewards Early Access,,,,,ag-rewards-early-access,0,,1
+girldresses,false,allgirlclothing,0,Dresses for Girls,,,,,dresses-for-girls,0,,1
+girltops,false,allgirlclothing,0,Tops for Girls,,,,,tops-for-girls,0,,1
+girlswimsuits,false,allgirlclothing,0,Girls Swimsuits,,,,,girls-swimsuits,0,,1
+girlpajamas,false,allgirlclothing,0,Girls Pajamas,,,,,girls-pajamas,0,,1
+girljackets,false,allgirlclothing,0,Jackets for Girls,,,,,jackets-for-girls,0,,1
+csr_sale,false,salehidden,0,csr_sale,,,,,csr-sale,0,,1
+producttesting,false,dollshidden,0,Product Testing,,,,,producttesting,0,,1
+dwoh,false,dollshidden,0,Dolls Without Hair,,,,,dolls-without-hair,0,,1
+csr_nla_backup,false,csr_nla_,0,Backup CSR NLA Category,,,,,backup-csr-nla-category,0,,1
+boydolls,false,dollshidden,0,Boy Dolls,,,,,boy-dolls,0,,1
+stem,false,furnaccesshidden,0,STEM ,,,,,stem-,0,,1
+ggconfidence,false,gghidden,0,Gifts for building confidence,,,,,gifts-to-inspire-confidence,0,,1
+ggadventure,false,gghidden,0,Gifts for adventure seekers,,,,,gifts-for-adventure-seekers,0,,1
+ggnurturing,false,gghidden,0,Gifts for the nurturing heart,,,,,gifts-for-the-nurturing-heart,0,,1
+sportsactivities,false,dollshidden,0,Sports & Activities,,,,,sports-activities,0,,1
+conversanttmdoll,false,conversanttests,0,Dolls,,,,,dolls--1,0,,1
+conversantbfdoll,false,conversanttests,0,Dolls,,,,,dolls-beforever,0,,1
+conversantccdoll,false,conversanttests,0,Dolls,,,,,dolls-contemporary,0,,1
+conversantccclothing,false,conversanttests,0,Clothing,,,,,clothing--1,0,,1
+conversanttmclothing,false,conversanttests,0,Clothing,,,,,clothing-truly-me,0,,1
+conversantwwclothing,false,conversanttests,0,Clothing,,,,,clothing-welliewishers,0,,1
+conversantbbclothing,false,conversanttests,0,Clothing,,,,,clothing-bitty-baby,0,,1
+conversantccbooks,false,conversanttests,0,Books,,,,,books--1,0,,1
+conversantwwbooks,false,conversanttests,0,Books,,,,,books-welliewishers,0,,1
+conversantbffurniture,false,conversanttests,0,Furniture & Accessories,,,,,furniture-beforever,0,,1
+conversantccfurniture,false,conversanttests,0,Furniture & Accessories,,,,,furniture-contemporary,0,,1
+conversantbbfurniture,false,conversanttests,0,Furniture & Accessories,,,,,furniture-bitty-baby,0,,1
+costcobittygift,false,dollshidden,0,Bitty Baby Free Gift,,,,,bitty-baby-free-gift,0,,1
+girlshortspantsskirts,false,allgirlclothing,0,"Shorts, Pants, and Skirts for Girls",,,,,shorts-pants-and-skirts-for-girls,0,,1
+agfairwayplace,false,furnaccesshidden,0,AG Fairway Place,,,,,ag-fairway-place,0,,1
+tmhorse,false,dollshidden,0,Truly Me Stable & Accessories,,,,,truly-me-stable---accessories,0,,1
+naneadollsub,false,dollbfsub,9,Nanea,,,,,nanea-mitchell,0,,1
+tmtravel,false,dollshidden,0,Travel Outfits & Accessories,,,,,travel-outfits---accessories,0,,1

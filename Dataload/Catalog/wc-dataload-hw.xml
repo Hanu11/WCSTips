@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Licensed Materials - Property of IBM WebSphere Commerce (C) Copyright
+		IBM Corp. 2015 All Rights Reserved. US Government Users Restricted
+		Rights - Use, duplication or disclosure restricted by GSA ADP Schedule
+		Contract with IBM Corp.
+		=================================================================
+	-->
+
+	<!--
+		To execute specific load items, use folling paremeters to dataload or
+		dataextract command -DLoadOrder="loadItemName1, loadItemName2,
+		loadItemName3"
+	-->
+
+<_config:DataLoadConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../xsd/wc-dataload.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoadEnvironment configFile="wc-dataload-hw-env.xml" />
+
+	<_config:LoadOrder commitCount="1" batchSize="1"
+		maxError="1000" dataLoadMode="Replace">
+		<_config:property name="firstTwoLinesAreHeader"
+			value="true" />
+
+		<_config:LoadItem name="CatalogGroup"
+			businessObjectConfigFile="CatalogGroup/wc-loader-catalog-group.xml">
+			<_config:DataSourceLocation
+				location="CatalogGroup/HWCatalogGroup.csv" />
+		</_config:LoadItem>
+
+
+		<_config:LoadItem name="CatalogEntryParentCatalogGroupRelationship"
+			businessObjectConfigFile="CatalogEntry/CatalogEntryParentCatalogGroupRelationship/wc-loader-catalog-entry-parent-catalog-group.xml">
+			<_config:DataSourceLocation
+				location="CatalogEntry/CatalogEntryParentCatalogGroupRelationship/HWCatalogEntryParentCatalogGroupRelationship.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroupRelationship"
+			businessObjectConfigFile="CatalogGroup/CatalogGroupRelationship/wc-loader-catalog-group-relationship.xml">
+			<_config:DataSourceLocation
+				location="CatalogGroup/CatalogGroupRelationship/HWCatalogGroupRelationship.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroupSEO"
+			businessObjectConfigFile="CatalogGroup/CatalogGroupSEO/wc-loader-catalog-group-seo.xml">
+			<_config:DataSourceLocation
+				location="CatalogGroup/CatalogGroupSEO/HWCatalogGroupSEO.csv" />
+		</_config:LoadItem>
+
+
+	</_config:LoadOrder>
+
+</_config:DataLoadConfiguration>

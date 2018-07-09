@@ -1,0 +1,9 @@
+MemberGroup
+memberGroupName,usage,shortDescription,longDescription,delete
+Registered Customers,GeneralPurpose,Registered Customers,Customers who have registered with the store,0
+Repeat Customers,GeneralPurpose,Repeat Customers,Customers who have placed at least one order with the store,0
+Guest Shoppers,GeneralPurpose,Guest Shoppers,Shoppers who have not registered with the store,0
+Male Customers,GeneralPurpose,Male Customers,Registered customers who have identified themselves as males,0
+Female Customers,GeneralPurpose,Female Customers,Registered customers who have identified themselves as females,0
+Customers who are under 40 years of age,GeneralPurpose,Customers who are under 40 years of age,Customers who are under 40 years of age,0
+Customers who are 40 years of age or older,GeneralPurpose,Customers who are 40 years of age or older,Customers who are 40 years of age or older,0

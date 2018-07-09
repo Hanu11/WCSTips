@@ -1,0 +1,309 @@
+MarketingSpot
+spotName,description,supportedTypes,usageType,uiDisplable,managingTool,delete
+Product_ProductRec,Display catalog entry recommendations from Coremetrics Intelligent Offer on the product details page.,,MARKETING,,,0
+Category_ProductRec,Display catalog entry recommendations from Coremetrics Intelligent Offer on all category pages.,,MARKETING,,,0
+ShoppingCart_ProductRec,Display catalog entry recommendations from Coremetrics Intelligent Offer on the shopping cart page.,,MARKETING,,,0
+OrderConf_ProductRec,Display catalog entry recommendations from Coremetrics Intelligent Offer on the order confirmation page.,,MARKETING,,,0
+Home_ProductRec,Display catalog entry recommendations from Coremetrics Intelligent Offer on the home page.,,MARKETING,,,0
+SearchResults_Content,Display ads on Search Results page,,MARKETING,,,0
+SearchResults_CatEntries,Display catalog entry recommendations on Search Results page,,MARKETING,,,0
+BestSellers_CatEntries,"Display a list of the best selling catalog entries for a category. This e-Marketing Spot can also display other types of catalog entry recommendations, just like any e-Marketing Spot with a name that ends with _CatEntries",,MARKETING,,,0
+TopBrowsed_CatEntries,"Display a list of the top browsed catalog entries for a category. This e-Marketing Spot can also display other types of catalog entry recommendations, just like any e-Marketing Spot with a name that ends with _CatEntries",,MARKETING,,,0
+RecViewed_CatEntries,"Display a list of the catalog entries that the customer has recently viewed. This e-Marketing Spot can also display other types of catalog entry recommendations, just like any e-Marketing Spot with a name that ends with _CatEntries",,MARKETING,,,0
+HeaderStoreLogo_Content,Display your store logo in the top-left corner of every store page,,MARKETING,,,0
+EmailBanner_Content,Display your store logo as a page-wide banner in all store marketing e-mail messages.,,MARKETING,,,0
+EmailBottom_Content,Display an ad at the bottom of all store marketing e-mail messages.,,MARKETING,,,0
+Product_Page_Tab_1,Display text content in the product page for Tab 1.,,MARKETING,0,,0
+Product_Page_Tab_2,Display text content in the product page for Tab 2.,,MARKETING,0,,0
+Search_Page_Tab_1,Display text content in the search page for Tab 1.,,MARKETING,0,,0
+Search_Page_Tab_2,Display text content in the search page for Tab 2.,,MARKETING,0,,0
+EmailPasswordReset_Content,Display content in the forgot password e-mail message.,,MARKETING,,,0
+EmailWishlist_Content,Display content in the wish list created e-mail message.,,MARKETING,,,0
+HelpPageCenter_Content,Display content in the Help page.,,MARKETING,,,0
+ContactUsPageCenter_Content,Display content in the Contact Us page.,,MARKETING,,,0
+ReturnPolicyPageCenter_Content,Display content in the Return Policy page.,,MARKETING,,,0
+PrivacyPolicyPageCenter_Content,Display content in the Privacy Policy page.,,MARKETING,,,0
+CorporateInfoPageCenter_Content,Display content in the Corporate Info - About Us page.,,MARKETING,,,0
+CorporateContactUsPageCenter_Content,Display content in the Corporate Info - Contact Us page.,,MARKETING,,,0
+EmailHeader_Content,Display content in the header of all store marketing e-mail messages.,,MARKETING,,,0
+EmailFooter_Content,Display content in the footer of all store marketing e-mail messages.,,MARKETING,,,0
+PasswordChangeNotifyCenter_Content,Email change password notification,,MARKETING,,,0
+EmailAccountActivation_Content,Display content in the account activation e-mail message.,,MARKETING,,,0
+EmailOrderCancel_Content,Display content in the order cancellation e-mail message.,,MARKETING,,,0
+EmailOrderShip_Content,Display content in the order ship e-mail message.,,MARKETING,,,0
+EmailPasswordReset_AdminContent,Display content in the forgot password e-mail message.,,MARKETING,,,0
+Content_1008,,,LAYOUTMARKETINGSPOT,,1,0
+Content_1007,,,LAYOUTMARKETINGSPOT,,1,0
+Content_1009,,,LAYOUTMARKETINGSPOT,,1,0
+Content_1010,,,LAYOUTMARKETINGSPOT,,1,0
+Content_1011,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10001,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10003,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10002,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10005,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10004,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10027,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10038,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10033,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10041,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10048,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10051,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10052,,,LAYOUTMARKETINGSPOT,,1,0
+Search_women glasses,,,LAYOUTMARKETINGSPOT,,1,0
+Search_women's glasses,,,LAYOUTMARKETINGSPOT,,1,0
+Search_women hats,,,LAYOUTMARKETINGSPOT,,1,0
+Search_women's hats,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10024,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10024_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10024_Bundle,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10046_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10027_DynamicKit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10053,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10054_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10055_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10056_Product,,,LAYOUTMARKETINGSPOT,,1,0
+WishListCenter_CatEntries,Display suggestive sellings in the wish list page.,,MARKETING,,,0
+ShoppingCartRight_CatEntries,Display catalog entry recommendations on the right side of the shopping cart page,,MARKETING,,,0
+Widget_CatalogEntryList_Department,Display content in catalog entry list.,,MARKETING,0,,0
+Widget_CatalogEntryList_CategoryPage,Display content in catalog entry list.,,MARKETING,0,,0
+Widget_CatalogEntryList_HardwareLighting,Display content in catalog entry list.,,MARKETING,0,,0
+HomeRow2_Categories,"Display category recommendations on the home page. If more than four entries are displayed, this e-Marketing Spot will scroll.",,MARKETING,,,0
+B2BHomePageFeaturedCategories,"Display category recommendations on the home page. If more than four entries are displayed, this e-Marketing Spot will scroll.",,MARKETING,,,0
+B2BHomePageFeaturedProducts,Display the bestsellers on B2B home page,,MARKETING,,,0
+HomeRow1_Content,Display the main ad on the home page.,,MARKETING,0,,0
+HomeBottomLeft_Content,Display ads on the left side of the home page.,,MARKETING,0,,0
+HomeBottomCenter_Content,Display ads on the left side of the home page.,,MARKETING,0,,0
+HomeBottomRight_Content,Display ads on the left side of the home page.,,MARKETING,0,,0
+HomeCenterRow1_Content,Display ads on the right side of the home page.,,MARKETING,0,,0
+HomeCenterRow2_Content,Display additional ads on the right side of the home page.,,MARKETING,0,,0
+SeachLandingClearance,SeachLandingClearance,,MARKETING,,,0
+SearchLandingWomenRow3_CatEntries,SearchLandingWomenContentRecommendationForStores,,MARKETING,0,,0
+SearchLandingWomenRow4_CatEntries,SearchLandingWomenContentRecommendationForStores2,,MARKETING,0,,0
+SearchLandingWomen_BrandEspots,Display a brand on the Women Landing Page,,MARKETING,0,,0
+CatalogBanner_Content,Display a page-wide banner ad below the header on catalog browsing pages,,MARKETING,,,0
+CatalogBanner_Content_Left,Display a page-wide banner ad below the header on catalog browsing pages,,MARKETING,,,0
+CatalogBanner_Content_Right,Display a page-wide banner ad below the header on catalog browsing pages,,MARKETING,,,0
+DressesProductRight_CatEntries,Display catalog entry recommendations on the right side of all product details pages for Dresses category,,MARKETING,,,0
+HeaderBanner_Content_Left,Display text content in the header banner.,,MARKETING,,,0
+HeaderBanner_Content_Right,Display text content in the header banner.,,MARKETING,,,0
+DressesRow2_Content,Display responsive hero image on Dresses category page.,,MARKETING,,,0
+DressesRow4_CatEntries,Display product recommendations on Dresses category page,,MARKETING,,,0
+HeaderBannerHardwareLeft_Content,Display text content in the header banner.,,MARKETING,,,0
+HeaderBannerHardwareRight_Content,Display text content in the header banner.,,MARKETING,,,0
+HeroHardware_Content,Display the hero image on B2B home page,,MARKETING,,,0
+HomeBottomHardwareLeft_Content,Display ads on the left side of the home page.,,MARKETING,0,,0
+HomeBottomHardwareCenter_Content,Display ads on the center of the home page.,,MARKETING,0,,0
+HomeBottomHardwareRight_Content,Display ads on the right side of the home page.,,MARKETING,0,,0
+FastenersRow3_Categories,FastenersCategoryRecommendationForStores,,MARKETING,,,0
+FastenersRow4_CatEntries,Product Recommendation in Fasteners,,MARKETING,,,0
+FastenersRow1_Content,Display the hero image on the fasteners page,,MARKETING,,,0
+FastenersRow2_Content_Left,Display ads on the left side of the fasteners page.,,MARKETING,,,0
+FastenersRow2_Content_Right,Display ads on the right side of the fasteners page.,,MARKETING,,,0
+ApparelRow1_Content,Display the main ad on Apparel department page,,MARKETING,,,0
+AboutDressDesignerPageMainAd,Display the main ad on About Dress Designer page,,MARKETING,,,0
+EveningSparkleDressPageMainAd,Display the main ad on Evening Sparkle Dress page,,MARKETING,,,0
+AuroraStyleGuidePageMainAd,Display the main ad on Style Guide page,,MARKETING,,,0
+ApparelRow2_Content_Left,Display ads on Apparel department page,,MARKETING,,,0
+ApparelRow2_Content_Right,Display ads on Apparel department page,,MARKETING,,,0
+WomenShirtsBlousesProductRight_CatEntries,Product Recommendation in Shirts and Blouses for Women,,MARKETING,,,0
+WomenSweatersProductRight_CatEntries,Product Recommendation in Sweaters for Women ,,MARKETING,,,0
+WomenSkirtsProductRight_CatEntries,Product Recommendation in Skirts for Women,,MARKETING,,,0
+WomenPantsProductRight_CatEntries,Product Recommendation in Pants for Women,,MARKETING,,,0
+WomenShoesProductRight_CatEntries,Product Recommendation in Shoes for Women,,MARKETING,,,0
+WomenHandbagsProductRight_CatEntries,Product Recommendation in Handbags for Women,,MARKETING,,,0
+WomenAccessoriesProductRight_CatEntries,Product Recommendation in Accessories for Women,,MARKETING,,,0
+MenAccessoriesProductRight_CatEntries,Product Recommendation in Accessories for Men,,MARKETING,,,0
+MenShoesProductRight_CatEntries,Product Recommendation in Shoes for Men,,MARKETING,,,0
+MenPantsProductRight_CatEntries,Product Recommendation in Pants for Men,,MARKETING,,,0
+MenSuitsProductRight_CatEntries,Product Recommendation in Suits for Men,,MARKETING,,,0
+MenShirtsProductRight_CatEntries,Product Recommendation in Shirts for Men,,MARKETING,,,0
+MenJacketsProductRight_CatEntries,Product Recommendation in Jackets for Men,,MARKETING,,,0
+GirlsShoesProductRight_CatEntries,Product Recommendation in Shoes for Girls,,MARKETING,,,0
+GirlsPantsProductRight_CatEntries,Product Recommendation in Pants for Girls,,MARKETING,,,0
+GirlsDressesSkirtsProductRight_CatEntries,Product Recommendation in Dresses and Skirts for Girls,,MARKETING,,,0
+GirlsTopsProductRight_CatEntries,Product Recommendation in Tops for Girls,,MARKETING,,,0
+BoysPantsProductRight_CatEntries,Product Recommendation in Pants for Boys,,MARKETING,,,0
+BoysTopsProductRight_CatEntries,Product Recommendation in Tops for Boys,,MARKETING,,,0
+BoysShoesProductRight_CatEntries,Product Recommendation in Shoes for Boys,,MARKETING,,,0
+MenRow4_CatEntries,Product Recommendation for Men,,MARKETING,,,0
+BoysRow4_CatEntries,Product Recommendation for Boys,,MARKETING,,,0
+GirlsRow4_CatEntries,Product Recommendation for Girls,,MARKETING,,,0
+ComputersDesktopsProductRight_CatEntries,Product Recommendation in Computer Desktops,,MARKETING,,,0
+ComputersLaptopsProductRight_CatEntries,Product Recommendation in Computer Laptops,,MARKETING,,,0
+ComputersTabletsProductRight_CatEntries,Product Recommendation in Computer Tablets,,MARKETING,,,0
+ComputersAccessoriesProductRight_CatEntries,Product Recommendation in Computer Accessories,,MARKETING,,,0
+ComputersComponentsProductRight_CatEntries,Product Recommendation in Computer Components,,MARKETING,,,0
+NewslettersProductRight_CatEntries,Product Recommendation in Newsletters,,MARKETING,,,0
+MagazinesProductRight_CatEntries,Product Recommendation in Magazines,,MARKETING,,,0
+AppliancesProductRight_CatEntries,Product Recommendation in Appliances,,MARKETING,,,0
+LightingProductRight_CatEntries,Product Recommendation in Lighting,,MARKETING,,,0
+TablewareProductRight_CatEntries,Product Recommendation in Tableware,,MARKETING,,,0
+KitchenwareProductRight_CatEntries,Product Recommendation in Kitchenware,,MARKETING,,,0
+BathAccessoriesProductRight_CatEntries,Product Recommendation in BathAccessories,,MARKETING,,,0
+FurnitureProductRight_CatEntries,Product Recommendation in Furniture,,MARKETING,,,0
+FruitProductRight_CatEntries,Product Recommendation in Fruit,,MARKETING,,,0
+VegetablesProductRight_CatEntries,Product Recommendation in Vegetables,,MARKETING,,,0
+MeatProductRight_CatEntries,Product Recommendation in Meat,,MARKETING,,,0
+DairyProductRight_CatEntries,Product Recommendation in Dairy,,MARKETING,,,0
+MedicineProductRight_CatEntries,Product Recommendation in Medicine,,MARKETING,,,0
+VitaminsProductRight_CatEntries,Product Recommendation in Vitamins,,MARKETING,,,0
+ElectronicsRow4_CatEntries,Product Recommendation in Electronics,,MARKETING,,,0
+NewslettersAndMagazinesRow4_CatEntries,Product Recommendation in Magazines and Newsletters,,MARKETING,,,0
+HomeFurnishingsRow4_CatEntries,Product Recommendation in Home and  Furnishings,,MARKETING,,,0
+GroceryRow4_CatEntries,Product Recommendation for Grocery,,MARKETING,,,0
+HealthRow4_CatEntries,Product Recommendation for Health,,MARKETING,,,0
+HardwareLightingProductRight_CatEntries,Product Recommendation in Hardware Lighting,,MARKETING,,,0
+BoltsProductRight_CatEntries,Product Recommendation in Bolts,,MARKETING,,,0
+NutsProductRight_CatEntries,Product Recommendation in Nuts,,MARKETING,,,0
+ScrewsProductRight_CatEntries,Product Recommendation in Screws,,MARKETING,,,0
+BoysPantsRow2_Content,Display ads on Pants category page,,MARKETING,,,0
+BoysShoesRow2_Content,Display ads on Shoes category page,,MARKETING,,,0
+BoysTopsRow2_Content,Display ads on Tops category page,,MARKETING,,,0
+BoysRow1_Content,Display the main ad on Boys category page,,MARKETING,,,0
+BoysRow3_Categories,BoysCategoryRecommendationForStores,,MARKETING,,,0
+GirlsDressesSkirtsRow2_Content,Display ads on Dresses and Skirts category page,,MARKETING,,,0
+GirlsPantsRow2_Content,Display ads on Pants category page,,MARKETING,,,0
+GirlsShoesRow2_Content,Display ads on Shoes category page,,MARKETING,,,0
+GirlsTopsRow2_Content,Display ads on Tops category page,,MARKETING,,,0
+GirlsRow1_Content,Display the main ad on Girls category page,,MARKETING,,,0
+GirlsRow3_Categories,GirlsCategoryRecommendationForStores,,MARKETING,,,0
+MenAccessoriesRow2_Content,Display ads on Accessories category page,,MARKETING,,,0
+MenJacketsRow2_Content,Display ads on Jackets category page,,MARKETING,,,0
+MenPantsRow2_Content,Display ads on Pants category page,,MARKETING,,,0
+MenShirtsRow2_Content,Display ads on Shirts category page,,MARKETING,,,0
+MenShoesRow2_Content,Display ads on Shoes category page,,MARKETING,,,0
+MenSuitsRow2_Content,Display ads on Suits category page,,MARKETING,,,0
+MenRow1_Content,Display the main ad on Men category page,,MARKETING,,,0
+MenRow3_Categories,MenCategoryRecommendationForStores,,MARKETING,,,0
+WomenAccessoriesRow2_Content,Display ads on Accessories category page,,MARKETING,,,0
+WomenHandbagsRow2_Content,Display ads on Handbags category page,,MARKETING,,,0
+WomenPantsRow2_Content,Display ads on Pants category page,,MARKETING,,,0
+WomenShirtsBlousesRow2_Content,Display ads on Shirts and Blouses category page,,MARKETING,,,0
+WomenShoesRow2_Content,Display ads on Shoes category page,,MARKETING,,,0
+WomenSkirtsRow2_Content,Display ads on Skirts category page,,MARKETING,,,0
+WomenSweatersRow2_Content,Display ads on Sweaters category page,,MARKETING,,,0
+WomenLandingRow_Styles,Display the styles on the Women Landing page,,MARKETING,0,,0
+WomenLandingRow1_Content,Display the video on the Women Landing page,,MARKETING,0,,0
+WomenLandingRow2_Content,Display the text on the Women Landing page,,MARKETING,0,,0
+WomenLandingRow2_Content2,Display the text on the Women Landing page,,MARKETING,0,,0
+WomenRow1_Content,Display the main ad on Women category page,,MARKETING,,,0
+ApparelRow3_Categories,Display category recommendations on Apparel department page.,,MARKETING,,,0
+WomenRow3_Categories,Display category recommendations on Women category page,,MARKETING,,,0
+ApparelRow4_CatEntries,"Display catalog entry recommendations on Apparel department page. If more than four catalog entries are displayed, this e-Marketing Spot will have pagination.",,MARKETING,,,0
+WomenRow4_CatEntries,"Display catalog entry recommendations on Women category page. If more than four catalog entries are displayed, this e-Marketing Spot will have pagination.",,MARKETING,,,0
+ComputersAccessoriesRow2_Content,Display ads on Accessories category page,,MARKETING,,,0
+AppliancesRow2_Content,Display ads on Appliances category page,,MARKETING,,,0
+BathAccessoriesRow2_Content,Display ads on Bath Accessories category page,,MARKETING,,,0
+ComputersComponentsRow2_Content,Display ads on Components category page,,MARKETING,,,0
+ComputersDesktopsRow2_Content,Display ads on Desktops category page,,MARKETING,,,0
+DairyRow2_Content,Display ads on Dairy category page,,MARKETING,,,0
+ElectronicsRow1_Content,Display the main ad on Electronics department page,,MARKETING,,,0
+ElectronicsRow2_Content,Display ads on Electronics department page,,MARKETING,,,0
+FruitRow2_Content,Display ads on Fruits category page,,MARKETING,,,0
+FurnitureRow2_Content,Display ads on Furniture category page,,MARKETING,,,0
+GroceryRow1_Content,Display the main ad on Grocery department page,,MARKETING,,,0
+GroceryRow2_Content,Display ads on Grocery department page,,MARKETING,,,0
+HealthRow1_Content,Display the main ad on Health department page,,MARKETING,,,0
+HealthRow2_Content,Display ads on Health department page,,MARKETING,,,0
+HomeFurnishingsRow1_Content,Display the main ad on Home And Furnishings department page,,MARKETING,,,0
+HomeFurnishingsRow2_Content,Display ads on Home And Furnishings department page,,MARKETING,,,0
+KitchenwareRow2_Content,Display ads on Kitchenware category page,,MARKETING,,,0
+ComputersLaptopsRow2_Content,Display ads on Laptops category page,,MARKETING,,,0
+LightingRow2_Content,Display ads on Lighting category page,,MARKETING,,,0
+MagazinesRow2_Content,Display ads on Magazines category page,,MARKETING,,,0
+MeatRow2_Content,Display ads on Meat category page,,MARKETING,,,0
+MedicineRow2_Content,Display ads on Medicines category page,,MARKETING,,,0
+NewslettersAndMagazinesRow1_Content,Display the main ad on News letters And Magazines department page,,MARKETING,,,0
+NewslettersAndMagazinesRow2_Content,Display ads on Newsletters And Magazines department page,,MARKETING,,,0
+NewslettersRow2_Content,Display ads on Newsletters category page,,MARKETING,,,0
+ComputersTabletsRow2_Content,Display ads on Tablets category page,,MARKETING,,,0
+TablewareRow2_Content,Display ads on Tableware category page,,MARKETING,,,0
+VegetablesRow2_Content,Display ads on Vegetables category page,,MARKETING,,,0
+VitaminsRow2_Content,Display ads on Vitamins category page,,MARKETING,,,0
+ElectronicsRow3_Categories,ElectronicsCategoryRecommendationForStores,,MARKETING,,,0
+GroceryRow3_Categories,GroceryCategoryRecommendationForStores,,MARKETING,,,0
+HealthRow3_Categories,Health Category Recommendation For Stores,,MARKETING,,,0
+HomeFurnishingsRow3_Categories,HomeAndFurnishingsCategoryRecommendationForStores,,MARKETING,,,0
+NewslettersAndMagazinesRow3_Categories,NewslettersAndMagazinesCategoryRecommendationForStores,,MARKETING,,,0
+HardwareLightingRow2_Content,Display the main ad on Hardware Lighting category page,,MARKETING,,,0
+BoltsRow2_Content,Display the main ad on Bolts category page,,MARKETING,,,0
+ScrewsRow2_Content,Display the main ad on Screws category page,,MARKETING,,,0
+NutsRow2_Content,Display the main ad on Nuts category page,,MARKETING,,,0
+HardwareRow1_Content,Display the main ad on Hardware department page,,MARKETING,,,0
+HardwareRow2_Content_Left,Display the left ad on Hardware department page,,MARKETING,,,0
+HardwareRow2_Content_Right,Display the right ad on Hardware department page,,MARKETING,,,0
+HardwareRow3_Categories,Display the categories on Hardware department page,,MARKETING,,,0
+HardwareRow4_CatEntries,Display the best sellers on Hardware department page,,MARKETING,,,0
+Fasteners_Page_Tab_1,Display tab text content in the product pages under Fasteners.,,MARKETING,0,,0
+ScrewsProductRec_CatEntries,Display recommendations on Screws product pages for Fasteners,,MARKETING,,,0
+NutsProductRec_CatEntries,Display recommendations on Nuts product pages for Fasteners,,MARKETING,,,0
+BoltsProductRec_CatEntries,Display recommendations on Bolts product pages for Fasteners,,MARKETING,,,0
+RecentlyViewed,,AP,MARKETING,,,0
+Widget_CatalogEntryRecommendation_701_1951,,,MARKETING,0,,0
+FPHomePage,,,LAYOUTMARKETINGSPOT,,,0
+Category_10101_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10101_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_10101_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Item_14949,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13123_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13121_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13117_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11109_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11104_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11106_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11116_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11105_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13122_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11103_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11108_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13120_Item,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11106_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11109_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11108_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11104_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11105_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11103_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11116_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13120_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13117_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13121_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13122_Product,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13117_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13120_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11106_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11103_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13122_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11108_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_13121_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11109_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11116_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11105_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11104_Kit,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11613,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11610,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11612,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11611,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11614,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11609,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11621,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11183,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11149,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11127,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11129,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11131,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11135,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11651,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11154,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11130,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11650,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11128,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11196,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11631,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11197,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11194,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11193,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11195,,,LAYOUTMARKETINGSPOT,,1,0
+Category_11133,,,LAYOUTMARKETINGSPOT,,1,0
+Kit_30810,,,LAYOUTMARKETINGSPOT,,1,0
+Kit_35532,,,LAYOUTMARKETINGSPOT,,1,0
+Content_1552,,,LAYOUTMARKETINGSPOT,,1,0

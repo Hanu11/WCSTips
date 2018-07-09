@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2014 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+-->
+<_config:DataLoadConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../xsd/wc-dataload.xsd" 
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:DataLoadEnvironment configFile="wc-ag-dataload-env.xml" />
+	
+    <_config:LoadOrder commitCount="10" batchSize="1" dataLoadMode="Replace" maxError="100">
+  	   <_config:property name="firstTwoLinesAreHeader" value="true" />
+
+			<!-- Customer Segment -->
+  	   <_config:LoadItem name="MemberGroup" businessObjectConfigFile="CustomerSegment/wc-loader-member-group.xml" >
+	  		<_config:DataSourceLocation location="CustomerSegment/AGMemberGroup.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MemberGroupDescription" businessObjectConfigFile="CustomerSegment/wc-loader-member-group-description.xml" >
+	  		<_config:DataSourceLocation location="CustomerSegment/AGMemberGroupDescription.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MemberGroupCondition" businessObjectConfigFile="CustomerSegment/wc-loader-member-group-condition.xml" >
+	  		<_config:DataSourceLocation location="CustomerSegment/AGMemberGroupCondition.csv" />
+  	   </_config:LoadItem>
+
+			<!-- Attachment -->
+  	   <_config:LoadItem name="Attachment" businessObjectConfigFile="Attachment/wc-loader-attachment.xml" >
+	  		<_config:DataSourceLocation location="Attachment/AGAttachment.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="AttachmentDescription" businessObjectConfigFile="Attachment/wc-loader-attachment-description.xml" >
+	  		<_config:DataSourceLocation location="Attachment/AGAttachmentDescription.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="AttachmentAsset" businessObjectConfigFile="Attachment/wc-loader-attachment-asset.xml" >
+	  		<_config:DataSourceLocation location="Attachment/AGAttachmentAsset.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="AttachmentAssetLanguage" businessObjectConfigFile="Attachment/wc-loader-attachment-asset-language.xml" >
+	  		<_config:DataSourceLocation location="Attachment/AGAttachmentAssetLanguage.csv" />
+  	   </_config:LoadItem>
+
+			<!-- Marketing Content -->
+  	   <_config:LoadItem name="MarketingContent" businessObjectConfigFile="MarketingContent/wc-loader-marketing-content.xml" >
+	  		<_config:DataSourceLocation location="MarketingContent/AGMarketingContent.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingContentDescription" businessObjectConfigFile="MarketingContent/wc-loader-marketing-content-description.xml" >
+	  		<_config:DataSourceLocation location="MarketingContent/AGMarketingContentDescription.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingContentAttachment" businessObjectConfigFile="MarketingContent/wc-loader-marketing-content-attachment.xml" >
+	  		<_config:DataSourceLocation location="MarketingContent/AGMarketingContentAttachment.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingContentAttachmentDescription" businessObjectConfigFile="MarketingContent/wc-loader-marketing-content-attachment-description.xml" >
+	  		<_config:DataSourceLocation location="MarketingContent/AGMarketingContentAttachmentDescription.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingContentImageMap" businessObjectConfigFile="MarketingContent/wc-loader-marketing-content-imagemap.xml" >
+	  		<_config:DataSourceLocation location="MarketingContent/AGMarketingContentImageMap.csv" />
+  	   </_config:LoadItem>
+
+			<!-- Marketing Spot -->
+  	   <_config:LoadItem name="MarketingSpot" businessObjectConfigFile="MarketingSpot/wc-loader-marketing-spot.xml" >
+	  		<_config:DataSourceLocation location="MarketingSpot/AGMarketingSpot.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingSpotDefaultContent" businessObjectConfigFile="MarketingSpot/wc-loader-marketing-spot-default-content.xml" >
+	  		<_config:DataSourceLocation location="MarketingSpot/AGMarketingSpotDefaultContent.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingSpotDefaultTitle" businessObjectConfigFile="MarketingSpot/wc-loader-marketing-spot-default-title.xml" >
+	  		<_config:DataSourceLocation location="MarketingSpot/AGMarketingSpotDefaultTitle.csv" />
+  	   </_config:LoadItem>
+
+			<!-- Marketing Activity -->
+  	   <_config:LoadItem name="MarketingCampaign" businessObjectConfigFile="MarketingActivity/wc-loader-marketing-campaign.xml" >
+	  		<_config:DataSourceLocation location="MarketingActivity/AGMarketingCampaign.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingActivity" businessObjectConfigFile="MarketingActivity/wc-loader-marketing-activity.xml" >
+	  		<_config:DataSourceLocation location="MarketingActivity/AGMarketingActivity.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingElement" businessObjectConfigFile="MarketingActivity/wc-loader-marketing-element.xml" >
+	  		<_config:DataSourceLocation location="MarketingActivity/AGMarketingElement.csv" />
+  	   </_config:LoadItem>
+
+  	   <_config:LoadItem name="MarketingElementNVP" businessObjectConfigFile="MarketingActivity/wc-loader-marketing-elementnvp.xml" >
+	  		<_config:DataSourceLocation location="MarketingActivity/AGMarketingElementNVP.csv" />
+  	   </_config:LoadItem>
+
+    </_config:LoadOrder>
+
+</_config:DataLoadConfiguration>

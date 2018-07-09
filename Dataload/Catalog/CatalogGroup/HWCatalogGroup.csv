@@ -1,0 +1,95 @@
+CatalogGroup
+GroupIdentifier,TopGroup,ParentGroupIdentifier,Sequence,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Keyword,Delete,Field 1,Published
+hw-collector,true,,,Collector,,,,,hw-collector,0,,1
+hw-birthday,true,,,Birthday,,,,,hw-birthday,0,,1
+shop-by-age-range,true,,,Age,,,,,shop-by-age-range,0,,1
+themes,true,,,Themes,,,,,themes,0,,1
+shop-all-categories,true,,,Categories,,,,,shop-all-categories,0,,1
+new-arrivals,true,,,New,,,,,new-arrivals,0,,1
+hot-wheels-gifts,false,new-arrivals,10,Epic Gifts!,,,,,hot-wheels-gifts,0,,1
+cars-vehicles,false,shop-all-categories,10,Cars,,,,images/hotwheels/categoryLanding/HW_Collection_Basics.jpg,cars-vehicles,0,,1
+track-sets-packs,false,shop-all-categories,20,Tracksets,,,,,track-sets-packs,0,,1
+advanced-play,false,shop-all-categories,30,Advanced Play,,,,images/hotwheels/categoryLanding/HW_Collection_AdvancedPlay.jpg,advanced-play,0,,1
+hot-wheels-accessories,false,shop-all-categories,40,Accessories,,,,,hot-wheels-accessories,0,,1
+sale,false,shop-all-categories,100,Sale,,,,,sale,0,,1
+cars-tracks,false,themes,10,Cars & Tracks,,,,,cars-tracks,0,,1
+monster-jam,false,themes,20,Monster Jam&#174;,,,,images/hotwheels/categoryLanding/HW_Collection_MonsterJam_Header.jpg,monster-jam,0,,1
+star-wars,false,themes,30,Star Wars&#8482;,,,,images/hotwheels/categoryLanding/HotWheels_StarWars_2018_HanSolo_Banner_LoRes.jpg,star-wars,0,,1
+marvel,false,themes,40,Marvel&#174;,,,,images/hotwheels/storehome/2018/HW_Marvel_Collection_Banner.jpg,marvel,0,,1
+minecraft,false,themes,50,Minecraft&#174;,,,,images/hotwheels/categoryLanding/HW_Collection_Minecraft_FINAL.jpg,minecraft,0,,1
+dc-universe,false,themes,60,DC Universe&#8482;,,,,images/hotwheels/categoryLanding/HW_Collection_DC_Header.jpg,dc-universe,0,,1
+ages-3-5,false,shop-by-age-range,10,Ages 3-5,,,,,ages-3-5,0,,1
+ages-5-7,false,shop-by-age-range,20,Ages 5-7,,,,,ages-5-7,0,,1
+ages-8-up,false,shop-by-age-range,30,Ages 8+,,,,,ages-8-up,0,,1
+adult-collector,false,shop-by-age-range,40,Adult Collector,,,,,adult-collector,0,,1
+csr_hw_nla_,false,csr_hw_nla_cat,99,No Longer Available,,,,,no-longer-available-csr-hw-nla-,0,,1
+csrhwservice,false,csrhwservicecat,99,HW Service Requests,,,,,hw-service-requests,0,,1
+csrhwsearchableproducts,false,csrhwservicecat,99,HW Searchable Products,,,,,hw-searchable-products,0,,1
+hotwheels-promo1,false,HW_PROMOTIONAL_CATEGORY,10,hotwheels-promo1,,,,images/All/Shared_Headers/Paypal_BannerHW.JPG,hot-wheels-paypal-offer,0,,1
+hotwheels-promo2,false,HW_PROMOTIONAL_CATEGORY,20,hotwheels-promo2,,,,,hotwheels-promo2,0,,1
+hotwheels-promo3,false,HW_PROMOTIONAL_CATEGORY,30,hotwheels-promo3,,,,,hotwheels-promo3,0,,1
+hotwheels-promo4,false,HW_PROMOTIONAL_CATEGORY,40,hotwheels-promo4,,,,,hotwheels-promo4,0,,1
+hotwheels-promo5,false,HW_PROMOTIONAL_CATEGORY,50,<style>@media (max-width: 767px){.subcategory-page .navbar-header .navigation-heading { line-height:2!important;}}</style>40% Off Select Items <br>Use Code: <strong>SAVE40</strong>,,,,images/hotwheels/categoryLanding/HWHolidayBlowoutBanner_1300_LR.jpg,hotwheels-promo5,0,,1
+hotwheels-promo6,false,HW_PROMOTIONAL_CATEGORY,60,hotwheels-promo6,,,,,hotwheels-promo6,0,,1
+hotwheels-promo7,false,HW_PROMOTIONAL_CATEGORY,70,Hot Wheels Marvel Vehicles & Playsets,,,,images/hotwheels/categoryLanding/HW_Collection_Marvel_Header.jpg,hotwheels-promo7,0,,1
+hotwheels-promo8,false,HW_PROMOTIONAL_CATEGORY,80,Hot Wheels Marvel Vehicles & Playsets,,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",,images/hotwheels/categoryLanding/HW_Collection_Marvel_Header.jpg,hotwheels-promo8,0,,1
+hw-car-storage,false,shop-all-categories,50,Car Storage,,,,,hw-car-storage,0,,1
+hw-party-favors,false,hw-birthday,4,Party Favors,,,,,hw-party-favors,0,,1
+hw-games-activities,false,hw-birthday,2,Games & Activities,,,,,hw-games-activities,0,,1
+cyber-savings,false,HW_PROMOTIONAL_CATEGORY,0,Cyber Savings,,,,,cyber-savings,0,,1
+paypal-offer,false,HW_PROMOTIONAL_CATEGORY,0,Paypal Offer,,,,images/hotwheels/Paypal_BannerHW_2017.jpg,paypal-offer,0,,1
+hw-gift-sets,false,shop-all-categories,45,Gift Sets,,,,,hw-gift-sets,0,,1
+hw-decorations,false,hw-birthday,1,Decorations,,,,,hw-decorations,0,,1
+hw-birthday-all,false,hw-birthday,5,Birthday - All,,,,,hot-wheels-birthday-all,0,,1
+hw-new-york-toy-fair,false,new-arrivals,11,New York Toy Fair,,,,,new-york-toy-fair,0,,1
+hot-wheels-super-ultimate-garage-play-set,false,new-arrivals,60,Super Ultimate Garage Play Set,,,,,hot-wheels®-super-ultimate-garage-play-set,0,,1
+hot-wheels-city-cobra-crush,false,new-arrivals,30,City Cobra Crush Play Set,,,,,hot-wheels®-city-cobra-crush-play-set,0,,1
+hot-wheels-track-builder-rocket-launch-challenge,false,new-arrivals,40,Track Builder Rocket Launch Challenge,,,,,hot-wheels®-track-builder-rocket-launch-challenge-playset,0,,1
+hot-wheels-track-builder-multi-loop-box,false,new-arrivals,50,Track Builder Multi Loop Box,,,,,hot-wheels®-track-builder-multi-loop-box,0,,1
+hw-for-testing-only,false,HW_PROMOTIONAL_CATEGORY,0,Testing,,,,,hw-for-testing-only,0,,1
+basics-multipacks-cars,false,cars-vehicles,10,Basics Multipacks,,,,images/hotwheels/categoryLanding/HW_Collection_BasicMultipacks.jpg,basics-multipacks-cars,0,,1
+star-wars-battle-rollers,false,star-wars,40,Star Wars&#8482; Battle Rollers,,,,images/hotwheels/categoryLanding/HotWheels_StarWars_BattleRollers_Banner_LoRes.jpg,star-wars-8482;-battle-rollers,0,,1
+themed-assortments-cars,false,cars-vehicles,160,Themed Assortments,,,,images/hotwheels/categoryLanding/HW_Collection_ThemedAssort_Alt.jpg,themed-assortments-cars,0,,1
+motos-cars,false,cars-vehicles,100,Motos,,,,images/hotwheels/categoryLanding/HW_Collection_Motos.jpg,motos-cars,0,,1
+color-shifters-cars,false,cars-vehicles,20,Color Shifters,,,,images/hotwheels/categoryLanding/HW_Collection_ColorShifters.jpg,color-shifters-cars,0,,1
+splash-rides-cars,false,cars-vehicles,140,Splash Rides,,,,images/hotwheels/categoryLanding/HW_Collection_SplashRides.jpg,splash-rides-cars,0,,1
+speed-chargers-cars,false,cars-vehicles,120,Speed Chargers,,,,images/hotwheels/categoryLanding/HW_Collection_SpeedChargers.jpg,speed-chargers-cars,0,,1
+speed-winders-cars,false,cars-vehicles,130,Speed Winders,,,,images/hotwheels/categoryLanding/HW_Collection_Desktop_SpeedWinders.jpg,speed-winders-cars,0,,1
+monster-jam-cars,false,cars-vehicles,90,Monster Jam,,,,images/hotwheels/categoryLanding/HW_Collection_MonsterJam_Header.jpg,monster-jam-cars,0,,1
+dc-universe-cars,false,cars-vehicles,30,DC Cars,,,,images/hotwheels/categoryLanding/HW_Collection_DC_Header.jpg,dc-universe-cars,0,,1
+marvel-cars,false,cars-vehicles,80,Marvel Cars,,,,images/hotwheels/storehome/2018/HW_Marvel_Collection_Banner.jpg,marvel-cars,0,,1
+entertainment-character-cars,false,cars-vehicles,40,Entertainment Character Cars,,,,images/hotwheels/categoryLanding/HW_Collection_Character_Cars.jpg,entertainment-character-cars,0,,1
+star-wars-cars,false,cars-vehicles,150,Star Wars&#8482; Cars,,,,images/hotwheels/categoryLanding/HotWheels_StarWars_2018_HanSolo_Banner_LoRes.jpg,star-wars-cars,0,,1
+toy-state-lights-sounds-cars,false,cars-vehicles,170,Toy State Lights & Sounds Cars,,,,,toy-state-lights-sounds-cars,0,,1
+haulers-cars,false,cars-vehicles,70,Large Vehicles,,,,images/hotwheels/categoryLanding/HW_Collection_LSVehicles.jpg,haulers-cars,0,,1
+fusion-factory-cars,false,cars-vehicles,60,Fusion Factory,,,,,fusion-factory-cars,0,,1
+story-sets,false,track-sets-packs,10,City Sets,,,,images/hotwheels/categoryLanding/HW_City_CollectionPage_Banner.jpg,story-sets,0,,1
+action-sets,false,track-sets-packs,20,Action Sets,,,,images/hotwheels/categoryLanding/HW_Collection_ActionSets.jpg,action-sets,0,,1
+feature-vehicle-sets,false,track-sets-packs,40,Feature Vehicle Sets,,,,,feature-vehicle-sets,0,,1
+haulers-tracksets,false,track-sets-packs,50,Large Vehicles,,,,images/hotwheels/categoryLanding/HW_Collection_LSVehicles.jpg,haulers-tracksets,0,,1
+ai-intelligent-race-system,false,advanced-play,10,AI Intelligent Race System,,,,images/hotwheels/categoryLanding/HW_Collection_Ai_Header.jpg,ai-intelligent-race-system,0,,1
+hw-rc,false,advanced-play,20,HW RC,,,,images/hotwheels/categoryLanding/HW_Collection_HotWheelsRC.jpg,hw-rc,0,,1
+speed-chargers,false,advanced-play,40,Speed Chargers,,,,,speed-chargers,0,,1
+apparel-accessories,false,hot-wheels-accessories,10,Apparel,,,,,apparel,0,,1
+home-accessories,false,hot-wheels-accessories,70,Home,,,,,home,0,,1
+car-storage-accessories,false,hot-wheels-accessories,30,Car Storage,,,,,car-storage,0,,1
+sports-outdoor-accessories,false,hot-wheels-accessories,100,Sports & Outdoors,,,,,sports---outdoors,0,,1
+cars-themes,false,cars-tracks,10,Cars,,,,,cars-themes,0,,1
+tracksets-themes,false,cars-tracks,20,Tracksets,,,,,tracksets-themes,0,,1
+monster-jam-cars-themes,false,monster-jam,10,Trucks,,,,images/hotwheels/categoryLanding/HW_Collection_MJTrucks_Desktop.jpg,monster-jam-cars-themes,0,,1
+monster-jam-playsets,false,monster-jam,20,Playsets,,,,images/hotwheels/categoryLanding/HW_Collection_MJPlaysets_Desktop.jpg,monster-jam-playsets,0,,1
+hw-building-toys,false,hot-wheels-accessories,20,Building Toys,,,,,hw-building-toys,0,,1
+hw-entertainment-electronics,false,hot-wheels-accessories,40,Entertainment & Electronics,,,,,hw-entertainment-electronics,0,,1
+hw-furniture-decor,false,hot-wheels-accessories,50,Furniture & D&#233;cor,,,,,hw-furniture-decor,0,,1
+hw-party-supplies,false,hot-wheels-accessories,80,Party Supplies,,,,,hw-party-supplies,0,,1
+hw-ride-on-toys,false,hot-wheels-accessories,90,Ride-on Toys,,,,,hw-ride-on-toys,0,,1
+track-builder,false,track-sets-packs,0,Track Builder,,,,,track-builder,0,,1
+mold-kits,false,fusion-factory,0,Fusion Factory Mold Kits,,,,,fusion-factory-mold-kits,0,,1
+refill-packs,false,fusion-factory,0,Refill Packs,,,,,fusion-factory-refill-packs,0,,1
+star-wars-character-cars,false,star-wars,10,Star Wars&#8482; Character Cars,,,,images/hotwheels/categoryLanding/HotWheels_StarWars_2018_HanSolo_Banner_LoRes.jpg,star-wars-character-cars,0,,1
+star-wars-starships,false,star-wars,20,Star Wars&#8482; Starships,,,,images/hotwheels/categoryLanding/HotWheels_StarWars_2018_HanSolo_Banner_LoRes.jpg,star-wars-starships,0,,1
+star-wars-carships,false,star-wars,30,Star Wars&#8482; Carships,,,,images/hotwheels/categoryLanding/HotWheels_StarWars_2018_HanSolo_Banner_LoRes.jpg,star-wars-carships,0,,1
+trucks-cars,false,cars-vehicles,180,Trucks,,,,,trucks-cars,0,,1
+feature-vehicles,false,cars-vehicles,50,Feature Vehicles,,,,,feature-vehicles,0,,1
+track-sets-all,false,track-sets-packs,60,All Tracksets,,,,,track-sets-all,0,,1
+premium-assortments-cars,false,cars-vehicles,110,Premium Assortments,,,,images/hotwheels/categoryLanding/HW_Collection_Premium_Banner_Final.jpg,premium-assortments-cars,0,,1

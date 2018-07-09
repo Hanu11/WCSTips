@@ -1,0 +1,137 @@
+MarketingActivity
+activityName,description,activityType,startDate,endDate,version,published,state,priority,repeatable,behavior,uiDisplable,managingTool,templateType,experimentType,campaignName,familyActivityName,activitySequence,field1,field2,field3,field4,delete
+Shopping cart featured products,Recommend a product to a customer that satisfies the chosen target conditions.,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+Wish list featured products,Recommend a product to a customer that satisfies the chosen target conditions.,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HomeRow2_Categories,Display category recommendations on the home page.,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+B2BHomePageFeaturedCategories,Display category recommendations on the home page.,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+B2BHomePageFeaturedProducts,Display Catalog Entry Recommendations on the home page.,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+SeachLandingClearance,SeachLandingClearance,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+SearchLandingWomenRow3_CatEntries,SearchLandingWomenContentRecommendationForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+SearchLandingWomenRow4_CatEntries,SearchLandingWomenContentRecommendationForStores2,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+SearchLandingWomen_BrandEspots,Display a brand on the Women Landing Page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HeaderESpot  Web activity,HeaderESpot  Web activity,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HeaderESpot Left Web activity,HeaderESpot  Web activity,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HeaderESpot Right Web activity,HeaderESpot  Web activity,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+DressesProductSuggestion,DressesProductSuggestion,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+FastenersRow3_Categories,FastenersCategoryRecommendationsForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+FastenersRow4_CatEntries,Product Recommendation in Fasteners,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenShirtsBlousesProductRight_CatEntries,Product Recommendation in Shirts and Blouses for Women,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenSweatersProductRight_CatEntries,Product Recommendation in Sweaters for Women,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenSkirtsProductRight_CatEntries,Product Recommendation in Skirts for Women,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenPantsProductRight_CatEntries,Product Recommendation in Pants for Women,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenShoesProductRight_CatEntries,Product Recommendation in Shoes for Women,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenHandbagsProductRight_CatEntries,Product Recommendation in Handbags for Women,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenAccessoriesProductRight_CatEntries,Product Recommendation in Accessories for Women,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenAccessoriesProductRight_CatEntries,Product Recommendation in Accessories for Men,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenShoesProductRight_CatEntries,Product Recommendation in Shoes for Men,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenPantsProductRight_CatEntries,Product Recommendation in Pants for Men,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenSuitsProductRight_CatEntries,Product Recommendation in Suits for Men,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenShirtsProductRight_CatEntries,Product Recommendation in Shirts for Men,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenJacketsProductRight_CatEntries,Product Recommendation in Jackets for Men,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsShoesProductRight_CatEntries,Product Recommendation in Shoes for Girls,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsPantsProductRight_CatEntries,Product Recommendation in Pants for Girls,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsDressesSkirtsProductRight_CatEntries,Product Recommendation in Girls and Dresses for Girls,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsTopsProductRight_CatEntries,Product Recommendation in Tops for Girls,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysPantsProductRight_CatEntries,Product Recommendation in Pants for Boys,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysTopsProductRight_CatEntries,Product Recommendation in Tops for Boys,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysShoesProductRight_CatEntries,Product Recommendation in Shoes for Boys,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenRow4_CatEntries,Product Recommendation for Men,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysRow4_CatEntries,Product Recommendation for Boys,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsRow4_CatEntries,Product Recommendation for Girls,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersDesktopsProductRight_CatEntries,Product Recommendation in Computer Desktops,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersLaptopsProductRight_CatEntries,Product Recommendation in Computer Laptops,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersTabletsProductRight_CatEntries,Product Recommendation in Computer Tablets,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersAccessoriesProductRight_CatEntries,Product Recommendation in Computer Accessories,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersComponentsProductRight_CatEntries,Product Recommendation in Computer Components,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+NewslettersProductRight_CatEntries,Product Recommendation in Newsletters,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MagazinesProductRight_CatEntries,Product Recommendation in Magazines,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+AppliancesProductRight_CatEntries,Product Recommendation in Appliances,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+LightingProductRight_CatEntries,Product Recommendation in Lighting,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+TablewareProductRight_CatEntries,Product Recommendation in Tableware,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+KitchenwareProductRight_CatEntries,Product Recommendation in Kitchenware,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BathAccessoriesProductRight_CatEntries,Product Recommendation in BathAccessories,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+FurnitureProductRight_CatEntries,Product Recommendation in Furniture,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+FruitProductRight_CatEntries,Product Recommendation in Fruit,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+VegetablesProductRight_CatEntries,Product Recommendation in Vegetables,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MeatProductRight_CatEntries,Product Recommendation in Meat,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+DairyProductRight_CatEntries,Product Recommendation in Dairy,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MedicineProductRight_CatEntries,Product Recommendation in Medicine,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ElectronicsRow4_CatEntries,Product Recommendation in Electronics,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+NewslettersAndMagazinesRow4_CatEntries,Product Recommendation in Magazines and Newsletters,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HomeFurnishingsRow4_CatEntries,Product Recommendation in Home and  Furnishings,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GroceryRow4_CatEntries,Product Recommendation for Grocery,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HealthRow4_CatEntries,Product Recommendation for Health,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HardwareLightingProductRight_CatEntries,Product Recommendation in Hardware Lighting,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoltsProductRight_CatEntries,Product Recommendation in Bolts,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+NutsProductRight_CatEntries,Product Recommendation in Nuts,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ScrewsProductRight_CatEntries,Product Recommendation in Screws,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysPantsRow2_Content,Display ads on Pants category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysShoesRow2_Content,Display ads on Shoes category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysTopsRow2_Content,Display ads on Tops category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysRow1_Content,Display the main ad on Boys category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoysRow3_Categories,BoysCategoryRecommendationsForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsDressesSkirtsRow2_Content,Display ads on Dresses and Skirts category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsPantsRow2_Content,Display ads on Pants category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsShoesRow2_Content,Display ads on Shoes category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsTopsRow2_Content,Display ads on Tops category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsRow1_Content,Display the main ad on Girls category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GirlsRow3_Categories,GirlsCategoryRecommendationsForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenAccessoriesRow2_Content,Display ads on Accessories category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenJacketsRow2_Content,Display ads on Jackets category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenPantsRow2_Content,Display ads on Pants category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenShirtsRow2_Content,Display ads on Shirts category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenShoesRow2_Content,Display ads on Shoes category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenSuitsRow2_Content,Display ads on Suits category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenRow1_Content,Display the main ad on Men category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MenRow3_Categories,MenCategoryRecommendationsForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenAccessoriesRow2_Content,Display ads on Accessories category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenHandbagsRow2_Content,Display ads on Handbags category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenPantsRow2_Content,Display ads on Pants category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenShirtsBlousesRow2_Content,Display ads on Shirts and Blouses category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenShoesRow2_Content,Display ads on Shoes category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenSkirtsRow2_Content,Display ads on Skirts category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenSweatersRow2_Content,Display ads on Sweaters category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ApparelRow3_Categories,Display category recommendations on Apparel department page.,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenRow3_Categories,Display category recommendations on Women category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ApparelRow4_CatEntries,Display catalog entry recommendations on Apparel department page.,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+WomenRow4_CatEntries,Display catalog entry recommendations on Women category page.,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersAccessoriesRow2_Content,Display ads on Accessories category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+AppliancesRow2_Content,Display ads on Appliances category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BathAccessoriesRow2_Content,Display ads on Bath Accessories category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersComponentsRow2_Content,Display ads on Components category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersDesktopsRow2_Content,Display ads on Desktops category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+DairyRow2_Content,Display ads on Dairy category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ElectronicsRow1_Content,Display the main ad on Electronics department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ElectronicsRow2_Content,Display ads on Electronics department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+FruitRow2_Content,Display ads on Fruits category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+FurnitureRow2_Content,Display ads on Furniture category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GroceryRow1_Content,Display the main ad on Grocery department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GroceryRow2_Content,Display ads on Grocery department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HealthRow1_Content,Display the main ad on Health department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HealthRow2_Content,Display ads on Health department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HomeFurnishingsRow1_Content,Display the main ad on Home And Furnishings department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HomeFurnishingsRow2_Content,Display ads on Home And Furnishings department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+KitchenwareRow2_Content,Display ads on Kitchenware category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersLaptopsRow2_Content,Display ads on Laptops category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+LightingRow2_Content,Display ads on Lighting category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MagazinesRow2_Content,Display ads on Magazines category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MeatRow2_Content,Display ads on Meat category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+MedicineRow2_Content,Display ads on Medicines category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+NewslettersAndMagazinesRow1_Content,Display the main ad on Newsletters And Magazines department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+NewslettersAndMagazinesRow2_Content,Display ads on Newsletters And Magazines department page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+NewslettersRow2_Content,Display ads on Newsletters category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ComputersTabletsRow2_Content,Display ads on Tablets category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+TablewareRow2_Content,Display ads on Tableware category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+VegetablesRow2_Content,Display ads on Vegetables category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+VitaminsRow2_Content,Display ads on Vitamins category page,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ElectronicsRow3_Categories,ElectronicsCategoryRecommendationsForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+GroceryRow3_Categories,GroceryCategoryRecommendationsForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HealthRow3_Categories,Health Category Recommendations For Stores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HomeFurnishingsRow3_Categories,HomeAndFurnishingsCategoryRecommendationsForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+NewslettersAndMagazinesRow3_Categories,NewslettersAndMagazinesCategoryRecommendationsForStores,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HardwareRow3_Categories,Hardware Category Recommendation,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+HardwareRow4_CatEntries,Hardware Catalog Entry Recommendation,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+ScrewsProductRec_CatEntries,Screws Product Page Recommendation,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+NutsProductRec_CatEntries,Nuts Product Page Recommendation,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+BoltsProductRec_CatEntries,Bolts Product Page Recommendation,web,2007-10-01 16:00:00.1,2999-12-31 23:59:59.1,1,1,1,1,1,0,,,,,,,,,,,,0
+RecentlyViewedWA,Recommend a catalog entry to a customer that satisfies the chosen target conditions.,web,,,4,4,1,0,1,1,,,,,,,,,,,,0

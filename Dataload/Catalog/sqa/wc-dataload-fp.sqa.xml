@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Licensed Materials - Property of IBM WebSphere Commerce (C) Copyright
+		IBM Corp. 2015 All Rights Reserved. US Government Users Restricted
+		Rights - Use, duplication or disclosure restricted by GSA ADP Schedule
+		Contract with IBM Corp.
+		=================================================================
+	-->
+
+	<!--
+		To execute specific load items, use folling paremeters to dataload or
+		dataextract command -DLoadOrder="loadItemName1, loadItemName2,
+		loadItemName3"
+	-->
+
+<_config:DataLoadConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../xsd/wc-dataload.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:Variable name="inputDirectory" value="/opt/IBM/scripts/dataload" />
+	<_config:Variable name="catalogDirectory" value=".." />
+	
+	
+	<_config:DataLoadEnvironment configFile="wc-dataload-fp-env.sqa.xml" />
+
+	<_config:LoadOrder commitCount="10" batchSize="1"
+		maxError="100" dataLoadMode="Replace">
+		<_config:property name="firstTwoLinesAreHeader"
+			value="true" />
+
+		<_config:LoadItem name="CatalogGroup"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/wc-loader-catalog-group.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogGroup/FPCatalogGroup.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroupRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/CatalogGroupRelationship/wc-loader-catalog-group-relationship.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogGroup/CatalogGroupRelationship/FPCatalogGroupRelationship.csv" />
+		</_config:LoadItem>
+
+
+		<_config:LoadItem name="CatalogEntryParentCatalogGroupRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryParentCatalogGroupRelationship/wc-loader-catalog-entry-parent-catalog-group.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogEntry/CatalogEntryParentCatalogGroupRelationship/FPCatalogEntryParentCatalogGroupRelationship.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroupSEO"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/CatalogGroupSEO/wc-loader-catalog-group-seo.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogGroup/CatalogGroupSEO/FPCatalogGroupSEO.csv" />
+		</_config:LoadItem>
+
+
+	</_config:LoadOrder>
+
+</_config:DataLoadConfiguration>

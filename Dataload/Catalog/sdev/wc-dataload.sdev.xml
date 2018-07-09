@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		=================================================================
+		Licensed Materials - Property of IBM WebSphere Commerce (C) Copyright
+		IBM Corp. 2015 All Rights Reserved. US Government Users Restricted
+		Rights - Use, duplication or disclosure restricted by GSA ADP Schedule
+		Contract with IBM Corp.
+		=================================================================
+	-->
+
+	<!--
+		To execute specific load items, use folling paremeters to dataload or
+		dataextract command -DLoadOrder="loadItemName1, loadItemName2,
+		loadItemName3"
+	-->
+
+<_config:DataLoadConfiguration
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../xsd/wc-dataload.xsd"
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config">
+
+	<_config:Variable name="inputDirectory" value="/opt/IBM/scripts/dataload" />
+	<_config:Variable name="catalogDirectory" value=".." />
+
+	<_config:DataLoadEnvironment configFile="wc-dataload-env.sdev.xml" />
+
+	<_config:LoadOrder commitCount="1" batchSize="1"
+		maxError="100" dataLoadMode="Replace">
+		<_config:property name="firstTwoLinesAreHeader"
+			value="true" />
+		<_config:property name="replaceParentMasterCategory"
+			value="true" />
+		<_config:property name="loadSEO" value="true" />
+
+		<_config:LoadItem name="AttributeDictionaryAttributeAndAllowedValues"
+			businessObjectConfigFile="${catalogDirectory}/AttributeDictionary/wc-loader-AD-attribute-and-allowed-values.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/AttributeDictionary/Attribute.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="AttributeDictionaryAttributeAllowedValues"
+			businessObjectConfigFile="${catalogDirectory}/AttributeDictionary/wc-loader-AD-attribute-allowed-values.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/AttributeDictionary/AttributeAllowedValues.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogGroup"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/wc-loader-catalog-group.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogGroup/MasterCatalogGroups.csv" />
+		</_config:LoadItem>
+		
+		<_config:LoadItem name="CatalogGroupRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogGroup/CatalogGroupRelationship/wc-loader-catalog-group-relationship.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogGroup/CatalogGroupRelationship/MasterCatalogGroupRelationship.csv" />
+		</_config:LoadItem>
+		
+		<_config:LoadItem name="CatalogEntryUpdate"
+			dataLoadMode="Update"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/wc-loader-catalog-entry-update.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogEntry/CatalogEntryUpdate.csv" />
+		</_config:LoadItem>
+		
+		<_config:LoadItem name="CatalogEntrySEO"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntrySEO/wc-loader-catalog-entry-seo.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogEntry/CatalogEntrySEO/CatalogEntrySEO.csv" />
+		</_config:LoadItem>
+		
+		
+		<_config:LoadItem
+			name="CatalogEntryAttributeDictionaryAttributeRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryAttributeDictionaryAttributeRelationship/wc-loader-catalog-entry-AD-attribute-relationship.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogEntry/CatalogEntryAttributeDictionaryAttributeRelationship/CatentryAttribute.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogEntryComponent"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryComponent/wc-loader-catalog-entry-component.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogEntry/CatalogEntryComponent/CatalogEntryRelationship.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="CatalogEntryParentProductRelationship"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryParentProductRelationship/wc-loader-catalog-entry-parent-product.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogEntry/CatalogEntryParentProductRelationship/CatalogEntryParentProductRelationship.csv" />
+		</_config:LoadItem>
+
+
+		<_config:LoadItem name="CatalogEntryAssociation"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryAssociation/wc-loader-merchandising-association.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogEntry/CatalogEntryAssociation/MerchandisingAssociation.csv" />
+		</_config:LoadItem>
+
+		<_config:LoadItem name="xcatentry"
+			businessObjectConfigFile="${catalogDirectory}/CatalogEntry/CatalogEntryExt/wc-dataload-xcatentry.xml">
+			<_config:DataSourceLocation
+				location="${inputDirectory}/CatalogEntry/CatalogEntryExt/XCATENTRY.csv" />
+		</_config:LoadItem>
+
+
+	</_config:LoadOrder>
+
+</_config:DataLoadConfiguration>

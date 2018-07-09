@@ -1,0 +1,1098 @@
+SalesCatalogGroup
+GroupIdentifier,TopGroup,ParentGroupIdentifier,Sequence,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Keyword,Delete,Field 1,Published
+LOADTESTING,TRUE,,,LOADTESTING_DONOTUSE,,,,,loadtesting-donotuse,0,,0
+FPStoreCategory,TRUE,,, Categories,,,,,-categories,0,,1
+BrandsLaughLearn,FALSE,FPStoreBrands,80,Laugh & Learn&#8482;,,,,,laugh---learn--8482;,0,,1
+BrandsLovingFamily,FALSE,FPStoreBrands,50,Loving Family&#8482;,,,,,loving-family--8482;,0,,1
+SpongeBob,FALSE,BrandsImaginext,60,SpongeBob SquarePants&#8482;,,,,,lg-girl-carousel-top-cgp55cre3,0,,1
+ExclusiveHardToFind,FALSE,FPStoreExclusive,20,Hard to Find,,,,,hard-to-find,0,,1
+20-toys-for-10,FALSE,FP_Promotions_NOTFORDISPLAY,0,20 Toys for $10 Each,,,,,josefinas-nightgown-for-dolls-cckb91,0,FALSE,1
+10-toys-for-10,FALSE,FP_Promotions_NOTFORDISPLAY,0,10 Toys for $10 Each,,,,,10-toys-for-$10-each,0,FALSE,1
+CategoryConstruction,FALSE,FPStoreCategory,70,Building Toys,,Construction,,,sequined-star-tee-for-dolls---ny-chk06,0,,1
+CategoryPlaysets,FALSE,FPStoreCategory,4000,Playsets,,,,,isabelles-sparkly-skort-f7347,0,FALSE,1
+HighChairs_Boosters,FALSE,BrandsBabyGear,30,High Chairs & Boosters,,,,,ceramic-vase-add-d-ic-f8474-a09a,0,FALSE,1
+Dinosaurs,FALSE,BrandsImaginext,20,Dinosaurs,,,,,slippers-bt-d-campgirl-f8522-g03a,0,,1
+Pirate,FALSE,BrandsImaginext,30,Pirate,,,,,slippers-bt-d-campboy-f8526-g01a,0,,1
+Dolls,FALSE,BrandsLovingFamily,10,Dolls,,,,,plate-bt-d-games-f8551-g05a,0,,1
+Halloween_sale,FALSE,FP_Promotions_NOTFORDISPLAY,0,"Buy More, Save More Sale!",,,,,buy-more--save-more-sale!,0,FALSE,0
+TakeNPlay,FALSE,BrandsThomasFriends,50,Take-N-Play&#8482;,,,,,racquet-myag-d-tennis-f8553-r07a,0,,1
+TrackMaster,FALSE,BrandsThomasFriends,60,TrackMaster&#8482;,,,,,ball-myag-d-tennis-f8553-r08a,0,,1
+FPStoreFanFaves,FALSE,FPStoreGifts,10,Fan Faves,,,,,fan-faves,0,,1
+Cat_Sleepers,FALSE,CategoryBabyGear,60,Sleepers & Play Yards,,,,,hole-in-one-outfit-for-dolls-ccgp75,0,,1
+TodaySales,FALSE,FP_Promotions_NOTFORDISPLAY,0,Today's Sale,,,,,todays-sale,0,FALSE,1
+BooksVideosPuzzles,FALSE,BrandsThomasFriends,80,"Books, Videos & Puzzles",,,,,books--videos---puzzles,0,,1
+CategoryTrainSetsAccessories,FALSE,CategoryVehicles,5,Toy Train Sets & Accessories,,,,,toy-train-sets---accessories,0,,1
+BrandsFPBabyGear,FALSE,BrandsFPBrand,10,Fisher-Price&#174; Baby Gear,,,,,15in-doll-limbs-11005-44911,0,,1
+CategoryWalkersPush,FALSE,CategoryBabyToys,30,Walkers & Push Toys,,,,,15in-doll-limbs-11005-44936,0,,1
+FPEasterBlaze,FALSE,FPEasterSale,100,Blaze,,,,,blaze,0,FALSE,0
+FPEasterSpiinyos,FALSE,FPEasterSale,100,Spinnyos,,,,,spinnyos,0,FALSE,0
+Dora_Explorer,FALSE,BrandsNickelodeon,10,Dora the Explorer&#8482;,,,,,dora-the-explorer--8482;,0,FALSE,1
+FisherPrice,TRUE,,,Fisher Price,,,,,fisher-price,0,,0
+SMGifts,TRUE,,,Gifts,,,,,gifts-smgifts,0,,1
+SMDolls,FALSE,SMCategory,0,Dolls,,,,,dolls,0,,1
+HWGifts,TRUE,,,Gifts,,,,,gifts-hwgifts,0,,0
+HWHotWheels,FALSE,HWBrand,0,Hot Wheels,,,,,hot-wheels-hwhotwheels,0,,1
+HWEverAfterHigh,FALSE,HWBrand,0,Ever After High,,,,,ever-after-high-hweverafterhigh,0,,1
+HWActionFigues,FALSE,HWCategory,0,Power Wheels&#174;,,,,,action-figues-test,0,,1
+HW6to7,FALSE,HWAges,0,6to7,,,,,6to7-hw6to7,0,,1
+star-light-adventures,TRUE,,,Star Light Adventures,,,,,star-light-adventures,0,,1
+barbie-fashionistas-new,TRUE,,,Barbie&#174; Fashionistas&#174;,,,,,barbie--174;-fashionistas--174;,0,,1
+campers-cars,TRUE,,,Campers & Cars,,,,,campers---cars,0,,1
+sale-playsets,TRUE,,,Sale,,,,,sale-sale-playsets,0,,1
+sale-lifestyle,TRUE,,,Sale,,,,,sale-sale-lifestyle,0,,1
+vintage-looks,FALSE,gallery,17,Vintage Looks,,,,,vintage-looks,0,,1
+value-sets,FALSE,bcshop,9,Value Sets,,,,,value-sets,0,,1
+Test Cat,TRUE,,,Test Cat,,,,,test-cat,0,,1
+shop,TRUE,,,Shop,,,,,shop,0,,1
+special-events,FALSE,shop,9,Shop Special Events,,,,,shop-special-events,0,,1
+special-events-garage,FALSE,Garage,8,Special Events,,,,,special-events,0,,1
+convention-cars,FALSE,special-events,1,Shop Convention Cars,,,,,shop-convention-cars,0,FALSE,1
+other-hwc-offers-garage,FALSE,hwc-rlc-vehicles-garage,15,Other HWC Offers,,,,,other-hwc-offers,0,,1
+thrill-racers,FALSE,hw-workshop,7,Thrill Racers,,,,,thrill-racers,0,,1
+hwc-series-fourteen-garage,FALSE,hwc-rlc-vehicles-garage,0,HWC&#8482; Series Fourteen,,,,,hwc--8482;-series-fourteen,0,,0
+hw-all-stars,FALSE,hw-city,2,HW All Stars,,,,,hw-all-stars,0,,1
+2017-mainline,FALSE,Garage,12,2017  Mainline,,,,,2017--mainline,0,,1
+csrsearchableproducts-hwc,FALSE,csr_nla_cat-hwc,0,CSR Searchable HWC,,,,,csr-searchable-hwc,0,FALSE,1
+hw-performance,FALSE,hw-city,5,HW Performance,,,,,hw-performance,0,,1
+battle-kings,FALSE,hw-off-road,.5,Battle Kings,,,,,battle-kings,0,,1
+experimotors,FALSE,2017-mainline,3,Experimotors&#8482;,,,,,experimotors--8482;,0,,1
+fright-cars,FALSE,2017-mainline,5,Fright Cars&#8482;,,,,,fright-cars--8482;,0,,1
+2017-hw-art-cars,FALSE,2017-mainline,7,HW Art Cars&#8482;,,,,,hw-art-cars--8482;-2017-hw-art-cars,0,,1
+2017-street-beasts,FALSE,2017-mainline,25,Street Beasts&#174;,,,,,street-beasts--174;-2017-street-beasts,0,FALSE,1
+hwc-series-fourteen,FALSE,hwc-rlc-vehicles,0,Shop HWC&#8482; Series Fourteen,,,,,shop-hwc--8482;-series-fourteen,0,,1
+hwc-club,TRUE,,,Club,,,,,club,0,,1
+csr_nla_cat_bc,FALSE,collection,0,No Longer Available,,,,,no-longer-available-csr-nla-cat-bc,0,FALSE,1
+collector,FALSE,collection,0,Collector Categories,,,,,collector-categories,0,FALSE,0
+birthstone-collection,FALSE,special-occasion,4,The Birthstone Collection,,,,,the-birthstone-collection,0,,1
+davids-bridal,FALSE,special-occasion,8,David&#8217;s Bridal,,,,,david--8217;s-bridal,0,,1
+enchanted-seasons-collection,FALSE,fantasy,7.2,Enchanted Seasons Collection&#174;,,,,,enchanted-seasons-collection--174;,0,,1
+vintage-reproductions,FALSE,vintage-looks,5,Vintage Reproductions,,,,,vintage-reproductions,0,,1
+american-stories-collection,FALSE,world-culture,1,American Stories Collection&#8482;,,,,,american-stories-collection--8482;,0,,1
+women-of-royalty-series,FALSE,world-culture,8,Women of Royalty&#8482; Series,,,,,women-of-royalty--8482;-series,0,,1
+vintage-barbie,FALSE,gallery,19,Vintage Barbie&reg;,,,,,vintage-barbie-reg;,0,,1
+vintage-francie,FALSE,gallery,21,Vintage Francie&reg;,,,,,vintage-francie-reg;,0,,1
+vintage-skipper,FALSE,gallery,22,Vintage Skipper&reg;,,,,,vintage-skipper-reg;,0,,1
+ken-1400-series-fashions,FALSE,vintage-ken,3,Ken&#174; 1400 Series Fashions,,,,,ken--174;-1400-series-fashions,0,,1
+vintage-francie-dolls,FALSE,vintage-francie,1,Francie&#174; Dolls,,,,,francie--174;-dolls,0,,1
+francie-1200-series-fashions,FALSE,vintage-francie,2,Francie&#174; 1200 Series Fashions,,,,,francie--174;-1200-series-fashions,0,,1
+skipper-doll-mod-fashions,FALSE,vintage-skipper,6,Skipper&#174; Doll Mod Fashions,,,,,skipper--174;-doll-mod-fashions,0,,1
+2015-barbie-look-collection,FALSE,2015-collection,1,2015 Barbie Look Collection,,,,,2015-barbie-look-collection,0,,1
+barbie-by-christian-louboutin,FALSE,designers,2,Barbie&#174; by Christian Louboutin,,,,,barbie--174;-by-christian-louboutin,0,,1
+cynthia-rowley,FALSE,designers,9,Cynthia Rowley,,,,,cynthia-rowley,0,,1
+kate-spade,FALSE,designers,14,kate spade&#8482;,,,,,kate-spade--8482;,0,,1
+ralph-lauren,FALSE,designers,18,Ralph Lauren,,,,,ralph-lauren,0,,1
+dolls-of-the-world-asia,FALSE,dolls-of-the-world,3,Dolls of the World&#174; &mdash; <br />Asia,,,,,dolls-of-the-world--174;--mdash;-<br-->asia,0,,1
+dolls-of-the-world-europe,FALSE,dolls-of-the-world,5,Dolls of the World&#174; &mdash; Europe,,,,,dolls-of-the-world--174;--mdash;-europe,0,,1
+dolls-of-the-world-north-america,FALSE,dolls-of-the-world,6,Dolls of the World&#174; &mdash; <br />North America,,,,,dolls-of-the-world--174;--mdash;-<br-->north-america,0,,1
+a-garden-of-flowers-collection,FALSE,fantasy,1,A Garden of Flowers&#8482; Collection,,,,,a-garden-of-flowers--8482;-collection,0,,1
+celestial-collection,FALSE,fantasy,5,Celestial Collection&#8482;,,,,,celestial-collection--8482;,0,,1
+classical-goddess-collection,FALSE,fantasy,6,Classical Goddess&#8482; Collection,,,,,classical-goddess--8482;-collection,0,,1
+lounge-kitties-collection,FALSE,fantasy,11,Lounge Kitties&#8482; Collection,,,,,lounge-kitties--8482;-collection,0,,1
+together-forever-collection,FALSE,fantasy,17,Together Forever&#174; Collection,,,,,together-forever--174;-collection,0,,1
+1-modern-circle-collection,FALSE,fashions,1,1 Modern Circle&#8482; Collection,,,,,1-modern-circle--8482;-collection,0,,1
+classique-collection-fashions,FALSE,fashions,6,Classique&#174; Collection,,,,,classique--174;-collection,0,,1
+fashion-savvy-collection,FALSE,fashions,10,Fashion Savvy Collection&#174;,,,,,fashion-savvy-collection--174;,0,,1
+royal-jewels-collection,FALSE,fashions,19,Royal Jewels Collection&#8482;,,,,,royal-jewels-collection--8482;,0,,1
+more-fashion-dolls,FALSE,fashions,25,More Fashion Dolls,,,,,more-fashion-dolls,0,,1
+barbie-loves-elvis,FALSE,hollywood,2,Barbie&#174; Loves Elvis,,,,,barbie--174;-loves-elvis,0,,1
+dynasty-dolls-hollywood,FALSE,hollywood,6,Dynasty&#8482; Dolls,,,,,dynasty--8482;-dolls,0,,1
+bc-pop-culture,FALSE,gallery,13,Pop Culture,,,,,pop-culture,0,,1
+american-favorites-collection,FALSE,bc-pop-culture,2,American Favorites&#8482; Collection,,,,,american-favorites--8482;-collection,0,,1
+avon-exclusives,FALSE,bc-pop-culture,3,Avon Exclusives,,,,,avon-exclusives,0,,1
+ballet-wishes,FALSE,bc-pop-culture,4,Ballet Wishes&#174; Barbie&#174; Dolls,,,,,ballet-wishes--174;-barbie--174;-dolls,0,,1
+ballroom-beauties-collection,FALSE,bc-pop-culture,5,Ballroom Beauties Collection,,,,,ballroom-beauties-collection,0,,1
+barbie-loves-bond-collection,FALSE,bc-pop-culture,7,Barbie&#174; Loves Bond Collection,,,,,barbie--174;-loves-bond-collection,0,,1
+dancing-with-stars-collection,FALSE,bc-pop-culture,13,<em>Dancing with the Stars</em> Collection,,The hit TV show <span style='font-style:italic;'>Dancing with the Stars</span> is the entertainment phenomenon that has swept the world off its feet.,,,<em>dancing-with-the-stars<-em>-collection,0,,1
+jennifer-lopez-dolls,FALSE,bc-pop-culture,21,Jennifer Lopez Dolls,,,,,jennifer-lopez-dolls,0,,1
+faberge-porcelain-barbie-collection,FALSE,porcelain,1,Faberg&#233; <em>Porcelain</em> Barbie&#174; Collection,,,,,faberg--233;-<em>porcelain<-em>-barbie--174;-collection,0,,1
+elizabeth-taylor-silkstone-dolls,FALSE,silkstone-dolls,3,Elizabeth Taylor Silkstone&#174; Dolls,,,,,elizabeth-taylor-silkstone--174;-dolls,0,,1
+bfmc-savings,FALSE,promotions,0,BFMC Savings,,,,,bfmc-savings,0,FALSE,1
+value-sets-new,FALSE,whats-new,0,Value Sets,,,,,value-sets-value-sets-new,0,,1
+batman-v-superman,FALSE,pop-culture-dolls,1,<em>Batman v Superman: <nobr>Dawn of Justice</em>&#8482;</nobr> Collection,,,,,<em>batman-v-superman:-<nobr>dawn-of-justice<-em>--8482;<-nobr>-collection,0,,1
+judy-choi,FALSE,collector,15,Judy Choi ,,,,,judy-choi-,0,,1
+2016-preview,FALSE,promotions,0,2016 Preview,2016 Preview,,,,2016-preview,0,,1
+2017-calendars,FALSE,promotions,0,2017 Barbie&#8482; Calendars,,,,,2017-barbie--8482;-calendars,0,,1
+bfmc-complete-collection,FALSE,promotions,0,BFMC Complete Your Collection,,*Discounts on select Barbie® Fashion Model Collection dolls expire 10/13/15 at 11:59pm CT. ,,,bfmc-complete-your-collection,0,,1
+magazinecat,TRUE,,,Magazine,,,,,magazine,0,FALSE,0
+csr_rp_cat,TRUE,,,Replacement Parts,,,,,replacement-parts,0,FALSE,0
+dollbtsub,FALSE,dollproductline,6,Bitty Twins,,,,,bitty-twins,0,,1
+doll3up,FALSE,dollbycategory,4,Dolls for Ages 3+,,,,,dolls-for-ages-3,0,,1
+dollbtgirlgirl,FALSE,dollbtsub,0,Bitty Twins Dolls - Girl/Girl Pair,,,,,bitty-twins-dolls---girl-girl-pair,0,FALSE,1
+bookactivity,FALSE,bookproductline,6,Activities Library,,,,,activities-library,0,,1
+bookmagazine,FALSE,bookproductline,8,American Girl Magazine,,,,,american-girl-magazine,0,,1
+bookhistfict,FALSE,bookbycategory,6,Historical Fiction,,,,,historical-fiction,0,,1
+clothingactive,FALSE,clothingfordolls,5,Sports & Hobbies,,,,,sports---hobbies,0,,1
+bfclothkit,FALSE,clothingbf,6,Kit,,,,,kit,0,,1
+allgirlclothing,FALSE,clothingforgirls,0,Girl Clothing,,,,,girl-clothing,0,FALSE,1
+gracebooks,FALSE,dollgotysub,0,Grace's Books,,,,,graces-books,0,FALSE,1
+furnaccessnew,FALSE,furnaccessbycategory,1,New,,,,,new-furnaccessnew,0,,1
+furnaccesstables,FALSE,furnaccessbycategory,5,Tables & Chairs,,,,,tables---chairs,0,,1
+furnaccessaddy,FALSE,furnaccessbf,1,Addy,,,,,addy-furnaccessaddy,0,,1
+furnaccesskaya,FALSE,furnaccessbf,5,Kaya,,,,,kaya-furnaccesskaya,0,,1
+furnaccesskit,FALSE,furnaccessbf,6,Kit,,,,,kit-furnaccesskit,0,,1
+furnaccessrebecca,FALSE,furnaccessbf,9,Rebecca,,,,,rebecca-furnaccessrebecca,0,,1
+giftcards,FALSE,ggbycategory,1,Gift Cards,,,,,gift-cards,0,,1
+gg3up,FALSE,ggbyage,1,Gifts for Ages 3 and Up,,,,,gifts-for-ages-3-and-up,0,,1
+gg8up,FALSE,ggbyage,3,Gifts for Ages 8 and Up,,,,,gifts-for-ages-8-and-up,0,,1
+new8up,FALSE,newbyage,1,New for Ages 8 and Up,,,,,new-for-ages-8-and-up,0,,1
+new3up,FALSE,newbyage,3,New for Ages 3 and Up,,,,,new-for-ages-3-and-up,0,,1
+newbt,FALSE,newproductline,6,New for Bitty Twins,,,,,new-for-bitty-twins,0,FALSE,1
+bbteatime,FALSE,dollbbsub,0,Bitty Baby Teatime Play Set,,,,,bitty-baby-teatime-play-set,0,FALSE,1
+bbwinter,FALSE,dollbbsub,0,Bitty Baby Winter Play Set,,,,,bitty-baby-winter-play-set,0,FALSE,1
+booksummerread,FALSE,bookstorecat,0,Summer Reading Recommendations,,,,,summer-reading-recommendations,0,FALSE,1
+csrmyagdhsub,FALSE,csrdh18inch,3,My American Girl Repair,,,,,my-american-girl-repair,0,FALSE,1
+csrmyagdh11sub,FALSE,csrmyagdhsub,10,Doll 11 - 20 Hospital Visit,,,,,doll-11---20-hospital-visit,0,FALSE,1
+csrmyagdh41sub,FALSE,csrmyagdhsub,40,Doll 41 - 50 Hospital Visit,,,,,doll-41---50-hospital-visit,0,FALSE,1
+csrbbdhmainsub,FALSE,csrbbdhsub,10,Bitty Baby Current Doll Hospital Visit,,,,,bitty-baby-current-doll-hospital-visit,0,FALSE,1
+csrbbnlasub,FALSE,csrbbdhsub,20,Bitty Baby NLA Doll Hospital Visit,,,,,bitty-baby-nla-doll-hospital-visit,0,FALSE,1
+tmsummersports,FALSE,clothingtm,0,Summer Sports,,,,,summer-sports,0,false,1
+clothing,FALSE,tmbundlepromo,0,Clothing,,,,,clothing-clothing,0,FALSE,1
+tmdollskus,FALSE,AG_Promotions_NOTFORDISPLAY,0,Truly Me Doll SKUs,,,,,truly-me-doll-skus,0,FALSE,1
+bookws,FALSE,bookproductline,10,Williams-Sonoma,,,,,williams-sonoma-bookws,0,,1
+bfdolls,FALSE,dollbfsub,0,BeForever Dolls,,,,,beforever-dolls,0,FALSE,1
+bfpjsfordolls,FALSE,clothingbf,0,BeForever Pajamas for Dolls,,,,,beforever-pajamas-for-dolls,0,FALSE,1
+FPStoreSale,TRUE,,,Clearance,,,,,clearance-fpstoresale,0,,1
+Age6to12Month,FALSE,FPStoreAge,30,6-12 months,,,,,6-12-months,0,,1
+BrandsBabyGear,FALSE,FPStoreBrands,205,Baby Gear,,,,,baby-gear,0,FALSE,1
+BrandsLittlePeople,FALSE,FPStoreBrands,20,Little People&#174;,,,,,little-people--174;,0,,1
+CategoryBabyToys,FALSE,FPStoreCategory,20,Baby Toys,,,,,baby-toys,0,,1
+CategoryPretendPlay,FALSE,FPStoreCategory,80,Role & Pretend Play Toys,,,,,role---pretend-play-toys,0,,1
+DealoftheWeek_Promo2,FALSE,FPStoreSale,8,Deal of the Week,,,,,deal-of-the-week-dealoftheweek-promo2,0,,1
+Clearance,FALSE,CATALOGTESTING_NOTFORDISPLAY,0,Clearance,,,,,clearance-clearance,0,FALSE,0
+FPEasterSale,FALSE,FP_Promotions_NOTFORDISPLAY,0,Easter Sale,,,,,sgg-boys-bk-rev-cover-bkj05--24,0,,1
+FPEasterInfant,FALSE,FPEasterSale,7,Fisher Price Baby,,,,,lg-diaper-bag-bundle-11001-30018,0,,1
+FPEasterLittlePeople,FALSE,FPEasterSale,1,Little People,,,,,cozy-playdress-bb-11003-53838,0,,1
+csr_nla_,FALSE,csr_nla_cat,1,No Longer Available,,,,,disney-baby-squirt-amazing-animals-x6604,0,FALSE,1
+Bed_Bath,FALSE,CategoryBabyToys,30,Bed & Bath Toys,,,,,isabelles-metallic-dress-f7333,0,,1
+Sports_Outdoor,FALSE,FPStoreCategory,100,Outdoor Toys & Sports,,,,,polka-dot-day-dress-for-little-girls-g1154,0,,1
+Mickey,FALSE,BrandsDisney,10,Mickey Mouse Clubhouse,,,,,napkins-2-bb-d-teaset-f8508-f04a,0,,1
+DealoftheWeek_sale,FALSE,FP_Promotions_NOTFORDISPLAY,0,Deal of the Week,,,,,deal-of-the-week-dealoftheweek-sale,0,FALSE,0
+CategoryBabyGear,FALSE,FPStoreCategory,10,Baby Gear,,,,,tennis-pro-outfit-for-dolls-ccgp74,0,,1
+Cat_HighChairs_Boosters,FALSE,CategoryBabyGear,50,High Chairs & Boosters,,,,,ball----bt-d-golf-11002-14958,0,,1
+10-toys-for-10-2,FALSE,FP_Promotions_NOTFORDISPLAY,0,10 Toys for $10 Each,,,,,josefinas-nighttime-accessories-ckb93,0,FALSE,1
+FPPowerRangers,FALSE,BrandsImaginext,35,Power Rangers&#8482;,,,,,ag-employee-magazine--xxx-age,0,,1
+BrandsFPBrand,FALSE,FPStoreBrands,10,Fisher-Price&#174;,,,,,15in-doll-limbs-11005-44906,0,,1
+CategoryInteractive,FALSE,CategoryBabyToys,50,Interactive Toys,,,,,15in-doll-limbs-11005-44949,0,,1
+CategoryFigsPlaysets,FALSE,FPStoreCategory,30,Playsets & Action Figures,,,,,rebecca-doll-w-o-book-11005-60649,0,,1
+CategorySeasonalSub,FALSE,CategoryFigsPlaysets,30,Seasonal,,,,,addy-doll-w-o-book-11005-60652,0,,1
+FPStoreBMSM,FALSE,FP_Promotions_NOTFORDISPLAY,1," Buy More, Save More Sale",,,,,sand-crab-l2101,0,FALSE,1
+FPStoreGiftsGirls,FALSE,FPStoreGifts,30,Gifts for Girls,,Gifts for Girls<br/>,,,samantha-american-girl-holiday-dvd-cdgh71,0,,1
+FPStoreGiftsunder50,FALSE,FPStoreGifts,70,Gifts Under $50,,,,,gifts-under-$50,0,,1
+SMAges,TRUE,,,Ages,,,,,ages-smages,0,,1
+SMClearance,TRUE,,,Clearance,,,,,clearance,0,,1
+SMBarbie,FALSE,SMBrand,0,Barbie,,,,,barbie,0,,1
+SMMonsterHigh,FALSE,SMBrand,0,Monster High,,,,,monster-high,0,,1
+HWDolls,FALSE,HWCategory,0,Dolls,,,,,dolls-hwdolls,0,,1
+whats-new,FALSE,collection,0,What's New,,It’s all here—dozens of the hottest Barbie Collector dolls and new Barbie-inspired accessories for you and your home!<br/>,,,what--8217;s-new,0,,1
+african-american-dolls,FALSE,barbie-dolls,12,African-American Dolls,,"All of our current African-American Barbie® dolls, in one place for easy shopping. You'll find special occasion dolls and fabulous African-American fashion dolls, too.",,,african-american-dolls,0,FALSE,1
+doll-clothes,TRUE,,,Doll Clothes,,,,,doll-clothes,0,,1
+no-longer-available,TRUE,,,No Longer Available,,,,,no-longer-available,0,,1
+dollhouses,TRUE,,,Dollhouses,,,,,dollhouses,0,,1
+shoes-accessories,TRUE,,,Shoes & Accessories,,,,,shoes---accessories,0,,1
+pop-culture,FALSE,shop,4,Shop Pop Culture,,,,,shop-pop-culture,0,FALSE,1
+racing,FALSE,shop,5,Shop Racing,,,,,shop-racing,0,,1
+hot-wheels-originals,FALSE,shop,7,Shop Hot Wheels Originals,,,,,shop-hot-wheels-originals,0,,1
+hwc-series-thirteen,FALSE,hwc-rlc-vehicles,1,Shop HWC&#8482; Series Thirteen,,,,,shop-hwc--8482;-series-thirteen,0,,1
+hwc-series-twelve,FALSE,hwc-rlc-vehicles,2,Shop HWC&#8482; Series Twelve,,,,,shop-hwc--8482;-series-twelve,0,,1
+hwc-series-eight-garage,FALSE,hwc-rlc-vehicles-garage,6,HWC&#8482; Series Eight,,,,,hwc--8482;-series-eight,0,,1
+hw-games,FALSE,2016-mainline,11,HW Games&#8482;,,,,,hw-games--8482;,0,,1
+2016-hw-rescue,FALSE,2016-mainline,16,HW Rescue&#8482;,,,,,hw-rescue--8482;,0,,1
+hw-snow-stormers,FALSE,2016-mainline,19,HW Snow Stormers&#8482;,,,,,hw-snow-stormers--8482;,0,,1
+street-beasts,FALSE,hw-city,8,Street Beasts,,,,,street-beasts,0,,1
+hw-hot-trucks,FALSE,hw-off-road,2,HW Hot Trucks,,,,,hw-hot-trucks,0,,1
+world-racers,FALSE,hw-race,5,World Racers,,,,,world-racers,0,,1
+ice-mountain,FALSE,hw-off-road,2.5,Ice Mountain,,,,,ice-mountain,0,,1
+super-chromes,FALSE,hw-race,3,Super Chromes,,,,,super-chromes,0,,1
+holiday-racers,FALSE,2017-mainline,6,Holiday Racers&#8482;,,,,,holiday-racers--8482;,0,,1
+legends-of-speed,FALSE,2017-mainline,22,Legends Of Speed&#8482;,,,,,legends-of-speed--8482;,0,,1
+surfs-up,FALSE,2017-mainline,27,Surf&#39;s Up&#8482;,,,,,surf--39;s-up--8482;,0,FALSE,1
+lifestyle,FALSE,collection,0,Lifestyle,,,,,lifestyle-lifestyle,0,,1
+retired,FALSE,collection,0,Old Shop,,,,,old-shop,0,FALSE,0
+convention-barbie-dolls,FALSE,special-occasion,7,<em>Convention</em> Barbie&#174; Dolls,,,,,<em>convention<-em>-barbie--174;-dolls,0,,1
+zodiac-dolls,FALSE,special-occasion,18,Zodiac Dolls,,,,,zodiac-dolls,0,,1
+barbie-1600-series-fashions,FALSE,vintage-barbie,5,Barbie&#174; 1600 Series Fashions,,,,,barbie--174;-1600-series-fashions,0,,1
+barbie-doll-mod-fashions,FALSE,vintage-barbie,12,Barbie&#174; Doll Mod Fashions,,,,,barbie--174;-doll-mod-fashions,0,,1
+francie-3400-series-fashions,FALSE,vintage-francie,4,Francie&#174; 3400 Series Fashions,,,,,francie--174;-3400-series-fashions,0,,1
+direct-exclusives,FALSE,bcshop,1,Direct Exclusives,,"Direct Exclusives are only available in the US and Canada through The Barbie&#8482; Collection mail catalog, or here in the online shop!",,,direct-exclusives,0,,1
+barbie-basics,FALSE,gallery,4,Barbie Basics&reg;,,,,,barbie-basics-reg;,0,,1
+gone-with-the-wind-collection,FALSE,2014-collection,13,Gone With The Wind&#8482; Collection,,,,,gone-with-the-wind--8482;-collection,0,,1
+byron-lars-collection,FALSE,designers,6,Byron Lars Collection,,,,,byron-lars-collection,0,,1
+versace,FALSE,designers,22,Versace,,,,,versace,0,,1
+designer-dolls-g-n,FALSE,designers,26,Designer Dolls: G-N,,,,,designer-dolls:-g-n,0,,1
+dolls-of-the-world-south-america,FALSE,dolls-of-the-world,7,Dolls of the World&#174; &mdash; <br />South America,,,,,dolls-of-the-world--174;--mdash;-<br-->south-america,0,,1
+dolls-of-the-world-festivals-of-world,FALSE,dolls-of-the-world,8,Dolls of the World&#174; &mdash; Festivals of the World&#8482;,,,,,dolls-of-the-world--174;--mdash;-festivals-of-the-world--8482;,0,,1
+dolls-of-the-world-landmark-collection,FALSE,dolls-of-the-world,9,Dolls of the World&#174; Landmark Collection,,,,,dolls-of-the-world--174;-landmark-collection,0,,1
+artist-series,FALSE,fantasy,3,Artist Series,,,,,artist-series,0,,1
+dream-seasons-collection,FALSE,fantasy,7,Dream Seasons&#8482; Collection,,,,,dream-seasons--8482;-collection,0,,1
+faraway-forest-collection,FALSE,fantasy,8.5,Faraway Forest&#8482; Collection,,,,,faraway-forest--8482;-collection,0,,1
+haunted-beauty-collection,FALSE,fantasy,10,Haunted Beauty&#8482; Collection,,,,,haunted-beauty--8482;-collection,0,,1
+fao-schwarz-floral-signature-collection,FALSE,fashions,9,<em>FAO Schwarz</em> Floral Signature Collection,,,,,<em>fao-schwarz<-em>-floral-signature-collection,0,,1
+black-and-white-collection,FALSE,fashions,5,Black and White Collection&#8482;,,,,,black-and-white-collection--8482;,0,,1
+society-style-collection,FALSE,fashions,21,Society Style Collection&#174;,,,,,society-style-collection--174;,0,,1
+hollywood-legends-collection,FALSE,hollywood,10,Hollywood Legends Collection&#174;,,,,,hollywood-legends-collection--174;,0,,1
+coca-cola-fashion-classic-series,FALSE,bc-pop-culture,11,COCA COLA&#174; Fashion Classic Series&#174;,,,,,coca-cola--174;-fashion-classic-series--174;,0,,1
+ladies-of-80s-collection,FALSE,bc-pop-culture,22,Ladies of the &#8217;80s&#8482; Collection,,,,,ladies-of-the---8217;80s--8482;-collection,0,,1
+blonde-ambition-collection,FALSE,bc-pop-culture,9.5,The Blonde Ambition&#8482; Collection,,,,,the-blonde-ambition--8482;-collection,0,,1
+twilight-saga-collection,FALSE,bc-pop-culture,27,<em>The Twilight Saga</em> Collection,,,,,<em>the-twilight-saga<-em>-collection,0,,1
+csr_nla_bc,FALSE,csr_nla_cat_bc,1,No Longer Available,,,,,no-longer-available-csr-nla-bc,0,FALSE,1
+dollightul-deal-effie-finnick,FALSE,promotions,0,Doll-ighftul Deal,Doll-ighftul Deal | The Barbie Collection,,,,doll-ighftul-deal,0,,1
+FORINVENTORY_NOTFORDISPLAYBC,FALSE,bcshop,100,FORINVENTORY_NOTFORDISPLAY,,,,,forinventory-notfordisplay-forinventory-notfordisplaybc,0,FALSE,0
+2016-collection,FALSE,gallery,0,2016 Collection,,,,,2016-collection,0,,1
+robert-best,FALSE,collector,20,Robert Best ,,,,,robert-best-,0,,1
+black-label-dolls,FALSE,barbie-dolls,10,Black Label&#174; Dolls,,Black Label® Barbie® dolls are some of the most sensational dolls available from The Barbie™ Collection. These collectible Barbie dolls are specifically designed for the adult Barbie collector.,,,black-label--174;-dolls,0,,1
+clothingcat,TRUE,,,Clothing,,,,,clothing-clothingcat,0,,1
+giftguidecat,TRUE,,,Gift Guide,,,,,gift-guide-category,0,FALSE,1
+new,TRUE,,,New,,,,,new-new,0,,1
+AG_Promotions_NOTFORDISPLAY,TRUE,,,Promotions,,,,,promotions,0,FALSE,0
+sale,TRUE,,,Sale,,,,,sale,0,,1
+logoshop,TRUE,,,AG Logo Shop,,,,,ag-logo-shop,0,FALSE,0
+dollproductline,FALSE,dollscat,1,By Product Line,,,,,by-product-line,0,,1
+dollcaresub,FALSE,dollproductline,7,Doll Care,,,,,doll-care,0,,1
+dolltrulymesub,FALSE,dollproductline,3,Truly Me,,,,,truly-me,0,,1
+bookaward,FALSE,bookbycategory,4,Award Winning,,,,,award-winning,0,,1
+bookaddy,FALSE,bookbf,1,Addy,,,,,addy-bookaddy,0,,1
+clothingproductline,FALSE,clothingcat,1,By Product Line,,,,,by-product-line-clothingproductline,0,,1
+clothingtm,FALSE,clothingproductline,3,Truly Me,,,,,truly-me-clothingtm,0,,1
+clothingbed,FALSE,clothingfordolls,2,Pajamas,,,,,pajamas,0,,1
+clothinglittlegirl,FALSE,clothingforgirls,1,Little Girls Sizes 3-7,,,,,little-girls-sizes-3-7,0,,1
+csrag,FALSE,csrservice,2,AG Magazine Subscription,,,,,ag-magazine-subscription,0,FALSE,1
+bfnighttime,FALSE,dollbfsub,0,BeForever Bedroom Sets,,,,,beforever-bedroom-sets,0,FALSE,1
+csr_rparts ,FALSE,csr_rp_cat,1,Replacement Parts,,,,,replacement-parts-csr-rparts-,0,FALSE,1
+furnaccessbf,FALSE,furnaccessproductline,1,BeForever,,,,,beforever-furnaccessbf,0,,1
+furnaccessbeds,FALSE,furnaccessbycategory,2,Bed & Home,,,,,bed---home,0,FALSE,1
+furnaccessstorageother,FALSE,furnaccessbycategory,9,Doll Care & Storage,,,,,doll-care---storage,0,,1
+furnaccessjosefina,FALSE,furnaccessbf,3,Josefina,,,,,josefina-furnaccessjosefina,0,,1
+dollmini,FALSE,dollbycategory,5,Mini Dolls,,,,,mini-dolls,0,,1
+furnaccessbedhome,FALSE,furnaccessbycategory,2,Bed & Home,,,,,bed---home-furnaccessbedhome,0,,1
+ggbyage,FALSE,giftguidecat,2,By Age,,,,,by-age,0,,1
+newbf,FALSE,newproductline,1,New for BeForever,,,,,new-for-beforever,0,,1
+newtm,FALSE,newproductline,3,New for Truly Me,,,,,new-for-truly-me,0,,1
+newbb,FALSE,newproductline,5,New for Bitty Baby,,,,,new-for-bitty-baby,0,,1
+bbmealtime,FALSE,dollbbsub,0,Bitty Baby Mealtime Play Set,,,,,bitty-baby-mealtime-play-set,0,FALSE,1
+clothingbts,FALSE,clothingcat,0,Clothing for Back to School,,,,,clothing-for-back-to-school,0,FALSE,1
+clothingholiday,FALSE,clothingcat,0,Holiday Outfits & Accessories,,,,,holiday-outfits---accessories,0,FALSE,1
+clothingspring,FALSE,clothingcat,0,Spring Dresses,,,,,spring-dresses,0,FALSE,1
+clothingspringpj,FALSE,clothingcat,0,Spring Pajamas for Doll & Girl,,,,,spring-pajamas-for-doll---girl,0,FALSE,1
+csrdh15inch,FALSE,csrdhcat,2,"15"" Doll Repair",,,,,15-doll-repair,0,FALSE,1
+ggbirthday,FALSE,giftguidecat,5,Birthday Gift Ideas,,,,,birthday-gift-ideas,0,FALSE,1
+tmsleep,FALSE,dolltrulymesub,0,TrulyMe Bedtime,,,false,,trulyme-bedtime,0,false,1
+leadonation,FALSE,dollgotysub,0,Lea Plush,,,,,lea-plush,0,FALSE,1
+gggifts,FALSE,giftguidecat,0,Gifts,,,,,gifts,0,FALSE,1
+furnaccessgirl8up,FALSE,furnaccessforgirls,3,For Girls Ages 8+,,,,,for-girls-ages-8,0,,1
+clothingww,FALSE,clothingproductline,4,WellieWishers,,,,,welliewishers-clothingww,0,,1
+furnaccessgirl5up,FALSE,furnaccessforgirls,2,For Girls Ages 5+,,,,,for-girls-ages-5,0,,1
+wwgooddeedaccess,FALSE,furnaccessww,0,WellieWishers Good Deed Accessories,,,,,welliewishers-good-deed-accessories,0,FALSE,1
+furnaccessmelody,FALSE,furnaccessbf,8,Melody,,,,,melody-furnaccessmelody,0,,1
+FPStoreNew,TRUE,,, What's New,,,,,-whats-new,0,,1
+this-is-a-test,TRUE,,,Alignment Test,,,,,goty-15-components-dlg90-b01a,0,FALSE,0
+Age4to5Years,FALSE,FPStoreAge,70,4-5 years,,,,,4-5-years,0,,1
+BrandsNickelodeon,FALSE,FPStoreBrands,100,Nickelodeon&#8482;,,,,,leg-cast-jly-d-feel-bette-f4056-c02a,0,,1
+FPStoreHotGifts,FALSE,FPStoreGifts,10,Hot Holiday Gifts,,,,,truly-me-doll-64-light-skin-black-hair-brown-eyes-dfn50,0,FALSE,1
+ClearanceThomas,FALSE,FPStoreSale,7,Thomas & Friends,,,,,thomas---friends,0,,1
+MyFirst,FALSE,BrandsThomasFriends,40,My First Thomas,,,,,headband-myag-d-tennis-f8553-r06a,0,,1
+Swings,FALSE,BrandsBabyGear,60,Swings,,,,,saucers-2-bb-d-teaset-f8508-f03a,0,FALSE,1
+TenforTenDollars_Sales,FALSE,FP_Promotions_NOTFORDISPLAY,0,10 for $10,,,,,10-for-$10,0,FALSE,0
+SecretSantaSale_Sales,FALSE,FP_Promotions_NOTFORDISPLAY,0,Secret Santa Sale,,,,,secret-santa-sale,0,FALSE,0
+Sale,FALSE,FPStoreSale,1,All Clearance,,,,,twins-glasses-set-g1070,0,,1
+Cat_Bath_Potty,FALSE,CategoryBabyGear,10,Bath & Potty,,,,,racquet---bt-d-tennis-11001-47447,0,,1
+ClearanceToysCars,FALSE,FPStoreSale,7,"Toy Cars, Trains & Vehicles",,,,,toy-cars--trains---vehicles-clearancetoyscars,0,FALSE,0
+WoodenRailway,FALSE,BrandsThomasFriends,10,Wooden Railway,,,,,wooden-railway,0,,1
+CategoryAppBdrm,FALSE,FPStoreCategory,150,Apparel & Bedroom,,,,,apparel---bedroom-categoryappbdrm,0,,1
+CategoryStuffedPlush,FALSE,CategoryBabyToys,40,Stuffed Animal & Plush Toys,,,,,15in-doll-limbs-11005-44937,0,,1
+CategoryFigsSub,FALSE,CategoryFigsPlaysets,20,Power Wheels&#174; ,,,,,agc-generic-component-11005-60651,0,,1
+CategoryPlanesBoats,FALSE,CategoryVehicles,30,"Toy Planes, Boats & Other",,,,,kaya-doll-w-o-book-11005-60655,0,,1
+FPStoreGiftsForBaby,FALSE,FPStoreGifts,25,Gifts for Baby,,,,,finding-freedom-addy-classic-1-bkc43,0,,1
+CategoryEducational,FALSE,FPStoreCategory,200,Learning & Educational Toys,,Construction,,,julius-jr-plush-buddies-sheree-bjg16,0,FALSE,0
+engines,FALSE,WoodenRailway,10,Engines,,,,,samantha-meet-access-11007-06758,0,,1
+SMBoys,FALSE,SMBrand,0,Boys,,,,,boys-smboys,0,,1
+SMCategory,TRUE,,,Category,,,,,category-smcategory,0,,1
+SMEverAfterHigh,FALSE,SMBrand,0,Ever After High,,,,,ever-after-high,0,,1
+SMVehicles,FALSE,SMCategory,0,Vehicles,,,,,vehicles,0,,1
+HWGirls,FALSE,HWBrand,0,Girls,,,,,girls-hwgirls,0,,1
+HWClearance,TRUE,,,Clearance,,,,,clearance-hwclearance,0,,1
+HW8plus,FALSE,HWAges,0,8plus,,,,,8plus-hw8plus,0,,1
+gift-guide,TRUE,,,Gift Guide,,,,,,0,,1
+barbie-fashionistas,FALSE,fashion-dolls,3,Barbie&#174; Fashionistas&#8482;,,,,,barbie--174;-fashionistas--174;-barbie-fashionistas,0,,1
+sale-dolls,TRUE,,,Sale,,,,,sale,0,,1
+hot-wheels-originals-garage,FALSE,Garage,6,Hot Wheels Originals ,,,,,hot-wheels-originals-,0,,1
+hwc-series-seven,FALSE,hwc-rlc-vehicles,7,Shop HWC&#8482; Series Seven,,,,,shop-hwc--8482;-series-seven,0,FALSE,1
+csrhwcservice,FALSE,csrhwcservicecat,1,HWC Service Requests,,,,,hwc-service-requests,0,FALSE,1
+2016-mainline,FALSE,Garage,11,2016 Mainline,,,,,2016-mainline,0,,1
+glow-wheels,FALSE,2016-mainline,4,Glow Wheels &#8482;,,,,,glow-wheels---8482;,0,,1
+2016-hw-hot-trucks,FALSE,2016-mainline,13,HW Hot Trucks&#8482;,,,,,hw-hot-trucks--8482;,0,,1
+street-power,FALSE,hw-city,9,Street Power,,,,,street-power,0,,1
+heat-fleet,FALSE,hw-workshop,1,Heat Fleet,,,,,heat-fleet,0,,1
+night-burnerz,FALSE,hw-workshop,5,Night Burnerz,,,,,night-burnerz,0,,1
+then-now,FALSE,hw-workshop,6,Then and Now,,,,,then-and-now,0,,1
+hot-wheels-test-facility,FALSE,hw-off-road,1,Hot Wheels Test Facility,,,,,hot-wheels-test-facility,0,,1
+hw-rescue,FALSE,hw-city,6,HW Rescue,,,,,hw-rescue,0,,1
+2017-hw-hot-trucks,FALSE,2017-mainline,14,HW Hot Trucks&#174;,,,,,hw-hot-trucks--174;,0,,1
+2017-x-raycers,FALSE,2017-mainline,30,X-Raycers&#174;,,,,,x-raycers--174;,0,FALSE,1
+hwc-news,TRUE,,,News,,,,,news--1,0,,1
+special-occasion,FALSE,gallery,16,Special Occasion,,,,,special-occasion,0,,1
+happy-holidays-series,FALSE,special-occasion,11,Happy Holidays&#174; Series,,,,,happy-holidays--174;-series,0,,1
+lets-play-barbie-doll-collection,FALSE,vintage-looks,2,Let&#8217;s Play Barbie&#8482; Doll Collection,,,,,let--8217;s-play-barbie--8482;-doll-collection,0,,1
+more-world-culture-dolls,FALSE,world-culture,9,More World Culture Dolls,,,,,more-world-culture-dolls,0,,1
+vintage-barbie-dolls,FALSE,vintage-barbie,1,Barbie&#174; Dolls,,,,,barbie--174;-dolls,0,,1
+barbie-doll-fashion-paks,FALSE,vintage-barbie,10,Barbie&#174; Doll Fashion Paks,,,,,barbie--174;-doll-fashion-paks,0,,1
+barbie-doll-get-ups-n-go-fashions,FALSE,vintage-barbie,11,Barbie&#174; Doll Get-Ups &#8217;N Go Fashions,,,,,barbie--174;-doll-get-ups---8217;n-go-fashions,0,,1
+ken-doll-mod-fashions,FALSE,vintage-ken,8,Ken&#174; Doll Mod Fashions,,,,,ken--174;-doll-mod-fashions,0,,1
+more-vintage-skipper-doll-fashions,FALSE,vintage-skipper,7,More Vintage Skipper&#174; Doll Fashions,,,,,more-vintage-skipper--174;-doll-fashions,0,,1
+2015-silkstone-dolls,FALSE,2015-collection,3,2015 Silkstone&#174; Dolls,,,,,2015-silkstone--174;-dolls,0,,1
+2014-club-dolls,FALSE,2014-collection,3,2014 BFC Dolls,,,,,2014-bfc-dolls,0,,1
+rock-candy-barbie-vinyl-dolls,FALSE,promotions,0,Rock Candy: Barbie&#8482; Vinyl Collectibles,,,,,rock-candy:-barbie--8482;-vinyl-collectibles,0,,1
+2014-vintage-reproduction,FALSE,2014-collection,9,2014 Vintage Reproduction,,,,,2014-vintage-reproduction,0,,1
+barbie-basics-collection-001,FALSE,barbie-basics,1,Barbie Basics&#174; Collection 001,,,,,barbie-basics--174;-collection-001,0,,1
+barbie-basics-collection-002,FALSE,barbie-basics,3,Barbie Basics&#174; Collection 002,,,,,barbie-basics--174;-collection-002,0,,1
+barbie-basics-collection-003,FALSE,barbie-basics,5,Barbie Basics&#174; Collection 003,,Dive into the final collection in the Barbie Basics® series! These bathing beauties epitomize luxurious fun in the sun with their stylish swimsuit ensembles in a rainbow of vibrant colors. Why not make a splash and collect the entire series? It&#39;s summer fun all year long!,,,barbie-basics--174;-collection-003,0,,1
+barbie-life-in-dreamhouse,FALSE,barbie-fashion,4,Barbie&#8482; Life in the Dreamhouse Collection,,,,,barbie--8482;-life-in-the-dreamhouse-collection,0,,1
+keepsake-treasures-collection,FALSE,children,4,Keepsake Treasures&#8482; Collection,,,,,keepsake-treasures--8482;-collection,0,,1
+kelly-tommy-collectibles,FALSE,children,5,Kelly&#174; & Tommy&#8482; Collectibles,,,,,kelly--174;---tommy--8482;-collectibles,0,,1
+storybook-favorites,FALSE,children,7,Storybook Favorites,,,,,storybook-favorites,0,,1
+barbie-fan-club-dolls,FALSE,club-dolls,1,Barbie&#8480; Fan Club Dolls,,,,,barbie--8480;-fan-club-dolls,0,,1
+burberry,FALSE,designers,5,Burberry,,,,,burberry,0,,1
+jonathan-adler,FALSE,designers,12,Jonathan Adler,,,,,jonathan-adler,0,,1
+nolan-miller,FALSE,designers,16,Nolan Miller,,,,,nolan-miller,0,,1
+designer-dolls-a-e,FALSE,designers,25,Designer Dolls: A-E,,,,,designer-dolls:-a-e,0,,1
+dolls-of-the-world-australia,FALSE,dolls-of-the-world,4,Dolls of the World&#174; &mdash; Australia,,,,,dolls-of-the-world--174;--mdash;-australia,0,,1
+best-models,FALSE,fashions,4,Best Models&#8482;,,,,,best-models--8482;,0,,1
+ferrari-barbie-series,FALSE,fashions,11,<em>Ferrari</em> Barbie&#174; Series,,,,,<em>ferrari<-em>-barbie--174;-series,0,,1
+flavor-obsession,FALSE,fashions,12,Flavor Obsession,,,,,flavor-obsession,0,,1
+flowers-in-fashion-collection,FALSE,fashions,13,Flowers In Fashion&#8482; Collection,,,,,flowers-in-fashion--8482;-collection,0,,1
+spiegel-exclusives,FALSE,fashions,22,Spiegel Exclusives,,,,,spiegel-exclusives,0,,1
+style-set-collection,FALSE,fashions,23,Style Set Collection&#8482;,,,,,style-set-collection--8482;,0,,1
+celebrity-dolls,FALSE,hollywood,4,Celebrity Dolls,,,,,celebrity-dolls,0,,1
+grand-ole-opry-collection,FALSE,bc-pop-culture,17,Grand Ole Opry&#8482; Collection,,,,,grand-ole-opry--8482;-collection,0,,1
+pin-up-girls-collection,FALSE,bc-pop-culture,23,Pin-Up Girls&#8482; Collection,,,,,pin-up-girls--8482;-collection,0,,1
+prima-ballerina-collection,FALSE,porcelain,6,Prima Ballerina&#8482; Collection,,,,,prima-ballerina--8482;-collection,0,,1
+victorian-tea-porcelain-collection,FALSE,porcelain,9,Victorian Tea Porcelain Collection,,,,,victorian-tea-porcelain-collection,0,,1
+moschino-barbie-dolls,FALSE,2015-collection,5.5,Moschino Barbie Dolls,,,,,moschino-barbie-dolls,0,,1
+@barbiestyle,FALSE,promotions,0,2016 Barbie Look Dolls,,,,,2016-barbie-look-dolls,0,,1
+barbie-andy-warhol,FALSE,barbie-dolls,14,Barbie&#174; Andy Warhol,,,,,barbie--174;-andy-warhol,0,FALSE,1
+tokidoki,FALSE,designers,20.5,<em>tokidoki</em> Barbie&#174; Dolls,,,,,<em>tokidoki<-em>-barbie--174;-dolls,0,,1
+harlem-theatre-collection,FALSE,2015-collection,5,Harlem Theatre Collection,,,,,harlem-theatre-collection,0,,1
+bfmc-sale-2016,FALSE,promotions,0,BFMC Sale,,,,,bfmc-sale,0,,1
+holiday-sale-2016,FALSE,promotions,0,Holiday Sale,,,,,holiday-sale,0,,1
+black-label,FALSE,collector,2,Black Label&#174;,,,,,black-label--174;,0,,1
+collector-edition,FALSE,collector,6,Collector Edition,,,,,collector-edition,0,,1
+ann-driskill,FALSE,collector,10,Ann Driskill ,,,,,ann-driskill-,0,,1
+superstar-forever-collection,FALSE,2015-collection,6,Superstar Forever Collection,,,,,superstar-forever-collection,0,,1
+dollightful-deal-hg2,FALSE,promotions,0,Doll-ightful Deal 3/22 - 3/28,,,,,doll-ightful-deal-3-22---3-28,0,,1
+holiday-barbies-2015,FALSE,promotions,0,Holiday Barbie™ Dolls,,,,,holiday-barbie™-dolls,0,,1
+hello-dreamhouse-playset,FALSE,promotions,0,Barbie&#174; Hello Dreamhouse&#8482; Play Set,,,,,barbie--174;-hello-dreamhouse--8482;-play-set,0,,1
+csr_retailcat,TRUE,,,AG Retail,,,,,ag-retail,0,FALSE,0
+dollregistrationcat,TRUE,,,Register a Doll,,,,,register-a-doll,0,FALSE,0
+dollbycategory,FALSE,dollscat,2,By Category,,,,,by-category,0,,1
+dollbtgirlboy,FALSE,dollbtsub,0,Bitty Twins Dolls - Girl/Boy Pair,,,,,bitty-twins-dolls---girl-boy-pair,0,FALSE,1
+josefinadollsub,FALSE,dollbfsub,3,Josefina,,,,,josefina,0,,1
+booksoundtrack,FALSE,bookbycategory,8,Movie Soundtracks,,"American Girl movie soundtracks, music for kids, music for girls",,,movie-soundtracks,0,,1
+bookrebecca,FALSE,bookbf,11,Rebecca,,,,,rebecca,0,,1
+clothingbb,FALSE,clothingproductline,5,Bitty Baby,,,,,bitty-baby-clothingbb,0,,1
+clothingbiggirl,FALSE,clothingforgirls,2,Girls Sizes 6-20,,,,,girls-sizes-6-20,0,,1
+csrgm,FALSE,csrservice,1,Gift Message,,,,,gift-message,0,FALSE,1
+SEO 18 Inch Dolls,FALSE,dollscat,0,SEO 18 Inch Dolls,,,,,seo-18-inch-dolls,0,FALSE,1
+csr_souvenir,FALSE,csr_retailcat,1,AG Souvenir,,,,,ag-souvenir,0,FALSE,1
+furnaccessbycategory,FALSE,furnaccesscat,2,By Category,,,,,by-category-furnaccessbycategory,0,,1
+SEO 18 Inch Doll Clothes,FALSE,clothingcat,0,18 Inch Doll Clothes,,,,,18-inch-doll-clothes,0,FALSE,1
+SEO Books for Kids,FALSE,bookstorecat,0,Books for Kids,,,,,books-for-kids,0,FALSE,1
+ggcustfaves,FALSE,ggbycategory,2,Customer Favorites,,,,,customer-favorites,0,,1
+ggtopgift,FALSE,ggbycategory,4,Top Gifts,,,,,top-gifts,0,,1
+newbyage,FALSE,new,2,By Age,,,,,by-age-newbyage,0,,1
+bbstarter,FALSE,dollbbsub,0,Bitty Baby Starter Collections,,,,,bitty-baby-starter-collections,0,FALSE,1
+bbbedtime,FALSE,dollbbsub,0,Bitty Baby Bedtime Play Set,,,,,bitty-baby-bedtime-play-set,0,FALSE,1
+bookbts,FALSE,bookstorecat,0,Books for Back to School,,,,,books-for-back-to-school,0,FALSE,1
+bbstarterbundles,FALSE,AG_Promotions_NOTFORDISPLAY,0,Bitty Baby Starter Bundles,,,,,bitty-baby-starter-bundles,0,,1
+tmbirthday,FALSE,dolltrulymesub,0,TrulyMe Birthday,,,false,,trulyme-birthday,0,false,1
+cybertesting,FALSE,csr_nla_,0,Testing,,,,,testing,0,FALSE,1
+maryellendollsub,FALSE,dollbfsub,7,Maryellen,,,,,maryellen,0,,1
+giftwrap,FALSE,AG_Promotions_NOTFORDISPLAY,0,Gift Wrap for Promos,,,,,gift-wrap-for-promos,0,FALSE,1
+tmcamping,FALSE,dolltrulymesub,0,Truly Me Camping,,,,,truly-me-camping,0,FALSE,1
+FPStoreBrands,TRUE,,, Brands,,,,,-brands,0,,1
+Age3to4Years,FALSE,FPStoreAge,60,3-4 years,,,,,3-4-years,0,,1
+FPEasterLaugh,FALSE,FPEasterSale,6,Laugh and Learn,,,,,medium-skin--dark-brown-hair-11003-32076,0,,1
+FPEasterImaginext,FALSE,FPEasterSale,4,Imaginext,,,,,medium-skin--dark-brown-hair-11003-32092,0,,1
+FPEasterPowerWheels,FALSE,FPEasterSale,3,Power Wheels,,,,,sweet-dreams-crib-bb-11003-54017,0,,1
+Kitchen,FALSE,CategoryPretendPlay,10,Kitchen,,,,,isabelles-coral-sweater-for-dolls-f7353,0,FALSE,1
+Roleplay,FALSE,CategoryPretendPlay,20,Roleplay,,,,,isabelles-wrap-sweater-f7361,0,FALSE,1
+Minnie,FALSE,BrandsDisney,20,Minnie,,,,,tablecloth-bb-d-teaset-f8508-f05a,0,,1
+CosmicChaos,FALSE,BrandsImaginext,40,Cosmic Chaos,,,,,top-bt-d-campgirl-f8522-g01a,0,FALSE,0
+Disney,FALSE,BrandsLittlePeople,20,Disney,,,,,pants-bt-d-campboy-f8526-g03a,0,,1
+Wheelies,FALSE,BrandsLittlePeople,50,Wheelies&#8482;,,,,,jar-bt-d-games-f8551-g03a,0,,1
+Furniture_Accessories,FALSE,BrandsLovingFamily,30,Furniture & Accessories,,,,,top-myag-d-tennis-f8553-r02a,0,,1
+CategoryBooksVideo,FALSE,FPStoreCategory,175,"Books, Videos & Puzzles",,,,,books--videos---puzzles-categorybooksvideo,0,,1
+CategoryDollsPlush,FALSE,FPStoreCategory,90,"Dolls, Dollhouses & Plush Toys",,,,,drer,0,,1
+BrandsSmartToys,FALSE,FPStoreBrands,85,Smart Toy&#174;,,,,,roller-blocks-play-wall-bfh57,0,,1
+SET_COMPONENTS,FALSE,FORINVENTORY_NOTFORDISPLAY,0,SET_COMPONENTS,,,,,set-components,0,FALSE,0
+ADDONSERVICES,FALSE,FORINVENTORY_NOTFORDISPLAY,0,ADDONSERVICES,,,,,addonservices,0,FALSE,0
+FPEasterBabygear,FALSE,FPEasterSale,100,Baby Gear,,,,,baby-gear-fpeasterbabygear,0,FALSE,0
+SMBrand,TRUE,,,Brand,,,,,brand-smbrand,0,,1
+SMActionFigues,FALSE,SMCategory,0,Action Figues,,,,,action-figues,0,,1
+HWBoys,FALSE,HWBrand,0,Boys,,,,,boys-hwboys,0,,1
+HWWWE,FALSE,HWBrand,0,WWE,,,,,wwe-hwwwe,0,,1
+HWDisneyCars,FALSE,HWBrand,0,Disney Cars,,,,,disney-cars-hwdisneycars,0,,1
+HW4to5,FALSE,HWAges,0,4to5,,,,,4to5-hw4to5,0,,1
+fashion-dolls,FALSE,bcshop,2,Fashion Dolls,,"Barbie&#174; doll dressed in trend-setting fashions, for shopping in the hottest boutiques by day, and making heads turn at cocktail parties and gala events by night!",,,fashion-dolls,0,,1
+designer-dolls,FALSE,fashion-dolls,1,Designer Dolls,,"The hottest fashion designers in the world share a common goal&#8212;to design for Barbie&#174; doll, the ultimate fashion icon. Shop their latest creations here!",,,designer-dolls,0,,1
+barbie-look,FALSE,fashion-dolls,2,Barbie Look&#8482; Collection,,"Barbie® doll dressed in trend-setting fashions, for shopping in the hottest boutiques by day, and making heads turn at cocktail parties and gala events by night!<br/>",,,barbie-look--8482;,0,,1
+family-friends,TRUE,,,Family & Friends,,,,,family---friends,0,,1
+Accessories,TRUE,,,Accessories,,,,,lifestyle,0,,1
+TestCat1,FALSE,Test Cat,0,TestCat1,,,,,testcat1,0,,1
+hwc-rlc-vehicles,FALSE,shop,2,Shop Series 8-14,,,,,shop-series-8-14,0,,1
+red-line-club,FALSE,shop,1,Red Line Club,,,,,red-line-club,0,,1
+convention-cars-garage,FALSE,special-events-garage,1,Convention Cars,,,,,convention-cars,0,,1
+hw-surf-patrol,FALSE,hw-city,7.5,HW Surf Patrol,,,,,hw-surf-patrol,0,,1
+hwc-csr_nla_,FALSE,hwc-csr_nla_cat,1,No Longer Available,,,,,no-longer-available-hwc-csr-nla-,0,FALSE,1
+hw-workshop,FALSE,2015-mainline,4,HW Workshop,,,,,hw-workshop,0,,1
+2016-hw-art-cars,FALSE,2016-mainline,5,HW Art Cars&#8482;,,,,,hw-art-cars--8482;,0,,1
+hw-screen-time,FALSE,2016-mainline,17,HW Screen Time&#8482;,,,,,hw-screen-time--8482;,0,,1
+hw-speed-graphics,FALSE,2016-mainline,20,HW Speed Graphics&#8482;,,,,,hw-speed-graphics--8482;,0,,1
+mild-to-wild,FALSE,2016-mainline,21,Mild To Wild&#8482; ,,,,,mild-to-wild--8482;-,0,,1
+2016-muscle-mania,FALSE,2016-mainline,22,Muscle Mania&#174;,,,,,muscle-mania--174;,0,,1
+nightburnerz,FALSE,2016-mainline,23,Nightburnerz&#174;,,,,,nightburnerz--174;,0,,1
+hw-race,FALSE,2015-mainline,3,HW Race,,,,,hw-race,0,,1
+2017-hw-digital-circuit,FALSE,2017-mainline,10,HW Digital Circuit&#8482;,,,,,hw-digital-circuit--8482;-2017-hw-digital-circuit,0,FALSE,1
+2017-hw-flames,FALSE,2017-mainline,12,HW Flames&#8482;,,,,,hw-flames--8482;,0,,1
+2017-hw-screen-time,FALSE,2017-mainline,19,HW Screen Time&#8482;,,,,,hw-screen-time--8482;-2017-hw-screen-time,0,,1
+2017-super-chromes,FALSE,2017-mainline,26,Super Chromes&#174;,,,,,super-chromes--174;,0,FALSE,1
+csrbcservicecat,FALSE,collection,0,BC CS Service Only,,,,,bc-cs-service-only,0,FALSE,1
+bcshop,FALSE,collection,0,Dolls,,"Welcome to The Barbie™ Collection! Find the latest Barbie® dolls and accessories for Barbie doll collectors and fans of Barbie, the ultimate fashion icon!<br/>",,,dolls-bcshop,0,,1
+promotions,FALSE,collection,0,Promotions,,,,,promotions-promotions,0,FALSE,0
+bridal-collection,FALSE,special-occasion,5,The Bridal Collection,,,,,the-bridal-collection,0,,1
+holiday-angel-series,FALSE,special-occasion,12,Holiday Angel Series,,,,,holiday-angel-series,0,,1
+holiday-dolls,FALSE,special-occasion,14,Holiday Dolls,,,,,holiday-dolls,0,,1
+winter-princess-collection,FALSE,special-occasion,17,Winter Princess Collection,,,,,winter-princess-collection,0,,1
+willows-wi-collection,FALSE,2015-collection,8,"Willows, WI&#8482; Collection",,,,,willows--wi--8482;-collection,0,,1
+barbie-1700-series-fashions,FALSE,vintage-barbie,6,Barbie&#174; 1700 Series Fashions,,,,,barbie--174;-1700-series-fashions,0,,1
+more-vintage-barbie-doll-fashions,FALSE,vintage-barbie,14,More Vintage Barbie&#174; Doll Fashions,,,,,more-vintage-barbie--174;-doll-fashions,0,,1
+ken-700-series-fashions,FALSE,vintage-ken,2,Ken&#174; 700 Series Fashions,,,,,ken--174;-700-series-fashions,0,,1
+ballet-wishes-barbie-dolls,FALSE,promotions,0,2016 Ballet Wishes Barbie Dolls,,,,,2016-ballet-wishes-barbie-dolls,0,,1
+bfc-membership,FALSE,direct-exclusives,0,Barbie&#8482; Fan Club,,,,,barbie--8482;-fan-club,0,,1
+apparel,FALSE,lifestyle,0,Apparel & Accessories,,"Barbie&#174; is always in season! Find your fashion fabulousness with everything from tees to hoodies, scarves, hats, jewelry, totes, accessories, and more.",,,apparel---accessories,0,,1
+porcelain,FALSE,gallery,14,Porcelain,,,,,porcelain,0,,1
+2014-hollywood-pop-culture,FALSE,2014-collection,7,2014 Hollywood &#38; Pop Culture,,,,,2014-hollywood---38;-pop-culture,0,,1
+barbie-entrepreneur-dolls,FALSE,2014-collection,10,Barbie&#174; Entrepreneur Dolls,,,,,barbie--174;-entrepreneur-dolls,0,,1
+barbie-style,FALSE,barbie-fashion,3,Barbie Style&#8482;,,,,,barbie-style--8482;-barbie-style,0,FALSE,1
+the-barbie-look-collection,FALSE,barbie-fashion,1,The Barbie Look&#8482; Collection,,"She’s one of the world’s most fabulous fashion icons, and now she’s sharing her secret to timeless style! It’s a new standout collection of outfits that reveal wherever she goes, whatever she does, Barbie® doll always has “The Look!”",,,the-barbie-look--8482;-collection,0,,1
+ballerina-music-box,FALSE,children,1,Ballerina Music Box,,,,,ballerina-music-box,0,,1
+childrens-collector-series,FALSE,children,2,Children&#8217;s Collector Series,,,,,children--8217;s-collector-series,0,,1
+csrbcservice,FALSE,csrbcservicecat,1,BC Service Requests,,,,,bc-service-requests,0,FALSE,1
+official-barbie-collector-club-exclusives,FALSE,club-dolls,2,Official Barbie Collector Club&#8480; Exclusives,,,,,official-barbie-collector-club--8480;-exclusives,0,,1
+giorgio-armani,FALSE,designers,11,Giorgio Armani,,,,,giorgio-armani,0,,1
+vera-wang,FALSE,designers,21,Vera Wang,,,,,vera-wang,0,,1
+dollightful-deal-barbie-look,FALSE,promotions,0,Doll-ightful Deal,,,,,doll-ightful-deal,0,,1
+end-of-summer-sale,FALSE,bcshop,10,End Of Summer Sale,,,,,end-of-summer-sale,0,FALSE,0
+goddess-series,FALSE,fantasy,9,Goddess Series,,,,,goddess-series,0,,1
+more-fantasy-dolls,FALSE,fantasy,18,More Fantasy Dolls,,,,,more-fantasy-dolls,0,,1
+portrait-collection,FALSE,fashions,18,Portrait Collection&#8482;,,,,,portrait-collection--8482;,0,,1
+wedgwood-series,FALSE,fashions,24,Wedgwood&#174; Series,,,,,wedgwood--174;-series,0,,1
+pop-life-collection,FALSE,bc-pop-culture,24,Pop Life&#8482; Collection,,,,,pop-life--8482;-collection,0,,1
+the-wizard-of-oz-collection,FALSE,bc-pop-culture,28,The Wizard of Oz&#8482; Collection,,,,,the-wizard-of-oz--8482;-collection,0,,1
+porcelain-treasures,FALSE,porcelain,3,Porcelain Treasures,,,,,porcelain-treasures,0,,1
+porcelain-wedding-flower-collection,FALSE,porcelain,4,Porcelain Wedding Flower Collection&#174;,,,,,porcelain-wedding-flower-collection--174;,0,,1
+gold-silver-porcelain-collection,FALSE,porcelain,7,The Gold & Silver Porcelain Collection&#174;,,,,,the-gold---silver-porcelain-collection--174;,0,,1
+silkstone-francie-dolls,FALSE,silkstone-dolls,5,Silkstone&#174; Francie Dolls,,,,,silkstone--174;-francie-dolls,0,,1
+timeless-design,FALSE,promotions,0,Timeless Design,,,,,timeless-design,0,FALSE,1
+my-favorite-barbie-doll-series,FALSE,vintage-looks,3,<em>My Favorite</em> Barbie&#174; Doll Series,,,,,<em>my-favorite<-em>-barbie--174;-doll-series,0,,1
+barbie-look-dollightful-deal,FALSE,promotions,0,Doll-ightful Deal 3/1 - 3/7,,,,,doll-ightful-deal-3-1---3-7,0,,1
+gold-label,FALSE,collector,4,Gold Label&#174;,,"Note: From 2004-2014, Gold Label Dolls were sequentially number editions of 25,000 or less worldwide for each doll. Starting in 2015, the number of dolls produced within the “Gold Label” tier was reduced to 10,000 or less.",,,gold-label--174;,0,,1
+timeless-treasures,FALSE,collector,9,Timeless Treasures&#8482;,,,,,timeless-treasures--8482;,0,,1
+bill-greening,FALSE,collector,12,Bill Greening,,,,,bill-greening,0,,1
+lauri-sipos,FALSE,collector,17,Lauri Sipos ,,,,,lauri-sipos-,0,,1
+sharon-zuckerman,FALSE,collector,21,Sharon Zuckerman ,,,,,sharon-zuckerman-,0,,1
+star-trek-dolls,FALSE,bc-pop-culture,25,<em>Star Trek</em>&#8482; Dolls,,,,,<em>star-trek<-em>--8482;-dolls,0,,1
+glam-15,FALSE,promotions,0,Glam 15,,,,,glam-15,0,,1
+furnaccesscat,TRUE,,,Furniture & Accessories,,,,,furniture---accessories,0,,1
+wellieslookbookcat,TRUE,,,WellieWishers From American Girl,,,,,welliewishers-from-american-girl,0,FALSE,0
+FORINVENTORY_NOTFORDISPLAY,TRUE,,,FORINVENTORY_NOTFORDISPLAY,,,,,forinventory-notfordisplay,0,,0
+csrdhcat,TRUE,,,Service,,,,,service,0,FALSE,0
+dollnew,FALSE,dollbycategory,1,New Dolls,,,,,new-dolls,0,,1
+dollbtboyboy,FALSE,dollbtsub,0,Bitty Twins Dolls - Boy/Boy Pair,,,,,bitty-twins-dolls---boy-boy-pair,0,false,1
+bookbf,FALSE,bookproductline,1,BeForever,,,,,beforever-bookbf,0,,1
+bookgoty,FALSE,bookproductline,2,Girl of the Year: Lea,,,,,girl-of-the-year:-lea,0,,1
+bookadvice,FALSE,bookproductline,7,Advice Library,,,,,advice-library,0,,1
+booknew,FALSE,bookbycategory,1,New,,,,,new-booknew,0,,1
+clothingnew,FALSE,clothingfordolls,1,New,,,,,new-clothingnew,0,,1
+bfclothaddy,FALSE,clothingbf,1,Addy,,,,,addy-bfclothaddy,0,,1
+bfclothjulie,FALSE,clothingbf,4,Julie,,,,,julie-bfclothjulie,0,,1
+bfbedroomsets,FALSE,dollbfsub,0,BeForever Bedroom Sets,,,,,beforever-bedroom-sets-bfbedroomsets,0,FALSE,1
+megabloks,FALSE,bookproductline,9,Mega Bloks,,,,,mega-bloks,0,,1
+furnaccessbb,FALSE,furnaccessproductline,5,Bitty Baby,,,,,bitty-baby-furnaccessbb,0,,1
+furnaccessanimals,FALSE,furnaccessbycategory,4,Animals & Extras,,,,,animals---extras,0,,1
+ggbyprice,FALSE,giftguidecat,3,By Price,,,,,by-price,0,,1
+giftcardindex,FALSE,giftcards,0,Gift Cards,,,,,gift-cards-giftcardindex,0,FALSE,1
+ggaward,FALSE,ggbycategory,3,Award Winners,,,,,award-winners,0,,1
+ggover100,FALSE,ggbyprice,3,Over $100,,,,,over-$100,0,,1
+bbdollcattest,FALSE,bbdoll,0,TEST,,,,,test,0,,1
+bbnurturing,FALSE,dollbbsub,0,Bitty Baby Nurturing Necessities,,,,,bitty-baby-nurturing-necessities,0,FALSE,1
+clothingswim,FALSE,clothingcat,0,Swimwear for Doll & Girl,,,,,swimwear-for-doll---girl,0,FALSE,1
+clothingwinterpj,FALSE,clothingcat,0,Winter Pajamas for Doll & Girl,,,,,winter-pajamas-for-doll---girl,0,FALSE,1
+csrmyagdh31sub,FALSE,csrmyagdhsub,30,Doll 31 - 40 Hospital Visit,,,,,doll-31---40-hospital-visit,0,FALSE,1
+whilesupplieslast,FALSE,salecategory,2,Clearance! Up to 50% Off,,,,,clearance!-up-to-50-off,0,,1
+tmsports,FALSE,dolltrulymesub,0,TrulyMe Sports,,,false,,trulyme-sports,0,false,1
+kayadollsub,FALSE,dollbfsub,5,Kaya,,,,,kaya-kayadollsub,0,,1
+dollhairskincare,FALSE,dollcaresub,2,Doll Hair & Skin Care,,,,,doll-hair---skin-care,0,FALSE,1
+bookmovie,FALSE,bookbycategory,2,Movies,,,,,movies,0,,1
+20%off,FALSE,AG_Promotions_NOTFORDISPLAY,0,20% off exclusions,,,,,20-off-exclusions,0,FALSE,1
+doll,FALSE,tmbundlepromo,0,Truly Me Doll,,,,,truly-me-doll,0,FALSE,1
+welliewishersfs,FALSE,AG_Promotions_NOTFORDISPLAY,0,Wellies Free Ship,,,,,wellies-free-ship,0,,1
+bookmaryellen,FALSE,bookbf,9,Maryellen,,,,,maryellen-bookmaryellen,0,,1
+bfclothmaryellen,FALSE,clothingbf,7,Maryellen,,,,,maryellen-bfclothmaryellen,0,,1
+furnaccessforgirls,FALSE,furnaccesscat,3,For Girls,,,,,for-girls-furnaccessforgirls,0,,1
+Test,FALSE,csr_nla_cat,0,Product Testing,,,,,product-testing,0,FALSE,1
+testmelody,FALSE,Test,0,Melody 8/18,,,,,melody-8-18,0,FALSE,1
+ggspring,FALSE,giftguidecat,0,Spring Gift Ideas,,,,,spring-gift-ideas,0,FALSE,1
+newww,FALSE,newproductline,4,New for WellieWishers,,,,,new-for-welliewishers,0,,1
+dollwelliessub,FALSE,dollproductline,4,WellieWishers,,,,,welliewishers-dollwelliessub,0,,1
+featured,FALSE,sale,2,Featured Offers,,,,,featured-offers,0,false,1
+magazinesubscribe,FALSE,magazinebycategory,2,Subscribe,,,,,subscribe,0,,1
+tbtemailaug2016,FALSE,furnaccessbf,0,Throwback Thursday,,,,,throwback-thursday,0,FALSE,1
+FPStoreAge,TRUE,,, Age,,,,,-age,0,,1
+CATALOGTESTING_NOTFORDISPLAY,TRUE,,,CATALOG TEST CATEGORY,Testing ,,,,catalog-test-category,0,FALSE,0
+AgeBirth6Month,FALSE,FPStoreAge,20,Birth to 6 months,,,,,birth-to-6-months,0,,1
+BrandsThomasFriends,FALSE,FPStoreBrands,30,Thomas & Friends&#8482;,,,,,thomas---friends--8482;,0,,1
+csrsearchableproducts,FALSE,csrfpservicecat,2,FP Searchable Products,,,,,i-can-play-basketball-j5970,0,FALSE,1
+70upto70,FALSE,FP_Promotions_NOTFORDISPLAY,0,Toys up to 70% off!,,,,,sequined-star-tee-for-dolls-chc91,0,FALSE,1
+10-toys-for-20,FALSE,FP_Promotions_NOTFORDISPLAY,0,20 Toys for $10 Each,,,,,20-toys-for-$10-each-10-toys-for-20,0,FALSE,0
+ClearanceLittlePeople,FALSE,FPStoreSale,5,Little People,,,,,minnesota-starry-tee-for-girls---xl-f8717berxl,0,,1
+ClearanceImaginext,FALSE,FPStoreSale,4,Imaginext,,,,,minnesota-starry-tee-for-girls---xs-f8717berxs,0,,1
+Land,FALSE,CategoryVehicles,20,Land,,,,,isabelles-tutu-f7400,0,FALSE,1
+City_Town,FALSE,BrandsLittlePeople,10,City & Town,,,,,top-bt-d-campboy-f8526-g02a,0,,1
+Dora_Friends,FALSE,BrandsNickelodeon,20,Dora & Friends&#8482;,,,,,shoes-myag-d-tennis-f8553-r04a,0,,1
+Cat_Entertainers,FALSE,CategoryBabyGear,40,Jumpers & Entertainers,,,,,golf-club---bt-d-golf-11001-17079,0,,1
+Cat_Seats_Bouncers,FALSE,CategoryBabyGear,20,Bouncers & Floor Seats,,,,,hole-in-one-outfit-for-dolls-cgp75,0,,1
+ClearanceBabyToys,FALSE,FPStoreSale,5,Baby Toys,,,,,baby-toys-clearancebabytoys,0,FALSE,0
+FPBatsup,FALSE,FP_Promotions_NOTFORDISPLAY,0,Batman V Superman Toys,,Batman V Superman Toys,,,berry-wheelchair-myag-11006-83190,0,FALSE,1
+FPStoreGiftStuffers,FALSE,FPStoreGifts,60,Stocking Stuffers,Stocking Stuffers,Stocking Stuffers<br/>,,,stocking-stuffers,0,FALSE,1
+50for5,FALSE,FP_Promotions_NOTFORDISPLAY,0,Toys up to 50% off!,,,,,toys-up-to-50-off!,0,FALSE,1
+TenforTen,FALSE,FP_Promotions_NOTFORDISPLAY,0,10 Toys for $10,,,,,10-toys-for-$10,0,FALSE,0
+SMDisneyCars,FALSE,SMBrand,0,Disney Cars,,,,,disney-cars,0,,1
+gift-sets,TRUE,,,Gift Sets,,,,,gift-sets,0,,1
+career-dolls,FALSE,bcshop,3.5,Career Dolls,,The ultimate collection starts here! Barbie® is a global icon with more than 150 jobs on her resume. Get the career dolls that continue to inspire millions!,,,career-dolls,0,,1
+entertainment-fairytale-dolls,TRUE,,,Entertainment & Fairytale Dolls,,,,,entertainment---fairytale-dolls,0,,1
+collectible-dolls,TRUE,,,Collectible Dolls,,,,,collectible-dolls-collectible-dolls,0,,1
+exclusives,TRUE,,,Exclusives,,,,,exclusives,0,,1
+special-occasion-dolls,FALSE,bcshop,7,Special Occasion Dolls,,"Perfect Barbie® gifts for special occasions, these Barbie dolls will be treasured by Barbie fans of all ages. Start a new tradition here!<br/>",,,special-occasion-dolls,0,,1
+csrhwcservicecat,TRUE,,,HWC CS Service Only,,,,,hwc-cs-service-only,0,FALSE,0
+real-vehicles,FALSE,shop,6,Shop Real Vehicles,,,,,shop-real-vehicles,0,,1
+sets,FALSE,shop,10,Shop Sets & Cases,,,,,shop-sets---cases,0,,1
+hwc-rlc-vehicles-garage,FALSE,Garage,1,HWC/RLC Vehicles ,,,,,hwc-rlc-vehicles-,0,,1
+hwc-series-seven-garage,FALSE,hwc-rlc-vehicles-garage,7,HWC&#8482; Series Seven,,,,,hwc--8482;-series-seven,0,,1
+hw-digital-circuit,FALSE,2016-mainline,8,HW Digital Circuit&#8482;,,,,,hw-digital-circuit--8482;,0,,1
+hw-off-road,FALSE,2015-mainline,2,HW Off-Road,,,,,hw-off-road,0,,1
+hw-city-works,FALSE,hw-city,4,HW City Works,,,,,hw-city-works,0,,1
+trucks-vans-wagons,FALSE,shop,11,"Shop Trucks, Vans & Wagons",,,,,shop-trucks--vans---wagons,0,,1
+batman,FALSE,hw-city,1,Batman,,,,,batman,0,,1
+jungle-rally,FALSE,hw-off-road,3,Jungle Rally,,,,,jungle-rally,0,,1
+2017-batman,FALSE,2017-mainline,1,BATMAN&#8482;,,,,,batman--8482;-2017-batman,0,FALSE,1
+camaro-anniversary,FALSE,2017-mainline,2,Camaro Anniversary,,,,,camaro-anniversary,0,FALSE,1
+factory-fresh,FALSE,2017-mainline,4,Factory Fresh&#8482;,,,,,factory-fresh--8482;,0,,1
+2017-hw-city-works,FALSE,2017-mainline,8,HW City Works&#174;,,,,,hw-city-works--174;-2017-hw-city-works,0,FALSE,1
+2017-hw-rescue,FALSE,2017-mainline,17,HW Rescue&#8482;,,,,,hw-rescue--8482;-2017-hw-rescue,0,,1
+gallery,FALSE,collection,0,Gallery,,,,,gallery,0,,1
+designer-brides,FALSE,special-occasion,9,Designer Brides&#8482;,,,,,designer-brides--8482;,0,,1
+holiday-celebration-series,FALSE,special-occasion,13,Holiday Celebration Series,,,,,holiday-celebration-series,0,,1
+holiday-hostess-collection,FALSE,special-occasion,15,Holiday Hostess&#8482; Collection,,,,,holiday-hostess--8482;-collection,0,,1
+holiday-visions-series,FALSE,special-occasion,16,Holiday Visions&#8482; Series,,,,,holiday-visions--8482;-series,0,,1
+more-special-occasion,FALSE,special-occasion,19,More Special Occasion,,,,,more-special-occasion,0,,1
+2015-collection,FALSE,gallery,1,2015 Collection,,,,,2015-collection,0,,1
+world-culture,FALSE,gallery,18,World Culture,,,,,world-culture,0,,1
+native-spirit-collection,FALSE,world-culture,6,Native Spirit&#8482; Collection,,,,,native-spirit--8482;-collection,0,,1
+great-eras-collection,FALSE,world-culture,3,The Great Eras&#174; Collection,,,,,the-great-eras--174;-collection,0,,1
+barbie-800-series-fashions,FALSE,vintage-barbie,2,Barbie&#174; 800 Series Fashions,,,,,barbie--174;-800-series-fashions,0,,1
+barbie-1400-series-fashions,FALSE,vintage-barbie,4,Barbie&#174; 1400 Series Fashions,,,,,barbie--174;-1400-series-fashions,0,,1
+vintage-ken-dolls,FALSE,vintage-ken,1,Ken&#174; Dolls,,,,,ken--174;-dolls,0,,1
+ken-doll-fashion-paks,FALSE,vintage-ken,6,Ken&#174; Doll Fashion Paks,,,,,ken--174;-doll-fashion-paks,0,,1
+more-vintage-ken-doll-fashions,FALSE,vintage-ken,9,More Vintage Ken&#174; Doll Fashions,,,,,more-vintage-ken--174;-doll-fashions,0,,1
+francie-3200-series-fashions,FALSE,vintage-francie,3,Francie&#174; 3200 Series Fashions,,,,,francie--174;-3200-series-fashions,0,,1
+more-vintage-francie-doll-fashions,FALSE,vintage-francie,7,More Vintage Francie&#174; Doll Fashions,,,,,more-vintage-francie--174;-doll-fashions,0,,1
+special-offers,FALSE,bcshop,99,Sale,,"Priced to fly! The Special Offers Shelf feature fabulous dolls, fashions, and accessories at discounts you can only get from Barbie Collector.",,,sale-special-offers,0,FALSE,1
+silkstone,FALSE,bcshop,3,Silkstone&#174; Dolls,,The height of Barbie&#174; design for more than a decade! These Silkstone&#174; Dolls are inspired by the art and practice of the fashion designer&#8217;s atelier.,,,silkstone--174;-dolls-silkstone,0,,1
+barbie-fashion,FALSE,gallery,5,Barbie&reg; Fashion,,,,,barbie-reg;-fashion,0,,1
+designers,FALSE,gallery,8,Designers,,,,,designers,0,,1
+hollywood,FALSE,gallery,12,Hollywood,,,,,hollywood,0,,1
+2015-specialty-dolls,FALSE,2015-collection,4,2015 SpecialtyDolls,,,,,2015-specialtydolls,0,,1
+2014-barbie-look-collection,FALSE,2014-collection,1,2014 Barbie Look Collection,,,,,2014-barbie-look-collection,0,,1
+2014-barbie-so-in-style-sis-collection,FALSE,2014-collection,2,2014 Barbie&#174; So In Style&#8482; (S.I.S.&#8482;) Collection,,,,,2014-barbie--174;-so-in-style--8482;-(sis--8482;)-collection,0,,1
+2014-dolls-of-the-world,FALSE,2014-collection,5,2014 Dolls Of The World&#174;,,,,,2014-dolls-of-the-world--174;,0,FALSE,0
+bfmc-sale,FALSE,promotions,0,BFMC Sale - 15% Off,,,,,bfmc-sale---15-off,0,,1
+barbie-style-2014,FALSE,2014-collection,11,Barbie Style&#8482;,,,,,barbie-style--8482;,0,FALSE,0
+barbie-basics-collection-0015,FALSE,barbie-basics,2,Barbie Basics&#174; Collection 001.5,,,,,barbie-basics--174;-collection-0015,0,,1
+barbie-basics-collection-red,FALSE,barbie-basics,6,Barbie Basics&#174; Collection Red,,,,,barbie-basics--174;-collection-red,0,,1
+bob-mackie,FALSE,designers,4,Bob Mackie,,,,,bob-mackie,0,,1
+stephen-burrows,FALSE,designers,19,Stephen Burrows,,<br/>,,,stephen-burrows,0,,1
+tim-gunn-collection-for-barbie,FALSE,designers,20,Tim Gunn Collection for Barbie&#174;,,"Well-respected fashion designer and Project Runway star, Tim Gunn took his own wise advice from the workroom and applied it to two new stylishly dressed Barbie® dolls. He makes these chic looks “work” offering design versatility that can go from daytime to nighttime in the utmost of style and taste, of course. “Carry on people, carry on!”<br/>",,,tim-gunn-collection-for-barbie--174;,0,,1
+zuhair-murad,FALSE,designers,23,Zuhair Murad,,,,,zuhair-murad,0,,1
+dolls-of-the-world-africa,FALSE,dolls-of-the-world,2,Dolls of the World&#174; &mdash; <br />Africa,,,,,dolls-of-the-world--174;--mdash;-<br-->africa,0,,1
+angels-of-music-collection,FALSE,fantasy,2,Angels of Music&#174; Collection,,,,,angels-of-music--174;-collection,0,,1
+masquerade-gala-collection,FALSE,fantasy,13,Masquerade Gala Collection&#8482;,,,,,masquerade-gala-collection--8482;,0,,1
+barbie-millicent-roberts-collection,FALSE,fashions,2,Barbie Millicent Roberts&#174; Collection,,,,,barbie-millicent-roberts--174;-collection,0,,1
+barbie-loves-lucy,FALSE,hollywood,3,Barbie&#174; Loves Lucy!,,,,,barbie--174;-loves-lucy!,0,,1
+barbie-loves-pop-culture,FALSE,bc-pop-culture,8,Barbie&#174; Loves Pop Culture,,,,,barbie--174;-loves-pop-culture,0,,1
+barbie-loves-sports,FALSE,bc-pop-culture,9,Barbie&#174; Loves Sports,,,,,barbie--174;-loves-sports,0,,1
+coca-cola-barbie-series,FALSE,bc-pop-culture,12,COCA-COLA&#174; Barbie&#174; Series,,,,,coca-cola--174;-barbie--174;-series,0,,1
+the-wizard-of-oz-porcelain-collection,FALSE,bc-pop-culture,29,The Wizard of Oz&#8482; Porcelain Collection,,,,,the-wizard-of-oz--8482;-porcelain-collection,0,,1
+bfmc-mad-men-dolls,FALSE,silkstone-dolls,2,BFMC&#8482; <EM>Mad Men</EM> Dolls,,,,,bfmc--8482;-<em>mad-men<-em>-dolls,0,,1
+BC_SET_COMPONENTS,FALSE,FORINVENTORY_NOTFORDISPLAYBC,0,BC_SET_COMPONENTS,,,,,bc-set-components,0,,1
+celebratory-style,FALSE,promotions,0,Celebratory Style,,,,,celebratory-style,0,FALSE,1
+2016-barbie-look-30,FALSE,promotions,0,30% Off Barbie Look Dolls - Ends 11/13,,,,,30-off-barbie-look-dolls---ends-11-13,0,,1
+pink-label,FALSE,collector,1,Pink Label&#174;,,,,,pink-label--174;,0,,1
+carlyle-nuera,FALSE,collector,13,Carlyle Nuera ,,,,,carlyle-nuera-,0,,1
+carole-spencer,FALSE,collector,14,Carole Spencer ,,,,,carole-spencer-,0,,1
+katiana-jimenez,FALSE,collector,16,Katiana Jimenez ,,,,,katiana-jimenez-,0,,1
+gold-label-dolls,FALSE,barbie-dolls,11,Gold Label&#174; Dolls,,"Gold Label® Barbie® Dolls are collectible Barbie dolls produced in quantities of 10,000 or less, and available at select retailers for Barbie collectors to enjoy.<br/>",,,gold-label--174;-dolls,0,,1
+divergent-collection,FALSE,pop-culture-dolls,2,The Divergent Collection,,"With these dolls, what makes them different also makes them fabulous! Get the Divergent dolls here, inspired by the actors and costumes from the hit Divergent series of movies.<br/>",,,the-divergent-collection,0,,1
+30-off-holiday-products,FALSE,promotions,0,30% Off Holiday Products,Save 30%,Save 30% from 1/8/16 - 1/15/16,,,30-off-holiday-products,0,,1
+mystery-minis,FALSE,promotions,0,Mystery Minis,,,,,mystery-minis,0,,1
+final-chapter,FALSE,promotions,0,Final Chapter,,,,,final-chapter,0,,1
+csrrpcat,TRUE,,,Replacement Parts,,,,,replacement-parts-csrrpcat,0,FALSE,0
+rewards,TRUE,,,AG Rewards,,,,,ag-rewards,0,FALSE,0
+dollbfsub,FALSE,dollproductline,1,BeForever,,,,,beforever,0,,1
+btstarter,FALSE,dollbtsub,0,Bitty Twins Starter Collections,,,,,bitty-twins-starter-collections,0,FALSE,1
+doll8up,FALSE,dollbycategory,2,Dolls for Ages 8+,,,,,dolls-for-ages-8,0,,1
+bookbb,FALSE,bookproductline,4,Bitty Baby,,,,,bitty-baby-bookbb,0,FALSE,1
+bookcontemp,FALSE,bookbycategory,5,Contemporary Fiction,,,,,contemporary-fiction,0,,1
+bookcaroline,FALSE,bookbf,2,Caroline,,,,,caroline,0,,1
+bookjulie,FALSE,bookbf,5,Julie,,,,,julie-bookjulie,0,,1
+bookkaya,FALSE,bookbf,6,Kaya,,,,,kaya,0,,1
+bookkit,FALSE,bookbf,8,Kit ,,,,,kit-,0,,1
+csrsearchableproducts,FALSE,csrservice,3,AG Searchable Products,,,,,ag-searchable-products,0,FALSE,1
+stockingstuffer,FALSE,giftguidecat,0,Stocking Stuffers,,,,,stocking-stuffers,0,FALSE,1
+gracedonation,FALSE,dollgotysub,0,No Kid Hungry Donation,,,,,no-kid-hungry-donation,0,FALSE,1
+BBTestJulie,FALSE,juliedollsub,0,Beforever: Julie,,,,,beforever:-julie,0,FALSE,1
+SEO Doll Stroller,FALSE,furnaccesscat,0,Doll Stroller,,,,,doll-stroller,0,FALSE,1
+ggbycategory,FALSE,giftguidecat,1,By Category,,,,,by-category-ggbycategory,0,,1
+loyaltyexclusions,FALSE,AG_Promotions_NOTFORDISPLAY,0,Loyalty Exclusions,,,,,loyalty-exclusions,0,FALSE,1
+newgoty,FALSE,newproductline,2,New for Girl of the Year,,,,,new-for-girl-of-the-year,0,,1
+bbdoll,FALSE,dollbbsub,0,Bitty Baby Dolls,,,,,bitty-baby-dolls,0,FALSE,1
+bbforparents,FALSE,dollbbsub,0,Bitty Baby For Parents,,,,,bitty-baby-for-parents,0,FALSE,1
+bbbirthday,FALSE,dollbbsub,0,Bitty Baby Birthday Play Set,,,,,bitty-baby-birthday-play-set,0,FALSE,1
+ggsummer,FALSE,giftguidecat,4,Summer Gift Ideas,,,,,summer-gift-ideas,0,,0
+csrdh18inch,FALSE,csrdhcat,1,"18"" Doll Repair",,,,,18-doll-repair,0,FALSE,1
+csrbbdhsub,FALSE,csrdh15inch,1,Bitty Baby Repair,,,,,bitty-baby-repair,0,FALSE,1
+csrmyagdh1sub,FALSE,csrmyagdhsub,1,Doll 1 - 10 Hospital Visit,,,,,doll-1---10-hospital-visit,0,FALSE,1
+csrmyagdh21sub,FALSE,csrmyagdhsub,20,Doll 21 - 30 Hospital Visit,,,,,doll-21---30-hospital-visit,0,FALSE,1
+tmschool,FALSE,dolltrulymesub,0,TrulyMe School Outfits & Accessories,,,false,,trulyme-school-outfits---accessories,0,false,1
+rebeccadollsub,FALSE,dollbfsub,9,Rebecca,,,,,rebecca-rebeccadollsub,0,,1
+bookcrafts,FALSE,bookbycategory,3,Craft Kits,,,,,craft-kits,0,,1
+specialextras,FALSE,tmbundlepromo,0,Special Extras,,,,,special-extras,0,FALSE,1
+furnaccessgirl3up,FALSE,furnaccessforgirls,1,For Girls Ages 3+,,,,,for-girls-ages-3,0,,1
+girlluggage,FALSE,furnaccessforgirls,5,Luggage for Girls,,,,,luggage-for-girls,0,,1
+bfpjsforgirls,FALSE,clothingbf,0,BeForever Pajamas for Girls,,,,,beforever-pajamas-for-girls,0,FALSE,1
+offerspage,FALSE,salecategory,3,View all current offers,,,,,view-all-current-offers,0,,1
+exclusions918,FALSE,AG_Promotions_NOTFORDISPLAY,0,Exclusions for 9.18.15 Promo,,,,,exclusions-for-91815-promo,0,,1
+bfclothmelody,FALSE,clothingbf,8,Melody,,,,,melody-bfclothmelody,0,,1
+FPStoreGifts,TRUE,,, Gifts,,,,,-gifts,0,,1
+Age5Plus,FALSE,FPStoreAge,80,5+ years,,,,,5-years,0,,1
+BrandsImaginext,FALSE,FPStoreBrands,40,Imaginext&#174;,,,,,imaginext--174;,0,,1
+FallClear,FALSE,FP_Promotions_NOTFORDISPLAY,0,Spring Clearance,,,,,spring-clearance,0,,1
+FPEasterLovingFamily,FALSE,FPEasterSale,5,Loving Family,,,,,medium-skin--dark-brown-hair-11003-32080,0,,1
+BabyGear,FALSE,CategoryBabyToys,150,Baby Gear,,,,,isabelles-pajamas-for-dolls-f7331,0,FALSE,1
+Classic,FALSE,CategoryBabyToys,160,Classic,,,,,isabelles-performance-set-f7335,0,FALSE,1
+Air,FALSE,CategoryVehicles,10,Air,,,,,isabelles-practice-top-f7396,0,FALSE,1
+BrandsDisney,FALSE,FPStoreBrands,90,Disney,,,,,arm-cast-jly-d-feel-bette-f4056-c01a,0,,1
+Entertainers,FALSE,BrandsBabyGear,20,Entertainers,,,,,pie-add-d-ic-f8474-a06a,0,FALSE,1
+Sleepers,FALSE,BrandsBabyGear,50,Sleepers,,,,,teacups-2-bb-d-teaset-f8508-f02a,0,FALSE,1
+Jake,FALSE,BrandsDisney,30,Jake and the Never Land Pirates,,,,,tray-bb-d-teatreat-f8512-f01a,0,,1
+Holiday,FALSE,BrandsLittlePeople,30,Holiday,,,,,game-pieces-bt-d-games-f8551-g02a,0,,1
+Dollhouses,FALSE,BrandsLovingFamily,20,Dollhouses,,,,,skirt-myag-d-tennis-f8553-r01a,0,,1
+BackToSchool_Sales,FALSE,FP_Promotions_NOTFORDISPLAY,0,Back to School  Sale,,,,,back-to-school--sale,0,FALSE,0
+csrfpservice,FALSE,csrfpservicecat,1,FP Service Requests,,,,,fp-service-requests,0,FALSE,1
+GiftSetsViewAll,FALSE,FPStoreGifts,20,Gift Sets,,,,,gift-sets-giftsetsviewall,0,,1
+Cat_Swings,FALSE,CategoryBabyGear,30,Swings & Rockers,,,,,hole-in-one-outfit-for-dolls-11001-17076,0,,1
+SodorStoryCollection,FALSE,BrandsThomasFriends,15,Sodor Story Collections,,,,,sodor-story-collections,0,,1
+ApparelBedroom,FALSE,BrandsThomasFriends,70,Apparel & Bedroom,,,,,apparel---bedroom,0,,1
+BrandsFPToys,FALSE,BrandsFPBrand,20,Fisher-Price&#174; Toys,,,,,15in-doll-limbs-11005-44919,0,,1
+CategoryStackSortRoll,FALSE,CategoryBabyToys,20,"Stacking, Sorting & Rolling Toys",,,,,15in-doll-limbs-11005-44935,0,,1
+CategoryCarsTruckBuses,FALSE,CategoryVehicles,10,"Toy Cars, Trucks & Buses",,,,,agc-generic-component-11005-60653,0,,1
+CategoryTrains,FALSE,CategoryVehicles,20,Toy Trains & Train Sets,,,,,caroline-doll-w-o-book-11005-60654,0,FALSE,0
+CategoryRideOn,FALSE,FPStoreCategory,50,Ride On Toys,,,,,josefina-meet-outfit-11005-60656,0,,1
+accessories,FALSE,WoodenRailway,30,Accessories,,,,,samantha-meet-access-11007-06779,0,,1
+SM-Brand,TRUE,,,Brand,,,,,,0,,1
+SMWWE,FALSE,SMBrand,0,WWE,,,,,wwe,0,,1
+SM8plus,FALSE,SMAges,0,8plus,,,,,8plus,0,,1
+HWCategory,TRUE,,,Category,,,,,category-hwcategory,0,,1
+HWAges,TRUE,,,Ages,,,,,ages-hwages,0,,0
+HWBarbie,FALSE,HWBrand,0,Barbie,,,,,barbie-hwbarbie,0,,1
+HWMonsterHigh,FALSE,HWBrand,0,Monster High,,,,,monster-high-hwmonsterhigh,0,,1
+HWMatchbox,FALSE,HWBrand,0,Matchbox,,,,,matchbox-hwmatchbox,0,,1
+collectible-dolls-new,TRUE,,,Collectible Dolls,,,,,collectible-dolls,0,,1
+playsets,TRUE,,,Playsets,,,,,playsets,0,,1
+ornaments,FALSE,lifestyle,0,Ornaments,,Your one-stop shop for Barbie™ holiday ornaments! Shop here for tree ornaments based on Holiday Barbie™ dolls and inspired by classic Barbie doll fashions.<br/>,,,ornaments,0,,1
+gifts,FALSE,lifestyle,0,Gifts,,"Give the gift of Barbie&#174;! Inspired ideas from stationery to housewares, art prints, decorative pillows, holiday gifts, and glam galore!",,,gifts-gifts,0,,1
+collection,TRUE,,,Collection,,,http://localhost/wcsstore/MattelSAS/images/colors/fp/award-winner-menu-tile_tcm169-246014.jpg,,collection,0,,1
+fantasy-dolls,FALSE,bcshop,5,Fantasy Dolls,,"The realm of Barbie® dolls is only limited by imagination! No matter what Barbie fantasy dolls you find here, they&#39;ll always be glamorous and enchanting!<br/>",,,fantasy-dolls,0,,1
+world-culture-dolls,FALSE,bcshop,6,World Culture,,Celebrate international style with Barbie&amp;#174; doll! World Culture Barbie dolls feature traditional and modern fashions from dozens of countries.<br/>,,,world-culture-dolls,0,,1
+racing-garage,FALSE,Garage,4,Racing ,,,,,racing-,0,,1
+hwc-series-ten-garage,FALSE,hwc-rlc-vehicles-garage,4,HWC&#8482; Series Ten,,,,,hwc--8482;-series-ten,0,,1
+other-hwc-offers,FALSE,shop,2.5,Shop Other HWC Offers,,,,,shop-other-hwc-offers,0,,1
+hw-flames,FALSE,2016-mainline,10,HW Flames&#8482; ,,,,,hw-flames--8482;-,0,,1
+hw-green-speed,FALSE,2016-mainline,12,HW Green Speed&#8482;,,,,,hw-green-speed--8482;,0,,1
+hw-ride-ons,FALSE,2016-mainline,24,HW Ride Ons&#8482;,,,,,hw-ride-ons--8482;,0,,1
+tool-in-one,FALSE,2016-mainline,29,Tool-In-One&#8482;,,,,,tool-in-one--8482;,0,,1
+hw-garage,FALSE,hw-workshop,3,HW Garage,,,,,hw-garage,0,,1
+trucks-vans-wagons-garage,FALSE,Garage,9,"Trucks, Vans & Wagons",,,,,trucks--vans---wagons,0,,1
+hw-art-cars,FALSE,hw-city,3,HW Art Cars,,,,,hw-art-cars,0,,1
+road-rally,FALSE,hw-off-road,4,Road Rally,,,,,road-rally,0,,1
+hw-drift-race,FALSE,hw-workshop,2,HW Drift Race,,,,,hw-drift-race,0,,1
+night-storm,FALSE,hw-race,2,Night Storm,,,,,night-storm,0,,1
+hw-space-team,FALSE,hw-city,7,HW Space Team,,,,,hw-space-team,0,,1
+2017-hw-glow-wheels,FALSE,2017-mainline,13,HW Glow Wheels&#8482;,,,,,hw-glow-wheels--8482;,0,FALSE,1
+2017-nightburnerz,FALSE,2017-mainline,24,Nightburnerz&#174;,,,,,nightburnerz--174;-2017-nightburnerz,0,FALSE,1
+legends-of-ireland-collection,FALSE,world-culture,4,Legends of Ireland&#174; Collection,,,,,legends-of-ireland--174;-collection,0,,1
+superstar-barbie-fashions,FALSE,vintage-barbie,13,SuperStar Barbie&#174; Fashions,,,,,superstar-barbie--174;-fashions,0,FALSE,1
+vintage-ken,FALSE,gallery,20,Vintage Ken&reg;,,,,,vintage-ken-reg;,0,,1
+ken-doll-get-ups-n-go-fashions,FALSE,vintage-ken,7,Ken&#174; Doll Get-Ups &#8217;N Go Fashions,,,,,ken--174;-doll-get-ups---8217;n-go-fashions,0,,1
+francie-doll-fashion-paks,FALSE,vintage-francie,6,Francie&#174; Doll Fashion Paks,,,,,francie--174;-doll-fashion-paks,0,,1
+skipper-1900-series-fashions,FALSE,vintage-skipper,2,Skipper&#174; 1900 Series Fashions,,,,,skipper--174;-1900-series-fashions,0,,1
+barbie-dolls,FALSE,bcshop,95,Collector Dolls,,"It’s a doll-tastic world! Current Barbie® Collector dolls for sale, and their fashions and accessories, in one place for your shopping pleasure.<br/>",,,collector-dolls,0,FALSE,1
+fashions,FALSE,gallery,11,Fashions,,,,,fashions,0,,1
+2016-faraway-forest,FALSE,promotions,0,Faraway Forest™ Collection,,,,,faraway-forest™-collection,0,,1
+2014-fantasy-special-occasion-dolls,FALSE,2014-collection,6,2014 Fantasy &#38; Special Occasion Dolls,,,,,2014-fantasy---38;-special-occasion-dolls,0,,1
+online-exclusives,FALSE,club-dolls,3,Online Exclusives,,,,,online-exclusives,0,FALSE,1
+the-blonds,FALSE,designers,3,<em>The Blonds</em>,,"Known for bejeweled corsets and meticulously crafted fashions, the avant garde design duo, Phillipe and David Blond, a.k.a. The Blonds, partner with Barbie® Collector to dress Barbie doll in one of their most iconic creations.",,,<em>the-blonds<-em>,0,,1
+calvin-klein,FALSE,designers,7,Calvin Klein,,,,,calvin-klein,0,,1
+dkny,FALSE,designers,10,DKNY,,,,,dkny,0,,1
+oscar-de-la-renta,FALSE,designers,17,Oscar De La Renta,,,,,oscar-de-la-renta,0,,1
+designer-dolls-o-z,FALSE,designers,27,Designer Dolls: O-Z,,,,,designer-dolls:-o-z,0,,1
+dolls-of-the-world-complete-collection,FALSE,dolls-of-the-world,1,Dolls of the World&#174; <br />The Complete Collection,,,,,dolls-of-the-world--174;-<br-->the-complete-collection,0,,1
+dollightful-deal-art-prints,FALSE,promotions,0,Doll-ightful Deal 4/19 - 4/25,,,,,doll-ightful-deal-4-19---4-25,0,,1
+dolls-of-the-world-princess-collection,FALSE,dolls-of-the-world,10,Dolls of the World&#174; &mdash; <br />The Princess Collection,,,,,dolls-of-the-world--174;--mdash;-<br-->the-princess-collection,0,,1
+magic-mystery-collection,FALSE,fantasy,12,Magic & Mystery&#8482; Collection,,,,,magic---mystery--8482;-collection,0,,1
+barbie-couture-collection,FALSE,fashions,3,Barbie&#174; Couture Collection,,,,,barbie--174;-couture-collection,0,,1
+designer-spotlight,FALSE,fashions,7,Designer Spotlight&#8482;,,,,,designer-spotlight--8482;,0,,1
+grand-entrance-series,FALSE,fashions,14,Grand Entrance&#8482; Series,,,,,grand-entrance--8482;-series,0,,1
+jazz-baby-dolls,FALSE,fashions,16,Jazz Baby&#8482; Dolls,,,,,jazz-baby--8482;-dolls,0,,1
+audrey-hepburn-dolls,FALSE,hollywood,1,Audrey Hepburn&#8482; Dolls,,,,,audrey-hepburn--8482;-dolls,0,,1
+classic-tv-collection-hollywood,FALSE,hollywood,5,Classic TV Collection,,,,,classic-tv-collection,0,,1
+alice-in-wonderland,FALSE,bc-pop-culture,1,Alice In Wonderland,,,,,alice-in-wonderland,0,,1
+barbie-for-president-2012,FALSE,bc-pop-culture,6,Barbie&#174; for President 2012,,,,,barbie--174;-for-president-2012,0,,1
+dynasty-dolls-pop-culture,FALSE,bc-pop-culture,15,Dynasty&#8482; Dolls,,,,,dynasty--8482;-dolls-dynasty-dolls-pop-culture,0,FALSE,1
+hard-rock-cafe-barbie-dolls,FALSE,bc-pop-culture,19,Hard Rock Cafe&#174; Barbie&#174; Dolls,,,,,hard-rock-cafe--174;-barbie--174;-dolls,0,,1
+harley-davidson-barbie-dolls,FALSE,bc-pop-culture,20,Harley-Davidson&#174; Barbie&#174; Dolls,,,,,harley-davidson--174;-barbie--174;-dolls,0,,1
+hunger-games-collection,FALSE,bc-pop-culture,26,<em>The Hunger Games</em> Collection,,,,,<em>the-hunger-games<-em>-collection,0,,1
+university-barbie-dolls,FALSE,bc-pop-culture,30,University Barbie&#174; Dolls,,,,,university-barbie--174;-dolls,0,,1
+more-pop-culture-dolls,FALSE,bc-pop-culture,31,More Pop Culture Dolls,,,,,more-pop-culture-dolls,0,,1
+grace-kelly-silkstone-dolls,FALSE,silkstone-dolls,4,Grace Kelly Silkstone&#174; Dolls,,,,,grace-kelly-silkstone--174;-dolls,0,,1
+collectors-request-collection,FALSE,vintage-looks,1,Collectors&#8217; Request&#174; Collection,,,,,collectors--8217;-request--174;-collection,0,,1
+dollightful-deal-2014-bw,FALSE,promotions,0,Doll-ightful Deal 12/15 - 12/21,,,,,doll-ightful-deal-12-15---12-21,0,,1
+silver-label,FALSE,collector,3,Silver Label&#174;,,"Note: From 2004-2014, Silver Label Dolls were sequentially number editions of 50,000 or less worldwide for each doll. Starting in 2015, the number of dolls produced within the “Silver Label” tier was reduced to 25,000 or less.",,,silver-label--174;,0,,1
+platinum-label,FALSE,collector,5,Platinum Label&#174;,,,,,platinum-label--174;,0,,1
+special-edition,FALSE,collector,8,Special Edition,,,,,special-edition,0,,1
+hunger-games-dolls,FALSE,pop-culture-dolls,3,The Hunger Games <br />Collection,,,,,the-hunger-games-<br-->collection,0,FALSE,0
+star-trek-dolls-shop,FALSE,pop-culture-dolls,0,<em>Star Trek</em>&#8482; 50th Anniversary,,,,,<em>star-trek<-em>--8482;-50th-anniversary,0,,1
+dollightful-deal-woz,FALSE,promotions,0,Doll-ightful Deal 6/14 - 6/20,,,,,doll-ightful-deal-6-14---6-20,0,,1
+elegant-eight,FALSE,promotions,0,Elegant Eight,,,,,elegant-eight,0,,1
+collectible-cuties,FALSE,promotions,0,Collectible Cuties,,,,,collectible-cuties,0,,1
+dollbbsub,FALSE,dollproductline,5,Bitty Baby,,,,,bitty-baby,0,,1
+addydollsub,FALSE,dollbfsub,1,Addy,,,,,addy,0,,1
+juliedollsub,FALSE,dollbfsub,4,Julie,,,,,julie,0,,1
+bookbycategory,FALSE,bookstorecat,2,By Category,,,,,by-category-bookbycategory,0,,1
+bookjosefina,FALSE,bookbf,4,Josefina,,,,,josefina-bookjosefina,0,,1
+clothingbf,FALSE,clothingproductline,1,BeForever,,,,,beforever-clothingbf,0,,1
+clothinggoty,FALSE,clothingproductline,2,Girl of the Year: Lea,,,,,girl-of-the-year:-lea-clothinggoty,0,,1
+clothingspec,FALSE,clothingfordolls,3,Special Occasion,,,,,special-occasion,0,,1
+clothingmatch,FALSE,clothingfordolls,6,Matching Doll-Girl Sets,,,,,matching-doll-girl-sets,0,,1
+testcat,FALSE,magazinecat,0,06-18-15,,,,,06-18-15,0,false,1
+SET_COMPONENTS,FALSE,FORINVENTORY_NOTFORDISPLAY,10,SET_COMPONENTS,,,,,set-components,0,,0
+graceworld,FALSE,dollgotysub,0,Grace View All,,,,,grace-view-all,0,FALSE,1
+BBTestMaryellen,FALSE,dollbfsub,0,BeForever: Maryellen,,,,,beforever:-maryellen,0,FALSE,1
+furnaccesstm,FALSE,furnaccessproductline,3,Truly Me,,,,,truly-me-furnaccesstm,0,,1
+furnaccessschoolmusic,FALSE,furnaccessbycategory,7,School & Music,,,,,school---music,0,,1
+furnaccesssamantha,FALSE,furnaccessbf,10,Samantha,,,,,samantha-furnaccesssamantha,0,,1
+bfspecialsets,FALSE,dollbfsub,0,BeForever Special-Edition Sets,,,,,beforever-special-edition-sets,0,FALSE,1
+SEOdollglasses,FALSE,furnaccesscat,0,Doll Glasses & Sunglasses,,,,,doll-glasses---sunglasses,0,FALSE,1
+magazinebycategory,FALSE,magazinecat,0,By Category,,,,,by-category-magazinebycategory,0,,1
+magazinesingleissue,FALSE,magazinebycategory,1,Single Issues,,,,,single-issues,0,,1
+clothinginspiredby,FALSE,clothinginspired,0,Inspired by BeForever,,,,,inspired-by-beforever-clothinginspiredby,0,FALSE,1
+csrbfdhsub,FALSE,csrdh18inch,1,BeForever Doll Hospital Visit,,,,,beforever-doll-hospital-visit,0,FALSE,1
+csrbtdhsub,FALSE,csrdh15inch,2,Bitty Twin  Doll Hospital Visit,,,,,bitty-twin--doll-hospital-visit,0,FALSE,1
+btstarterbundles,FALSE,AG_Promotions_NOTFORDISPLAY,0,Bitty Twins Starter Bundles,,,,,bitty-twins-starter-bundles,0,,1
+gracestarterbundle,FALSE,AG_Promotions_NOTFORDISPLAY,0,Grace Starter Bundle,,,,,grace-starter-bundle,0,,1
+collections,FALSE,salecategory,1,Special Collections,,,,,special-collections,0,,1
+tmwinter,FALSE,dolltrulymesub,0,Winter Clothing & Accessories,,,,,winter-clothing---accessories,0,false,1
+trulymepetsoffer,FALSE,dolltrulymesub,0,Truly Me Pets Offer,,,,,truly-me-pets-offer,0,FALSE,1
+tmspa,FALSE,dolltrulymesub,0,TrulyMe Spa,,,false,,trulyme-spa,0,false,1
+kitdollsub,FALSE,dollbfsub,6,Kit,,,,,kit-kitdollsub,0,,1
+tmbundlepromo,FALSE,dolltrulymesub,0,Truly Me Collections,,,,,truly-me-collections,0,FALSE,1
+$98dolls,FALSE,AG_Promotions_NOTFORDISPLAY,0,$98 Doll Promotion,,,,,$98-doll-promotion,0,FALSE,1
+bookww,FALSE,bookproductline,5,WellieWishers,,,,,welliewishers,0,,1
+new5up,FALSE,newbyage,2,New for Ages 5 and Up,,,,,new-for-ages-5-and-up,0,,1
+strollerpromo,FALSE,dollbbsub,0,Bitty Baby Stroller Offer,,,,,bitty-baby-stroller-offer,0,FALSE,1
+eastergifts,FALSE,giftguidecat,0,Easter Gifts,,,,,easter-gifts,0,FALSE,1
+furnaccessww,FALSE,furnaccessproductline,4,WellieWishers,,,,,welliewishers-furnaccessww,0,,1
+wwclothingdlyd,FALSE,clothingww,0,WellieWishers Clothing for Girls,,,,,welliewishers-clothing-for-girls,0,FALSE,1
+FP_Promotions_NOTFORDISPLAY,TRUE,,,Promotions,,,,,promotions,0,FALSE,1
+csr_nla_cat,TRUE,,,No Longer Available,,,,,power-wheels-harley-davidson-lil-harley-x6222,0,FALSE,0
+csrfpservicecat,TRUE,,,FP CS Service Only,,,,,fp-cs-service-only,0,FALSE,1
+Age2to3Years,FALSE,FPStoreAge,50,2-3 years,,,,,2-3-years,0,,1
+DealoftheWeek_Promo,FALSE,CATALOGTESTING_NOTFORDISPLAY,0,Deal of the Week,,,,,deal-of-the-week,0,FALSE,0
+CategoryFigures,FALSE,FPStoreCategory,300,Figures,,,,,isabelles-scrunch-pants-f7345,0,FALSE,1
+Bath_Potty,FALSE,BrandsBabyGear,10,Bath & Potty,,,,,doilies(3)-add-d-ic-f8474-a05a,0,FALSE,1
+Seats_Bouncers,FALSE,BrandsBabyGear,40,Seats & Bouncers,,,,,teapot-bb-d-teaset-f8508-f01a,0,FALSE,1
+Castle,FALSE,BrandsImaginext,50,Castle,,,,,cookies-3-bb-d-teatreat-f8512-f03a,0,FALSE,0
+DCSuperFriends,FALSE,BrandsImaginext,10,DC Super Friends&#8482;,,,,,pants-bt-d-campgirl-f8522-g02a,0,,1
+Farm,FALSE,BrandsLittlePeople,45,Farm,,,,,game-mat-bt-d-games-f8551-g01a,0,,1
+BubbleGuppies,FALSE,BrandsNickelodeon,10,Bubble Guppies&#8482;,,,,,wristband-myag-d-tennis-f8553-r05a,0,,1
+topsellers,FALSE,FP_Promotions_NOTFORDISPLAY,0,Top Sellers,,,,,top-sellers,0,,1
+BrandsBrightBeats,FALSE,FPStoreBrands,70,Bright Beats,,,,,myag-bkbr-h-lt-sk-br-54-cf1273eprha,0,,1
+FPStoreGiftsBoys,FALSE,FPStoreGifts,40,Gifts for Boys,,Gifts for Boys<br/>,,,gifts-for-boys,0,,1
+FORINVENTORY_NOTFORDISPLAY,TRUE,,,FORINVENTORY_NOTFORDISPLAY,,,,,forinventory-notfordisplay-forinventory-notfordisplay,0,,0
+trainsets,FALSE,WoodenRailway,20,Train Sets,,,,,samantha-meet-access-11007-06778,0,,1
+FPStoreGiftsunder20,FALSE,FPStoreGifts,50,Gifts Under $20,,,,,gifts-under-$20,0,FALSE,1
+SMMatchbox,FALSE,SMBrand,0,Matchbox,,,,,matchbox,0,,1
+SM3plus,FALSE,SMAges,0,3plus,,,,,3plus,0,,1
+HWBrand,TRUE,,,Brand,,,,,brand-hwbrand,0,,1
+HWVehicles,FALSE,HWCategory,0,Vehicles,,,,,vehicles-hwvehicles,0,,1
+HW3plus,FALSE,HWAges,0,3plus,,,,,3plus-hw3plus,0,,1
+forinventorynotfordisplay,TRUE,,,FORINVENTORY_NOTFORDISPLAY,,,,,forinventory-notfordisplay,0,,1
+furniture,TRUE,,,Furniture,,,,,furniture,0,,1
+fashion-dolls-collector,TRUE,,,Fashion Dolls,,,,,fashion-dolls-fashion-dolls-collector,0,,1
+silkstone-dolls,FALSE,gallery,15,Silkstone&#174; Dolls,,,,,silkstone--174;-dolls,0,,1
+sale-collection,TRUE,,,Sale,,,,,sale-sale-collection,0,,1
+Garage,TRUE,,,Garage,,,,,garage,0,,1
+hwc-series-ten,FALSE,hwc-rlc-vehicles,4,Shop HWC&#8482; Series Ten,,,,,shop-hwc--8482;-series-ten,0,,1
+pop-culture-garage,FALSE,Garage,3,Pop Culture ,,,,,pop-culture-,0,,1
+seasonal-garage,FALSE,Garage,7,Seasonal ,,,,,seasonal-,0,False,0
+hwc-series-eleven,FALSE,hwc-rlc-vehicles,3,Shop HWC&#8482; Series Eleven,,,,,shop-hwc--8482;-series-eleven,0,,1
+hwc-series-twelve-garage,FALSE,hwc-rlc-vehicles-garage,2,HWC&#8482; Series Twelve,,,,,hwc--8482;-series-twelve,0,,1
+hwc-series-eleven-garage,FALSE,hwc-rlc-vehicles-garage,3,HWC&#8482; Series Eleven,,,,,hwc--8482;-series-eleven,0,,1
+hwc-series-nine-garage,FALSE,hwc-rlc-vehicles-garage,5,HWC&#8482; Series Nine,,,,,hwc--8482;-series-nine,0,,1
+hw-city,FALSE,2015-mainline,1,HW City,,,,,hw-city,0,,1
+placeholder_hwc,FALSE,csrhwcservicecat,0,Placeholder,,,,,placeholder,0,FALSE,0
+hwc-csr_nla_cat,TRUE,,,No Longer Available,,,,,no-longer-available-hwc-csr-nla-cat,0,FALSE,0
+dino-riders,FALSE,2016-mainline,3,Dino Riders&#8482;,,,,,dino-riders--8482;,0,,1
+2016-hw-city-works,FALSE,2016-mainline,6,HW City Works&#174;,,,,,hw-city-works--174;,0,,1
+hw-daredevils,FALSE,2016-mainline,7,HW Daredevils&#8482;,,,,,hw-daredevils--8482;,0,,1
+hw-moto,FALSE,2016-mainline,14,HW Moto&#8482;,,,,,hw-moto--8482;,0,,1
+2016-hw-race-team,FALSE,2016-mainline,15,HW Race Team,,,,,hw-race-team,0,,1
+hw-showroom,FALSE,2016-mainline,18,HW Showroom&#8482;,,,,,hw-showroom--8482;,0,,1
+2016-super-chromes,FALSE,2016-mainline,27,Super Chromes&#8482;,,,,,super-chromes--8482;,0,,1
+2016-then-now,FALSE,2016-mainline,28,Then And Now&#174;,,,,,then-and-now--174;,0,,1
+indy-cars,FALSE,racing,0,Shop Indycar Series,,,,,shop-indycar-series,0,FALSE,1
+csr_nla_hwc,FALSE,csr_nla_cat-hwc,1,No Longer Available,,,,,no-longer-available-csr-nla-hwc,0,FALSE,1
+HWCFORINVENTORY_NOTFORDISPLAY,FALSE,shop,99,FORINVENTORY_NOTFORDISPLAY,,,,,forinventory-notfordisplay-hwcforinventory-notfordisplay,0,FALSE,0
+hw-race-team,FALSE,hw-race,1,HW Race Team,,,,,hw-race-team-hw-race-team,0,,1
+track-aces,FALSE,hw-race,4,Track Aces,,,,,track-aces,0,,1
+2017-hw-exotics,FALSE,2017-mainline,11,HW Exotics&#174;,,,,,hw-exotics--174;-2017-hw-exotics,0,FALSE,1
+2017-hw-moto,FALSE,2017-mainline,15,HW Moto&#8482;,,,,,hw-moto--8482;-2017-hw-moto,0,,1
+2017-hw-ride-ons,FALSE,2017-mainline,18,HW Ride-Ons&#8482;,,,,,hw-ride-ons--8482;-2017-hw-ride-ons,0,,1
+2017-muscle-mania,FALSE,2017-mainline,23,Muscle Mania&#174;,,,,,muscle-mania--174;-2017-muscle-mania,0,FALSE,1
+2017-then-now,FALSE,2017-mainline,28,Then And Now&#174;,,,,,then-and-now--174;-2017-then-now,0,FALSE,1
+city-seasons-collection,FALSE,special-occasion,6,City Seasons&#8482; Collection,,,,,city-seasons--8482;-collection,0,,1
+stars-stripes-barbie-series,FALSE,world-culture,7,Stars & Stripes Barbie&#174; Series,,,,,stars---stripes-barbie--174;-series,0,,1
+museum-collection,FALSE,world-culture,5,The Museum Collection,,,,,the-museum-collection,0,,1
+barbie-900-series-fashions,FALSE,vintage-barbie,3,Barbie&#174; 900 Series Fashions,,,,,barbie--174;-900-series-fashions,0,,1
+barbie-3400-series-fashions,FALSE,vintage-barbie,8,Barbie&#174; 3400 Series Fashions,,,,,barbie--174;-3400-series-fashions,0,,1
+ken-doll-fashion-favorites,FALSE,vintage-ken,5,Ken&#174; Doll Fashion Favorites&#174;,,,,,ken--174;-doll-fashion-favorites--174;,0,,1
+vintage-skipper-dolls,FALSE,vintage-skipper,1,Skipper&#174; Dolls,,,,,skipper--174;-dolls,0,,1
+skipper-doll-best-buy-fashions,FALSE,vintage-skipper,3,Skipper&#174; Doll Best Buy Fashions,,,,,skipper--174;-doll-best-buy-fashions,0,,1
+skipper-doll-get-ups-n-go-fashions,FALSE,vintage-skipper,5,Skipper&#174; Doll Get-Ups &#8217;N Go Fashions,,,,,skipper--174;-doll-get-ups---8217;n-go-fashions,0,,1
+2014-collection,FALSE,gallery,2,2014 Collection,,,,,2014-collection,0,,1
+children,FALSE,gallery,6,Children,,,,,children,0,,1
+haunted-beauty-dark-forest,FALSE,promotions,0,20% Off Zombie Bride and Queen of the Dark Forest,,,,,20-off-zombie-bride-and-queen-of-the-dark-forest,0,,1
+2014-silkstone-dolls,FALSE,2014-collection,8,2014 Silkstone&#174; Dolls,,,,,2014-silkstone--174;-dolls,0,,1
+barbie-basics-collection-0025,FALSE,barbie-basics,4,Barbie Basics&#174; Collection 002.5,,,,,barbie-basics--174;-collection-0025,0,,1
+barbie-so-in-style_sis,FALSE,barbie-fashion,2,Barbie&#174; So In Style&#8482; (S.I.S.&#8482;),,,,,barbie--174;-so-in-style--8482;-(sis--8482;),0,,1
+malibu-ave-shops,FALSE,barbie-fashion,5,Malibu Ave Shops,,,,,malibu-ave-shops,0,FALSE,1
+classic-ballet-series,FALSE,children,3,Classic Ballet Series&#174;,,,,,classic-ballet-series--174;,0,,1
+christian-dior,FALSE,designers,8,Christian Dior,,,,,christian-dior,0,,1
+juicy-couture,FALSE,designers,13,Juicy Couture,,,,,juicy-couture,0,,1
+nicole-miller,FALSE,designers,15,Nicole Miller,,,,,nicole-miller,0,,1
+essence-of-nature-collection,FALSE,fantasy,8,The Essence of Nature Collection&#174;,,,,,the-essence-of-nature-collection--174;,0,,1
+timeless-sentiments-collection,FALSE,fantasy,16,Timeless Sentiments&#174; Collection,,,,,timeless-sentiments--174;-collection,0,,1
+diva-collection,FALSE,fashions,8,Diva Collection&#8482;,,,,,diva-collection--8482;,0,,1
+great-fashions-of-20th-century-series,FALSE,fashions,15,Great Fashions of the 20th Century Series,,,,,great-fashions-of-the-20th-century-series,0,,1
+model-of-moment,FALSE,fashions,17,Model of the Moment&#8482;,,,,,model-of-the-moment--8482;,0,,1
+grace-kelly-collection,FALSE,hollywood,9,Grace Kelly Collection,,,,,grace-kelly-collection,0,,1
+more-hollywood-dolls,FALSE,hollywood,12,More Hollywood Dolls,,,,,more-hollywood-dolls,0,,1
+classic-tv-collection-pop-culture,FALSE,bc-pop-culture,10,Classic TV Collection,,,,,classic-tv-collection-classic-tv-collection-pop-culture,0,,1
+grease-barbie-dolls,FALSE,bc-pop-culture,18,Grease&#174; Barbie&#174; Dolls,,,,,grease--174;-barbie--174;-dolls,0,,1
+presidential-porcelain-barbie-collection,FALSE,porcelain,5,<em>Presidential Porcelain</em> Barbie&#174; Collection,,,,,<em>presidential-porcelain<-em>-barbie--174;-collection,0,,1
+barbie-fashion-model-collection-silkstone,FALSE,silkstone-dolls,1,Barbie&#174; Fashion Model Collection,,,,,barbie--174;-fashion-model-collection,0,,1
+birthday-wishes-series,FALSE,special-occasion,2,Birthday Wishes Series,,,,,birthday-wishes-series,0,,1
+birthstone-beauties,FALSE,special-occasion,3,Birthstone Beauties&#8482;,,,,,birthstone-beauties--8482;,0,,1
+dollightful-deal-2014-hbarbie,FALSE,promotions,0,Doll-ightful Deal 12/8 - 12/14,,,,,doll-ightful-deal-12-8---12-14,0,,1
+monica-lavalle,FALSE,collector,19,Monica LaValle ,,,,,monica-lavalle-,0,,1
+shop-tokidoki,FALSE,barbie-dolls,0,tokidoki&#174; Barbie&#174;,,"tokidoki x Barbie®! The creative collaboration between Barbie and tokidoki founder Simone Legno goes beyond tokidoki Barbie dolls. Find tokidoki Barbie vinyls here, too!<br/>",,,tokidoki--174;-barbie--174;,0,FALSE,1
+vintage-look-dolls,FALSE,bcshop,8,Vintage Look Dolls,,"Vintage look Barbie® dolls bring back the facial sculpts from the ’50s and ’60s, and draw style inspirations from across a gorgeous history of fashion!<br/>",,,vintage-look-dolls,0,,1
+dollightul-deal-katniss-peeta,FALSE,promotions,0,Doll-ighftul Deal,,,,,doll-ighftul-deal-dollightul-deal-katniss-peeta,0,,1
+beloved-baubles,FALSE,promotions,0,Beloved Baubles,,,,,beloved-baubles,0,,1
+barbie-vinyl-collectible-barbie-mystery-minis,FALSE,promotions,0,Barbie&#8482; Vinyl Collectible + Barbie&#8482; Mystery Minis,,,,,barbie--8482;-vinyl-collectible--barbie--8482;-mystery-minis,0,,1
+dollscat,TRUE,,,Dolls,,,,,dolls-dollscat,0,,1
+csrservicecat,TRUE,,,CS Service Only,,,,,cs-service-only,0,FALSE,0
+csr_nla_cat,TRUE,,,No Longer Available,,,,,no-longer-available,0,FALSE,0
+williamssonoma,TRUE,,,Williams-Sonoma,,,,,williams-sonoma,0,FALSE,0
+dollcareproduct,FALSE,dollcaresub,5,Doll Care Products,,,,,doll-care-products,0,FALSE,1
+clothingfordolls,FALSE,clothingcat,2,For Dolls,,,,,for-dolls,0,,1
+clothingforgirls,FALSE,clothingcat,3,For Girls,,,,,for-girls,0,,1
+bfclothjosefina,FALSE,clothingbf,3,Josefina,,,,,josefina-bfclothjosefina,0,,1
+clothinginspired,FALSE,clothingforgirls,3,Inspired by BeForever,,,,,inspired-by-beforever,0,FALSE,1
+csrservice,FALSE,csrservicecat,1,Service Requests,,,,,service-requests,0,FALSE,1
+ADDONSERVICES,FALSE,FORINVENTORY_NOTFORDISPLAY,20,ADDONSERVICES,,,,,addonservices,0,,0
+bfclothrebecca,FALSE,clothingbf,9,Rebecca,,,,,rebecca-bfclothrebecca,0,,1
+furnaccessjulie,FALSE,furnaccessbf,4,Julie,,,,,julie-furnaccessjulie,0,,1
+furnaccessfood,FALSE,furnaccessbycategory,6,Food & Dining,,,,,food---dining,0,,1
+furnaccesssports,FALSE,furnaccessbycategory,8,Sports & Hobbies,,,,,sports---hobbies-furnaccesssports,0,,1
+SEO Doll House,FALSE,furnaccesscat,0,Doll House,,,,,doll-house,0,FALSE,1
+ggunder30,FALSE,ggbyprice,1,Under $30,,,,,under-$30,0,,1
+newproductline,FALSE,new,1,By Product Line,,,,,by-product-line-newproductline,0,,1
+samanthadollsub,FALSE,dollbfsub,10,Samantha,,,,,samantha-samanthadollsub,0,,1
+bfclothsamantha,FALSE,clothingbf,10,Samantha,,,,,samantha-bfclothsamantha,0,,1
+bbbath,FALSE,dollbbsub,0,Bitty Baby Bath Play Set,,,,,bitty-baby-bath-play-set,0,FALSE,1
+bbtravel,FALSE,dollbbsub,0,Bitty Baby Travel Play Set,,,,,bitty-baby-travel-play-set,0,FALSE,1
+clothinghalloween,FALSE,clothingcat,0,Halloween Outfits & Accessories,,,,,halloween-outfits---accessories,0,FALSE,1
+clothingpj,FALSE,clothingcat,0,Pajamas for Doll & Girl,,,,,pajamas-for-doll---girl,0,FALSE,1
+bfstarterbundles,FALSE,AG_Promotions_NOTFORDISPLAY,0,BeForever Starter Bundles,,,,,beforever-starter-bundles,0,,1
+tmdoll,FALSE,dolltrulymesub,0,Truly Me Dolls,Truly Me Dolls,,,,truly-me-dolls,0,FALSE,1
+tmspecialdays,FALSE,dolltrulymesub,0,Special Days Outfits & Accessories,,,,,special-days-outfits---accessories,0,false,1
+clothingwinter,FALSE,clothingcat,0,Winter Outfits & Accessories,,,,,winter-outfits---accessories,0,,1
+dollfeatures,FALSE,dollcaresub,1,Doll Features,,,,,doll-features,0,FALSE,1
+gotydollsub,FALSE,dollproductline,2,Girl of the Year: Lea,,,,,girl-of-the-year:-lea-gotydollsub,0,,1
+BBHeroTestLea,FALSE,gotydollsub,0,Girl of the Year: Lea,,,,,girl-of-the-year:-lea-bbherotestlea,0,FALSE,1
+Valentinegifts,FALSE,giftguidecat,0,Valentine's Gifts,,,,,valentines-gifts,0,FALSE,1
+furnaccessmaryellen,FALSE,furnaccessbf,7,Maryellen,,,,,maryellen-furnaccessmaryellen,0,,1
+trulymerecitaloffer,FALSE,dolltrulymesub,0,Truly Me Recital Offer,,,,,truly-me-recital-offer,0,FALSE,1
+cyber,FALSE,salecategory,0,Cyber Monday,,,,,cyber-monday,0,FALSE,1
+tmmixmatch,FALSE,dolltrulymesub,0,Mix & Match Outfits,,,,,mix---match-outfits,0,FALSE,1
+wwdollsaccess,FALSE,dollwelliessub,0,WellieWishers Dolls & Good Deed Accessories,,,,,welliewishers-dolls---good-deed-accessories,0,FALSE,1
+gg5up,FALSE,ggbyage,2,Gifts for Ages 5 and Up,,,,,gifts-for-ages-5-and-up,0,,1
+melodydollsub,FALSE,dollbfsub,8,Melody,,,,,melody-melodydollsub,0,,1
+FPStoreExclusive,TRUE,,,Exclusives,,,,,exclusives-fpstoreexclusive,0,,1
+AgeBabyOnWay,FALSE,FPStoreAge,10,Baby on the Way,,,,,baby-on-the-way,0,,1
+Age12to24Month,FALSE,FPStoreAge,40,12-24 months,,,,,12-24-months,0,,1
+BrandsPowerWheels,FALSE,FPStoreBrands,60,Power Wheels&#174;,,,,,power-wheels--174;,0,,1
+Blaze,FALSE,BrandsNickelodeon,30,Blaze and the Monster Machines&#8482;,,,,,lg-girl-carousel-top-cgp55cre4,0,,1
+ExclusiveViewAll,FALSE,FPStoreExclusive,10,Exclusives,,,,,exclusives-exclusiveviewall,0,,1
+LPupto50percentoff,FALSE,FP_Promotions_NOTFORDISPLAY,0,25 Toys Up to 50% Off!  ,,,,,25-toys-up-to-50-off!--,0,FALSE,0
+BrandsShakira,FALSE,FPStoreBrands,115,Shakira First Steps Collection,,,,,shakira-first-steps-collection,0,,1
+BrandsMegaBloks,FALSE,FPStoreBrands,110,Mega Bloks&#174; First Builders&#8482;,,,,,boxes-(2)---myag-bed-g0637-r07a,0,,1
+FPEasterThomas,FALSE,FPEasterSale,2,Thomas Wooden Railway,,,,,medium-skin--dark-brown-hair-11001-09599,0,,1
+Learning,FALSE,CategoryBabyToys,10,Early Learning Toys,,,,,isabelles-legwarmers-set-for-dolls-f7339,0,,1
+MotorSkills,FALSE,CategoryBabyToys,170,Motor Skills,,,,,isabelles-dance-skirt-f7341,0,FALSE,1
+Playtime,FALSE,CategoryBabyToys,180,Playtime,,,,,isabelles-funky-leggings-f7343,0,FALSE,1
+CategoryVehicles,FALSE,FPStoreCategory,40,"Toy Cars, Trains & Vehicles",,,,,isabelles-rosette-leotard-f7381,0,,1
+Sea,FALSE,CategoryVehicles,30,Sea,,,,,isabelles-pajamas-goty-g-f7410,0,FALSE,1
+Zoo,FALSE,BrandsLittlePeople,40,Zoo,,,,,treat-bt-d-games-f8551-g04a,0,,1
+ClearancePlaysetsFigures,FALSE,FPStoreSale,3,Playsets & Action Figures,,,,,playsets---action-figures,0,,1
+ClearanceBabygear,FALSE,FPStoreSale,2,Baby Gear & Toys,,,,,no-kid-hungry-donation-cmg80,0,,1
+MyCustomEngine,FALSE,BrandsThomasFriends,20,My Custom Engine,,,,,my-custom-engine,0,,1
+CategoryTrainsEngines,FALSE,CategoryVehicles,1,Toy Trains & Engines,,,,,toy-trains---engines,0,,1
+CategoryPlaysetsSub,FALSE,CategoryFigsPlaysets,10,Playsets,,,,,agc-generic-component-11005-60650,0,,1
+CategoryLearnEdu,FALSE,FPStoreCategory,60,Learning & Educational Toys,,,,,julies-classic-accys-djx15,0,,1
+BrandsSpinnyos,FALSE,FPStoreBrands,120,Spinnyos&#8482;,,,,,octonauts-tweaks-octo-max-suit-bbv20,0,,1
+FPEasterSmartToys,FALSE,FPEasterSale,100,Smart Toys,,,,,smart-toys,0,FALSE,0
+SMGirls,FALSE,SMBrand,0,Girls,,,,,girls-smgirls,0,,1
+SMHotWheels,FALSE,SMBrand,0,Hot Wheels,,,,,hot-wheels,0,,1
+SM4to5,FALSE,SMAges,0,4to5,,,,,4to5,0,,1
+SM6to7,FALSE,SMAges,0,6to7,,,,,6to7,0,,1
+made-to-move,TRUE,,,Made to Move,,,,,made-to-move,0,,1
+dolls,TRUE,,,Dolls,,,,,dolls-dolls,0,,1
+cs-service-only,TRUE,,,CS Service Only,,,,,cs-service-only,0,,1
+clothing,TRUE,,,Clothing,,,,,clothing,0,,1
+pop-culture-dolls,FALSE,bcshop,4,Pop Culture Dolls,,"Hollywood, here we come! Your favorite celebrities from movies and TV shows are here, plus Barbie&#174; dolls getting in on the act. Shop in the limelight!",,,pop-culture-dolls,0,,1
+todays-offer,FALSE,shop,0,Next HWC Offer,,,,,next-hwc-offer,0,,1
+retail-vehicles,FALSE,shop,3,Shop Retail Vehicles,,,,,shop-retail-vehicles,0,FALSE,0
+seasonal,FALSE,shop,8,Shop Seasonal,,,,,shop-seasonal,0,False,0
+hwc-accessories,FALSE,shop,12,Shop Accessories,,,,,shop-accessories,0,,1
+retail-vehicles-garage,FALSE,Garage,2,Retail Vehicles ,,,,,retail-vehicles-,0,FALSE,0
+real-vehicles-garage,FALSE,Garage,5,Real Vehicles ,,,,,real-vehicles-,0,,1
+hwc-series-nine,FALSE,hwc-rlc-vehicles,5,Shop HWC&#8482; Series Nine,,,,,shop-hwc--8482;-series-nine,0,,1
+hwc-series-eight,FALSE,hwc-rlc-vehicles,6,Shop HWC&#8482; Series Eight,,,,,shop-hwc--8482;-series-eight,0,,1
+hwc-series-thirteen-garage,FALSE,hwc-rlc-vehicles-garage,1,HWC&#8482; Series Thirteen,,,,,hwc--8482;-series-thirteen,0,,1
+2015-mainline,FALSE,Garage,10,2015 Mainline ,,,,,2015-mainline-,0,,1
+2016-batman,FALSE,2016-mainline,1,Batman&#8482;,,,,,batman--8482;,0,,1
+bmw,FALSE,2016-mainline,2,BMW,,,,,bmw,0,,1
+hw-exotics,FALSE,2016-mainline,9,HW Exotics&#174;,,,,,hw-exotics--174;,0,,1
+2016-sky-show,FALSE,2016-mainline,25,Sky Show&#174;,,,,,sky-show--174;,0,,1
+2016-street-beasts,FALSE,2016-mainline,26,Street Beasts&#174;,,,,,street-beasts--174;,0,,1
+2016-x-raycers,FALSE,2016-mainline,30,X-Raycers&#174; ,,,,,x-raycers--174;-,0,,1
+treasure-hunt-sets,FALSE,sets,0,Treasure Hunt Sets,,,,,treasure-hunt-sets,0,FALSE,1
+csr_nla_cat-hwc,TRUE,,,No Longer Available,,,,,no-longer-available-csr-nla-cat-hwc,0,FALSE,0
+2017-tooned,FALSE,2017-mainline,29,2017 Tooned&#174;,,,,,2017-tooned--174;,0,,1
+sky-show,FALSE,hw-off-road,5,Sky Show,,,,,sky-show,0,,1
+x-raycers,FALSE,hw-race,6,X-Raycers,,,,,x-raycers,0,,1
+muscle-mania,FALSE,hw-workshop,4,Muscle Mania,,,,,muscle-mania,0,,1
+2017-hw-daredevils,FALSE,2017-mainline,9,HW Daredevils&#8482;,,,,,hw-daredevils--8482;-2017-hw-daredevils,0,FALSE,1
+2017-hw-race-team,FALSE,2017-mainline,16,HW Race Team&#174;,,,,,hw-race-team--174;,0,FALSE,1
+2017-hw-snow-stormers,FALSE,2017-mainline,20,HW Snow Stormers&#8482;,,,,,hw-snow-stormers--8482;-2017-hw-snow-stormers,0,,1
+2017-hw-speed-graphics,FALSE,2017-mainline,21,HW Speed Graphics&#8482; ,,,,,hw-speed-graphics--8482;-,0,,1
+stunt-circuit,FALSE,hw-off-road,6,Stunt Circuit,,,,,stunt-circuit,0,,1
+hwc-news-bak,TRUE,,,News,,,,,news,0,,0
+fantasy,FALSE,gallery,10,Fantasy,,,,,fantasy,0,,1
+global-glamour-collection,FALSE,world-culture,2,Global Glamour&#8482; Collection,,,,,global-glamour--8482;-collection,0,,1
+barbie-1800-series-fashions,FALSE,vintage-barbie,7,Barbie&#174; 1800 Series Fashions,,,,,barbie--174;-1800-series-fashions,0,,1
+barbie-doll-best-buy-fashions,FALSE,vintage-barbie,9,Barbie&#174; Doll Best Buy Fashions,,,,,barbie--174;-doll-best-buy-fashions,0,,1
+ken-doll-best-buy-fashions,FALSE,vintage-ken,4,Ken&#174; Doll Best Buy Fashions,,,,,ken--174;-doll-best-buy-fashions,0,,1
+francie-doll-best-buy-fashions,FALSE,vintage-francie,5,Francie&#174; Doll Best Buy Fashions,,,,,francie--174;-doll-best-buy-fashions,0,,1
+skipper-doll-fashion-paks,FALSE,vintage-skipper,4,Skipper&#174; Doll Fashion Paks,,,,,skipper--174;-doll-fashion-paks,0,,1
+club-dolls,FALSE,gallery,7,Club Dolls,,,,,club-dolls,0,,1
+dolls-of-the-world,FALSE,gallery,9,Dolls of the World&reg;,,,,,dolls-of-the-world-reg;,0,,1
+2015-fantasy-special-occasion-dolls,FALSE,2015-collection,2,2015 Fantasy & Special Occasion Dolls,,,,,2015-fantasy---special-occasion-dolls,0,,1
+teenage-fashion-model-collection,FALSE,2015-collection,7,Teenage Fashion Model&#8482; Collection,,,,,teenage-fashion-model--8482;-collection,0,,1
+2014-designer-dolls,FALSE,2014-collection,4,2014 Designer Dolls,,,,,2014-designer-dolls,0,,1
+2016-holiday-barbie-dolls,FALSE,promotions,0,2016 Holiday Barbie&#8482; Dolls,,,,,2016-holiday-barbie--8482;-dolls,0,,1
+princess-series,FALSE,children,6,Princess Series,,,,,princess-series,0,,1
+when-i-read-i-dream,FALSE,children,8,"When I Read, I Dream&#8482;",,,,,when-i-read--i-dream--8482;,0,,1
+more-childrens-dolls,FALSE,children,9,More Children&#8217;s Dolls,,,,,more-children--8217;s-dolls,0,,1
+anne-klein,FALSE,designers,1,Anne Klein,,,,,anne-klein,0,,1
+more-designer-dolls,FALSE,designers,24,More Designer Dolls,,,,,more-designer-dolls,0,,1
+placeholder_bc,FALSE,csrbcservicecat,0,Placeholder,,,,,placeholder-placeholder-bc,0,FALSE,0
+birds-of-beauty-collection,FALSE,fantasy,4,Birds of Beauty&#174; Collection,,,,,birds-of-beauty--174;-collection,0,,1
+enchanted-world-of-fairies-collection,FALSE,fantasy,7.5,The Enchanted World of Fairies&#8482; Collection,,,,,the-enchanted-world-of-fairies--8482;-collection,0,,1
+society-hound-collection,FALSE,fashions,20,Society Hound&#8482; Collection,,,,,society-hound--8482;-collection,0,,1
+elizabeth-taylor-collection,FALSE,hollywood,7,Elizabeth Taylor Collection,,,,,elizabeth-taylor-collection,0,,1
+hollywood-movie-star-collection,FALSE,hollywood,11,Hollywood Movie Star&#8482; Collection,,,,,hollywood-movie-star--8482;-collection,0,,1
+divergent-dolls,FALSE,bc-pop-culture,14,Divergent Dolls,,,,,divergent-dolls,0,,1
+forever-betty-boop,FALSE,bc-pop-culture,16,Forever Betty Boop&#8482;,,,,,forever-betty-boop--8482;,0,,1
+holiday-porcelain-barbie-collection,FALSE,porcelain,2,Holiday Porcelain Barbie Collection&#174;,,,,,holiday-porcelain-barbie-collection--174;,0,,1
+anniversary-dolls,FALSE,special-occasion,1,Anniversary Dolls,,,,,anniversary-dolls,0,,1
+fashion-week,FALSE,promotions,0,Fashion Week,,Save 25% and get free standard shipping on select Fashion Week Dolls and lifestyle items! <br/>(<span style='font-weight:bold;'>Please note</span>: The discount will appear in your cart when you add a qualifying purchase to your cart.),,,fashion-week,0,,1
+email-promo,FALSE,promotions,0,Sale ,,<span style='color:#362f2c;'>Enter promo code</span><span style='color:#ff0000;'> VDAY</span><span style='color:#362f2c;'> at checkout to see your discount! </span>Gift sets are excluded.,,,sale-,0,,1
+scary-savings,FALSE,promotions,0,Scary Savings,,,,,scary-savings,0,,1
+2016-birthday-wishes-barbies,FALSE,promotions,0,Birthday Wishes&#174; Barbie&#174; Dolls,,,,,birthday-wishes--174;-barbie--174;-dolls,0,,1
+2017-birthday-wishes-barbie,FALSE,promotions,0,2017 Birthday Wishes&#174; Barbie&#174; Dolls,,,,,2017-birthday-wishes--174;-barbie--174;-dolls,0,,1
+limited-edition,FALSE,collector,7,Limited Edition,,,,,limited-edition,0,,1
+anna-choi,FALSE,collector,11,Anna Choi ,,,,,anna-choi-,0,,1
+linda-kyaw,FALSE,collector,18,Linda Kyaw ,,,,,linda-kyaw-,0,,1
+holiday-barbies,FALSE,promotions,0,Holiday Barbies,,,,,holiday-barbies,0,,1
+wizard-of-oz-dolls,FALSE,pop-culture-dolls,4,The Wizard of Oz <br />Collection,,"You&#39;ve followed the Yellow Brick Road to see the wonderful Wizard of Oz dolls, from faithful re-creations of actors and costumes, to fantasy glamour versions of your favorite stars!<br/>",,,the-wizard-of-oz-<br-->collection,0,FALSE,0
+final-15,FALSE,promotions,0,Final 15,,,,,final-15,0,,1
+glamour-joy,FALSE,promotions,0,Glamour and Joy,,,,,glamour-and-joy,0,,1
+mockingjay-2,FALSE,promotions,0,The Hunger Games: Mockingjay-Part 2 Dolls,,,,,the-hunger-games:-mockingjay-part-2-dolls,0,,1
+doll-sketch-set,FALSE,promotions,0,Doll Sketch Set,,,,,doll-sketch-set,0,,1
+bookstorecat,TRUE,,,Books & Crafts,,,,,books---crafts-bookstorecat,0,,0
+LOADTESTING,TRUE,,,LOADTESTING_DONOTUSE,,,,,loadtesting-donotuse,0,,0
+dollgotysub,FALSE,dollproductline,0,Girl of the Year: Grace,,,,,girl-of-the-year:-grace,0,FALSE,1
+bookproductline,FALSE,bookstorecat,1,By Product Line,,,,,by-product-line-bookproductline,0,,1
+bookmystery,FALSE,bookbycategory,7,Mysteries,,,,,mysteries,0,,1
+booksam,FALSE,bookbf,12,Samantha,,,,,samantha,0,,1
+clothingcasual,FALSE,clothingfordolls,4,Casual,,,,,casual,0,,1
+bfclothkaya,FALSE,clothingbf,5,Kaya,,,,,kaya-bfclothkaya,0,,1
+exclusions,FALSE,AG_Promotions_NOTFORDISPLAY,0,Exclusions,,,,,exclusions,0,,1
+ggschool,FALSE,giftguidecat,0,Back to School Gift Ideas,,,,,back-to-school-gift-ideas,0,FALSE,1
+furnaccessproductline,FALSE,furnaccesscat,1,By Product Line,,,,,by-product-line-furnaccessproductline,0,,1
+furnaccessgoty,FALSE,furnaccessproductline,2,Girl of the Year: Lea,,,,,girl-of-the-year:-lea-furnaccessgoty,0,,1
+furnaccessnursery,FALSE,furnaccessbycategory,10,Nursery,,,,,nursery,0,,1
+BBTestTrulyMePets,FALSE,furnaccesstm,0,Truly Me:Furniture and Accessories,,,,,truly-me:furniture-and-accessories,0,FALSE,1
+ggunder100,FALSE,ggbyprice,2,Under $100,,,,,under-$100,0,,1
+BBTestSamantha,FALSE,samanthadollsub,0,Beforever: Samantha,,,,,beforever:-samantha,0,FALSE,1
+clothingbfspring,FALSE,clothingcat,0,BeForever Spring Dresses,,,,,beforever-spring-dresses,0,FALSE,1
+isabelleworld,FALSE,dollgotysub,0,Isabelle View All,,,,,isabelle-view-all,0,FALSE,1
+csrgotydhsub,FALSE,csrdh18inch,2,Girl of the Year Doll Hospital Visit,,,,,girl-of-the-year-doll-hospital-visit,0,FALSE,1
+csrdwohdhsub,FALSE,csrdh18inch,4,Dolls Without Hair Doll Hospital Visit,,,,,dolls-without-hair-doll-hospital-visit,0,FALSE,1
+csrmyagdh51sub,FALSE,csrmyagdhsub,50,Doll 51 - 66 Hospital Visit,,,,,doll-51---66-hospital-visit,0,FALSE,1
+csr_nla_,FALSE,csr_nla_cat,1,No Longer Available,,,,,no-longer-available-csr-nla-,0,FALSE,1
+salecategory,FALSE,sale,1,By Category,,,,,by-category-salecategory,0,,1
+trulymespecialextrasoffer,FALSE,dolltrulymesub,0,Truly Me Special Extras Offer,,,,,truly-me-special-extras-offer,0,FALSE,1
+trulymehorseoffer,FALSE,dolltrulymesub,0,Truly Me Horse Special Offer,,,,,truly-me-horse-special-offer,0,FALSE,1
+dollhospital,FALSE,dollcaresub,3,Doll Hospital,,,,,doll-hospital,0,FALSE,1
+furnaccessfashion,FALSE,furnaccessbycategory,3,Fashion Accessories,,,,,fashion-accessories,0,,1
+holidayideas,FALSE,giftguidecat,0,Holiday Ideas,,,,,holiday-ideas,0,FALSE,1
+pets,FALSE,tmbundlepromo,0,Pets,,,,,pets,0,FALSE,1
+furnaccessws,FALSE,furnaccessproductline,6,Williams-Sonoma,,,,,williams-sonoma-furnaccessws,0,,1
+furnaccessgirlzcrew,FALSE,furnaccessforgirls,4,Z.Crew Product,,,,,zcrew-product,0,,1
+bbnecessities,FALSE,dollbbsub,0,Bitty Baby Nursery Necessities,,,,,bitty-baby-nursery-necessities,0,FALSE,1
+furntest,FALSE,furnaccesscat,0,Test,,,,,test-furntest,0,FALSE,1
+doll5up,FALSE,dollbycategory,3,Dolls for Ages 5+,,,,,dolls-for-ages-5,0,,1
+bookmelody,FALSE,bookbf,10,Melody,,,,,melody,0,,1
+magazinesubscriptionhelp,FALSE,magazinebycategory,3,Subscription Help,,,,,subscription-help,0,,1

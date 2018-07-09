@@ -1,0 +1,42 @@
+CatalogGroup
+GroupIdentifier,TopGroup,ParentGroupIdentifier,Sequence,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Keyword,Delete,Field 1,Published
+hwc-gallery,true,,,Gallery,,,,,collectors-gallery,0,,1
+hwc-shop,true,,,Shop,,,,,shop,0,,1
+hwc-star-wars,false,hwc-shop,5.5,Star Wars,,,,,star-wars--1,0,,1
+csrhwcservice,false,csrhwcservicecat,1,HWC Service Requests,,,,,hwc-service-requests,0,FALSE,1
+csrsearchableproducts-hwc,false,csr_nla_cat-hwc,0,CSR Searchable HWC,,,,,csr-searchable-hwc,0,FALSE,1
+csr_nla_hwc,false,csr_nla_cat-hwc,1,No Longer Available,,,,,no-longer-available-csr-nla-hwc,0,FALSE,1
+premium-vehicles-gallery,false,hwc-load-testing,5,Premium,,,,,premium-vehicles-gallery,0,,1
+special-events-gallery,false,hwc-gallery,3,Special Events,,,,,special-event-cars-gallery,0,,1
+rlc-exclusive-cars,false,hwc-shop,5,RLC Exclusive Cars,,,,,rlc-exclusive-cars,0,,1
+new-releases,false,hwc-shop,1,Newest Releases,,,,,new-releases,0,,1
+mainline-vehicles-gallery,false,hwc-gallery,4,Mainline,,,,,mainline-vehicles-gallery,0,,1
+collector-special-event-cars,false,hwc-shop,4,Special Events Cars,,,,,collector-special-event-cars,0,,1
+collector-sets-cases,false,hwc-shop,6,Sets & Cases,,,,,collector-sets-cases,0,,1
+collector-series-cars,false,hwc-shop,2,HWC Series Cars,,,,,collector-series-cars,0,,1
+collector-non-series-cars,false,hwc-shop,3,HWC Cars,,,,,collector-non-series-cars,0,,1
+collector-accessories,false,hwc-shop,7,Accessories,,,,,collector-accessories,0,,1
+rewards,false,hwc-load-testing,0,RLC Rewards Page,,,,images/hwc/category/RLC_Rewards_Banner_12_27_1300px.jpg,rewards-page,0,,1
+pop-culture-vehicles-gallery,false,premium-vehicles-gallery,1,Pop Culture,,,,,pop-culture-vehicles-gallery,0,,1
+comic-con-cars-gallery,false,special-events-gallery,2,Comic Con Cars,,,,,comic-con-cars-gallery,0,,1
+convention-cars-gallery,false,special-events-gallery,1,Convention Cars,,,,,convention-cars-gallery,0,,1
+collector-comic-con-cars,false,collector-special-event-cars,2,Comic Con Cars,,,,,collector-comic-con-cars,0,,1
+collector-convention-cars,false,collector-special-event-cars,1,Convention Cars,,,,,collector-convention-cars,0,FALSE,1
+entertainment-vehicles-gallery,false,premium-vehicles-gallery,3,Entertainment,,,,,entertainment-vehicles-gallery,0,,1
+car-culture-vehicles-gallery,false,premium-vehicles-gallery,2,Car Culture,,,,,car-culture-vehicles-gallery,0,,1
+2017-mainline-vehicles-gallery,false,mainline-vehicles-gallery,1,2017  Mainline,,,,,2017-mainline-vehicles-gallery,0,,1
+2016-mainline-vehicles-gallery,false,mainline-vehicles-gallery,2,2016 Mainline,,,,,2016-mainline-vehicles-gallery,0,,1
+2015-mainline-vehicles-gallery,false,mainline-vehicles-gallery,3,2015 Mainline ,,,,,2015-mainline-vehicles-gallery,0,,1
+trucks-vans-wagons-gallery,false,hwc-rlc-vehicles-gallery,5,"Trucks, Vans & Wagons",,,,,trucks-vans-wagons-gallery,0,,1
+pop-culture-gallery,false,hwc-rlc-vehicles-gallery,3,Pop Culture ,,,,,pop-culture-gallery,0,,1
+hot-wheels-originals-gallery,false,hwc-rlc-vehicles-gallery,2,HW Originals,,,,,hw-originals-gallery,0,,1
+trucks-vans-wagons-series-cars,false,collector-series-cars,4,"Trucks, Vans & Wagons",,,,,trucks-vans-wagons-series-cars,0,,1
+real-vehicles-series-cars,false,collector-series-cars,1,Real Vehicles,,,,,real-vehicles-series-cars,0,,1
+racing-cars-series-cars,false,collector-series-cars,3,Racing Cars,,,,,racing-cars-series-cars,0,,1
+hw-originals-series-cars,false,collector-series-cars,2,Hot Wheels Originals,,,,,hw-originals-series-cars,0,,1
+trucks-vans-wagons-non-series-cars,false,collector-non-series-cars,4,"Trucks, Vans & Wagons",,,,,trucks-vans-wagons-non-series-cars,0,,1
+real-vehicles-non-series-cars,false,collector-non-series-cars,1,Real Vehicles,,,,,real-vehicles-non-series-cars,0,,1
+other-vehicles,false,collector-non-series-cars,5,Other Vehicles,,,,,other-vehicles,0,,1
+hw-originals-non-series-cars,false,collector-non-series-cars,2,HW Originals,,,,,hw-originals-non-series-cars,0,,1
+2018-mainline-vehicles-gallery,false,mainline-vehicles-gallery,0,2018  Mainline,,,,,2018-mainline,0,,1
+racing-cars-non-series-cars,false,collector-non-series-cars,3,Race Cars,,,,,racing-cars-non-series-cars,0,,1

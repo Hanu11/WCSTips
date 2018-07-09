@@ -1,0 +1,460 @@
+AttributeDictionaryAttributeAndAllowedValues
+Identifier,Type,AttributeType,Name,UnitOfMeasure,sequence,Displayable,Comparable,StoreDisplay,LanguageId
+Girl2HairSkinTone,STRING,1,Girl 2,,0,1,0,,-1
+Carsinseries,STRING,2,Cars In Series,,0,1,0,,-1
+MEMBERSHIP_ONLY,STRING,2,MEMBERSHIP ONLY,,0,1,0,,-1
+MEMBERSHIP_PRODUCT,STRING,1,MEMBERSHIP_PRODUCT,,0,1,0,,-1
+Releasenum,STRING,2,HWC/RLC Release #,,0,1,0,,-1
+SHOWROOM,STRING,2,SHOWROOM,,0,1,0,,-1
+PLUCK_REFERENCE_PRODUCT_ID,STRING,2,Pluck Reference Product ID,,0,1,0,,-1
+agcategory,STRING,1,Category,,0,1,0,,-1
+CATENTRY.AVAILABILITYDATE,STRING,2,CATENTRY.AVAILABILITYDATE,,0,1,0,,-1
+AVAILABILITYDATE,STRING,2,AVAILABILITYDATE,,0,1,0,,-1
+ClothingCategory,STRING,1,Category,,0,1,0,,-1
+PLAgooglebrand,STRING,2,Google Brand,,0,1,0,,-1
+PLAgoogleprodtype,STRING,2,Google Product Type,,0,1,0,,-1
+PLAgoogleprice,FLOAT,2,Google Price for Bundles,,0,1,0,,-1
+PLAgoogleexclude,STRING,2,Google Exclude ,,0,1,0,,-1
+PLAgooglesubcat,STRING,2,Google Sub Category,,0,1,0,,-1
+PLAgooglecustom_label_0,STRING,2,Google Custom Label 0,,0,1,0,,-1
+PLAgooglecustom_label_1,STRING,2,Google Custom Label 1,,0,1,0,,-1
+PLAgooglecustom_label_2,STRING,2,Google Custom Label 2,,0,1,0,,-1
+PLAgooglecustom_label_3,STRING,2,Google Custom Label 3,,0,1,0,,-1
+PLAgooglecustom_label_4,STRING,2,Google Custom Label 4,,0,1,0,,-1
+EXCLUDE_FANFAV_COMPCOLL,STRING,1,Exclude from Fan Faves & Complete Collection,,0,1,0,,-1
+Gross_Motor,STRING,2,Gross Motor Skills,,0,1,0,,-1
+Sensory,STRING,2,Sensory Skills,,0,1,0,,-1
+Self-expr_Confidence,STRING,2,Self-Expression & Confidence,,0,1,0,,-1
+Academics,STRING,2,Academics,,0,1,0,,-1
+Curiosity_Discovery,STRING,2,Curiosity & Discovery,,0,1,0,,-1
+Imagination_Curiosity,STRING,2,Imagination & Creativity,,0,1,0,,-1
+Thinking_ProblemSolving,STRING,2,Problem Solving,,0,1,0,,-1
+Security_Happiness,STRING,2,Security & Happiness,,0,1,0,,-1
+Listening_Communication,STRING,2,Listening,,0,1,0,,-1
+Fine_Motor,STRING,2,Fine Motor Skills,,0,1,0,,-1
+Balance_Coordination,STRING,2,Balance & Coordination,,0,1,0,,-1
+Sharing_Cooperation,STRING,2,Sharing & Cooperation,,0,1,0,,-1
+SearchAge,STRING,1,Age,,0,1,0,,-1
+RibbonAd_AwardWinner,STRING,1,RibbonAd_AwardWinner,,0,1,0,,-1
+RibbonAd_Exclusive,STRING,1,RibbonAd_Exclusive,,0,1,0,,-1
+RibbonAd_New,STRING,1,RibbonAd_New,,0,1,0,,-1
+RibbonAd_Sale,STRING,1,RibbonAd_Sale,,0,1,0,,-1
+RibbonAd_TopSeller,STRING,1,RibbonAd_TopSeller,,0,1,0,,-1
+Brand,STRING,1,Brand,,0,1,0,,-1
+excludeShippingStates,STRING,2,Exclude US Shipping States,,0,1,0,,-1
+excludeInternationalShipping,STRING,2,Exclude International Shipping,,0,1,0,,-1
+excludeShippingCountries,STRING,2,Exclude Shipping Countries,,0,1,0,,-1
+excludePoBox,STRING,2,Exclude Po Box,,0,1,0,,-1
+excludeRushShipping,STRING,2,Exclude Rush Shipping,,0,1,0,,-1
+includeShippingCountries,STRING,2,Include Shipping Countries,,0,1,0,,-1
+Bullet1,STRING,2,Bullet List 1,,0,1,0,,-1
+Bullet2,STRING,2,Bullet List 2,,0,1,0,,-1
+Bullet3,STRING,2,Bullet List 3,,0,1,0,0,-1
+Bullet4,STRING,2,Bullet List 4,,0,1,0,0,-1
+Bullet5,STRING,2,Bullet List 5,,0,1,0,0,-1
+Bullet6,STRING,2,Bullet List 6,,0,1,0,0,-1
+Bullet7,STRING,2,Bullet List 7,,0,1,0,0,-1
+Bullet8,STRING,2,Bullet List 8,,0,1,0,0,-1
+Bullet9,STRING,2,Bullet List 9,,0,1,0,0,-1
+CSRAttr,STRING,1,CSRAttr,,0,1,0,,-1
+SensorySkills,STRING,2,Sensory Skills,,0,1,0,,-1
+GrossMotorSkills,STRING,2,Gross Motor Skills,,0,1,0,,-1
+CuriosityDiscovery,STRING,2,Curiosity Discovery,,0,1,0,,-1
+Warranty,STRING,1,Warranty,,0,1,0,,-1
+VideoPoster,STRING,2,Video Poster,,0,1,0,,-1
+custSegExcl,STRING,1,custSegExcl,,0,1,0,,-1
+CSR_SOLDOUT,STRING,1,CSR_SoldOut,,0,0,0,0,-1
+itemType,STRING,2,itemType,,0,1,0,0,-1
+OneStoreProduct,STRING,1,OneStoreProduct,,0,1,0,0,-1
+Bullet10,STRING,2,Bullet List 10,,0,1,0,0,-1
+DisableQuickView,STRING,1,DisableQuickView,,0,1,0,0,-1
+DisplayComponents,STRING,1,DisplayComponents,,0,1,0,0,-1
+ADDITIONAL_LEAD_TIME,INTEGER,2,ADDITIONAL_LEAD_TIME,DAY,0,1,0,0,-1
+MEMBERSHIP_CUSTOMER_SEGMENT,STRING,1,MEMBERSHIP_CUSTOMER_SEGMENT,,0,1,0,0,-1
+MEMBERSHIP_YEAR,STRING,1,MEMBERSHIP_YEAR,,0,1,0,0,-1
+MEMBERSHIP_DURATION,STRING,2,MEMBERSHIP_DURATION,,0,1,0,0,-1
+AddToCartEnable,STRING,2,AddToCartEnable,,0,1,0,0,-1
+altCanadaSKU,STRING,2,altCanadaSKU,,0,0,0,0,-1
+ACCOUNT_PURCHASE_LIMIT,STRING,2,ACCOUNT_PURCHASE_LIMIT,,0,1,0,0,-1
+ACCOUNT_PURCHASE_LIMIT_SEGMENT,STRING,2,ACCOUNT_PURCHASE_LIMIT_SEGMENT,,0,1,0,0,-1
+ACCOUNT_LIMIT_QTY,INTEGER,2,ACCOUNT_LIMIT_QTY,,0,1,0,0,-1
+member exclusive-Ribbon Badge,STRING,1,member exclusive-Ribbon Badge,,0,1,0,0,-1
+grs_1,STRING,2,grs_1,,0,1,0,0,-1
+grs_2,STRING,2,grs_2,,0,1,0,0,-1
+grs_3,STRING,2,grs_3,,0,1,0,0,-1
+grs_4,STRING,2,grs_4,,0,1,0,0,-1
+grs_5,STRING,2,grs_5,,0,1,0,0,-1
+grs_6,STRING,2,grs_6,,0,1,0,0,-1
+grs_7,STRING,2,grs_7,,0,1,0,0,-1
+Collections,STRING,2,Collection/Series,,0,1,0,0,-1
+DollBodySig,STRING,2,DollBodyType (BA Sig),,0,1,0,0,-1
+DollFacialSculpt,STRING,2,DollFacialSculpt (BA Sig),,0,1,0,0,-1
+DisableWhereToBuy,STRING,1,Disable Where To Buy (PDP & QuickView),,0,1,0,0,-1
+DisableSaleButton,STRING,1,Disable Sale Button (PDP & Quick View),,0,1,0,0,-1
+RLC Rewards Points Value,INTEGER,2,RLC Rewards Points Value,,0,1,0,0,-1
+GalleryDate,STRING,2,Gallery Release Date,,0,1,0,0,-1
+Quantity,STRING,2,Collector Quantity Produced,,0,1,0,0,-1
+DollFashion,STRING,2,Doll Fashion,,0,1,0,0,-1
+AGDTrademark,STRING,2,AG Doll Trademark,,0,1,0,0,-1
+swatchSize,STRING,1,Available Sizes,,0,1,0,,-1
+swatchcolor,STRING,1,Color,,0,1,0,,-1
+construction,STRING,1,Construction,,0,1,0,,-1
+length,STRING,1,Length,,0,1,0,,-1
+material,STRING,1,Material,,0,1,0,,-1
+occasion,STRING,1,Occasion,,0,1,0,,-1
+WomenAccessoriesColor,STRING,1,Color,,0,1,0,,-1
+WomenAccessoriesSize,STRING,1,Size,,0,1,0,,-1
+Material,STRING,2,Material,,0,1,0,,-1
+Style,STRING,2,Style,,0,1,0,,-1
+Occasion,STRING,2,Occasion,,0,1,0,,-1
+Color,STRING,2,Color,,0,1,0,,-1
+WomenHandbagsColor,STRING,1,Color,,0,1,0,,-1
+Size,STRING,2,Size,,0,1,0,,-1
+WomenShoesShoe Size,STRING,1,Shoe Size,,0,1,0,,-1
+WomenShoesColor,STRING,1,Color,,0,1,0,,-1
+Toe,STRING,2,Toe,,0,1,0,,-1
+Width,STRING,2,Width,,0,1,0,,-1
+WomenPantsColor,STRING,1,Color,,0,1,0,,-1
+WomenPantsSize,STRING,1,Size,,0,1,0,,-1
+Cleaning,STRING,2,Cleaning,,0,1,0,,-1
+Leg,STRING,2,Leg,,0,1,0,,-1
+WomenSkirtsColor,STRING,1,Color,,0,1,0,,-1
+WomenSkirtsSize,STRING,1,Size,,0,1,0,,-1
+Length,STRING,2,Length,,0,1,0,,-1
+Shape,STRING,2,Shape,,0,1,0,,-1
+WomenSweatersSize,STRING,1,Size,,0,1,0,,-1
+WomenSweatersColor,STRING,1,Color,,0,1,0,,-1
+Sleeve Length,STRING,2,Sleeve Length,,0,1,0,,-1
+Neckline,STRING,2,Neckline,,0,1,0,,-1
+WomenShirtsBlousesSize,STRING,1,Size,,0,1,0,,-1
+WomenShirtsBlousesColor,STRING,1,Color,,0,1,0,,-1
+MenAccessoriesSize,STRING,1,Size,,0,1,0,,-1
+MenAccessoriesColor,STRING,1,Color,,0,1,0,,-1
+Feature,STRING,2,Feature,,0,1,0,,-1
+MenJacketsColor,STRING,1,Color,,0,1,0,,-1
+MenJacketsSize,STRING,1,Size,,0,1,0,,-1
+MenPantsInseam Length,INTEGER,1,Inseam Length,,0,1,0,,-1
+MenPantsWaist Size,INTEGER,1,Waist Size,,0,1,0,,-1
+MenPantsColor,STRING,1,Color,,0,1,0,,-1
+Front,STRING,2,Front,,0,1,0,,-1
+MenShirtsColor,STRING,1,Color,,0,1,0,,-1
+MenShirtsSize,STRING,1,Size,,0,1,0,,-1
+Collar,STRING,2,Collar,,0,1,0,,-1
+Sleeve length,STRING,2,Sleeve length,,0,1,0,,-1
+Pattern,STRING,2,Pattern,,0,1,0,,-1
+MenSuitsColor,STRING,1,Color,,0,1,0,,-1
+MenSuitsSize,STRING,1,Size,,0,1,0,,-1
+MenShoesShoe Size,INTEGER,1,Shoe Size,,0,1,0,,-1
+MenShoesColor,STRING,1,Color,,0,1,0,,-1
+GirlsDressesSkirtsSize,INTEGER,1,Size,,0,1,0,,-1
+GirlsDressesSkirtsColor,STRING,1,Color,,0,1,0,,-1
+Age,STRING,2,Age,,0,1,0,,-1
+GirlsPantsColor,STRING,1,Color,,0,1,0,,-1
+GirlsPantsSize,STRING,1,Size,,0,1,0,,-1
+GirlsShoesColor,STRING,1,Color,,0,1,0,,-1
+GirlsShoesSize,INTEGER,1,Size,,0,1,0,,-1
+GirlsTopsColor,STRING,1,Color,,0,1,0,,-1
+GirlsTopsSize,STRING,1,Size,,0,1,0,,-1
+BoysPantsColor,STRING,1,Color,,0,1,0,,-1
+BoysPantsSize,STRING,1,Size,,0,1,0,,-1
+BoysShoesColor,STRING,1,Color,,0,1,0,,-1
+BoysShoesSize,INTEGER,1,Size,,0,1,0,,-1
+BoysTopsSize,STRING,1,Size,,0,1,0,,-1
+BoysTopsColor,STRING,1,Color,,0,1,0,,-1
+ComputersAccessoriesBrand,STRING,1,Brand,,0,1,0,,-1
+ComputersAccessoriesSize,STRING,1,Size,,0,1,0,,-1
+ComputersAccessoriesSpeed,STRING,1,Speed,,0,1,0,,-1
+Speed,STRING,2,Speed,,0,1,,,-1
+ComputersComponentsOperating System Class,STRING,1,Operating System Class,,0,1,,,-1
+ComputersComponentsRecording Speed,STRING,1,Recording Speed,,0,1,,,-1
+ComputersComponentsVRAM,STRING,1,VRAM,,0,1,,,-1
+ComputersComponentsRAM Size,STRING,1,RAM Size,,0,1,,,-1
+ComputersComponentsSize,STRING,1,Size,,0,1,,,-1
+ComputersComponentsCores,STRING,1,Cores,,0,1,,,-1
+CPU Support,STRING,2,CPU Support,,0,1,,,-1
+RAM Size,STRING,2,RAM Size,,0,1,,,-1
+Operating System Support,STRING,2,Operating System Support,,0,1,,,-1
+VRAM,STRING,2,VRAM,,0,1,,,-1
+ComputersDesktopsBrand,STRING,1,Brand,,0,1,0,,-1
+ComputersDesktopsMemory,STRING,1,Memory,,0,1,0,,-1
+ComputersDesktopsHard Drive,STRING,1,Hard Drive,,0,1,0,,-1
+Memory,STRING,2,Memory,,0,1,,,-1
+Hard Drive,STRING,2,Hard Drive,,0,1,,,-1
+ComputersLaptopsBrand,STRING,1,Brand,,0,1,0,,-1
+ComputersLaptopsBattery Life,STRING,1,Battery Life,,0,1,0,,-1
+ComputersLaptopsMemory,STRING,1,Memory,,0,1,0,,-1
+ComputersLaptopsWeight,STRING,1,Weight,,0,1,0,,-1
+Battery Life,STRING,2,Battery Life,,0,1,,,-1
+Weight,STRING,2,Weight,,0,1,,,-1
+ComputersTabletsSize,STRING,1,Size,,0,1,0,,-1
+ComputersTabletsBattery Life,STRING,1,Battery Life,,0,1,0,,-1
+ComputersTabletsBrand,STRING,1,Brand,,0,1,0,,-1
+ComputersTabletsStorage,STRING,1,Storage,,0,1,0,,-1
+Storage,STRING,2,Storage,,0,1,,,-1
+DairyType,STRING,1,Type,,0,1,0,,-1
+DairyBrand,STRING,1,Brand,,0,1,0,,-1
+Category,STRING,2,Category,,0,1,,,-1
+Type,STRING,2,Type,,0,1,,,-1
+FruitType,STRING,1,Type,,0,1,0,,-1
+FruitBrand,STRING,1,Brand,,0,1,0,,-1
+Price,STRING,2,Price,,0,1,,,-1
+MeatType,STRING,1,Type,,0,1,0,,-1
+MeatBrand,STRING,1,Brand,,0,1,0,,-1
+VegetablesBrand,STRING,1,Brand,,0,1,0,,-1
+VegetablesType,STRING,1,Type,,0,1,0,,-1
+VitaminsCategory,STRING,1,Category,,0,1,0,,-1
+VitaminsType,STRING,1,Type,,0,1,0,,-1
+Packaging,STRING,2,Packaging,,0,1,0,,-1
+MedicinceCategory,STRING,1,Category,,0,1,0,,-1
+MedicinceType,STRING,1,Type,,0,1,0,,-1
+BathAccessoriesColor,STRING,1,Color,,0,1,0,,-1
+BathAccessoriesSize,STRING,1,Size,,0,1,0,,-1
+FurnitureType,STRING,1,Type,,0,1,0,,-1
+FurnitureColor,STRING,1,Color,,0,1,0,,-1
+Finish,STRING,2,Finish,,0,1,,,-1
+Assembly,STRING,2,Assembly,,0,1,,,-1
+KitchenwareMaterial,STRING,1,Material,,0,1,0,,-1
+KitchenwarePot material,STRING,1,Pot material,,0,1,0,,-1
+KitchenwareLid material,STRING,1,Lid material,,0,1,0,,-1
+KitchenwareContainer,STRING,1,Container,,0,1,0,,-1
+KitchenwareHandle material,STRING,1,Handle material,,0,1,0,,-1
+KitchenwareStyle,STRING,1,Style,,0,1,0,,-1
+KitchenwareBlade material,STRING,1,Blade material,,0,1,0,,-1
+KitchenwareColor,STRING,1,Color,,0,1,0,,-1
+LightingColor,STRING,1,Color,,0,1,0,,-1
+Height,STRING,2,Height,,0,1,,,-1
+Fixture Type,STRING,2,Fixture Type,,0,1,,,-1
+TablewareColor,STRING,1,Color,,0,1,0,,-1
+AppliancesColor,STRING,1,Color,,0,1,0,,-1
+Energy Rating,STRING,2,Energy Rating,,0,1,,,-1
+Dimensions,STRING,2,Dimensions,,0,1,,,-1
+fulfillmentFrequency,INTEGER,1,Subscription frequency,,0,1,0,,-1
+paymentFrequency,INTEGER,1,Subscription payment option,,0,1,0,,-1
+timePeriod,INTEGER,1,Subscription period,,0,1,0,,-1
+Published,STRING,2,Published,,0,1,,,-1
+PickUpInStore,STRING,2,In store purchase,,0,1,,,-1
+hardware_fasteners_boltsThread size,STRING,1,Thread size,,0,1,0,,-1
+hardware_fasteners_boltsFinish,STRING,1,Finish,,0,1,0,,-1
+hardware_fasteners_boltsShank length,STRING,1,Shank length,,0,1,0,,-1
+hardware_fasteners_boltsLength,STRING,1,Length,,0,1,0,,-1
+hardware_fasteners_boltsMaterial,STRING,1,Material,,0,1,0,,-1
+Rockwell hardness (min),STRING,2,Rockwell hardness (min),,0,1,0,,-1
+Tensile strength (min),STRING,2,Tensile strength (min),,0,1,0,,-1
+Package quantity,INTEGER,2,Package quantity,,0,1,0,,-1
+Head height,STRING,2,Head height,,0,1,0,,-1
+Head style,STRING,2,Head style,,0,1,0,,-1
+Grade,INTEGER,2,Grade,,0,1,0,,-1
+hardware_fasteners_nutsMaterial,STRING,1,Material,,0,1,0,,-1
+hardware_fasteners_nutsWidth,STRING,1,Width,,0,1,0,,-1
+hardware_fasteners_nutsFinish,STRING,1,Finish,,0,1,0,,-1
+hardware_fasteners_nutsHeight,STRING,1,Height,,0,1,0,,-1
+hardware_fasteners_nutsThread size,STRING,1,Thread size,,0,1,0,,-1
+Flange diameter,STRING,2,Flange diameter,,0,1,0,,-1
+Flange Height,STRING,2,Flange Height,,0,1,0,,-1
+hardware_fasteners_screwsBarrel length,STRING,1,Barrel length,,0,1,0,,-1
+hardware_fasteners_screwsShoulder diameter,STRING,1,Shoulder diameter,,0,1,0,,-1
+hardware_fasteners_screwsLength,STRING,1,Length,,0,1,0,,-1
+hardware_fasteners_screwsThread length,STRING,1,Thread length,,0,1,0,,-1
+hardware_fasteners_screwsShoulder length,STRING,1,Shoulder length,,0,1,0,,-1
+hardware_fasteners_screwsMaterial,STRING,1,Material,,0,1,0,,-1
+hardware_fasteners_screwsHead diameter,STRING,1,Head diameter,,0,1,0,,-1
+hardware_fasteners_screwsFinish,STRING,1,Finish,,0,1,0,,-1
+hardware_fasteners_screwsSocket depth,STRING,1,Socket depth,,0,1,0,,-1
+hardware_fasteners_screwsThread size,STRING,1,Thread size,,0,1,0,,-1
+hardware_fasteners_screwsKnurled,STRING,1,Knurled,,0,1,0,,-1
+Drive type,STRING,2,Drive type,,0,1,0,,-1
+hardware_lightingLength,STRING,1,Length,,0,1,0,,-1
+hardware_lightingVolts,INTEGER,1,Volts,,0,1,0,,-1
+hardware_lightingWatts,INTEGER,1,Watts,,0,1,0,,-1
+hardware_lightingFinish,STRING,1,Finish,,0,1,0,,-1
+Bulb width,STRING,2,Bulb width,,0,1,0,,-1
+Bulb shape,STRING,2,Bulb shape,,0,1,0,,-1
+Lumens,INTEGER,2,Lumens,,0,1,0,,-1
+Base type,STRING,2,Base type,,0,1,0,,-1
+Bulb type,STRING,2,Bulb type,,0,1,0,,-1
+Exclusive,STRING,1,Exclusive,,0,1,0,,-1
+Clearance,STRING,1,Clearance,,0,1,0,,-1
+AdditionalInstructions,STRING,2,Additional Instructions - Consumer,,0,1,0,,-1
+AdditionalServiceInformationTabFour,STRING,2,Additional Service Information Tab 4,,0,1,0,,-1
+AdditionalServiceInformationTabOne,STRING,2,Additional Service Information Tab 1,,0,1,0,,-1
+AdditionalServiceInformationTabThree,STRING,2,Additional Service Information Tab 3,,0,1,0,,-1
+AdditionalServiceInformationTabTwo,STRING,2,Additional Service Information Tab 2,,0,1,0,,-1
+AnimalProduct,STRING,1,Animal Product,,0,1,0,,-1
+ASIN,STRING,2,Amazon Standard Identification Number (ASIN),,0,1,0,,-1
+AssemblyInstructions,STRING,2,Assembly Instructions  - Consumer,,0,1,0,,-1
+AssemblyInstructionsCSR,STRING,2,Assembly Instructions Msg - CSR,,0,1,0,,-1
+AwardWinners,STRING,2,Award Winners,,0,1,0,,-1
+Badging,STRING,2,Badging,,0,1,0,,-1
+Batteries,STRING,2,Batteries,,0,1,0,,-1
+BatteryLocation,STRING,2,Battery Location,,0,1,0,,-1
+BrandLogo,STRING,2,Brand Logo,,0,1,0,,-1
+CarBaseColor,STRING,1,Base Color,,0,1,0,,-1
+CarBaseType,STRING,1,Base Type,,0,1,0,,-1
+CarBodyColor,STRING,1,Body Color,,0,1,0,,-1
+CarBodyType,STRING,1,Body Type,,0,1,0,,-1
+CarCastingDesigner,STRING,1,Casting Designer,,0,1,0,,-1
+CarCastingName,STRING,2,Casting Name,,0,1,0,,-1
+CarCollectorCopy,STRING,2,Collector Copy-Notes,,0,1,0,,-1
+CarCollectorNumber,STRING,2,Collector Number,,0,1,0,,-1
+CarCopyrightYear,STRING,2,Copyright Year,,0,1,0,,-1
+CarDeco,STRING,2,Deco,,0,1,0,,-1
+CareInstructions,STRING,1,Care Instructions,,0,1,0,,-1
+CarFeatures,STRING,2,Features,,0,1,0,,-1
+CarGraphicDesigner,STRING,1,Graphic Designer,,0,1,0,,-1
+CarInteriorColor,STRING,1,Interior Color,,0,1,0,,-1
+CarMake,STRING,1,Make,,0,1,0,,-1
+CarModel,STRING,2,Model,,0,1,0,,-1
+CarNames,STRING,2,Other Name(s),,0,1,0,,-1
+CarPaint,STRING,1,Paint,,0,1,0,,-1
+CarPrimaryColor,STRING,1,Primary Color,,0,1,0,,-1
+CarScale,STRING,2,Scale,,0,1,0,,-1
+CarSeriesName,STRING,1,Series Name,,0,1,0,,-1
+CarTampo,STRING,2,Tampo(s),,0,1,0,,-1
+CarWheelType,STRING,1,Wheel Type,,0,1,0,,-1
+CarWindowColor,STRING,1,Window Color,,0,1,0,,-1
+Character,STRING,1,Character,,3,1,0,,-1
+ClothingColor,STRING,1,Color,,9,1,0,,-1
+ClothingSize,STRING,1,Size,,0,1,0,,-1
+ClothingStyle,STRING,1,Clothing Style,,10,1,0,,-1
+CountryOrigin,STRING,1,Country of Origin,,0,1,0,,-1
+Craftsmanship,STRING,2,Craftsmanship,,0,1,0,,-1
+DevelopmentalGuidelines,STRING,2,Developmental Guidelines,,0,1,0,,-1
+DisclaimerCopy,STRING,2,Disclaimer Copy,,2,1,0,,-1
+Doll1HairSkinTone,STRING,1,Doll 1,,0,1,0,,-1
+Doll2HairSkinTone,STRING,1,Doll 2,,0,1,0,,-1
+DollBirthday,STRING,2,Birthday,,0,1,0,,-1
+DollBodyType,STRING,1,Body Type,,0,1,0,,-1
+DollBoxStyle,STRING,1,Box Style,,0,1,0,,-1
+DollClothingSize,STRING,1,Clothing Size,,0,1,0,,-1
+DollCustom,STRING,2,Customizations,,0,1,0,,-1
+DollDesigner,STRING,1,Designer,,0,1,0,,-1
+DollEthnicity,STRING,1,Ethnicity,,0,1,0,,-1
+DollEyeColor,STRING,1,Eye Color,,7,1,0,,-1
+DollLashes,STRING,1,Eyelashes,,0,1,0,,-1
+DollEyeShape,STRING,1,Eye Shape,,0,1,0,,-1
+DollFacialSculpt (old),STRING,1,Facial Sculpt,,0,1,0,,-1
+DollFashionOn,STRING,1,Fashion Sewn On,,0,1,0,,-1
+DollGender,STRING,1,Gender,,0,1,0,,-1
+DollHairColor,STRING,1,Hair Color,,6,1,0,,-1
+DollHairLength,STRING,1,Hair Length,,0,1,0,,-1
+DollHairStyle,STRING,1,Hair Style,,0,1,0,,-1
+DollHairTexture,STRING,1,Hair Texture,,0,1,0,,-1
+DollHasBangs,STRING,1,Has Bangs,,0,1,0,,-1
+DollHasBraces,STRING,1,Has Braces,,0,1,0,,-1
+DollHasEarrings,STRING,1,Has Earrings,,0,1,0,,-1
+DollHasFreckles,STRING,1,Has Freckles,,0,1,0,,-1
+DollHeight,STRING,1,Doll Height,,0,1,0,,-1
+DollIncludedMessage,STRING,2,Included Message,,0,1,0,,-1
+DollSkinColor,STRING,1,Doll Skin Tone,,8,1,0,,-1
+DollSkinTone,STRING,1,Skin Tone,,0,1,0,,-1
+DollVintage,STRING,1,Vintage Designer Name,,0,1,0,,-1
+DressSkirtStyle,STRING,1,Dress/Skirt Style,,0,1,0,,-1
+EAN,STRING,2,International Article Number (EAN),,0,1,0,,-1
+EarnRewards,STRING,2,Earn Rewards,,0,1,0,,-1
+EnvironmentalRestrictions,STRING,2,Environmental Restriction Message,,0,1,0,,-1
+FitsMessage,STRING,2,Fits Message,,0,1,0,,-1
+Furniture,STRING,1,Furniture Type,,0,1,0,,-1
+GeneralDisclosure,STRING,2,General Disclosure Message,,0,1,0,,-1
+GiftCardType,STRING,1,GiftCardType,,0,1,0,,-1
+GroupName,STRING,1,Group Name,,0,1,0,,-1
+ImageExclusive,STRING,2,Image Exclusion Message,,0,1,0,,-1
+InsideTheBox,STRING,2,Inside the Box,,0,1,0,,-1
+Inspiration,STRING,2,Inspiration,,0,1,0,,-1
+IntroYear,INTEGER,2,Intro Year,,0,1,0,,-1
+ISBN,STRING,2,International Standard Book Number (ISBN),,0,1,0,,-1
+LegalAge,STRING,1,Legal Age/Grade,,0,1,0,,-1
+LegalLicensorCopy,STRING,2,Legal Licensor Copy,,0,1,0,,-1
+MarketingAge,STRING,1,Marketing Age,,4,1,0,,-1
+MarketingCallout,STRING,2,Marketing Callout,,0,1,0,,-1
+MarketingDescription,STRING,2,Marketing Description,,0,1,0,,-1
+Materials,STRING,1,Material(s),,0,1,0,,-1
+MediaType,STRING,1,Media Type,,0,1,0,,-1
+optionalName,STRING,2,Optional Name,,0,1,0,,-1
+PackageDimensions,STRING,2,Package Dimensions,,0,1,0,,-1
+PackageWeight,STRING,2,Package Weight,,0,1,0,,-1
+PantStyle,STRING,1,Pant Style,,0,1,0,,-1
+PermissionsTrademarks,STRING,2,Permissions Trademarks Message,,0,1,0,,-1
+PlayPattern,STRING,1,Play Pattern,,0,1,0,,-1
+PrimaryUPC,STRING,2,Universal Product Code (UPC) Primary,,0,1,0,,-1
+ProductAffirmation,STRING,2,Product Affirmation,,0,1,0,,-1
+ProductDimensions,STRING,2,Product Dimensions,,0,1,0,,-1
+ProductHistory,STRING,2,Product History,,0,1,0,,-1
+ProductRecommendationCount,INTEGER,2,Product Recommendation Count,,0,1,0,,-1
+ProductReviewCount,INTEGER,2,Product Review Count,,0,1,0,,-1
+ProductReviewEnabled,STRING,2,Product Review Enabled,,0,1,0,,-1
+ProductReviewRating,FLOAT,2,Product Review Rating,,11,1,0,,-1
+ProductWeight,STRING,2,Product Weight,,0,1,0,,-1
+QuantityProduced,INTEGER,2,Quantity Produced,,0,1,0,,-1
+QuoteCopy,STRING,2,Quote Copy,,0,1,0,,-1
+RelatedSizingChart,STRING,1,Related Sizing Chart,,0,1,0,,-1
+ReleaseDate,STRING,2,Release Date,,0,1,0,,-1
+ReleaseDateCSR,STRING,2,Release Date by CSR,,0,1,0,,-1
+ReleaseDateRetail,STRING,2,Release Date for Reta,,0,1,0,,-1
+ReleaseDateWeb,STRING,2,Release Date for Web,,0,1,0,,-1
+RetailerExclusive,STRING,2,Retailer Exclusive,,0,1,0,,-1
+ReturnDisposition,STRING,2,Return Disposition,,0,1,0,,-1
+SafetyMessageOLD,STRING,1,Safety Message,,0,1,0,,-1
+SecondaryUPC,STRING,2,Universal Product Code (UPC) Secondary,,0,1,0,,-1
+SleeveStyle,STRING,1,Sleeve Style,,0,1,0,,-1
+SmallPartsLabel,STRING,2,Small Parts Label,,0,1,0,,-1
+Tab1ContentCSR,STRING,2,Tab 1 Content CSR,,0,1,0,,-1
+Tab1Label,STRING,2,Tab 1 Label,,0,1,0,,-1
+Tab2Content,STRING,2,Tab 2 Content - Consumer,,0,1,0,,-1
+Tab2ContentCSR,STRING,2,Tab 2 Content CSR,,0,1,0,,-1
+Tab2Label,STRING,2,Tab 2 Label,,0,1,0,,-1
+Tab3Content,STRING,2,Tab 3 Content Consumer,,0,1,0,,-1
+Tab3ContentCSR,STRING,2,Tab 3 Content CSR,,0,1,0,,-1
+Tab3Label,STRING,2,Tab 3 Label,,0,1,0,,-1
+Tab3LabelCSR,STRING,2,Tab 3 Label CSR,,0,1,0,,-1
+Tab4Content,STRING,2,Tab 4 Content - Consumer,,0,1,0,,-1
+Tab4ContentCSR,STRING,2,Tab 4 Content CSR,,0,1,0,,-1
+Tab4Label,STRING,2,Tab 4 Label,,0,1,0,,-1
+TrainCargoType,STRING,2,Cargo Type,,0,1,0,,-1
+TrainEpisode,STRING,2,Episode,,0,1,0,,-1
+TrainFacialFeature,STRING,2,Facial Feature,,0,1,0,,-1
+TrainFriend,STRING,2,Friend,,0,1,0,,-1
+TrainIslandLocation,STRING,2,Island Location,,0,1,0,,-1
+TrainTrackPiece,STRING,2,Track Piece,,0,1,0,,-1
+TrainTrackType,STRING,2,Track Type,,0,1,0,,-1
+Video,STRING,2,Video,,0,1,0,,-1
+BookName,STRING,2,Book Name,,0,1,0,,-1
+RequiredEngineName,STRING,2,Required Engine Name,,0,1,0,,-1
+RequiredEngineNumber,STRING,2,Required Engine Number,,0,1,0,,-1
+MarketingCopyTrain,STRING,2,Marketing Copy,,0,1,0,,-1
+DisclaimerTrain,STRING,2,Disclaimer Train,,0,1,0,,-1
+MarketingCopyName,STRING,2,Marketing Copy Name,,0,1,0,,-1
+MarketingCopyNumber,STRING,2,Marketing Copy Number,,0,1,0,,-1
+DisclaimerName,STRING,2,Disclaimer Name,,0,1,0,,-1
+DisclaimerNumber,STRING,2,Disclaimer Number,,0,1,0,,-1
+Surcharge_Value,FLOAT,2,Surcharge,,0,1,0,,-1
+AssemblyInstructionsLink,STRING,2,AssemblyInstructionsLink,,0,1,0,,-1
+Location,STRING,1,Location,,0,1,0,,-1
+isGiftWrapAtHeaderLevel,STRING,2,isGiftWrapAtHeaderLevel,,0,1,0,,-1
+BVCategory,STRING,2,BVCategory,,0,1,0,,-1
+BVFamily,STRING,2,BVFamily,,0,1,0,,-1
+excludeStandardShipping,STRING,1,Exclude Standard Shipping Calculation,,0,1,0,,-1
+DecoLocation,STRING,2,Deco Location,,0,1,0,,-1
+LayerNumber,STRING,2,Layer Number,,0,1,0,,-1
+Boy1HairSkinTone,STRING,1,Boy 1,,0,1,0,,-1
+Boy2HairSkinTone,STRING,1,Boy 2,,0,1,0,,-1
+FLASH_SALE_START_TIME,STRING,2,FLASH_SALE_START_TIME,,0,1,0,,-1
+FLASH_SALE_END_TIME,STRING,2,FLASH_SALE_END_TIME,,0,1,0,,-1
+PLAgoogleprodcat,STRING,2,Google Product Category,,0,1,0,,-1
+syncPricesManually,STRING,1,syncPricesManually,,0,1,0,,-1
+PLABundle,STRING,2,Bundle Sku,,0,1,0,,-1
+PLAgooglesize,STRING,1,Google Size,,0,1,0,,-1
+PLAgooglecolor,STRING,1,Google Color,,0,1,0,,-1
+PLAgoogleitemid,STRING,2,Google Item Group ID,,0,1,0,,-1
+PLAgooglegender,STRING,1,Google Gender,,0,1,0,,-1
+PLAgoogleage,STRING,1,Google Age Group,,0,1,0,,-1
+AGCategory,STRING,1,Product Type,,2,1,0,,-1
+BookCategory,STRING,1,Category,,0,1,0,,-1
+FACategory,STRING,1,Category,,0,1,0,,-1
+DisplayRetailInv,STRING,1,Display Retail Inventory Lookup,,0,1,0,,-1
+isRetailInventoryCheckEnabled,STRING,1,isRetailInventoryCheckEnabled,,0,1,0,,-1
+PLAgooglegtin,STRING,2,Google GTIN,,0,1,0,,-1
+BV_FE_FAMILY,STRING,2,BV_FE_FAMILY,,0,1,0,,-1
+BV_FE_EXPAND,STRING,2,BV_FE_EXPAND,,0,1,0,,-1
+SafetyMessage,STRING,2,Safety Message,,0,1,0,,-1
+addOn_assoc_type,STRING,1,addOn_assoc_type,,0,1,0,,-1
+Girl1HairSkinTone,STRING,1,Girl 1,,0,1,0,,-1

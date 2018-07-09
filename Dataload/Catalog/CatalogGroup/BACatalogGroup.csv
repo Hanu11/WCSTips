@@ -1,0 +1,136 @@
+CatalogGroup
+GroupIdentifier,TopGroup,ParentGroupIdentifier,Sequence,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Keyword,Delete,Field 1,Published
+new-barbies,true,,,NEW,,,,,new-barbies,0,,1
+signature,true,,,SIGNATURE,,,,,signature,0,,1
+tst-8536423406384,true,,,tst,tst,tst,,,tst,1,,1
+lifestyle,true,,,LIFESTYLE,,,,images/barbie/categoryLanding/Barbie_Lifestyle_HeaderBanner.jpg,lifestyle,0,,1
+barbie-playsets,true,,,PLAYSETS,,,,images/barbie/categoryLanding/2017/barbie-playsets.png,barbie-playsets,0,,1
+barbie-dolls,true,,,DOLLS,,,,,barbie-dolls,0,,1
+barbie-promo1,false,,10,barbie-promo1,,,,,,0,,1
+top-10-holiday-picks,false,,30,Top 10 Holiday Picks,,,,,top-10-holiday-picks,0,,1
+barbie-story,false,,40,Barbie Story,,,,,barbie-story,0,,1
+barbie-promo5,false,,50,promo5,,,,images/barbie/categoryLanding/WK50_40OFF_Category Banner.jpg,barbie-promo5,0,,1
+barbie-promo6,false,,60,barbie-promo6,,,,images/barbie/categoryLanding/test/Barbie_Categories_Careers.jpg,barbie-promo6,0,,1
+barbie-promo7,false,,70,All Dolls,,,,images/barbie/categoryLanding/test/Barbie_Categories_Chelsea.jpg,barbie-promo7,0,,1
+barbie-promo8,false,,80,Barbie Dolls,,"From fashion to fantasy to amazing careers, there’s a Barbie for every imagination. Inspire your kids to be anything with Barbie!",,images/barbie/categoryLanding/test/Barbie_Categories_Dolls.jpg,barbie-promo8,0,,1
+new-playsets,false,,50,Playsets,,,,,new-playsets,0,,1
+new-gift-sets,false,,70,Gift Sets,,,,,new-gift-sets,0,,1
+barbie-fashionistas,false,,10,Barbie&#174; Fashionistas&#174;,,,,images/barbie/categoryLanding/2017/barbie-fashionistas.png,barbie-fashionistas,0,,1
+fantasy-dolls,false,,40,Fantasy Dolls,,,,images/barbie/categoryLanding/2018/11_Barbie_FantasyDolls_Banner-D-V3.jpg,fantasy-dolls,0,,1
+careers-places,false,,40,Careers & Places,,,,images/barbie/categoryLanding/2018/21_Barbie_Careers&Places_Banner-D-V2.jpg,careers-places,0,,1
+all-barbie-dolls,false,,5,All Dolls,,,,images/barbie/categoryLanding/2018/03_Barbie_AllDolls_Banner-D-V2.jpg,all-barbie-dolls,0,,1
+all-new,false,,10,All New,,,,images/barbie/categoryLanding/2017/all-new.png,all-new,0,,1
+barbie-birthday,false,,0,Barbie Birthday Party,,,,,barbie-birthday,0,,1
+games-activities,false,,100,Games & Activities,,,,,games-activities,0,,1
+best-sellers,false,,30,Best Sellers,,,,,best-sellers,0,,1
+new-dolls,false,,40,Dolls,,,,,new-dolls,0,,1
+fashion-dolls,false,,25,Fashion Dolls,,,,images/barbie/categoryLanding/2018/04_Barbie_FashionDolls_Banner-D-V5.jpg,fashion-dolls,0,,1
+career-dolls,false,,30,Career Dolls,,,,images/barbie/categoryLanding/2018/06_Barbie_CareerDolls_Banner-D-V2.jpg,career-dolls,0,,1
+sisters-pets,false,,60,Sisters & Pets,,,,images/barbie/storehome/2018/Category-Banner-skipper-babysitter_desktop_v2.jpg,sisters-pets,0,,1
+chelseas-world,false,,50,Club Chelsea&#153;,,,,images/barbie/categoryLanding/2018/08_Barbie_ChelseaDolls_Banner-D-V2.jpg,chelseas-world,0,,1
+ken-male-dolls,false,,70,Ken&#8482; Dolls,,,,images/barbie/categoryLanding/2018/13_Barbie_KenDolls_Banner-D-V2.jpg,ken-male-dolls,0,,1
+doll-clothes-closets,false,,25,Doll Clothes & Closets,,,,,doll-clothes-closets,0,,1
+movies-videos,false,,90,Movies & Videos,,,,images/barbie/categoryLanding/2017/movies-videos.png,movies-videos,0,,1
+dreamtopia,false,,35,Dreamtopia,,,,images/barbie/categoryLanding/2018/12_Barbie_Dreamtopia_Banner-D-V4.jpg,dreamtopia,0,,1
+gift-sets-dolls,false,,100,Gift Sets,,,,,gift-sets-dolls,0,,1
+sale-dolls,false,,0,Sale,,,,images/barbie/categoryLanding/Barbie_Dolls_Sale_HeaderBanner.jpg,sale-dolls,0,,1
+dollhouses,false,,10,Dollhouses,,,,images/barbie/categoryLanding/Barbie_Playsets_Houses_HeaderBanner.jpg,dollhouses,0,,1
+vehicles,false,,20,Vehicles,,,,images/barbie/categoryLanding/2017/vehicles.png,vehicles,0,,1
+furniture,false,,30,Furniture,,,,images/barbie/categoryLanding/Barbie_Playsets_Furniture_HeaderBanner.jpg,furniture,0,,1
+barbie-gift-sets,false,,50,Gift Sets,,,,images/barbie/categoryLanding/Barbie_Playsets_GiftSets_HeaderBanner.jpg,barbie-gift-sets,0,,1
+sale-playsets,false,,60,Sale,,,,images/barbie/categoryLanding/Barbie_Sale_Banner.jpg,sale-playsets,0,,1
+party-supplies,false,,10,Party Supplies,,,,,party-supplies,0,,1
+books-magazines,false,,20,Books & Magazines,,,,,books-magazines,0,,1
+movies-videos-lifestyle,false,,30,Movies & Videos,,,,,movies-videos-lifestyle,0,,1
+clothing-accessories,false,,40,Clothing & Accessories,,,,,clothing-accessories,0,,1
+vinyls-lifestyle,false,,50,Vinyls,,,,,vinyls-lifestyle,0,,1
+bikes-outdoor,false,,50,Bikes & Outdoor,,,,,bikes-outdoor,0,,1
+arts-crafts-stationary,false,,60,"Arts, Crafts & Stationery",,,,,arts-crafts-stationary,0,,1
+health-beauty,false,,70,Health & Beauty,,,,,health-beauty,0,,1
+home-decor,false,,80,Home & D&#233;cor,,,,,home-decor,0,,1
+electronics,false,,90,Electronics,,,,,electronics,0,,1
+pop-culture-dolls,false,,10,Pop Culture & Movies,,,,,pop-culture-dolls,0,,1
+fashion-dolls-collection,false,,20,Fashion Dolls,,,,images/barbie/categoryLanding/2018/04_BarbieSignature_FashionDolls_Banner-D-V3.jpg,fashion-dolls-collection,0,,1
+holiday-special-occasion-dolls,false,,5,Holiday & Special Occasion,,,,images/barbie/categoryLanding/2018/25_Barbie_Signature_Holiday_Banner-D-V2.jpg,holiday-special-occasion-dolls,0,,1
+vintage-look-dolls,false,,6,Vintage Looks,,,,images/barbie/categoryLanding/2018/26_Barbie_Signature_VintageLooks_Banner-D.jpg,vintage-looks-dolls,0,,1
+sale-collection,false,,90,Sale,,,,images/barbie/categoryLanding/Barbie_Collection_Sale_HeaderBanner.jpg,sale-collection,0,,1
+csr_ba_nla_,false,,99,No Longer Available,,,,,no-longer-available-csr-ba-nla-,0,,1
+csrbaservice,false,,99,BA Service Requests,,,,,ba-service-requests,0,,1
+csrbasearchableproducts,false,,99,BA Searchable Products,,,,,ba-searchable-products,0,,1
+barbie-stocking-stuffers,false,,0,Stocking Stuffers,,,,images/barbie/categoryLanding/Barbie_StockingStuffers_HeaderBanner.jpg,barbie-stocking-stuffers,0,,1
+accessories-barbie-hidden,false,,0,Accessories,,,,images/barbie/categoryLanding/Barbie_Accessories_HeaderBanner.jpg,accessories-ba-barbie,0,,1
+ba-PayPal,false,,0,barbie-paypal,,,,images/barbie/categoryLanding/Paypal_BannerBB_1226x300 V2.jpg,barbie-paypal-offer,0,,1
+barbie-sale,false,,99,Sale,,,,,barbie-sale,0,,1
+ba-spring-2017-fashionistas,false,,0,Spring-2017-Barbie-Fashionistas,,,,images/barbie/categoryLanding/BarbieFashionistas_Spring2017.jpg,spring-2017-barbie-fashionistas,0,,1
+playkits,false,,0,Play Kits,,,,,barbie-playkits,0,,1
+ken-fashionistas,false,,15,Ken&#174; Fashionistas&#174;,,,,images/barbie/categoryLanding/2018/10_Barbie_NextGen_Ken_Banner-D-V5.jpg,ken--174;-fashionistas--174;,0,,1
+barbies-under-20-dollars,false,,0,Gifts Under $20,,,,,gifts-under-$20,0,,1
+barbie-dreamhorse-toys,false,,0,DreamHorse,,,,,dreamhorse,0,,1
+barbie-gif-guide,false,,0,GIF Guide,,,,,gif-guide,0,,1
+barbie-made-to-move,false,,0,Barbie® Made To Move™,,,,,made-to-move--1,0,,1
+barbie-crayola,false,,17,Barbie&#174; &hearts; Crayola&#174;,,,,images/barbie/categoryLanding/barbiexcrayola_category-banner_1226x300.png,barbie®-hearts;-crayola®,0,,1
+signature-membership-sale,false,,0,Signature Membership Sale,,,,,signature-membership-sale,0,,1
+barbie-signature-dolls,false,,20,Signature Dolls,,,,,signature-dolls,0,,1
+new-barbie-signature,false,,60,Signature,,,,,signature--1,0,,1
+inspiring-women-series,false,,1.5,Inspiring Women™ Series,,,,images/barbie/categoryLanding/inspiring-women_category-banner_1226x300px.png,barbie®-inspiring-women™-series,0,,1
+barbie-dreamhouse-adventures,false,,12,Barbie™ Dreamhouse Adventures,,,,,barbie™-dreamhouse-adventures,0,,1
+all-signature-dolls,false,,1,All Dolls,,,,images/barbie/categoryLanding/2018/22_Barbie_Signature_AllDolls_Banner-D-V4.1.jpg,all-dolls-all-signature-dolls,0,,1
+barbie-signature-gift-sets,false,,7,Gift Sets,,,,,gift-sets-barbie-signature-gift-sets,0,,1
+barbie-signature-special-offers,false,,30,Sale,,,,,barbie-signature-special-offers,0,,1
+pop-culture-movies,false,,4,Pop Culture & Movies Dolls,,"Hollywood, here we come! Your favorite celebrities from movies and TV shows are here, plus Barbie&#174; dolls getting in on the act. Shop in the limelight!",,,pop-culture-movies,0,,1
+silkstone,false,,3,Silkstone&#174; Dolls,,The height of Barbie&#174; design for more than a decade! These Silkstone&#174; Dolls are inspired by the art and practice of the fashion designer&#8217;s atelier.,,images/barbie/categoryLanding/2017/silkstone-dolls.png,silkstone-dolls,0,,1
+ba-on-the-go,false,,45,On the Go,,,,images/barbie/categoryLanding/2017/on-the-go.png,on-the-go,0,,1
+ba-for-testing-only,false,,0,Testing,,,,,ba-for-testing-only,0,,1
+barbie-signature-gallery,false,,90,Gallery,,,,images/TBC/TBC_Gallery/BC_Gallery_Header_Banner.jpg,gallery--1,0,,1
+star-light-adventure,false,,60,Barbie&#8482; Star Light Adventure,,,,images/barbie/categoryLanding/2017/star-light-adventure.png,star-light-adventure,0,,1
+world-culture,false,,21,World Culture,,,,,world-culture,0,,1
+birthday,false,,0,Barbie Birthday,,,,,birthday,0,,1
+designer-dolls,false,,10,Designer Dolls,,,,images/barbie/categoryLanding/Barbie_Dolls_DesignerDolls_HeaderBanner.jpg,designer-dolls,0,,1
+barbie-look,false,,20,Barbie Look&#8482;,,,,images/barbie/categoryLanding/2017/barbie-look & barbie-look-collection.png,barbie-look,0,,1
+barbie-her-sisters-in-puppy-chase,false,,20,Barbie&#8482; & Her Sisters in a Puppy Chase,,,,,barbie-her-sisters-in-puppy-chase,0,,1
+dreamtopia,false,,35,Dreamtopia,,,,images/barbie/categoryLanding/2018/12_Barbie_Dreamtopia_Banner-D-V4.jpg,dreamtopia,0,,1
+spy-squad-dolls,false,,50,Spy Squad,,,,images/barbie/categoryLanding/2017/spy-squad-dolls.png,spy-squad-dolls,0,,1
+star-trek-dolls,false,,10,Star Trek&#8482; ,,,,,star-trek-dolls,0,,1
+batman-v-superman-dawn-of-justice-dolls,false,,20,Batman v Superman: Dawn of Justice&#8482;,,,,,batman-v-superman-dawn-of-justice-dolls,0,,1
+designer-dolls-collection,false,,10,Designer Dolls,,,,,designer-dolls-collection,0,,1
+barbie-look-collection,false,,20,Barbie Look&#8482;,,,,images/barbie/categoryLanding/2017/barbie-look & barbie-look-collection.png,barbie-look-collection,0,,1
+barbie-fashionistas-collection,false,,30,Barbie&#174; Fashionistas&#174;,,,,,barbie-fashionistas-collection,0,,1
+barbie-dolphin-magic,false,,10,Barbie&#8482; Dolphin Magic,,,,,barbie-dolphin-magic,0,,1
+wonder-woman-dolls,false,,0,Wonder Woman&#8482;,,,,,wonder-woman-dolls,0,,1
+barbie-video-game-hero,false,,30,Barbie&#153; Video Game Hero&#153;,,,,images/barbie/categoryLanding/2017/barbie-video-game-hero.png,barbie-video-game-hero,0,,1
+original-barbie-fashionistas,false,,1, Barbie&#174; Fashionistas&#174; - Original,,,,, barbie--174;-fashionistas--174;---original,0,,1
+tall-barbie-fashionistas,false,,3,Barbie&#174; Fashionistas&#174; - Tall,,,,,barbie--174;-fashionistas--174;---tall,0,,1
+petite-barbie-fashionistas,false,,4,Barbie&#174; Fashionistas&#174; - Petite,,,,,barbie--174;-fashionistas--174;---petite,0,,1
+original-ken-fashionistas,false,,1,Ken&#174; Fashionistas&#174; - Original,,,,,ken--174;-fashionistas--174;---original,0,,1
+barbie-crayola,false,,17,Barbie&#174; &hearts; Crayola&#174;,,,,images/barbie/categoryLanding/barbiexcrayola_category-banner_1226x300.png,barbie®-hearts;-crayola®,0,,1
+a-wrinkle-in-time,false,,1,A Wrinkle In Time,,,,images/barbie/Categery-Banner-BARBIE-A-Wrinkle-in-Time-V5.jpg,{placeholder},0,,1
+jurassic-world-barbie-dolls,false,,0.5,Jurassic World™,,,,,jurassic-world™,0,,1
+1959-barbie-dolls,false,,1.5,1959 Dolls,,,,,1959-dolls,0,,1
+barbie-justice-league-dolls,false,,2,Justice League™,,,,,justice-league™,0,,1
+barbie-dreamhouse-adventures,false,,12,Barbie™ Dreamhouse Adventures,,,,,barbie™-dreamhouse-adventures,0,,1
+curvy-barbie-fashionistas,false,,2,Barbie&#174; Fashionistas&#174; - Curvy,,,,,barbie--174;-fashionistas--174;---curvy--curvy,0,,1
+broad-ken-fashionistas,false,,2,Ken&#174; Fashionistas&#174; - Broad,,,,,ken--174;-fashionistas--174;---broad,0,,1
+slim-ken-fashionistas,false,,3,Ken&#174; Fashionistas&#174; - Slim,,,,,ken--174;-fashionistas--174;---slim,0,,1
+1960s-barbie-dolls,false,,2,1960s Dolls,,,,,1960s-barbie-dolls,0,,1
+1970s-barbie-dolls,false,,3,1970s Dolls,,,,,1970s-barbie-dolls,0,,1
+1980s-barbie-dolls,false,,4,1980s Dolls,,,,,1980s-barbie-dolls,0,,1
+1990s-barbie-dolls,false,,5,1990s Dolls,,,,,1990s-barbie-dolls,0,,1
+2000s-barbie-dolls,false,,6,2000s Dolls,,,,,2000s-barbie-dolls,0,,1
+2010s-barbie-dolls,false,,7,2010s Dolls,,,,,2010s-barbie-dolls,0,,1
+all-signature-gallery,false,,1,All Dolls,,,,,all-signature-gallery,0,,1
+barbie-basics-collection,false,,8,Barbie Basics&reg;,,,,,barbie-basics-collection,0,,1
+signature-childrens-dolls,false,,9,Children&#8216;s Dolls,,,,,barbie-childrens-dolls,0,,1
+barbie-club-dolls,false,,10,Club Dolls,,,,,barbie-club-dolls,0,,1
+designer-barbie-dolls,false,,11,Designer Dolls,,,,,designer-barbie-dolls,0,,1
+barbie-dolls-of-the-world,false,,12,Dolls of the World&reg;,,,,,barbie-dolls-of-the-world,0,,1
+signature-fantasy-dolls,false,,13,Fantasy Dolls,,,,,signature-fantasy-dolls,0,,1
+signature-fashion-dolls,false,,14,Fashion Dolls,,,,,signature-fashion-dolls,0,,1
+barbie-hollywood-dolls,false,,15,Hollywood Dolls,,,,,barbie-hollywood-dolls,0,,1
+pop-culture-barbie-dolls,false,,16,Pop Culture Dolls,,,,,pop-culture-barbie-dolls,0,,1
+porcelain-dolls,false,,17,Porcelain Dolls,,,,,porcelain-dolls,0,,1
+silkstone-barbie-dolls,false,,18,Silkstone&#174; Dolls,,,,,silkstone-barbie-dolls,0,,1
+barbie-special-occasion-dolls,false,,19,Special Occasion Dolls,,,,,barbie-special-occasion-dolls,0,,1
+vintage-clothes-accessories,false,,23,Vintage Clothes & Accessories,,,,,vintage-clothes-accessories,0,,1
+vintage-dolls,false,,22,Vintage Dolls,,,,,vintage-dolls,0,,1
+vintage-looks,false,,20,Vintage Looks,,,,,vintage-looks,0,,1
+barbie-fashionistas,false,,10,Barbie&#174; Fashionistas&#174;,,,,images/barbie/categoryLanding/2017/barbie-fashionistas.png,barbie-fashionistas,0,,1

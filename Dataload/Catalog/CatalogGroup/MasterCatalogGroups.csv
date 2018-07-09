@@ -1,0 +1,259 @@
+CatalogGroup
+GroupIdentifier,TopGroup,ParentGroupIdentifier,Sequence,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Keyword,Delete,Field 1,Published
+Apparel,true,,,Apparel,The latest styles for the entire family.,,images/catalog/apparel/women/category/catr_wcl_pants.png,images/catalog/apparel/women/category/catr_wcl_pants.png,,0,,1
+agproduct,true,,,American Girl Products,AG: Master Product Catalog ,AG: Master Product Catalog ,,,american-girl-products,0,,1
+Hardware,true,,,Hardware,An extensive selection of lighting and fasteners,,images/catalog/hardware/fasteners/category/catr_fbo_bolts.png,images/catalog/hardware/fasteners/category/catr_fbo_bolts.png,,0,,1
+FP_Products,true,,,Fisher-Price Products,FP: Master Product Catalog ,FP: Master Product Catalog ,,,,0,,1
+ShopMattel_Products,true,,,ShopMattel_Products,,,,,,0,,1
+csrfpservicecat-9771912690161,true,,,FP CS Service Only,,,,,,1,FALSE,1
+FPStoreAge-6241912748747,true,,, Age,,,,,,1,,1
+FPStoreExclusive-9591912690558,true,,,Exclusives,,,,,,1,,1
+FPStoreGifts-7081912689159,true,,, Gifts,,,,,,1,,1
+FPStoreNew-1831912689403,true,,, What's New,,,,,,1,,1
+FPStoreSale-211912688138,true,,,Clearance,,,,,,1,,1
+FPStoreBrands-2181912829300,true,,, Brands,,,,,,1,,1
+FPStoreCategory-8471912792539,true,,, Categories,,,,,,1,,1
+FP_Promotions_NOTFORDISPLAY-5401912689704,true,,,Promotions,,,,,,1,FALSE,1
+NewslettersAndMagazines,true,,,Newsletters & Magazines,Newsletters & Magazines,,images/catalog/newslettersmagazines/category/catr_nma_magazines.png,images/catalog/newslettersmagazines/category/catr_nma_magazines.png,,0,,1
+Grocery,true,,,Grocery,Grocery,,images/catalog/grocery/category/catr_gda_dairy.png,images/catalog/grocery/category/catr_gda_dairy.png,,0,,1
+Health,true,,,Health,Health,,images/catalog/health/category/catr_hme_medicine.png,images/catalog/health/category/catr_hme_medicine.png,,0,,1
+Home Furnishings,true,,,Home & Furnishing,Home & Furnishing,,images/catalog/homefurnishings/category/catr_hap_appliances.png,images/catalog/homefurnishings/category/catr_hap_appliances.png,,0,,1
+Electronics,true,,,Electronics,Electronics,,images/catalog/electronics/category/catr_cta_tablets.png,images/catalog/electronics/category/catr_cta_tablets.png,,0,,1
+Women,false,Apparel,3,Women,Women,,images/catalog/apparel/women/category/catr_app_women.png,images/catalog/apparel/women/category/catr_app_women.png,,0,,1
+Men,false,Apparel,4,Men,Men,,images/catalog/apparel/men/category/catr_app_men.png,images/catalog/apparel/men/category/catr_app_men.png,,0,,1
+Girls,false,Apparel,1,Girls,Girls,,images/catalog/apparel/girls/category/catr_app_girls.png,images/catalog/apparel/girls/category/catr_app_girls.png,,0,,1
+Boys,false,Apparel,2,Boys,boys,,images/catalog/apparel/boys/category/catr_app_boys.png,images/catalog/apparel/boys/category/catr_app_boys.png,,0,,1
+Computers Laptops,false,Electronics,0,Laptops,Laptops,,images/catalog/electronics/category/catr_cla_laptops.png,images/catalog/electronics/category/catr_cla_laptops.png,,0,,1
+Computers Tablets,false,Electronics,0,Tablets,Tablets,,images/catalog/electronics/category/catr_cta_tablets.png,images/catalog/electronics/category/catr_cta_tablets.png,,0,,1
+Computers Accessories,false,Electronics,0,Accessories,Accessories,,images/catalog/electronics/category/catr_cac_accessories.png,images/catalog/electronics/category/catr_cac_accessories.png,,0,,1
+Computers Desktops,false,Electronics,0,Desktops,Desktops,,images/catalog/electronics/category/catr_cde_desktops.png,images/catalog/electronics/category/catr_cde_desktops.png,,0,,1
+Fasteners,false,Hardware,0,Fasteners,"Screws, bolts, and nuts for a wide range of fastening applications",,images/catalog/hardware/fasteners/category/catr_hw_fasteners.png,images/catalog/hardware/fasteners/category/catr_hw_fasteners.png,,0,,1
+Hardware Lighting,false,Hardware,1,Lighting,Light bulbs in every shape and size,,images/catalog/hardware/lighting/category/catr_hw_lighting.png,images/catalog/hardware/lighting/category/catr_hw_lighting.png,,0,,1
+02,false,FP_Products,0,BEFOREVER,BEFOREVER,BEFOREVER,,,,0,,1
+04,false,FP_Products,0,LITTLE GIRL,LITTLE GIRL,LITTLE GIRL,,,,0,,1
+06,false,FP_Products,0,TRULY ME,TRULY ME,TRULY ME,,,,0,,1
+19,false,FP_Products,0,MEGA GIRLS AMERICAN GIRL,MEGA GIRLS AMERICAN GIRL,MEGA GIRLS AMERICAN GIRL,,,,0,,1
+68,false,FP_Products,0,BOB THE BUILDER,BOB THE BUILDER,BOB THE BUILDER,,,,0,,1
+71,false,FP_Products,0,BARBIE COLLECTIBLES,BARBIE COLLECTIBLES,BARBIE COLLECTIBLES,,,,0,,1
+73,false,FP_Products,0,BARBIE CLUB,BARBIE CLUB,BARBIE CLUB,,,,0,,1
+74,false,FP_Products,0,HOT WHEELS,HOT WHEELS,HOT WHEELS,,,,0,,1
+75,false,FP_Products,0,MATCHBOX,MATCHBOX,MATCHBOX,,,,0,,1
+76,false,FP_Products,0,TYCO-RC,TYCO-RC,TYCO-RC,,,,0,,1
+77,false,FP_Products,0,HOT WHEELS CLUB,HOT WHEELS CLUB,HOT WHEELS CLUB,,,,0,,1
+83,false,FP_Products,0,OTHER GIRLS INC.,OTHER GIRLS INC.,OTHER GIRLS INC.,,,,0,,1
+84,false,FP_Products,0,BARBIE OTHER,BARBIE OTHER,BARBIE OTHER,,,,0,,1
+87,false,FP_Products,0,MEGA BLOKS FIRST BUILDERS,MEGA BLOKS FIRST BUILDERS,MEGA BLOKS FIRST BUILDERS,,,,0,,1
+95,false,FP_Products,0,COROLLE CLASSIC DOLLS,COROLLE CLASSIC DOLLS,COROLLE CLASSIC DOLLS,,,,0,,1
+AA,false,FP_Products,0,MONSTER HIGH,MONSTER HIGH,MONSTER HIGH,,,,0,,1
+AB,false,FP_Products,0,CARS,CARS,CARS,,,,0,,1
+AC,false,FP_Products,0,BARBIE ESTATE,BARBIE ESTATE,BARBIE ESTATE,,,,0,,1
+AD,false,FP_Products,0,TYCO RC - OTHER VEHICLES,TYCO RC - OTHER VEHICLES,TYCO RC - OTHER VEHICLES,,,,0,,1
+AE,false,FP_Products,0,DINOTRUX,DINOTRUX,DINOTRUX,,,,0,,1
+AF,false,FP_Products,0,EVER AFTER HIGH,EVER AFTER HIGH,EVER AFTER HIGH,,,,0,,1
+AG,false,FP_Products,0,MEGA COL HALO,MEGA COL HALO,MEGA COL HALO,,,,0,,1
+AH,false,FP_Products,0,BARBIE FAMILY,BARBIE FAMILY,BARBIE FAMILY,,,,0,,1
+AJ,false,FP_Products,0,MEGA BOYS DESPICABLE ME,MEGA BOYS DESPICABLE ME,MEGA BOYS DESPICABLE ME,,,,0,,1
+AK,false,FP_Products,0,DC SUPER HERO GIRLS,DC SUPER HERO GIRLS,DC SUPER HERO GIRLS,,,,0,,1
+AL,false,FP_Products,0,BARBIE FASHION AND BEAUTY,BARBIE FASHION AND BEAUTY,BARBIE FASHION AND BEAUTY,,,,0,,1
+AM,false,FP_Products,0,BARBIE FAIRYTALE ESSENTIALS,BARBIE FAIRYTALE ESSENTIALS,BARBIE FAIRYTALE ESSENTIALS,,,,0,,1
+AN,false,FP_Products,0,MB VIEWMASTER,MB VIEWMASTER,MB VIEWMASTER,,,,0,,1
+AO,false,FP_Products,0,RADICA GIRL TECH,RADICA GIRL TECH,RADICA GIRL TECH,,,,0,,1
+AP,false,FP_Products,0,MINECRAFT,MINECRAFT,MINECRAFT,,,,0,,1
+AQ,false,FP_Products,0,BARBIE SPECIALTY,BARBIE SPECIALTY,BARBIE SPECIALTY,,,,0,,1
+AR,false,FP_Products,0,MEGA GIRLS MONSTER HIGH,MEGA GIRLS MONSTER HIGH,MEGA GIRLS MONSTER HIGH,,,,0,,1
+AS,false,FP_Products,0,BARBIE I CAN BE,BARBIE I CAN BE,BARBIE I CAN BE,,,,0,,1
+AT,false,FP_Products,0,BARBIE FALL ENTERTAINMENT,BARBIE FALL ENTERTAINMENT,BARBIE FALL ENTERTAINMENT,,,,0,,1
+AU,false,FP_Products,0,BATMAN,BATMAN,BATMAN,,,,0,,1
+AV,false,FP_Products,0,DC MOVIE,DC MOVIE,DC MOVIE,,,,0,,1
+AW,false,FP_Products,0,MEGA BOYS TMNT,MEGA BOYS TMNT,MEGA BOYS TMNT,,,,0,,1
+AX,false,FP_Products,0,WWE,WWE,WWE,,,,0,,1
+AY,false,FP_Products,0,TOY STORY,TOY STORY,TOY STORY,,,,0,,1
+AZ,false,FP_Products,0,MEGA COL TMNT,MEGA COL TMNT,MEGA COL TMNT,,,,0,,1
+BA,false,FP_Products,0,ADULT AND FAMILY GAMES,ADULT AND FAMILY GAMES,ADULT AND FAMILY GAMES,,,,0,,1
+BB,false,FP_Products,0,BARBIE SPRING ENTERTAINMENT,BARBIE SPRING ENTERTAINMENT,BARBIE SPRING ENTERTAINMENT,,,,0,,1
+BC,false,FP_Products,0,PICTIONARY,PICTIONARY,PICTIONARY,,,,0,,1
+BD,false,FP_Products,0,UNO AND CARD GAMES,UNO AND CARD GAMES,UNO AND CARD GAMES,,,,0,,1
+BE,false,FP_Products,0,PLANES,PLANES,PLANES,,,,0,,1
+BF,false,FP_Products,0,DC OTHER,DC OTHER,DC OTHER,,,,0,,1
+BG,false,FP_Products,0,APPLES TO APPLES,APPLES TO APPLES,APPLES TO APPLES,,,,0,,1
+BH,false,FP_Products,0,BARBIE BEACH,BARBIE BEACH,BARBIE BEACH,,,,0,,1
+BI,false,FP_Products,0,OTHER BOYS LIC - NON-DISNEY,OTHER BOYS LIC - NON-DISNEY,OTHER BOYS LIC - NON-DISNEY,,,,0,,1
+AI,false,FP_Products,0,BOOMCO,BOOMCO,BOOMCO,,,,0,,1
+BJ,false,FP_Products,0,MEGA GIRLS BARBIE,MEGA GIRLS BARBIE,MEGA GIRLS BARBIE,,,,0,,1
+BK,false,FP_Products,0,GENERAL ACTIVITIES,GENERAL ACTIVITIES,GENERAL ACTIVITIES,,,,0,,1
+BL,false,FP_Products,0,MEGA BOYS OTHER LICENSED IP,MEGA BOYS OTHER LICENSED IP,MEGA BOYS OTHER LICENSED IP,,,,0,,1
+BM,false,FP_Products,0,MEGA GIRLS OTHER LICENSED IP,MEGA GIRLS OTHER LICENSED IP,MEGA GIRLS OTHER LICENSED IP,,,,0,,1
+BN,false,FP_Products,0,AMIGAMI,AMIGAMI,AMIGAMI,,,,0,,1
+BO,false,FP_Products,0,DISNEY PRINCESS,DISNEY PRINCESS,DISNEY PRINCESS,,,,0,,1
+BP,false,FP_Products,0,MEGA COL CALL OF DUTY,MEGA COL CALL OF DUTY,MEGA COL CALL OF DUTY,,,,0,,1
+BQ,false,FP_Products,0,MEGA BOYS HOT WHEELS,MEGA BOYS HOT WHEELS,MEGA BOYS HOT WHEELS,,,,0,,1
+HW,false,FP_Products,0,HW,,,,,hw,0,,1
+SM,false,FP_Products,0,SM,,,,,sm,0,,1
+28,false,FP_Products,10,TWR Products,TWR Products,TWR Products,,,,0,,1
+30,false,FP_Products,160,Little Mommy,Little Mommy Products,Little Mommy Products,,,,0,,1
+31,false,FP_Products,350,Puzzles,Puzzles Products,Puzzles Products,,,,0,,1
+32,false,FP_Products,140,Kids and Preschool Games,Kids and Preschool Games Products,Kids and Preschool Games Products,,,,0,,1
+33,false,FP_Products,60,FP Direct Marketing,FP Direct Marketing Products,FP Direct Marketing Products,,,,0,,1
+34,false,FP_Products,110,INFANT TOY,Infant Products,Infant Products,,,infant-toy,0,,1
+35,false,FP_Products,210,Newborn Toys,Newborn Toys Products,Newborn Toys Products,,,,0,,1
+36,false,FP_Products,270,Playsets Action Figures,Playsets Action Figures Products,Playsets Action Figures Products,,,,0,,1
+37,false,FP_Products,290,IMAGINEXT,Playsets Imaginext Products,Playsets Imaginext Products,,,imaginext--1,0,,1
+38,false,FP_Products,300,LITTLE PEOPLE,Playsets Little People Products,Playsets Little People Products,,,little-people--1,0,,1
+39,false,FP_Products,310,FP PLAYSETS OTHER,Playsets Other Products,Playsets Other Products,,,fp-playsets-other,0,,1
+40,false,FP_Products,280,DOLLHOUSE,Playsets Dollhouse Products,Playsets Dollhouse Products,,,dollhouse,0,,1
+41,false,FP_Products,190,Minnie Mouse,Minnie Mouse Products,Minnie Mouse Products,,,,0,,1
+42,false,FP_Products,410,PS VEHICLES,Vehicles Products,Vehicles Products,,,ps-vehicles,0,,1
+43,false,FP_Products,370,Ride Ons,Ride Ons Products,Ride Ons Products,,,,0,,1
+44,false,FP_Products,20,Creative Activities,Creative Activities Products,Creative Activities Products,,,,0,,1
+45,false,FP_Products,150,Kidtronics,Kidtronics Products,Kidtronics Products,,,,0,,1
+46,false,FP_Products,340,PS Roleplay,PS Roleplay Products,PS Roleplay Products,,,,0,,1
+47,false,FP_Products,330,PS Basics,PS Basics Products,PS Basics Products,,,,0,,1
+48,false,FP_Products,380,Seasonal,Seasonal Products,Seasonal Products,,,,0,,1
+49,false,FP_Products,10,Baby Gear,Baby Gear Products,Baby Gear Products,,,,0,,1
+50,false,FP_Products,320,Power Wheels,Power Wheels Products,Power Wheels Products,,,,0,,1
+51,false,FP_Products,420,Viewmaster,Viewmaster Products,Viewmaster Products,,,,0,,1
+52,false,FP_Products,30,DORA AND FRIENDS,Dora the Explorer Products,Dora the Explorer Products,,,dora-and-friends,0,,1
+53,false,FP_Products,260,Other Nickelodeon,Other Nickelodeon Products,Other Nickelodeon Products,,,,0,,1
+54,false,FP_Products,220,Nick Ela's,Nick Ela's Products,Nick Ela's Products,,,,0,,1
+55,false,FP_Products,90,Go Diego Go,Go Diego Go Products,Go Diego Go Products,,,,0,,1
+56,false,FP_Products,100,Handy Manny,Handy Manny Products,Handy Manny Products,,,,0,,1
+57,false,FP_Products,170,MICKEY MOUSE,M Mouse Club House Products,M Mouse Club House Products,,,mickey-mouse,0,,1
+58,false,FP_Products,230,Other Disney,Other Disney Products,Other Disney Products,,,,0,,1
+59,false,FP_Products,120,Jake NL Pirates,Jake NL Pirates Products,Jake NL Pirates Products,,,,0,,1
+60,false,FP_Products,180,Matchbox,Matchbox Products,Matchbox Products,,,,0,,1
+61,false,FP_Products,130,Jungle Junction,Jungle Junction Products,Jungle Junction Products,,,,0,,1
+62,false,FP_Products,400,Thomas and Friends,Thomas and Friends Products,Thomas and Friends Products,,,,0,,1
+63,false,FP_Products,200,Multibrand,Multibrand Products,Multibrand Products,,,,0,,1
+64,false,FP_Products,390,See N Say,See N Say Products,See N Say Products,,,,0,,1
+65,false,FP_Products,240,Other Friends,Other Friends Products,Other Friends Products,,,,0,,1
+66,false,FP_Products,80,Friends Learning,Friends Learning Products,Friends Learning Products,,,,0,,1
+67,false,FP_Products,40,Dreamworks,Dreamworks Products,Dreamworks Products,,,,0,,1
+80,false,FP_Products,70,FP Toys,FP Toys Products,FP Toys Products,,,,0,,1
+82,false,FP_Products,50,FP Apparel,FP Apparel Products,FP Apparel Products,,,,0,,1
+85,false,FP_Products,360,Radica,Radica Products,Radica Products,,,,0,,1
+86,false,FP_Products,250,Other Games,Other Games Products,Other Games Products,,,,0,,1
+69,false,FP_Products,0,Shimmer and Shine,,,,,,0,,1
+unassigned,false,FP_Products,0,Unassigned,,,,,,0,,1
+00,false,FP_Products,0,FP Other,,,,,,0,,1
+FP_MarketingProducts,false,FP_Products,0,FP_MarketingProducts,,,,,,0,,1
+Magazines,false,NewslettersAndMagazines,0,Magazines,Magazines,,images/catalog/newslettersmagazines/category/catr_nma_magazines.png,images/catalog/newslettersmagazines/category/catr_nma_magazines.png,,0,,1
+Newsletters,false,NewslettersAndMagazines,0,Newsletters,Newsletters,,images/catalog/newslettersmagazines/category/catr_nne_newsletters.png,images/catalog/newslettersmagazines/category/catr_nne_newsletters.png,,0,,1
+Meat,false,Grocery,0,Meat,Meat,,images/catalog/grocery/category/catr_gme_meat.png,images/catalog/grocery/category/catr_gme_meat.png,,0,,1
+Fruit,false,Grocery,0,Fruit,Fruit,,images/catalog/grocery/category/catr_gfr_fruit.png,images/catalog/grocery/category/catr_gfr_fruit.png,,0,,1
+Dairy,false,Grocery,0,Dairy,Dairy,,images/catalog/grocery/category/catr_gda_dairy.png,images/catalog/grocery/category/catr_gda_dairy.png,,0,,1
+Vegetables,false,Grocery,0,Vegetables,Vegetables,,images/catalog/grocery/category/catr_gve_vegetables.png,images/catalog/grocery/category/catr_gve_vegetables.png,,0,,1
+Medicine,false,Health,0,Medicine,Medicine,,images/catalog/health/category/catr_hme_medicine.png,images/catalog/health/category/catr_hme_medicine.png,,0,,1
+Vitamins,false,Health,0,Vitamins,Vitamins,,images/catalog/health/category/catr_hvt_vitamins.png,images/catalog/health/category/catr_hvt_vitamins.png,,0,,1
+Bath Accessories,false,Home Furnishings,0,Bath Accessories,Bath Accessories,,images/catalog/homefurnishings/category/catr_hba_bath.png,images/catalog/homefurnishings/category/catr_hba_bath.png,,0,,1
+Appliances,false,Home Furnishings,0,Appliances,Appliances,,images/catalog/homefurnishings/category/catr_hap_appliances.png,images/catalog/homefurnishings/category/catr_hap_appliances.png,,0,,1
+Furniture,false,Home Furnishings,0,Furniture,Furniture,,images/catalog/homefurnishings/category/catr_hfu_furniture.png,images/catalog/homefurnishings/category/catr_hfu_furniture.png,,0,,1
+Lighting,false,Home Furnishings,0,Lighting,Lighting,,images/catalog/homefurnishings/category/catr_hlg_lighting.png,images/catalog/homefurnishings/category/catr_hlg_lighting.png,,0,,1
+Tableware,false,Home Furnishings,0,Tableware,Tableware,,images/catalog/homefurnishings/category/catr_hta_tableware.png,images/catalog/homefurnishings/category/catr_hta_tableware.png,,0,,1
+Kitchenware,false,Home Furnishings,0,Kitchenware,Kitchenware,,images/catalog/homefurnishings/category/catr_hkt_kitchenware.png,images/catalog/homefurnishings/category/catr_hkt_kitchenware.png,,0,,1
+Computers Components,false,Electronics,0,Components,Components,,images/catalog/electronics/category/catr_ccm_components.png,images/catalog/electronics/category/catr_ccm_components.png,,0,,1
+DC,false,FP_Products,0,BARBIE,BARBIE,,,,barbie--1,0,,1
+01,false,agproduct,75,AG More Other,AG More Other Products,AG More Other Products,,,ag-more-other,0,,1
+03,false,agproduct,135,NBC,NBC Products,NBC Products,,,nbc,0,,1
+05,false,agproduct,20,Girl Of The Year,Girl Of The Year Products,Girl Of The Year Products,,,girl-of-the-year,0,,1
+07,false,agproduct,50,Magazine,Magazine Products,Magazine Products,,,magazine,0,,1
+08,false,agproduct,150,AGL,AGL Products,AGL Products,,,agl,0,,1
+09,false,agproduct,85,Daughters,Daughters Products,Daughters Products,,,daughters,0,,1
+10,false,agproduct,110,Amelia,Amelia Products,Amelia Products,,,amelia,0,,1
+11,false,agproduct,100,AG Angelina,AG Angelina Products,AG Angelina Products,,,ag-angelina,0,,1
+12,false,agproduct,60,AG Mini,AG Mini Products,AG Mini Products,,,ag-mini,0,,1
+13,false,agproduct,80,AG Boys,AG Boys Products,AG Boys Products,,,ag-boys,0,,1
+14,false,agproduct,155,Mattel In-Licensing,Mattel In-Licensing Products,Mattel In-Licensing Products,,,mattel-in-licensing,0,,1
+15,false,agproduct,115,Girls of Many Land,Girls of Many Land Products,Girls of Many Land Products,,,girls-of-many-land,0,,1
+16,false,agproduct,130,Gap Brand,Gap Brand Products,Gap Brand Products,,,gap-brand,0,,1
+17,false,agproduct,105,AG Hopscotch Hill,AG Hopscotch Hill Products,AG Hopscotch Hill Products,,,ag-hopscotch-hill,0,,1
+18,false,agproduct,120,Golden Girls,Golden Girls Products,Golden Girls Products,,,golden-girls,0,,1
+FP,false,FP_Products,0,FP,,,,,fp,0,,1
+BV,false,FP_Products,0,BARBIE LICENSING,BARBIE LICENSING,,,,barbie-licensing,0,,1
+BW,false,FP_Products,0,BARBIE POP-MUSIC,BARBIE POP-MUSIC,,,,barbie-pop-music,0,,1
+BX,false,FP_Products,0,BARBIE REGIONAL OTHER,BARBIE REGIONAL OTHER,,,,barbie-regional-other,0,,1
+BY,false,FP_Products,0,BLAZE AND THE MONSTER MACHINES,BLAZE AND THE MONSTER MACHINES,,,,blaze-and-the-monster-machines,0,,1
+BZ,false,FP_Products,0,BUBBLE GUPPIES,BUBBLE GUPPIES,,,,bubble-guppies,0,,1
+CA,false,FP_Products,0,FAST AND FURIOUS,FAST AND FURIOUS,,,,fast-and-furious,0,,1
+CB,false,FP_Products,0,FP PIPELINE,FP PIPELINE,,,,fp-pipeline,0,,1
+CC,false,FP_Products,0,LEARNING PLATFORM,LEARNING PLATFORM,,,,learning-platform,0,,1
+CD,false,FP_Products,0,MALE ACTION DTC,MALE ACTION DTC,,,,male-action-dtc,0,,1
+CF,false,FP_Products,0,MAX STEEL,MAX STEEL,,,,max-steel,0,,1
+CG,false,FP_Products,0,MEGA BLOKS BARBIE,MEGA BLOKS BARBIE,,,,mega-bloks-barbie,0,,1
+CH,false,FP_Products,0,MEGA BOYS DINOTRUX,MEGA BOYS DINOTRUX,,,,mega-boys-dinotrux,0,,1
+CI,false,FP_Products,0,MEGA BOYS POWER RANGERS,MEGA BOYS POWER RANGERS,,,,mega-boys-power-rangers,0,,1
+CJ,false,FP_Products,0,MEGA COL DESTINY,MEGA COL DESTINY,,,,mega-col-destiny,0,,1
+CK,false,FP_Products,0,MEGA COL KUBROS,MEGA COL KUBROS,,,,mega-col-kubros,0,,1
+CL,false,FP_Products,0,MEGA COL STAR TREK,MEGA COL STAR TREK,,,,mega-col-star-trek,0,,1
+CM,false,FP_Products,0,MEGA IPS BLAZE,MEGA IPS BLAZE,,,,mega-ips-blaze,0,,1
+CN,false,FP_Products,0,MEGA IPS BUILDING BASICS,MEGA IPS BUILDING BASICS,,,,mega-ips-building-basics,0,,1
+CO,false,FP_Products,0,MEGA IPS OTHER LICENSED IP,MEGA IPS OTHER LICENSED IP,,,,mega-ips-other-licensed-ip,0,,1
+CP,false,FP_Products,0,MEGA IPS STORYTELLING,MEGA IPS STORYTELLING,,,,mega-ips-storytelling,0,,1
+CQ,false,FP_Products,0,MEGA IPS THOMAS AND FRIENDS,MEGA IPS THOMAS AND FRIENDS,,,,mega-ips-thomas-and-friends,0,,1
+CR,false,FP_Products,0,MIKE THE KNIGHT,MIKE THE KNIGHT,,,,mike-the-knight,0,,1
+CS,false,FP_Products,0,NEW TOY CATEGORIES - BOYS,NEW TOY CATEGORIES - BOYS,,,,new-toy-categories---boys,0,,1
+CT,false,FP_Products,0,OCTONAUTS,OCTONAUTS,,,,octonauts,0,,1
+CU,false,FP_Products,0,PS FP OTHER,PS FP OTHER,,,,ps-fp-other,0,,1
+CV,false,FP_Products,0,PS FUNDAMENTALS,PS FUNDAMENTALS,,,,ps-fundamentals,0,,1
+CW,false,FP_Products,0,PS LEARNING,PS LEARNING,,,,ps-learning,0,,1
+CX,false,FP_Products,0,RADICA FIJIT,RADICA FIJIT,,,,radica-fijit,0,,1
+CY,false,FP_Products,0,SOFIA THE 1ST,SOFIA THE 1ST,,,,sofia-the-1st,0,,1
+CZ,false,FP_Products,0,SPINNYOS,SPINNYOS,,,,spinnyos,0,,1
+DA,false,FP_Products,0,SUPERMAN,SUPERMAN,,,,superman,0,,1
+DB,false,FP_Products,0,TOYS TO LIFE,TOYS TO LIFE,,,,toys-to-life,0,,1
+DG,false,FP_Products,0,DG,DG,,,,dg,0,,1
+DK,false,FP_Products,0,DK,DK,DK,,,dk,0,,1
+BR,false,FP_Products,0,VERSUS,,,,,versus,0,,1
+BT,false,FP_Products,0,MY MINI MIXIEQS,,,,,my-mini-mixieqs,0,,1
+BU,false,FP_Products,0,TABLETS,,,,,tablets,0,,1
+DF,false,FP_Products,0,MEGA BOYS DESTINY,,,,,mega-boys-destiny,0,,1
+DH,false,FP_Products,0,MEGA IPS SHIMMER AND SHINE,,,,,mega-ips-shimmer-and-shine,0,,1
+DI,false,FP_Products,0,SPROUTLING-IOT,,,,,sproutling-iot,0,,1
+DJ,false,FP_Products,0,WONDER WOMAN,,,,,wonder-woman,0,,1
+DL,false,FP_Products,0,DORA THE EXPLORER,,,,,dora-the-explorer,0,,1
+DN,false,FP_Products,0,FAMILY GAMES,,,,,family-games,0,,1
+DO,false,FP_Products,0,AST GENERAL ACTIVITIES,,,,,ast-general-activities,0,,1
+DR,false,FP_Products,0,MEGA BOYS CALL OF DUTY,,,,,mega-boys-call-of-duty,0,,1
+DS,false,FP_Products,0,THINGMAKER,,,,,thingmaker,0,,1
+DT,false,FP_Products,0,ALVIN AND THE CHIPMUNKS,,,,,alvin-and-the-chipmunks,0,,1
+DU,false,FP_Products,0,STRATEGY GAMES,,,,,strategy-games,0,,1
+DV,false,FP_Products,0,BLOXELS,,,,,bloxels,0,,1
+DW,false,FP_Products,0,OTHER STRATEGIC TECH,,,,,other-strategic-tech,0,,1
+DX,false,FP_Products,0,FUHU-IOT,,,,,fuhu-iot,0,,1
+DY,false,FP_Products,0,MEGA IPS OTHER OWNED IP,,,,,mega-ips-other-owned-ip,0,,1
+DZ,false,FP_Products,0,MEGA BOYS OTHER LICENSED IP,,,,,mega-boys-other-licensed-ip,0,,1
+DE,false,FP_Products,0,DE,DE,,,,de,0,,1
+DD,false,FP_Products,0,DD,DD,DD,,,dd,0,,1
+DM,false,FP_Products,0,DM,DM,DM<br/>,,,dm,0,,1
+EA,false,FP_Products,0,MEGA BOYS OTHER OWNED IP,,,,,mega-boys-other-owned-ip,0,,1
+DQ,false,FP_Products,0,DQ,,DQ,,,dq,0,,1
+EB,false,FP_Products,0,MEGA GIRLS WELLIE WISHERS,,,,,mega-girls-wellie-wishers,0,,1
+EC,false,FP_Products,0,MEGA IPS ROLE PLAY,,,,,mega-ips-role-play,0,,1
+ED,false,FP_Products,0,OTHER CONSUMER ELECTRONICS,,,,,other-consumer-electronics,0,,1
+EE,false,FP_Products,0,OTHER CURATED TECHNOLOGY,,,,,other-curated-technology,0,,1
+RetailExclusives,false,FP_Products,0,MOS RetailExclusives,,,,,mos-retailexclusives,0,,1
+BS,false,FP_Products,0,GHOSTBUSTERS,,,,,ghostbusters,0,,1
+DP,false,FP_Products,0,HALO,,,,,halo,0,,1
+Dresses,false,Women,0,Dresses,Dresses,,images/catalog/apparel/women/category/catr_wcl_dresses.png,images/catalog/apparel/women/category/catr_wcl_dresses.png,,0,,1
+Screws,false,Fasteners,0,Screws,Top-quality screws to suit all your fastening needs,,images/catalog/hardware/fasteners/category/catr_fsc_screws.png,images/catalog/hardware/fasteners/category/catr_fsc_screws.png,,0,,1
+Men Shirts,false,Men,0,Shirts,Shirts,,images/catalog/apparel/men/category/catr_mcl_shirts.png,images/catalog/apparel/men/category/catr_mcl_shirts.png,,0,,1
+Men Suits,false,Men,0,Suits,Suits,,images/catalog/apparel/men/category/catr_mcl_suits.png,images/catalog/apparel/men/category/catr_mcl_suits.png,,0,,1
+Men Pants,false,Men,0,Pants,Pants,,images/catalog/apparel/men/category/catr_mcl_pants.png,images/catalog/apparel/men/category/catr_mcl_pants.png,,0,,1
+Men Accessories,false,Men,0,Accessories,Accessories,,images/catalog/apparel/men/category/catr_mac_accessories.png,images/catalog/apparel/men/category/catr_mac_accessories.png,,0,,1
+Men Shoes,false,Men,0,Shoes,Shoes,,images/catalog/apparel/men/category/catr_msh_shoes.png,images/catalog/apparel/men/category/catr_msh_shoes.png,,0,,1
+Girls Tops,false,Girls,0,Tops,Tops,,images/catalog/apparel/girls/category/catr_gcl_tops.png,images/catalog/apparel/girls/category/catr_gcl_tops.png,,0,,1
+Girls Pants,false,Girls,0,Pants,Pants,,images/catalog/apparel/girls/category/catr_gcl_pants.png,images/catalog/apparel/girls/category/catr_gcl_pants.png,,0,,1
+Girls Shoes,false,Girls,0,Shoes,Shoes,,images/catalog/apparel/girls/category/catr_gsh_shoes.png,images/catalog/apparel/girls/category/catr_gsh_shoes.png,,0,,1
+Women Shirts Blouses,false,Women,0,Blouses,Blouses,,images/catalog/apparel/women/category/catr_wcl_blouses.png,images/catalog/apparel/women/category/catr_wcl_blouses.png,,0,,1
+Women Sweaters,false,Women,0,Sweaters,Sweaters,,images/catalog/apparel/women/category/catr_wcl_sweaters.png,images/catalog/apparel/women/category/catr_wcl_sweaters.png,,0,,1
+Women Skirts,false,Women,0,Skirts,Skirts,,images/catalog/apparel/women/category/catr_wcl_skirts.png,images/catalog/apparel/women/category/catr_wcl_skirts.png,,0,,1
+Women Pants,false,Women,0,Pants,Pants,,images/catalog/apparel/women/category/catr_wcl_pants.png,images/catalog/apparel/women/category/catr_wcl_pants.png,,0,,1
+Women Shoes,false,Women,0,Shoes,Shoes,,images/catalog/apparel/women/category/catr_wsh_shoes.png,images/catalog/apparel/women/category/catr_wsh_shoes.png,,0,,1
+Women Handbags,false,Women,0,Handbags,Handbags,,images/catalog/apparel/women/category/catr_wbg_handbags.png,images/catalog/apparel/women/category/catr_wbg_handbags.png,,0,,1
+Women Accessories,false,Women,0,Accessories,Accessories,,images/catalog/apparel/women/category/catr_wac_accessories.png,images/catalog/apparel/women/category/catr_wac_accessories.png,,0,,1
+Boys Pants,false,Boys,0,Pants,Pants,,images/catalog/apparel/boys/category/catr_bcl_pants.png,images/catalog/apparel/boys/category/catr_bcl_pants.png,,0,,1
+Girls Dresses Skirts,false,Girls,0,Skirts,Skirts,,images/catalog/apparel/girls/category/catr_gcl_skirts.png,images/catalog/apparel/girls/category/catr_gcl_skirts.png,,0,,1
+Boys Tops,false,Boys,0,Tops,Tops,,images/catalog/apparel/boys/category/catr_bcl_tops.png,images/catalog/apparel/boys/category/catr_bcl_tops.png,,0,,1
+Boys Shoes,false,Boys,0,Shoes,Shoes,,images/catalog/apparel/boys/category/catr_bsh_shoes.png,images/catalog/apparel/boys/category/catr_bsh_shoes.png,,0,,1
+Bolts,false,Fasteners,0,Bolts,Bolts designed to hold fast over the long term,,images/catalog/hardware/fasteners/category/catr_fbo_bolts.png,images/catalog/hardware/fasteners/category/catr_fbo_bolts.png,,0,,1
+Nuts,false,Fasteners,0,Nuts,High-strength nuts in various finishes,,images/catalog/hardware/fasteners/category/catr_fnu_nuts.png,images/catalog/hardware/fasteners/category/catr_fnu_nuts.png,,0,,1
+Men Jackets,false,Men,0,Jackets,Jackets,,images/catalog/apparel/men/category/catr_mcl_jackets.png,images/catalog/apparel/men/category/catr_mcl_jackets.png,,0,,1
