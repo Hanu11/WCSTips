@@ -1,0 +1,68 @@
+Data Extract & Data Load utility:  WebSphere Commerce comes with Data Load utility framework  that can be used to extract catalog data, 
+marketing data, pricing ,inventory ,commerce composer objects, promotions and data for any custom tables.
+Utility can be run in any environment that has all of the information, extract data in CSV or XML format and use data load utility in other environments. 
+The scope of this document and work is limited to catalog and marketing objects only.
+ 
+
+#Extracting data:
+
+SVN location for data extract source code:
+------------- 
+http://svn.corp.mattel.com/repos/wc/onestore/trunk/workspace/Artifacts/DataExtract/Catalog
+http://svn.corp.mattel.com/repos/wc/onestore/trunk/workspace/Artifacts/DataExtract/Marketing
+
+DevStage
+----------
+Host : nandclwca001dv
+Shell script to catalog extract data:/opt/IBM/scripts/extract-catalog-data.sh
+Shell script to extract marketing data: /opt/IBM/scripts/extract-marketing-data.sh
+Files output location : /opt/IBM/scripts/dataextract
+
+
+UAT Stage:
+--------
+Host : nandclwca001tv
+Shell script to catalog extract data:/opt/IBM/scripts/extract-catalog-data.sh
+Shell script to extract marketing data: /opt/IBM/scripts/extract-marketing-data.sh
+Files output location : /opt/IBM/scripts/dataextract
+copying extracted files from UAT Stage to Dev stage : /opt/IBM/scripts/copy-extract-data-to-dev.sh. This shell script uses "/opt/IBM/scripts/RemoveDevfiles.sh" 
+and /opt/IBM/scripts/SyncDatatoDev.sh. RemoveDevfiles.sh is used to remove old files from dev and SyncDatatoDev.sh used to sync new extract files to dev.   
+
+Prod Stage: 
+----------
+Host : nandclwca034pv
+Shell script to catalog extract data:/opt/IBM/scripts/extract-catalog-data.sh
+Shell script to extract marketing data: /opt/IBM/scripts/extract-marketing-data.sh
+Files output location : /opt/IBM/scripts/dataextract
+copying extracted files from Prod Stage to Dev stage: copy-extract-data-to-dev.sh 
+copying extracted files from Prod Stage to UAT stage: copy-extract-data-to-sqa.sh 
+
+
+#Loading data:
+
+SVN location for data extract source code:
+------------- 
+http://svn.corp.mattel.com/repos/wc/onestore/branch/cadence73/workspace/Artifacts/Dataload/Catalog
+http://svn.corp.mattel.com/repos/wc/onestore/branch/cadence73/workspace/Artifacts/Dataload/Marketing
+
+DevStage:
+--------
+Host : nandclwca001dv
+Shell script to load catalog data:/opt/IBM/scripts/load-catalog-data.sh
+Shell script to extract marketing data: /opt/IBM/scripts/load-marketing-data.sh
+Files input location : /opt/IBM/scripts/dataload
+
+
+UAT Stage:
+--------
+Host : nandclwca001tv
+Shell script to load catalog data:/opt/IBM/scripts/load-catalog-data.sh
+Shell script to extract marketing data: /opt/IBM/scripts/load-marketing-data.sh
+Files input location : /opt/IBM/scripts/dataload
+
+
+
+
+
+
+
